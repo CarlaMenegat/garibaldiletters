@@ -23,7 +23,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Biblioteca Estense Universitaria di Modena</repository>
-                        <idno>Garibaldi, Giuseppe Antonio, cc. 1-2</idno>
+                        <idno>Garibaldi, Giuseppe, c. 4</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
@@ -157,10 +157,11 @@
                     <lb/>
                 </p>
                 <closer>
-                    <dateline>Genova, 6 ottobre 1848</dateline>
+                    <dateline>
+                        <placeName>Genova</placeName>, <date when="1848-10-06">6 ottobre 1848</date></dateline>
                     <stamp>
                         <note type="editorial" resp="#CM">
-                        This stamp is present in other documents signed by Garibaldi. When complete has the inscription "CODICI E MSS CAMPOLI", indicating that were part of a collection, probabli of manuscripts (the "MSS" in the inscription).
+                        This stamp is present in other documents signed by Garibaldi. When complete has the inscription "CODICI E MSS CAMPOLI", indicating that were part of the Autografoteca Campori.
                         </note> 
                         <p>Upper half of a stamp containing "CI E MSS. CAM" within an arch that surrounds the upper half of a coat of arms.</p>
                     </stamp>

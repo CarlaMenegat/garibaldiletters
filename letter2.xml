@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>Lettera di Garibaldi, Giuseppe</title>
+                <author>Garibaldi, Giuseppe</author>
+                <respStmt>
+                    <resp>Transcription and editorial notes</resp>
+                    <name>Carla Menegat</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Estense Digital Library</publisher>
+                <idno type="UUID">fe822e051-8c0f-44d1-9620-0d269b4b12db</idno>
+                <availability status="restricted">
+                    <p>Restricted use according the guidelines of the archive.</p>
+                </availability>
+                <license>CC BY-NC-SA</license>
+                <ptr target="https://edl.cultura.gov.it/item/qdjyolv6rl"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Estense Universitaria di Modena</repository>
+                        <idno>Garibaldi, Giuseppe, c. 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title>Lettera di Garibaldi, Giuseppe</title>
+                            <author>Garibaldi, Giuseppe</author>
+                            <recipient>Bruni</recipient>
+                            <date when="1865-12-12"/>
+                            <origPlace>Caprera</origPlace>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc resp="#CM">
+                <correspAction type="sent">
+                    <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+                    <placeName ref="#CAP" cert="high">Caprera</placeName>
+                    <date when="1865-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#BRU" cert="low">Bruni</persName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                 <keywords>
+                    <term>politics</term>
+                    <term>Risorgimento</term>
+                 </keywords>
+            </textClass>
+        </profileDesc>
+        <listPerson>
+            <person xml:id="GAR">
+                <persName type="full" xml:lang="it">Giuseppe Garibaldi</persName>
+                <persName type="epithet">Hero of the Two Worlds</persName>
+                <alias>Joseph Garibaldi</alias>
+                <alias>José Garibaldi</alias>
+                <note>This person is widely known as a key figure in the Italian Risorgimento.</note>
+                <idno type="VIAF">https://viaf.org/en/viaf/100192194</idno>
+                <idno type="LOC">https://id.loc.gov/authorities/names/n79021124.html</idno>
+                <idno type="SBN">https://opac.sbn.it/risultati-autori/-/opac-autori/detail/CFIV001869</idno>
+            </person>
+            <person xml:id="BRU">
+                <persName>Bruni</persName>
+            </person>
+            <person xml:id="CM">
+                <persName>Carla Menegat</persName>
+                <role>Editor</role>
+                <note>Responsible for transcription and editorial notes in this document.</note>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="CAP">
+                <placeName>Caprera</placeName>
+                    <location>
+                        <geo decls="#WGS84">41.2072 9.4611</geo>
+                    </location>
+            </place>
+        </listPlace>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/e822e051-8c0f-44d1-9620-0d269b4b12db/canvas/f210aa9e-fdc1-4b33-bc3a-7f421164d944" format="image/jpeg" width="3515" height="5249"/>
+        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/e822e051-8c0f-44d1-9620-0d269b4b12db/canvas/fa6bb1c0-127f-49aa-a4ce-3f90e0b02404" format="image/jpeg" width="3515" height="5257"/>
+    </facsimile>
+    <text>
+        <body resp="#CM">
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>Caprera</placeName>, <date when="1865-12-12">12 <choice><abbr>Dicbre</abbr><expan>Dicembre</expan></choice> 65.</date>
+                    </dateline>
+                    <salute>Caro Bruni,</salute>
+                </opener>
+                <p>
+                    Accetto ringraciandovene il vostro
+                    <lb/>
+                    ricordo. La educazione intellettua-
+                    <lb break="no"/>
+                    le e morale dei popoli è quella 
+                    <lb/>
+                    che risolverà presto o tardi il
+                    <lb/>
+                    problema della eguaglianza politica.
+                    <lb/>
+                    Credetemi,
+                </p>
+                <closer>
+                    <salute>Vostro sempre,</salute>
+                    <signed>Giuseppe Garibaldi</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

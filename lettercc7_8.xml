@@ -12,26 +12,29 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>Estense Digital Library</publisher>
-                <idno type="UUID">fe822e051-8c0f-44d1-9620-0d269b4b12db</idno>
+                <idno type="UUID">efcbfbe7-cdfb-48bc-82d2-4c7a1fe9b39f</idno>
                 <availability status="restricted">
                     <p>Restricted use according the guidelines of the archive.</p>
                 </availability>
                 <license>CC BY-NC-SA</license>
-                <ptr target="https://edl.cultura.gov.it/item/64jo7z4g5v"/>
+                <ptr target="https://edl.cultura.gov.it/item/koj8qngvj2"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>Biblioteca Estense Universitaria di Modena</repository>
-                        <idno>Garibaldi, Giuseppe, c. 11</idno>
+                        <idno>Garibaldi, Giuseppe, c. 7-8</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
                             <title>Lettera di Garibaldi, Giuseppe</title>
                             <author>Garibaldi, Giuseppe</author>
-                            <recipient>Bruni</recipient>
-                            <date when="1865-12-12"/>
-                            <origPlace>Caprera</origPlace>
+                            <recipient></recipient>
+                            <date when="1862-03-13"/>
+                            <origPlace>
+                                <settlement type="villa">Villa Spinola</settlement>
+                                <settlement type="city">Genova</settlement>
+                            </origPlace>
                         </msItem>
                     </msContents>
                 </msDesc>
@@ -41,11 +44,11 @@
             <correspDesc resp="#CM">
                 <correspAction type="sent">
                     <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
-                    <placeName ref="#CAP" cert="high">Caprera</placeName>
-                    <date when="1865-12-12"/>
+                    <placeName ref="#GEN" cert="high">Genova</placeName>
+                    <date when="1862-03-13"/>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#BRU" cert="low">Bruni</persName>
+                    <orgName ref="#CIN" cert="high">Al Benemerito Comitato D'Istruzione Nazionale</orgName>
                 </correspAction>
             </correspDesc>
             <textClass>
@@ -65,9 +68,9 @@
                 <idno type="LOC">https://id.loc.gov/authorities/names/n79021124.html</idno>
                 <idno type="SBN">https://opac.sbn.it/risultati-autori/-/opac-autori/detail/CFIV001869</idno>
             </person>
-            <person xml:id="BRU">
-                <persName>Bruni</persName>
-            </person>
+            <org xml:id="CIN">
+                <orgName>Comitato D'Istruzione Nazionale</orgName>
+            </org>
             <person xml:id="CM">
                 <persName>Carla Menegat</persName>
                 <role>Editor</role>
@@ -75,49 +78,42 @@
             </person>
         </listPerson>
         <listPlace>
-            <place xml:id="CAP">
-                <placeName>Caprera</placeName>
-                    <location>
-                        <geo decls="#WGS84">41.2072 9.4611</geo>
-                    </location>
+            <place xml:id="GEN">
+                <placeName>Genoa</placeName>
+                <location>
+                    <geo decl="WGS84">44.4071,8.93399</geo>
+                </location>
             </place>
         </listPlace>
     </teiHeader>
     <facsimile>
-        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/e822e051-8c0f-44d1-9620-0d269b4b12db/canvas/f210aa9e-fdc1-4b33-bc3a-7f421164d944" format="image/jpeg" width="3515" height="5249"/>
-        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/e822e051-8c0f-44d1-9620-0d269b4b12db/canvas/fa6bb1c0-127f-49aa-a4ce-3f90e0b02404" format="image/jpeg" width="3515" height="5257"/>
+        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/80c95aa4-6caa-438e-895e-81ff48ef75ca" format="image/jpeg" width="3515" height="5434"/>
+        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/6cd8ff33-0951-4308-9e79-fb923bd189e1" format="image/jpeg" width="3492" height="5418"/>
     </facsimile>
     <text>
         <body resp="#CM">
             <div type="letter">
                 <opener>
                     <dateline>
-                        <placeName>Caprera</placeName>, <date when="1865-12-12">12 <choice><abbr>Dicbre</abbr><expan>Dicembre</expan></choice> 65.</date>
+                        <placeName>Quarto, Villa Spinola</placeName>
+                        <date when="1862-03-13">13/3/1862</date>
                     </dateline>
-                    <salute>Caro Bruni,</salute>
+                    <salute>Miei cari amici,</salute>
                 </opener>
                 <p>
-                    Accetto ringraciandovene il vostro
+                    Accetando un amino riconoscente
                     <lb/>
-                    ricordo. La educazione intellettua-
-                    <lb break="no"/>
-                    le e morale dei popoli è quella 
+                    la Presidenza offertami da cotesto Comitato, vi esorto
                     <lb/>
-                    che risolverà presto o tardi il
+                    a perseverare nel proposito di addestrare la gioventù
                     <lb/>
-                    problema della eguaglianza politica.
+                    generosa nel maneggio dell’armi.
                     <lb/>
-                    Credetemi,
+                    Vi saluto con affetto.
                 </p>
                 <closer>
-                    <salute>Vostro sempre,</salute>
-                    <signed>Giuseppe Garibaldi</signed>
-                    <stamp>
-                        <note type="editorial" resp="#CM">
-                        This stamp is present in other documents signed by Garibaldi, indicating that were part of the Autografoteca Campori.
-                        </note> 
-                        <p>Above the signature stamp containing "CODICI E MSS CAMPOLI" within an arch that surrounds a coat of arms.</p>
-                    </stamp>
+                    <salute>Vi saluto con affetto,</salute>
+                    <signed>Vostro <hi rend="underline">G. Garibaldi</hi></signed>
                 </closer>
             </div>
         </body>

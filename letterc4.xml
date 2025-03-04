@@ -50,10 +50,10 @@
                 </correspAction>
             </correspDesc>
             <textClass>
-                 <keywords>
+                <keywords>
                     <term>politics</term>
                     <term>Risorgimento</term>
-                 </keywords>
+                </keywords>
             </textClass>
         </profileDesc>
         <listPerson>
@@ -62,7 +62,6 @@
                 <persName type="epithet">Hero of the Two Worlds</persName>
                 <alias>Joseph Garibaldi</alias>
                 <alias>José Garibaldi</alias>
-                <note>This person is widely known as a key figure in the Italian Risorgimento.</note>
                 <idno type="VIAF">https://viaf.org/en/viaf/100192194</idno>
                 <idno type="LOC">https://id.loc.gov/authorities/names/n79021124.html</idno>
                 <idno type="SBN">https://opac.sbn.it/risultati-autori/-/opac-autori/detail/CFIV001869</idno>

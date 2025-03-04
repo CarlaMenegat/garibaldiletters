@@ -113,6 +113,12 @@
                 <closer>
                     <salute>Vostro sempre,</salute>
                     <signed>Giuseppe Garibaldi</signed>
+                    <stamp>
+                        <note type="editorial" resp="#CM">
+                        This stamp is present in other documents signed by Garibaldi, indicating that were part of the Autografoteca Campori.
+                        </note> 
+                        <p>Above the signature stamp containing "CODICI E MSS CAMPOLI" within an arch that surrounds a coat of arms.</p>
+                    </stamp>
                 </closer>
             </div>
         </body>

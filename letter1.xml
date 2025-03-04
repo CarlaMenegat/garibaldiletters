@@ -5,6 +5,10 @@
             <titleStmt>
                 <title>Lettera di Garibaldi, Giuseppe</title>
                 <author>Garibaldi, Giuseppe</author>
+                <respStmt>
+                    <resp>Transcription and editorial notes</resp>
+                    <name>Carla Menegat</name>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>Estense Digital Library</publisher>
@@ -34,7 +38,7 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <correspDesc>
+            <correspDesc resp="#CM">
                 <correspAction type="sent">
                     <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
                     <placeName ref="#GEN" cert="high">Genova</placeName>
@@ -67,6 +71,11 @@
                 <orgName>Elettori del Colegio di Cicagna</orgName>
                 <note>The electors of the College of Cicagna where part of the 2% of the population of the Kingdom of Sardinia able to vote for the Subalpine Parlament in 1848. Garibaldi was choose to be the representant of this college, one of the 204 stablished at the time.</note>
             </org>
+            <person xml:id="CM">
+                <persName>Carla Menegat</persName>
+                <role>Editor</role>
+                <note>Responsible for transcription and editorial notes in this document.</note>
+            </person>
         </listPerson>
         <listPlace>
             <place xml:id="CIC">
@@ -88,7 +97,7 @@
         <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/6cd8ff33-0951-4308-9e79-fb923bd189e1" format="image/jpeg" width="3492" height="5418"/>
     </facsimile>
     <text>
-        <body>
+        <body resp="#CM">
             <div type="letter">
                 <opener>
                     <dateline>(Pel courier livornese)</dateline>
@@ -150,6 +159,9 @@
                 <closer>
                     <dateline>Genova, 6 ottobre 1848</dateline>
                     <stamp>
+                        <note type="editorial" resp="#CM">
+                        This stamp is present in other documents signed by Garibaldi. When complete has the inscription "CODICI E MSS CAMPOLI", indicating that were part of a collection, probabli of manuscripts (the "MSS" in the inscription).
+                        </note> 
                         <p>Upper half of a stamp containing "CI E MSS. CAM" within an arch that surrounds the upper half of a coat of arms.</p>
                     </stamp>
                     <signed>G. Garibaldi</signed>

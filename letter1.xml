@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>Lettera di Garibaldi, Giuseppe</title>
+                <author>Garibaldi, Giuseppe</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Estense Digital Library</publisher>
+                <idno type="UUID">f7c06ab2-9699-4d1c-bcc4-619a3bc05e96</idno>
+                <availability status="restricted">
+                    <p>Restricted use according the guidelines of the archive.</p>
+                </availability>
+                <license>CC BY-NC-SA</license>
+                <ptr target="https://edl.cultura.gov.it/item/qdjyolv6rl"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Estense Universitaria di Modena</repository>
+                        <idno>Garibaldi, Giuseppe Antonio, cc. 1-2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title>Lettera di Garibaldi, Giuseppe</title>
+                            <author>Garibaldi, Giuseppe</author>
+                            <recipient>Agli elettori del Colegio di Cicagna</recipient>
+                            <date when="1848-10-06"/>
+                            <origPlace>Genova</origPlace>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+                    <placeName ref="#GEN" cert="high">Genova</placeName>
+                    <date when="1848-10-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#CDC" cert="high">Elettori del Colegio di Cicagna</orgName>
+                    <placeName ref="#CIC" cert="high">Cicagna</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                 <keywords>
+                    <term>politics</term>
+                    <term>Risorgimento</term>
+                 </keywords>
+            </textClass>
+        </profileDesc>
+        <listPerson>
+            <person xml:id="GAR">
+                <persName type="full" xml:lang="it">Giuseppe Garibaldi</persName>
+                <persName type="epithet">Hero of the Two Worlds</persName>
+                <alias>Joseph Garibaldi</alias>
+                <alias>José Garibaldi</alias>
+                <note>This person is widely known as a key figure in the Italian Risorgimento.</note>
+                <idno type="VIAF">https://viaf.org/en/viaf/100192194</idno>
+                <idno type="LOC">https://id.loc.gov/authorities/names/n79021124.html</idno>
+                <idno type="SBN">https://opac.sbn.it/risultati-autori/-/opac-autori/detail/CFIV001869</idno>
+            </person>
+            <org xml:id="CDC">
+                <orgName>Elettori del Colegio di Cicagna</orgName>
+                <note>The electors of the College of Cicagna where part of the 2% of the population of the Kingdom of Sardinia able to vote for the Subalpine Parlament in 1848. Garibaldi was choose to be the representant of this college, one of the 204 stablished at the time.</note>
+            </org>
+        </listPerson>
+        <listPlace>
+            <place xml:id="CIC">
+                <placeName>Cicagna</placeName>
+                <location>
+                    <geo decl="WGS84">44.4092273, 9.2380064</geo>
+                </location>
+            </place>
+            <place xml:id="GEN">
+                <placeName>Genoa</placeName>
+                <location>
+                    <geo decl="WGS84">44.4071,8.93399</geo>
+                </location>
+            </place>
+        </listPlace>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/80c95aa4-6caa-438e-895e-81ff48ef75ca" format="image/jpeg" width="3515" height="5434"/>
+        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/6cd8ff33-0951-4308-9e79-fb923bd189e1" format="image/jpeg" width="3492" height="5418"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>(Pel courier livornese)</dateline>
+                    <address>Agli elettori del Colegio di Cicagna</address>
+                    <salute>Fratelli!</salute>
+                </opener>
+                <p>
+                    Voi, scegliendo l'uomo del popolo che <sic>debbe</sic>
+                    difendere ed allargare i vostri diritti; l'uomo
+                    vi rappresenti ne' <choice>
+                        <sic>da fidari</sic>
+                        <corr>da fidarsi</corr>
+                    </choice> e nelle credenze, 
+                    <seg>getterà lo sguardo su me.</seg> 
+                    Io non ho che una spada e la mia coscienza; 
+                    <unclear>ve lo inisaen</unclear>.
+                </p>
+                <p>
+                    Io ci <choice>
+                        <sic>amaor</sic>
+                        <corr>amor</corr>
+                    </choice> fin dall'infanzia,
+                    <choice>
+                        <sic>udando</sic>
+                        <corr>ascoltando</corr>
+                    </choice> 
+                    <lb/>
+                    dalla storia de' vostri padri; nel 1846 avete risposto con
+                    <lb/>
+                    la vita al fiero appello di Genova; nel 1800 <choice>
+                        <sic>debbene</sic>
+                        <corr>dovrebbero</corr>
+                    </choice> 
+                    <lb/>
+                    i vostri ispiratori vi conducessero <choice>
+                        <sic>male anché</sic>
+                        <corr>male anche</corr>
+                    </choice>
+                    <lb/>
+                    nell'error miserabilmente gagliardi, vi addimostrasle
+                    <lb/>
+                    uomini. Ora volete esser uomini nel coraggio, citta-
+                    <lb break="no"/>
+                    dini nel cuore, e la vostra fiducia mi rimeritò
+                    <lb/>
+                    di lunghe fatiche. Però celà la mia fede mi si
+                    <lb/>
+                    afforza nell'anime, per così dire giurata da un
+                    <lb/>
+                    voto popolare.
+                    <lb/>
+                    Io come tale l'accetto. Per esso, e con esso,
+                    <lb/>
+                    col guido e col braccio, o fratelli, io vi
+                    <lb/>
+                    rappresenterò sempre.
+                    <lb/>
+                </p>
+                <closer>
+                    <dateline>Genova, 6 ottobre 1848</dateline>
+                    <stamp>
+                        <p>Upper half of a stamp containing "CI E MSS. CAM" within an arch that surrounds the upper half of a coat of arms.</p>
+                    </stamp>
+                    <signed>G. Garibaldi</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>Lettera di Garibaldi, Giuseppe</title>
+                <author>Garibaldi, Giuseppe</author>
+                <respStmt>
+                    <resp>Transcription and editorial notes</resp>
+                    <name>Carla Menegat</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Estense Digital Library</publisher>
+                <idno type="UUID">289daccf-32f3-438a-84bb-023f6e13fda5</idno>
+                <availability status="restricted">
+                    <p>Restricted use according the guidelines of the archive.</p>
+                </availability>
+                <license>CC BY-NC-SA</license>
+                <ptr target="https://edl.cultura.gov.it/item/oz5d1ymo5l"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Estense Universitaria di Modena</repository>
+                        <idno>Garibaldi, Giuseppe, cc. 5-6</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <material function="support">Paper</material>
+                            </supportDesc>
+                            <handDesc>
+                                <handNote xml:id="h1">First hand, Giuseppe Garibaldi</handNote>
+                                <handNote xml:id="h2">Second hand, possibly the receiver</handNote>
+                                <handNote xml:id="h3">Third hand, appears to be later annotations</handNote>
+                            </handDesc>
+                            <sealDesc>
+                                <seal type="wax" subtype="fragmentary">
+                                <p>Remnants of a red wax seal visible on the center right margin of the letter page. In external page, the remants of the wax seal is present in the center of both right and left margin, just above and under the identification of the destinatary.</p>
+                                </seal>
+                            </sealDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <msContents>
+                        <msItem>
+                            <title>Lettera di Garibaldi, Giuseppe</title>
+                            <author>Garibaldi, Giuseppe</author>
+                            <recipient>Comandante della Legione Degli Emigrati</recipient>
+                            <date when="1849-04-29"/>
+                            <origPlace>
+                            <settlement type="piazza">Piazza del Vaticano</settlement>
+                            <settlement type="city">Roma</settlement>
+                            </origPlace>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc resp="#CM">
+                <correspAction type="sent">
+                    <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+                    <placeName ref="#ROM" cert="high">Roma</placeName>
+                    <date when="1849-04-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#CLE" cert="low">Comandante della Legione Degli Emigrati</orgName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term>politics</term>
+                    <term>Risorgimento</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <listPerson>
+            <person xml:id="GAR">
+                <persName type="full" xml:lang="it">Giuseppe Garibaldi</persName>
+                <persName type="epithet">Hero of the Two Worlds</persName>
+                <alias>Joseph Garibaldi</alias>
+                <alias>José Garibaldi</alias>
+                <idno type="VIAF">https://viaf.org/en/viaf/100192194</idno>
+                <idno type="LOC">https://id.loc.gov/authorities/names/n79021124.html</idno>
+                <idno type="SBN">https://opac.sbn.it/risultati-autori/-/opac-autori/detail/CFIV001869</idno>
+            </person>
+            <person xml:id="CLE">
+                <orgName>Comandante della Legione Degli Emigrati</orgName>
+            </person>
+            <person xml:id="CM">
+                <persName>Carla Menegat</persName>
+                <role>Editor</role>
+                <note>Responsible for transcription and editorial notes in this document.</note>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="CAP">
+                <placeName>Caprera</placeName>
+                    <location>
+                        <geo decls="#WGS84">41.2072 9.4611</geo>
+                    </location>
+            </place>
+        </listPlace>
+    </teiHeader>
+    <facsimile>
+        <surface n="1">
+            <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/289daccf-32f3-438a-84bb-023f6e13fda5/canvas/76da8de0-239c-4e82-8191-058cb570ae3b" format="image/jpeg" width="4442" height="5652"/>
+        </surface>
+        <surface n="2">
+            <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/289daccf-32f3-438a-84bb-023f6e13fda5/canvas/e3ea4110-c8aa-4788-86c4-9c510446533d" format="image/jpeg" width="4411" height="5684"/>
+            <note type="blank">Blank page</note>
+        </surface>
+        <surface n="3">
+            <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/289daccf-32f3-438a-84bb-023f6e13fda5/canvas/d6a45711-f849-45f0-b9a3-3325a00ff82f" format="image/jpeg" width="4377" height="5652"/>
+            <note type="blank">Blank page</note>
+        </surface>
+        <surface n="4">
+            <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/289daccf-32f3-438a-84bb-023f6e13fda5/canvas/5b74500d-7999-49cc-b0a0-f14b7390f7b1" format="image/jpeg" width="4443" height="5644"/>
+            <zone xml:id="annotation" ulx="0" uly="0" lrx="100" lry="10">
+                <note type="later" resp="#CM">Later annotation at the top of the page.</note>
+            </zone>
+            <zone xml:id="address" ulx="20" uly="30" lrx="80" lry="90" rotate="90">
+                <address>
+                    <p>Letter address in the center of the page, written in landscape orientation.</p>
+                </address>
+            </zone>
+        </surface>
+    </facsimile>
+    <text>
+        <body resp="#CM">
+            <div type="letter_wrapper">
+                <ab type="address"><handShift hand="#h1"/>
+                    <p>
+                        Al Comandante della Legione degli Emigrati
+                        <lb/>
+                        in
+                        <lb/>
+                        Roma
+                    </p>
+                </ab>
+                <ab>
+                
+                </ab>
+            </div>
+            <div type="letter"><handShift hand="#h1"/>
+                <opener>
+                    <dateline>
+                        Dalla<placeName>Piazza del Vaticano</placeName>, <date when="1849-04-29">29/4 1849</date>
+                    </dateline>
+                    <salute>
+                        Al <abbr>Com.<expan><hi rend="sup">te</hi>Comandante</expan></abbr> della Legione degli Emigrati
+                    </salute>
+                </opener>
+                <p>
+                    Il Ministro della Guerra col despaccio del
+                    <lb/>
+                    27 corrente affidò a me il Comando
+                    <lb/>
+                    della 1<hi rend="sup">a</hi> Brigada nella cui forza e
+                    <lb/>
+                    viene comprese la Vostra Legione.
+                </p>
+                <p>
+                    Le urgenze del momento esigono che <choice>
+                        <sic>
+                            insen<lb break="no"/>diamo
+                        </sic>
+                        <corr>assediamo</corr>
+                    </choice> subito e quindi oggi vorebbe
+                    <lb/>
+                    inmancabilmente trovarvi colla Vostra
+                    <lb/>
+                    truppa sulla Piazza di <choice>
+                        <abbr>Stª Maria</abbr>
+                        <expan>Santa Maria</expan>
+                    </choice> in
+                    <lb/>
+                    Trastevere e tutte le communicazioni.
+                    <lb/>
+                    Salute e fratellanza
+                </p>
+                <closer>
+                    <salute>Vostro,</salute>
+                    <signed>G. Garibaldi</signed>
+                    <stamp>
+                        <note type="editorial" resp="#CM">
+                        This stamp is present in other documents signed by Garibaldi, indicating that were part of the Autografoteca Campori.
+                        </note> 
+                        <p>Above the signature stamp containing "CODICI E MSS CAMPOLI" within an arch that surrounds a coat of arms.</p>
+                    </stamp>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,2927 @@
+{
+    "letter_1": {
+        "file_name": "letter_1.txt",
+        "letter_number": 1,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "d Angelina ...",
+        "date": "19 aprile 1834",
+        "place": "Marsiglia",
+        "language": "italian"
+    },
+    "letter_10": {
+        "file_name": "letter_10.txt",
+        "letter_number": 10,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Pascual Echague",
+        "date": "27 Junio 1837",
+        "place": "Gualeguay",
+        "language": "spanish"
+    },
+    "letter_100": {
+        "file_name": "letter_100.txt",
+        "letter_number": 100,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "26 septiembre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_101": {
+        "file_name": "letter_101.txt",
+        "letter_number": 101,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "28 septiembre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_102": {
+        "file_name": "letter_102.txt",
+        "letter_number": 102,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "28 septiembre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_103": {
+        "file_name": "letter_103.txt",
+        "letter_number": 103,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "2 octubre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_104": {
+        "file_name": "letter_104.txt",
+        "letter_number": 104,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "l Ministero della Guerra e Marina",
+        "date": "11 octubre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_105": {
+        "file_name": "letter_105.txt",
+        "letter_number": 105,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "17 octubre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_106": {
+        "file_name": "letter_106.txt",
+        "letter_number": 106,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Correa",
+        "date": "19 octubre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_107": {
+        "file_name": "letter_107.txt",
+        "letter_number": 107,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "31 octubre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_108": {
+        "file_name": "letter_108.txt",
+        "letter_number": 108,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "3 noviembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_109": {
+        "file_name": "letter_109.txt",
+        "letter_number": 109,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "5 noviembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_11": {
+        "file_name": "letter_11.txt",
+        "letter_number": 11,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giovan Battista Cuneo",
+        "date": "26 agosto 1837",
+        "place": "Fratello",
+        "language": "italian"
+    },
+    "letter_110": {
+        "file_name": "letter_110.txt",
+        "letter_number": 110,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "7 noviembre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_111": {
+        "file_name": "letter_111.txt",
+        "letter_number": 111,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "[John Pascoe Greenfell]",
+        "date": "8 noviembre 1844",
+        "place": "General",
+        "language": "spanish"
+    },
+    "letter_112": {
+        "file_name": "letter_112.txt",
+        "letter_number": 112,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "18 noviembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_113": {
+        "file_name": "letter_113.txt",
+        "letter_number": 113,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "23 noviembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_114": {
+        "file_name": "letter_114.txt",
+        "letter_number": 114,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "23 noviembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_115": {
+        "file_name": "letter_115.txt",
+        "letter_number": 115,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "24 noviembre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_116": {
+        "file_name": "letter_116.txt",
+        "letter_number": 116,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "27 noviembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_117": {
+        "file_name": "letter_117.txt",
+        "letter_number": 117,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "29 noviembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_118": {
+        "file_name": "letter_118.txt",
+        "letter_number": 118,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "30 noviembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_119": {
+        "file_name": "letter_119.txt",
+        "letter_number": 119,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "30 noviembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_12": {
+        "file_name": "letter_12.txt",
+        "letter_number": 12,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giovan Battista Cuneo",
+        "date": "Unknown",
+        "place": "Gualeguay",
+        "language": "italian"
+    },
+    "letter_120": {
+        "file_name": "letter_120.txt",
+        "letter_number": 120,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "2 diciembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_121": {
+        "file_name": "letter_121.txt",
+        "letter_number": 121,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "2 diciembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_122": {
+        "file_name": "letter_122.txt",
+        "letter_number": 122,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "8 diciembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_123": {
+        "file_name": "letter_123.txt",
+        "letter_number": 123,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "8 diciembre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_124": {
+        "file_name": "letter_124.txt",
+        "letter_number": 124,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "10 diciembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_125": {
+        "file_name": "letter_125.txt",
+        "letter_number": 125,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "10 diciembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_126": {
+        "file_name": "letter_126.txt",
+        "letter_number": 126,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "14 diciembre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_127": {
+        "file_name": "letter_127.txt",
+        "letter_number": 127,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Ritfino Bauza",
+        "date": "16 diciembre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_128": {
+        "file_name": "letter_128.txt",
+        "letter_number": 128,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "17 diciembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_129": {
+        "file_name": "letter_129.txt",
+        "letter_number": 129,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "18 diciembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_13": {
+        "file_name": "letter_13.txt",
+        "letter_number": 13,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "i fratelli della Giovine Italia",
+        "date": "6 febbraio 1838",
+        "place": "Bajada",
+        "language": "italian"
+    },
+    "letter_130": {
+        "file_name": "letter_130.txt",
+        "letter_number": 130,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Julio Fonrouge",
+        "date": "19 diciembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_131": {
+        "file_name": "letter_131.txt",
+        "letter_number": 131,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "23 dicrembre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_132": {
+        "file_name": "letter_132.txt",
+        "letter_number": 132,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "31 diciembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_133": {
+        "file_name": "letter_133.txt",
+        "letter_number": 133,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "31 diciembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_134": {
+        "file_name": "letter_134.txt",
+        "letter_number": 134,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "31 diciembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_135": {
+        "file_name": "letter_135.txt",
+        "letter_number": 135,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Correa",
+        "date": "8 enero 1845",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_136": {
+        "file_name": "letter_136.txt",
+        "letter_number": 136,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "13 enero 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_137": {
+        "file_name": "letter_137.txt",
+        "letter_number": 137,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "13 enero 1845",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_138": {
+        "file_name": "letter_138.txt",
+        "letter_number": 138,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "19 enero 1845",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_139": {
+        "file_name": "letter_139.txt",
+        "letter_number": 139,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "22 enero 1845",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_14": {
+        "file_name": "letter_14.txt",
+        "letter_number": 14,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Bento Gon\u00e7alves da Silva",
+        "date": "5 setembro 1838",
+        "place": "Mineira",
+        "language": "portuguese"
+    },
+    "letter_140": {
+        "file_name": "letter_140.txt",
+        "letter_number": 140,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "22 enero 1845",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_141": {
+        "file_name": "letter_141.txt",
+        "letter_number": 141,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "24 febrero 1845",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_142": {
+        "file_name": "letter_142.txt",
+        "letter_number": 142,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "5 febrero 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_143": {
+        "file_name": "letter_143.txt",
+        "letter_number": 143,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "6 febrero 1845",
+        "place": "Unknown",
+        "language": "spanish"
+    },
+    "letter_144": {
+        "file_name": "letter_144.txt",
+        "letter_number": 144,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "7 febrero 1845",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_145": {
+        "file_name": "letter_145.txt",
+        "letter_number": 145,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "14 febrero 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_146": {
+        "file_name": "letter_146.txt",
+        "letter_number": 146,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "4 marzo 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_147": {
+        "file_name": "letter_147.txt",
+        "letter_number": 147,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Fructuoso Rivera",
+        "date": "23 marzo 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_148": {
+        "file_name": "letter_148.txt",
+        "letter_number": 148,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "31 marzo 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_149": {
+        "file_name": "letter_149.txt",
+        "letter_number": 149,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "17 abrll 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_15": {
+        "file_name": "letter_15.txt",
+        "letter_number": 15,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Bernardo Pirez",
+        "date": "26 setembro 1838",
+        "place": "Cidadao Major",
+        "language": "portuguese"
+    },
+    "letter_150": {
+        "file_name": "letter_150.txt",
+        "letter_number": 150,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "19 abril 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_151": {
+        "file_name": "letter_151.txt",
+        "letter_number": 151,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Santiago Sayago",
+        "date": "24 abril 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_152": {
+        "file_name": "letter_152.txt",
+        "letter_number": 152,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "20 Julio 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_153": {
+        "file_name": "letter_153.txt",
+        "letter_number": 153,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "29 JUho 1845",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_154": {
+        "file_name": "letter_154.txt",
+        "letter_number": 154,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "9 agosto 1845",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_155": {
+        "file_name": "letter_155.txt",
+        "letter_number": 155,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "12 agosto 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_156": {
+        "file_name": "letter_156.txt",
+        "letter_number": 156,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "12 agosto 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_157": {
+        "file_name": "letter_157.txt",
+        "letter_number": 157,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "14 agosto 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_158": {
+        "file_name": "letter_158.txt",
+        "letter_number": 158,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "15 agosto 1845",
+        "place": "Escuadrilla",
+        "language": "spanish"
+    },
+    "letter_159": {
+        "file_name": "letter_159.txt",
+        "letter_number": 159,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "15 agosto 1845",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_16": {
+        "file_name": "letter_16.txt",
+        "letter_number": 16,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Ana Joaquina Gon\u00e7alves da Costa Santos",
+        "date": "Unknown",
+        "place": "Brejo",
+        "language": "italian"
+    },
+    "letter_160": {
+        "file_name": "letter_160.txt",
+        "letter_number": 160,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "19 agosto 1845",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_161": {
+        "file_name": "letter_161.txt",
+        "letter_number": 161,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Anita Garibaldi",
+        "date": "1 septiembre 1845",
+        "place": "Coloma",
+        "language": "spanish"
+    },
+    "letter_162": {
+        "file_name": "letter_162.txt",
+        "letter_number": 162,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Cesar Diaz",
+        "date": "1 septiembre 1845",
+        "place": "Colonia",
+        "language": "spanish"
+    },
+    "letter_163": {
+        "file_name": "letter_163.txt",
+        "letter_number": 163,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Pedro Rodriguez",
+        "date": "6 septiembre 1845",
+        "place": "Martin Garcia",
+        "language": "spanish"
+    },
+    "letter_164": {
+        "file_name": "letter_164.txt",
+        "letter_number": 164,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "11 septiembre 1845",
+        "place": "Yaguar\u00ed",
+        "language": "spanish"
+    },
+    "letter_165": {
+        "file_name": "letter_165.txt",
+        "letter_number": 165,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "12 septiernbre 1845",
+        "place": "Yaguar\u00ed",
+        "language": "spanish"
+    },
+    "letter_166": {
+        "file_name": "letter_166.txt",
+        "letter_number": 166,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": ". Rufino Bauza",
+        "date": "16 septrembre 1845",
+        "place": "Yaguar\u00ed",
+        "language": "spanish"
+    },
+    "letter_167": {
+        "file_name": "letter_167.txt",
+        "letter_number": 167,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": ". Rufino Bauza",
+        "date": "19 septiembre 1845",
+        "place": "Yaguar\u00ed",
+        "language": "spanish"
+    },
+    "letter_168": {
+        "file_name": "letter_168.txt",
+        "letter_number": 168,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "i commercianti di Gualeguaychu",
+        "date": "20 septiembre 1845",
+        "place": "Gualeguaychu",
+        "language": "spanish"
+    },
+    "letter_169": {
+        "file_name": "letter_169.txt",
+        "letter_number": 169,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "25 septiembre 1845",
+        "place": "Fray Bentos",
+        "language": "spanish"
+    },
+    "letter_17": {
+        "file_name": "letter_17.txt",
+        "letter_number": 17,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Ana Joaquina Gon\u00e7alves da Costa Santos",
+        "date": "Unknown",
+        "place": "Porto das Pedras",
+        "language": "italian"
+    },
+    "letter_170": {
+        "file_name": "letter_170.txt",
+        "letter_number": 170,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "25 septiembre 1845",
+        "place": "Fray Bentos",
+        "language": "spanish"
+    },
+    "letter_171": {
+        "file_name": "letter_171.txt",
+        "letter_number": 171,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "25 septiembre 1845",
+        "place": "Fray Bentos",
+        "language": "spanish"
+    },
+    "letter_172": {
+        "file_name": "letter_172.txt",
+        "letter_number": 172,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "25 septiembre 1845",
+        "place": "Fray Bentos",
+        "language": "spanish"
+    },
+    "letter_173": {
+        "file_name": "letter_173.txt",
+        "letter_number": 173,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "25 septiembre 1845",
+        "place": "Fray Bentos",
+        "language": "spanish"
+    },
+    "letter_174": {
+        "file_name": "letter_174.txt",
+        "letter_number": 174,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "26 septiembre 1845",
+        "place": "Fray Bentos",
+        "language": "spanish"
+    },
+    "letter_175": {
+        "file_name": "letter_175.txt",
+        "letter_number": 175,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "26 septiembre 1845",
+        "place": "Con la Goleta Nacional India Libre",
+        "language": "spanish"
+    },
+    "letter_176": {
+        "file_name": "letter_176.txt",
+        "letter_number": 176,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "28 septiembre 1845",
+        "place": "Fray Bentos",
+        "language": "spanish"
+    },
+    "letter_177": {
+        "file_name": "letter_177.txt",
+        "letter_number": 177,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": ".A Rufino Bauza",
+        "date": "28 septiernbre 1845",
+        "place": "Arroyo Negro",
+        "language": "spanish"
+    },
+    "letter_178": {
+        "file_name": "letter_178.txt",
+        "letter_number": 178,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": ".A Manuel Lavalleja",
+        "date": "6 octubre 1845",
+        "place": "Coronel",
+        "language": "spanish"
+    },
+    "letter_179": {
+        "file_name": "letter_179.txt",
+        "letter_number": 179,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Samuel Hood Inglefield",
+        "date": "9 octubre 1845",
+        "place": "Segun la relaci\u00f3n de un pasado",
+        "language": "spanish"
+    },
+    "letter_18": {
+        "file_name": "letter_18.txt",
+        "letter_number": 18,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Serafim Ignacio",
+        "date": "17 Abril 1839",
+        "place": "Brejo em Camaqua",
+        "language": "portuguese"
+    },
+    "letter_180": {
+        "file_name": "letter_180.txt",
+        "letter_number": 180,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Mundell",
+        "date": "16 octubre 1845",
+        "place": "Hervidero",
+        "language": "spanish"
+    },
+    "letter_181": {
+        "file_name": "letter_181.txt",
+        "letter_number": 181,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "2 noviembre 1845",
+        "place": "Frente la Concordia",
+        "language": "spanish"
+    },
+    "letter_182": {
+        "file_name": "letter_182.txt",
+        "letter_number": 182,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "3 noviembre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_183": {
+        "file_name": "letter_183.txt",
+        "letter_number": 183,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Rufino Bauza",
+        "date": "5 noviembre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_184": {
+        "file_name": "letter_184.txt",
+        "letter_number": 184,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Joaquin Suarez",
+        "date": "5 noviembre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_185": {
+        "file_name": "letter_185.txt",
+        "letter_number": 185,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Mundell",
+        "date": "16 noviembre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_186": {
+        "file_name": "letter_186.txt",
+        "letter_number": 186,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Mundell",
+        "date": "Unknown",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_187": {
+        "file_name": "letter_187.txt",
+        "letter_number": 187,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "29 noviembre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_188": {
+        "file_name": "letter_188.txt",
+        "letter_number": 188,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "23 dicembre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_189": {
+        "file_name": "letter_189.txt",
+        "letter_number": 189,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "14 diciembre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_19": {
+        "file_name": "letter_19.txt",
+        "letter_number": 19,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Ana Joaquina Gon\u00e7alves da Costa Santos",
+        "date": "15 aprile 1910",
+        "place": "Estancia",
+        "language": "portuguese"
+    },
+    "letter_190": {
+        "file_name": "letter_190.txt",
+        "letter_number": 190,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Anita Garibaldi",
+        "date": "14 diciembre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_191": {
+        "file_name": "letter_191.txt",
+        "letter_number": 191,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Mu\u00f1oz",
+        "date": "15 diciembre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_192": {
+        "file_name": "letter_192.txt",
+        "letter_number": 192,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "15 diciembre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_193": {
+        "file_name": "letter_193.txt",
+        "letter_number": 193,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Mu\u00f1oz",
+        "date": "15 diciembre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_194": {
+        "file_name": "letter_194.txt",
+        "letter_number": 194,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Joaquin Suarez",
+        "date": "15 diciernbre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_195": {
+        "file_name": "letter_195.txt",
+        "letter_number": 195,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "[Francisco Joaquin Munoz]",
+        "date": "9 enero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_196": {
+        "file_name": "letter_196.txt",
+        "letter_number": 196,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "15 enero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_197": {
+        "file_name": "letter_197.txt",
+        "letter_number": 197,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Joaquin Suarez",
+        "date": "15 enero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_198": {
+        "file_name": "letter_198.txt",
+        "letter_number": 198,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "15 enero 1846",
+        "place": "Reservado Salto",
+        "language": "spanish"
+    },
+    "letter_199": {
+        "file_name": "letter_199.txt",
+        "letter_number": 199,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "16 enero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_2": {
+        "file_name": "letter_2.txt",
+        "letter_number": 2,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "d Angelina ...",
+        "date": "25 maggio 1834",
+        "place": "Marsiglia",
+        "language": "italian"
+    },
+    "letter_20": {
+        "file_name": "letter_20.txt",
+        "letter_number": 20,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Ana Joaquina Gon\u00e7alves da Costa Santos",
+        "date": "8 maio 1839",
+        "place": "Barra da Ilha",
+        "language": "portuguese"
+    },
+    "letter_200": {
+        "file_name": "letter_200.txt",
+        "letter_number": 200,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Mu\u00f1oz",
+        "date": "16 enero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_201": {
+        "file_name": "letter_201.txt",
+        "letter_number": 201,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Mu\u00f1oz",
+        "date": "Unknown",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_202": {
+        "file_name": "letter_202.txt",
+        "letter_number": 202,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "19 enero 1846",
+        "place": "Mesa de Artigas",
+        "language": "spanish"
+    },
+    "letter_203": {
+        "file_name": "letter_203.txt",
+        "letter_number": 203,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Bernardino Baez",
+        "date": "19 enero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_204": {
+        "file_name": "letter_204.txt",
+        "letter_number": 204,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "[A Bernardino Btiez]",
+        "date": "28 enero 1846",
+        "place": "Guabiyu",
+        "language": "spanish"
+    },
+    "letter_205": {
+        "file_name": "letter_205.txt",
+        "letter_number": 205,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Mu\u00f1oz",
+        "date": "2 febrero 1846",
+        "place": "Pongo",
+        "language": "spanish"
+    },
+    "letter_206": {
+        "file_name": "letter_206.txt",
+        "letter_number": 206,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Hippolyte Morier",
+        "date": "Unknown",
+        "place": "Salto",
+        "language": "french"
+    },
+    "letter_207": {
+        "file_name": "letter_207.txt",
+        "letter_number": 207,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Mu\u00f1oz",
+        "date": "10 febrero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_208": {
+        "file_name": "letter_208.txt",
+        "letter_number": 208,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "lla Commissione della Legione Italiana",
+        "date": "10 febbraio 1846",
+        "place": "Salto",
+        "language": "italian"
+    },
+    "letter_209": {
+        "file_name": "letter_209.txt",
+        "letter_number": 209,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": ".A Jean-Pierre Honorat Lain\u00e9",
+        "date": "Unknown",
+        "place": "Salto",
+        "language": "french"
+    },
+    "letter_21": {
+        "file_name": "letter_21.txt",
+        "letter_number": 21,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Ana Joaquina Gon\u00e7alves da Costa Santos",
+        "date": "Unknown",
+        "place": "Escuna ltaparica",
+        "language": "portuguese"
+    },
+    "letter_210": {
+        "file_name": "letter_210.txt",
+        "letter_number": 210,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Mu\u00f1oz",
+        "date": "12 febrero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_211": {
+        "file_name": "letter_211.txt",
+        "letter_number": 211,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "lla Commissione della Legione italiana",
+        "date": "12 jfebbraio 1846",
+        "place": "Salto",
+        "language": "italian"
+    },
+    "letter_212": {
+        "file_name": "letter_212.txt",
+        "letter_number": 212,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "[Anacleto Medina]",
+        "date": "13 febrero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_213": {
+        "file_name": "letter_213.txt",
+        "letter_number": 213,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Mundell",
+        "date": "15 febrero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_214": {
+        "file_name": "letter_214.txt",
+        "letter_number": 214,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Mu\u00f1oz",
+        "date": "17 febrero 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_215": {
+        "file_name": "letter_215.txt",
+        "letter_number": 215,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Mundell",
+        "date": "22 febrero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_216": {
+        "file_name": "letter_216.txt",
+        "letter_number": 216,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Mu\u00f1oz",
+        "date": "26 febrero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_217": {
+        "file_name": "letter_217.txt",
+        "letter_number": 217,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Napoleone Castellini",
+        "date": "26 febbraio 1846",
+        "place": "Salto",
+        "language": "italian"
+    },
+    "letter_218": {
+        "file_name": "letter_218.txt",
+        "letter_number": 218,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "27 febrero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_219": {
+        "file_name": "letter_219.txt",
+        "letter_number": 219,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Bartolomeo Odicini",
+        "date": "27 febbraio 1846",
+        "place": "Salto",
+        "language": "italian"
+    },
+    "letter_22": {
+        "file_name": "letter_22.txt",
+        "letter_number": 22,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Antonia Gon\u00e7alves da Silva",
+        "date": "Unknown",
+        "place": "Antonia Gon\u00e7alves da Silva",
+        "language": "portuguese"
+    },
+    "letter_220": {
+        "file_name": "letter_220.txt",
+        "letter_number": 220,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "28 febrero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_221": {
+        "file_name": "letter_221.txt",
+        "letter_number": 221,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "28 febrero 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_222": {
+        "file_name": "letter_222.txt",
+        "letter_number": 222,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "lla Commissione della Legione Italiana",
+        "date": "Unknown",
+        "place": "Salto",
+        "language": "italian"
+    },
+    "letter_223": {
+        "file_name": "letter_223.txt",
+        "letter_number": 223,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "[A Francisco Joaquin Munoz]",
+        "date": "10 marzo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_224": {
+        "file_name": "letter_224.txt",
+        "letter_number": 224,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Mu\u00f1oz",
+        "date": "10 marzo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_225": {
+        "file_name": "letter_225.txt",
+        "letter_number": 225,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "lla Commissione della Legione Italiana",
+        "date": "18 marzo 1846",
+        "place": "Salto",
+        "language": "italian"
+    },
+    "letter_226": {
+        "file_name": "letter_226.txt",
+        "letter_number": 226,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "25 marzo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_227": {
+        "file_name": "letter_227.txt",
+        "letter_number": 227,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "30 marzo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_228": {
+        "file_name": "letter_228.txt",
+        "letter_number": 228,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Mu\u00f1oz",
+        "date": "30 marzo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_229": {
+        "file_name": "letter_229.txt",
+        "letter_number": 229,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "30 marzo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_23": {
+        "file_name": "letter_23.txt",
+        "letter_number": 23,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Antonino Vidal",
+        "date": "11 junio 1842",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_230": {
+        "file_name": "letter_230.txt",
+        "letter_number": 230,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Joaquin Suarez",
+        "date": "30 marzo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_231": {
+        "file_name": "letter_231.txt",
+        "letter_number": 231,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Munoz",
+        "date": "Unknown",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_232": {
+        "file_name": "letter_232.txt",
+        "letter_number": 232,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giovan Battista Cuneo",
+        "date": "18 aprile 1846",
+        "place": "Salto",
+        "language": "italian"
+    },
+    "letter_233": {
+        "file_name": "letter_233.txt",
+        "letter_number": 233,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "18 abnl 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_234": {
+        "file_name": "letter_234.txt",
+        "letter_number": 234,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "18 abril 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_235": {
+        "file_name": "letter_235.txt",
+        "letter_number": 235,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "29 abril 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_236": {
+        "file_name": "letter_236.txt",
+        "letter_number": 236,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jean-Pierre Honorat Lain\u00e9",
+        "date": "Unknown",
+        "place": "Salto",
+        "language": "french"
+    },
+    "letter_237": {
+        "file_name": "letter_237.txt",
+        "letter_number": 237,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": ". Jos\u00e9 Antonio Costa",
+        "date": "28 mayo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_238": {
+        "file_name": "letter_238.txt",
+        "letter_number": 238,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 de Bejar",
+        "date": "20 ottobre 1845",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_239": {
+        "file_name": "letter_239.txt",
+        "letter_number": 239,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "5 JUillO 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_24": {
+        "file_name": "letter_24.txt",
+        "letter_number": 24,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Unknown",
+        "date": "14 maggio 1842",
+        "place": "Clru]ano de la Barca Cons-",
+        "language": "spanish"
+    },
+    "letter_240": {
+        "file_name": "letter_240.txt",
+        "letter_number": 240,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "5 mayo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_241": {
+        "file_name": "letter_241.txt",
+        "letter_number": 241,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": ".A [Jos\u00e9 Mundell]",
+        "date": "7 mayo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_242": {
+        "file_name": "letter_242.txt",
+        "letter_number": 242,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jean-Pierre Honorat Lain\u00e9",
+        "date": "21 mai 1846",
+        "place": "Cap",
+        "language": "french"
+    },
+    "letter_243": {
+        "file_name": "letter_243.txt",
+        "letter_number": 243,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jean-Pierre Honorat Lain\u00e9",
+        "date": "22 mai 1846",
+        "place": "Salto",
+        "language": "french"
+    },
+    "letter_244": {
+        "file_name": "letter_244.txt",
+        "letter_number": 244,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "23 mayo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_245": {
+        "file_name": "letter_245.txt",
+        "letter_number": 245,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa-",
+        "date": "2 junio 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_246": {
+        "file_name": "letter_246.txt",
+        "letter_number": 246,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "'A Giovan Battista Cuneo",
+        "date": "15 giugno 1846",
+        "place": "Salto",
+        "language": "italian"
+    },
+    "letter_247": {
+        "file_name": "letter_247.txt",
+        "letter_number": 247,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": ".A Jos\u00e9 .Antonio Costa",
+        "date": "8 JUlio 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_248": {
+        "file_name": "letter_248.txt",
+        "letter_number": 248,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": ".A Jos\u00e9 .Antonio Costa",
+        "date": "16 Jullo 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_249": {
+        "file_name": "letter_249.txt",
+        "letter_number": 249,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Mundell",
+        "date": "20 julio 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_25": {
+        "file_name": "letter_25.txt",
+        "letter_number": 25,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Antonino Vidal",
+        "date": "2 julio 1842",
+        "place": "Parami",
+        "language": "spanish"
+    },
+    "letter_250": {
+        "file_name": "letter_250.txt",
+        "letter_number": 250,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Mundell",
+        "date": "24 junio 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_251": {
+        "file_name": "letter_251.txt",
+        "letter_number": 251,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "[Jos\u00e9 Antonio Costa]",
+        "date": "25 juho 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_252": {
+        "file_name": "letter_252.txt",
+        "letter_number": 252,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giovan Battista Cuneo",
+        "date": "27 luglio 1846",
+        "place": "Salto",
+        "language": "italian"
+    },
+    "letter_253": {
+        "file_name": "letter_253.txt",
+        "letter_number": 253,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giovan Battista Cuneo",
+        "date": "27 luglio 1846",
+        "place": "Salto",
+        "language": "italian"
+    },
+    "letter_254": {
+        "file_name": "letter_254.txt",
+        "letter_number": 254,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Mundell",
+        "date": "28 junio 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_255": {
+        "file_name": "letter_255.txt",
+        "letter_number": 255,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "William Gore Ouseley",
+        "date": "Unknown",
+        "place": "Salto",
+        "language": "french"
+    },
+    "letter_256": {
+        "file_name": "letter_256.txt",
+        "letter_number": 256,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "4 agosto 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_257": {
+        "file_name": "letter_257.txt",
+        "letter_number": 257,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "12 agosto 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_258": {
+        "file_name": "letter_258.txt",
+        "letter_number": 258,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Mundell",
+        "date": "15 agosto 1846",
+        "place": "Salto",
+        "language": "spanish"
+    },
+    "letter_259": {
+        "file_name": "letter_259.txt",
+        "letter_number": 259,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Mundell",
+        "date": "21 agosto 1846",
+        "place": "Hervidero",
+        "language": "spanish"
+    },
+    "letter_26": {
+        "file_name": "letter_26.txt",
+        "letter_number": 26,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Pedro Ferr\u00e9",
+        "date": "19 julio 1842",
+        "place": "Escuadra Nacional",
+        "language": "spanish"
+    },
+    "letter_260": {
+        "file_name": "letter_260.txt",
+        "letter_number": 260,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "4 septiembre 1846",
+        "place": "Puerto",
+        "language": "spanish"
+    },
+    "letter_261": {
+        "file_name": "letter_261.txt",
+        "letter_number": 261,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "9 septlembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_262": {
+        "file_name": "letter_262.txt",
+        "letter_number": 262,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "9 septiembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_263": {
+        "file_name": "letter_263.txt",
+        "letter_number": 263,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jean-Pierre Honorat Lain\u00e9",
+        "date": "11 septembre 1846",
+        "place": "Montevideo",
+        "language": "french"
+    },
+    "letter_264": {
+        "file_name": "letter_264.txt",
+        "letter_number": 264,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "12 septiembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_265": {
+        "file_name": "letter_265.txt",
+        "letter_number": 265,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": ".A Jos\u00e9 .Antonio Costa",
+        "date": "19 septiembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_266": {
+        "file_name": "letter_266.txt",
+        "letter_number": 266,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "[Jos\u00e9 Antonio Costa]",
+        "date": "26 septiembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_267": {
+        "file_name": "letter_267.txt",
+        "letter_number": 267,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": ".A Jos\u00e9 .Antonio Costa",
+        "date": "30 septiembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_268": {
+        "file_name": "letter_268.txt",
+        "letter_number": 268,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "30 septlembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_269": {
+        "file_name": "letter_269.txt",
+        "letter_number": 269,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "16 octubre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_27": {
+        "file_name": "letter_27.txt",
+        "letter_number": 27,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Pedro Ferr\u00e9",
+        "date": "6 agosto 1842",
+        "place": "Escuadrilla Nacional",
+        "language": "spanish"
+    },
+    "letter_270": {
+        "file_name": "letter_270.txt",
+        "letter_number": 270,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "18 octubre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_271": {
+        "file_name": "letter_271.txt",
+        "letter_number": 271,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "4 noviembre 1846",
+        "place": "Goleta de Guerra Maypu",
+        "language": "spanish"
+    },
+    "letter_272": {
+        "file_name": "letter_272.txt",
+        "letter_number": 272,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "4 novrembre 1846",
+        "place": "Goleta nacional de Guerra Maypu",
+        "language": "spanish"
+    },
+    "letter_273": {
+        "file_name": "letter_273.txt",
+        "letter_number": 273,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "6 novrembre 1846",
+        "place": "Goleta Nacional de Guerra Maypu",
+        "language": "spanish"
+    },
+    "letter_274": {
+        "file_name": "letter_274.txt",
+        "letter_number": 274,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "7 noviernbre 1846",
+        "place": "Superior",
+        "language": "spanish"
+    },
+    "letter_275": {
+        "file_name": "letter_275.txt",
+        "letter_number": 275,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "7 noviembre 1846",
+        "place": "Bergantin Cagancha",
+        "language": "spanish"
+    },
+    "letter_276": {
+        "file_name": "letter_276.txt",
+        "letter_number": 276,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "7 noviembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_277": {
+        "file_name": "letter_277.txt",
+        "letter_number": 277,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "11 noviembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_278": {
+        "file_name": "letter_278.txt",
+        "letter_number": 278,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "14 noviembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_279": {
+        "file_name": "letter_279.txt",
+        "letter_number": 279,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "28 novrembre 1846",
+        "place": "Superior",
+        "language": "spanish"
+    },
+    "letter_28": {
+        "file_name": "letter_28.txt",
+        "letter_number": 28,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Pedro Ferr\u00e9",
+        "date": "20 agosto 1842",
+        "place": "Guardia de la Esquina",
+        "language": "spanish"
+    },
+    "letter_280": {
+        "file_name": "letter_280.txt",
+        "letter_number": 280,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "2 dicrembre 1846",
+        "place": "Goleta Nacional de Guerra Maiyp\u00fa",
+        "language": "spanish"
+    },
+    "letter_281": {
+        "file_name": "letter_281.txt",
+        "letter_number": 281,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Antonio Costa",
+        "date": "11 diciembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_282": {
+        "file_name": "letter_282.txt",
+        "letter_number": 282,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Enrique M artinez",
+        "date": "21 diciembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_283": {
+        "file_name": "letter_283.txt",
+        "letter_number": 283,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Enrique M artinez",
+        "date": "24 diciembre 1846",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_284": {
+        "file_name": "letter_284.txt",
+        "letter_number": 284,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Enrique Martinez",
+        "date": "19 enero 1847",
+        "place": "El Coronel de la Legi\u00f3n Italiana",
+        "language": "spanish"
+    },
+    "letter_285": {
+        "file_name": "letter_285.txt",
+        "letter_number": 285,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Enrique Martinez",
+        "date": "19 enero 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_286": {
+        "file_name": "letter_286.txt",
+        "letter_number": 286,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "[Enrique Martinez]",
+        "date": "15 febrero 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_287": {
+        "file_name": "letter_287.txt",
+        "letter_number": 287,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Enrique M artinez",
+        "date": "17 febrero 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_288": {
+        "file_name": "letter_288.txt",
+        "letter_number": 288,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Enrique M artinez",
+        "date": "24 febrero 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_289": {
+        "file_name": "letter_289.txt",
+        "letter_number": 289,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Enrique M artinez",
+        "date": "11 marzo 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_29": {
+        "file_name": "letter_29.txt",
+        "letter_number": 29,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Antonino Sego via",
+        "date": "18 septiembre 1842",
+        "place": "Estado Oriental del Uruguay\nCorrrentes",
+        "language": "spanish"
+    },
+    "letter_290": {
+        "file_name": "letter_290.txt",
+        "letter_number": 290,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Carlos de San Vicente",
+        "date": "12 marzo 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_291": {
+        "file_name": "letter_291.txt",
+        "letter_number": 291,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Joaquin Jos\u00e9oz",
+        "date": "28 Junio 1847",
+        "place": "Junio 1847\nAdjunto a V.E.",
+        "language": "spanish"
+    },
+    "letter_292": {
+        "file_name": "letter_292.txt",
+        "letter_number": 292,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Correa",
+        "date": "7 JUlio 1847",
+        "place": "Linea",
+        "language": "spanish"
+    },
+    "letter_293": {
+        "file_name": "letter_293.txt",
+        "letter_number": 293,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Correa",
+        "date": "7 julio 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_294": {
+        "file_name": "letter_294.txt",
+        "letter_number": 294,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Stanislao Bentiv oglio",
+        "date": "10 luglio 1847",
+        "place": "Montevideo",
+        "language": "italian"
+    },
+    "letter_295": {
+        "file_name": "letter_295.txt",
+        "letter_number": 295,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "George B. Martin",
+        "date": "20 luglio 1847",
+        "place": "Montevideo",
+        "language": "italian"
+    },
+    "letter_296": {
+        "file_name": "letter_296.txt",
+        "letter_number": 296,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Eugenio Belluomini",
+        "date": "7 agosto 1847",
+        "place": "Montevideo",
+        "language": "italian"
+    },
+    "letter_297": {
+        "file_name": "letter_297.txt",
+        "letter_number": 297,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Lorenzo Valerio",
+        "date": "8 agosto 1847",
+        "place": "Montevideo",
+        "language": "italian"
+    },
+    "letter_298": {
+        "file_name": "letter_298.txt",
+        "letter_number": 298,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "13 agosto 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_299": {
+        "file_name": "letter_299.txt",
+        "letter_number": 299,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "Unknown",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_3": {
+        "file_name": "letter_3.txt",
+        "letter_number": 3,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "d Angelina ...",
+        "date": "2 luglio 1834",
+        "place": "Marsiglia",
+        "language": "italian"
+    },
+    "letter_30": {
+        "file_name": "letter_30.txt",
+        "letter_number": 30,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Antonino Segovia",
+        "date": "19 septiembre 1842",
+        "place": "Republica Oriental del Uruguay\nCorrrentes",
+        "language": "spanish"
+    },
+    "letter_300": {
+        "file_name": "letter_300.txt",
+        "letter_number": 300,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Lorenzo Batlle",
+        "date": "2 septiembre 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_301": {
+        "file_name": "letter_301.txt",
+        "letter_number": 301,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "[Lorenzo Batlle]",
+        "date": "6 septiembre 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_302": {
+        "file_name": "letter_302.txt",
+        "letter_number": 302,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Felice F\u00f2resti",
+        "date": "7 settembre 1847",
+        "place": "Montevideo",
+        "language": "italian"
+    },
+    "letter_303": {
+        "file_name": "letter_303.txt",
+        "letter_number": 303,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel H errera y Ob es",
+        "date": "24 septiembre 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_304": {
+        "file_name": "letter_304.txt",
+        "letter_number": 304,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Gaetano Bedini",
+        "date": "12 ottobre 1847",
+        "place": "Montevideo",
+        "language": "italian"
+    },
+    "letter_305": {
+        "file_name": "letter_305.txt",
+        "letter_number": 305,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Angelo Ricci",
+        "date": "14 ottobre 1847",
+        "place": "Montevideo",
+        "language": "italian"
+    },
+    "letter_306": {
+        "file_name": "letter_306.txt",
+        "letter_number": 306,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "29 octubre 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_307": {
+        "file_name": "letter_307.txt",
+        "letter_number": 307,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "un giudice istruttore",
+        "date": "30 octubre 1847",
+        "place": "Maypu",
+        "language": "spanish"
+    },
+    "letter_308": {
+        "file_name": "letter_308.txt",
+        "letter_number": 308,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Lorenzo Batlle",
+        "date": "28 noviembre 1847",
+        "place": "Ensenada",
+        "language": "spanish"
+    },
+    "letter_309": {
+        "file_name": "letter_309.txt",
+        "letter_number": 309,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Lorenzo Batlle",
+        "date": "5 diciembre 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_31": {
+        "file_name": "letter_31.txt",
+        "letter_number": 31,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Antonio Ferr\u00e9",
+        "date": "22 septiembre 1842",
+        "place": "Republica Oriental del Uruguay\nCorrrentes",
+        "language": "spanish"
+    },
+    "letter_310": {
+        "file_name": "letter_310.txt",
+        "letter_number": 310,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Enrique Martinez",
+        "date": "24 diciembre 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_311": {
+        "file_name": "letter_311.txt",
+        "letter_number": 311,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Mateo Antonini",
+        "date": "27 dicembre 1847",
+        "place": "Montevideo",
+        "language": "italian"
+    },
+    "letter_312": {
+        "file_name": "letter_312.txt",
+        "letter_number": 312,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "30 diciembre 1847",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_313": {
+        "file_name": "letter_313.txt",
+        "letter_number": 313,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Lorenzo Batlle",
+        "date": "14 enero 1848",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_314": {
+        "file_name": "letter_314.txt",
+        "letter_number": 314,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "20 enero 1848",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_315": {
+        "file_name": "letter_315.txt",
+        "letter_number": 315,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Lorenzo Batlle",
+        "date": "22 enero 1848",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_316": {
+        "file_name": "letter_316.txt",
+        "letter_number": 316,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Lorenzo Batlle",
+        "date": "28 enero 1848",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_317": {
+        "file_name": "letter_317.txt",
+        "letter_number": 317,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Lorenzo Batlle",
+        "date": "28 enero 1848",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_318": {
+        "file_name": "letter_318.txt",
+        "letter_number": 318,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "10 febrero 1848",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_319": {
+        "file_name": "letter_319.txt",
+        "letter_number": 319,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Anita Garibaldi",
+        "date": "20 febrero 1848",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_32": {
+        "file_name": "letter_32.txt",
+        "letter_number": 32,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Antonino Segovia",
+        "date": "13 octubre 1842",
+        "place": "Repizblica Oriental del Uruguay",
+        "language": "spanish"
+    },
+    "letter_320": {
+        "file_name": "letter_320.txt",
+        "letter_number": 320,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giacomo Medici",
+        "date": "20 febbraio 1848",
+        "place": "Montevideo",
+        "language": "italian"
+    },
+    "letter_321": {
+        "file_name": "letter_321.txt",
+        "letter_number": 321,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Lorenzo Batlle",
+        "date": "4 marzo 1848",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_322": {
+        "file_name": "letter_322.txt",
+        "letter_number": 322,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Anita Garibaldi",
+        "date": "10 marzo 1848",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_323": {
+        "file_name": "letter_323.txt",
+        "letter_number": 323,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "olphe Vaillant",
+        "date": "13 mars 1848",
+        "place": "Montevideo",
+        "language": "french"
+    },
+    "letter_324": {
+        "file_name": "letter_324.txt",
+        "letter_number": 324,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Lorenzo Batlle",
+        "date": "19 marzo 1848",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_325": {
+        "file_name": "letter_325.txt",
+        "letter_number": 325,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Anita Garibaldi",
+        "date": "Unknown",
+        "place": "Alicante",
+        "language": "spanish"
+    },
+    "letter_33": {
+        "file_name": "letter_33.txt",
+        "letter_number": 33,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Antonino Segovia",
+        "date": "14 octubre 1842",
+        "place": "Republica Oriental del Uruguay",
+        "language": "spanish"
+    },
+    "letter_34": {
+        "file_name": "letter_34.txt",
+        "letter_number": 34,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Antonino Segovia",
+        "date": "17 octubre 1842",
+        "place": "Republica Oriental del Uruguay",
+        "language": "spanish"
+    },
+    "letter_35": {
+        "file_name": "letter_35.txt",
+        "letter_number": 35,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giovan Battista Cuneo",
+        "date": "18 ottobre 1842",
+        "place": "Corrientes",
+        "language": "italian"
+    },
+    "letter_36": {
+        "file_name": "letter_36.txt",
+        "letter_number": 36,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Antonino V idal",
+        "date": "22 octubre 1842",
+        "place": "Corrientes",
+        "language": "spanish"
+    },
+    "letter_37": {
+        "file_name": "letter_37.txt",
+        "letter_number": 37,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Antonino Vidal",
+        "date": "7 noviembre 1842",
+        "place": "el Faso",
+        "language": "spanish"
+    },
+    "letter_38": {
+        "file_name": "letter_38.txt",
+        "letter_number": 38,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Antonino V idal",
+        "date": "21 noviernbre 1842",
+        "place": "General",
+        "language": "spanish"
+    },
+    "letter_39": {
+        "file_name": "letter_39.txt",
+        "letter_number": 39,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Fe'lix E. Aguiar",
+        "date": "10 enero 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_4": {
+        "file_name": "letter_4.txt",
+        "letter_number": 4,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Luigi Oanessa",
+        "date": "25 gennaio 1836",
+        "place": "Rio Janeiro",
+        "language": "italian"
+    },
+    "letter_40": {
+        "file_name": "letter_40.txt",
+        "letter_number": 40,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "F\u00e9lix E. Aguiar",
+        "date": "11 enero 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_41": {
+        "file_name": "letter_41.txt",
+        "letter_number": 41,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Felix E. Aguiar",
+        "date": "24 enero 1843",
+        "place": "General",
+        "language": "spanish"
+    },
+    "letter_42": {
+        "file_name": "letter_42.txt",
+        "letter_number": 42,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "F\u00e9lix E. Aguiar",
+        "date": "2 febrero 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_43": {
+        "file_name": "letter_43.txt",
+        "letter_number": 43,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "8 marzo 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_44": {
+        "file_name": "letter_44.txt",
+        "letter_number": 44,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "2 abnl 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_45": {
+        "file_name": "letter_45.txt",
+        "letter_number": 45,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "3 abril 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_46": {
+        "file_name": "letter_46.txt",
+        "letter_number": 46,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "7 abril 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_47": {
+        "file_name": "letter_47.txt",
+        "letter_number": 47,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "8 abril 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_48": {
+        "file_name": "letter_48.txt",
+        "letter_number": 48,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "9 abril 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_49": {
+        "file_name": "letter_49.txt",
+        "letter_number": 49,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "12 abril 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_5": {
+        "file_name": "letter_5.txt",
+        "letter_number": 5,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giuseppe Mazzini",
+        "date": "27 gennaio 1836",
+        "place": "Rio Janeiro",
+        "language": "italian"
+    },
+    "letter_50": {
+        "file_name": "letter_50.txt",
+        "letter_number": 50,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 Ma. Paz",
+        "date": "23 abril 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_51": {
+        "file_name": "letter_51.txt",
+        "letter_number": 51,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "25 abrrl 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_52": {
+        "file_name": "letter_52.txt",
+        "letter_number": 52,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Masariego",
+        "date": "27 abnl 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_53": {
+        "file_name": "letter_53.txt",
+        "letter_number": 53,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "[Melchor Pacheco y Obes]",
+        "date": "Unknown",
+        "place": "Escuadrilla Nacional de guerra\nGoleta",
+        "language": "spanish"
+    },
+    "letter_54": {
+        "file_name": "letter_54.txt",
+        "letter_number": 54,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "23 mayo 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_55": {
+        "file_name": "letter_55.txt",
+        "letter_number": 55,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Andr\u00e9s Lamas",
+        "date": "6 Junio 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_56": {
+        "file_name": "letter_56.txt",
+        "letter_number": 56,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "20 junio 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_57": {
+        "file_name": "letter_57.txt",
+        "letter_number": 57,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Santiago V azquez",
+        "date": "3 febbraio 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_58": {
+        "file_name": "letter_58.txt",
+        "letter_number": 58,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "[Melchor Pacheco y Obes]",
+        "date": "22 junio 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_59": {
+        "file_name": "letter_59.txt",
+        "letter_number": 59,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "2 JUlio 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_6": {
+        "file_name": "letter_6.txt",
+        "letter_number": 6,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giovan Battista Cuneo",
+        "date": "17 ottobre 1836",
+        "place": "Capo Frio",
+        "language": "italian"
+    },
+    "letter_60": {
+        "file_name": "letter_60.txt",
+        "letter_number": 60,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "13 juho 1843",
+        "place": "Comisano de Marina D. Lorenzo Martinez",
+        "language": "spanish"
+    },
+    "letter_61": {
+        "file_name": "letter_61.txt",
+        "letter_number": 61,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "24 Juho 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_62": {
+        "file_name": "letter_62.txt",
+        "letter_number": 62,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "27 julio 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_63": {
+        "file_name": "letter_63.txt",
+        "letter_number": 63,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y O bes",
+        "date": "31 julio 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_64": {
+        "file_name": "letter_64.txt",
+        "letter_number": 64,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "21 agosto 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_65": {
+        "file_name": "letter_65.txt",
+        "letter_number": 65,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "14 octubre 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_66": {
+        "file_name": "letter_66.txt",
+        "letter_number": 66,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Carlos de San Vicente",
+        "date": "18 octubre 1843",
+        "place": "Costa del C\u00e9rro",
+        "language": "spanish"
+    },
+    "letter_67": {
+        "file_name": "letter_67.txt",
+        "letter_number": 67,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "25 octubre 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_68": {
+        "file_name": "letter_68.txt",
+        "letter_number": 68,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Santiago Casella \u00b7",
+        "date": "20 noviembre 1843",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_69": {
+        "file_name": "letter_69.txt",
+        "letter_number": 69,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "28 noviembre 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_7": {
+        "file_name": "letter_7.txt",
+        "letter_number": 7,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giovan Battista Cuneo",
+        "date": "27 dicembre 1836",
+        "place": "Capo Frio",
+        "language": "italian"
+    },
+    "letter_70": {
+        "file_name": "letter_70.txt",
+        "letter_number": 70,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "l Comandante del porto di Montevideo",
+        "date": "Unknown",
+        "place": "Rad\u00e0 de Montevideo",
+        "language": "spanish"
+    },
+    "letter_71": {
+        "file_name": "letter_71.txt",
+        "letter_number": 71,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "12 diciembre 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_72": {
+        "file_name": "letter_72.txt",
+        "letter_number": 72,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "12 dicrembre 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_73": {
+        "file_name": "letter_73.txt",
+        "letter_number": 73,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "3 enero 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_74": {
+        "file_name": "letter_74.txt",
+        "letter_number": 74,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "31 diciembre 1843",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    },
+    "letter_75": {
+        "file_name": "letter_75.txt",
+        "letter_number": 75,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Francisco Rodriguez",
+        "date": "4 enero 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_76": {
+        "file_name": "letter_76.txt",
+        "letter_number": 76,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "13 enero 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_77": {
+        "file_name": "letter_77.txt",
+        "letter_number": 77,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Jos\u00e9 JJtla. Paz",
+        "date": "13 febrero 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_78": {
+        "file_name": "letter_78.txt",
+        "letter_number": 78,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Santiago V azqitez",
+        "date": "13 febrero 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_79": {
+        "file_name": "letter_79.txt",
+        "letter_number": 79,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "13 febrero 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_8": {
+        "file_name": "letter_8.txt",
+        "letter_number": 8,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giovan Battista Cuneo",
+        "date": "18 febbraio 1837",
+        "place": "Rio Janeiro",
+        "language": "italian"
+    },
+    "letter_80": {
+        "file_name": "letter_80.txt",
+        "letter_number": 80,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Santiago Vazquez",
+        "date": "Unknown",
+        "place": "Costa del Cerro",
+        "language": "spanish"
+    },
+    "letter_81": {
+        "file_name": "letter_81.txt",
+        "letter_number": 81,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "23 marzo 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_82": {
+        "file_name": "letter_82.txt",
+        "letter_number": 82,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "27 marzo 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_83": {
+        "file_name": "letter_83.txt",
+        "letter_number": 83,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "15 abril 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_84": {
+        "file_name": "letter_84.txt",
+        "letter_number": 84,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Man'ltel Herrera y Obes",
+        "date": "Unknown",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_85": {
+        "file_name": "letter_85.txt",
+        "letter_number": 85,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "24 mayo 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_86": {
+        "file_name": "letter_86.txt",
+        "letter_number": 86,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Santiago Labandera",
+        "date": "28 junio 1844",
+        "place": "Santiago Labandera\nVanguardia",
+        "language": "spanish"
+    },
+    "letter_87": {
+        "file_name": "letter_87.txt",
+        "letter_number": 87,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Antonio Pillado",
+        "date": "29 iunio 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_88": {
+        "file_name": "letter_88.txt",
+        "letter_number": 88,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "15 julio 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_89": {
+        "file_name": "letter_89.txt",
+        "letter_number": 89,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y O bes",
+        "date": "16 julio 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_9": {
+        "file_name": "letter_9.txt",
+        "letter_number": 9,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Giovan Battista Cuneo",
+        "date": "22 aprile 1837",
+        "place": "Rio Janeiro",
+        "language": "italian"
+    },
+    "letter_90": {
+        "file_name": "letter_90.txt",
+        "letter_number": 90,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Andr\u00e9s Lamas",
+        "date": "19 julio 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_91": {
+        "file_name": "letter_91.txt",
+        "letter_number": 91,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "22 Julio 1844",
+        "place": "Vanguardia",
+        "language": "spanish"
+    },
+    "letter_92": {
+        "file_name": "letter_92.txt",
+        "letter_number": 92,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "8 agosto 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_93": {
+        "file_name": "letter_93.txt",
+        "letter_number": 93,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "8 agosto 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_94": {
+        "file_name": "letter_94.txt",
+        "letter_number": 94,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "19 agosto 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_95": {
+        "file_name": "letter_95.txt",
+        "letter_number": 95,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "21 agosto 1844",
+        "place": "Puerto de Montevideo",
+        "language": "spanish"
+    },
+    "letter_96": {
+        "file_name": "letter_96.txt",
+        "letter_number": 96,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "28 agosto 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_97": {
+        "file_name": "letter_97.txt",
+        "letter_number": 97,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "30 agosto 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_98": {
+        "file_name": "letter_98.txt",
+        "letter_number": 98,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Manuel Herrera y Obes",
+        "date": "2 septrembre 1844",
+        "place": "Montevideo",
+        "language": "spanish"
+    },
+    "letter_99": {
+        "file_name": "letter_99.txt",
+        "letter_number": 99,
+        "sender": "Giuseppe Garibaldi",
+        "recipient": "Melchor Pacheco y Obes",
+        "date": "6 septiembre 1844",
+        "place": "Rada de Montevideo",
+        "language": "spanish"
+    }
+}

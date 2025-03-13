@@ -1,0 +1,86 @@
+[
+    {
+        "pdf_path": "volumes/01_Volume_I_colBN_C3_1_0_OCR.pdf",
+        "start_page": 293,
+        "end_page": 316,
+        "volume": 1
+    },
+    {
+        "pdf_path": "volumes/02_Volume_II_colBN_C3_1_0_OCR.pdf",
+        "start_page": 239,
+        "end_page": 251,
+        "volume": 2
+    },
+    {
+        "pdf_path": "volumes/03_Volume_III_colBN_C3_1_0_OCR.pdf",
+        "start_page": 236,
+        "end_page": 246,
+        "volume": 3
+    },
+    {
+        "pdf_path": "volumes/04_Volume_IV_colBN_C3_1_0_OCR.pdf",
+        "start_page": 275,
+        "end_page": 290,
+        "volume": 4
+    },
+    {
+        "pdf_path": "volumes/05_Volume_V_colBN_C3_1_0_OCR.pdf",
+        "start_page": 369,
+        "end_page": 397,
+        "volume": 5
+    },
+    {
+        "pdf_path": "volumes/06_Volume_VI_colBN_C3_1_0_OCR.pdf",
+        "start_page": 325,
+        "end_page": 354,
+        "volume": 6
+    },
+    {
+        "pdf_path": "volumes/07_Volume_VII_colBN_C3_1_0_OCR.pdf",
+        "start_page": 347,
+        "end_page": 389,
+        "volume": 7
+    },
+    {
+        "pdf_path": "volumes/08_Volume_VIII_colBN_C3_1_0_OCR.pdf",
+        "start_page": 246,
+        "end_page": 273,
+        "volume": 8
+    },
+    {
+        "pdf_path": "volumes/09_Volume_IX_colBN_C3_1_0_OCR.pdf",
+        "start_page": 273,
+        "end_page": 303,
+        "volume": 9
+    },
+    {
+        "pdf_path": "volumes/10_Volume_X_colBN_C3_1_0_OCR.pdf",
+        "start_page": 241,
+        "end_page": 274,
+        "volume": 10
+    },
+    {
+        "pdf_path": "volumes/11_Volume_XI_colBN_C3_1_0_OCR.pdf",
+        "start_page": 381,
+        "end_page": 410,
+        "volume": 11
+    },
+    {
+        "pdf_path": "volumes/12_Volume_XII_colBN_C3_1_0_OCR.pdf",
+        "start_page": 297,
+        "end_page": 324,
+        "volume": 12
+    },
+    {
+        "pdf_path": "volumes/13_Volume_XIII_colBN_C3_1_0_OCR.pdf",
+        "start_page": 351,
+        "end_page": 378,
+        "volume": 13
+    },
+    {
+        "pdf_path": "volumes/14_Volume_XIV_colBN_C3_1_0_OCR.pdf",
+        "start_page": 297,
+        "end_page": 316,
+        "volume": 14
+    }
+]

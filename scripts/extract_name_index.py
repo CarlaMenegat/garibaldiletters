@@ -22,7 +22,6 @@ def correct_ocr_errors(text):
     text = re.sub(r'([A-ZÁÉÍÓÚÑÜ]{2,}),\s*([a-záéíóúñü])', lambda m: f"{m.group(1)}, {m.group(2).upper()}", text)
     text = re.sub(r'\b([A-ZÁÉÍÓÚÑÜ][a-záéíóúñü]*)\b', lambda m: m.group(1).capitalize(), text)
     text = re.sub(r'\b(\w+)-\s+(\w+)\b', r'\1\2', text)
-    text = re.sub(r'\s*-?\s*(\d{4,})\s*-?\s*', ' ', text)  # Remove apenas números longos (prováveis números de página)
     text = re.sub(r',\s*,+', ',', text)  # Remove múltiplas vírgulas
     text = text.strip(', ')  # Remove vírgulas e espaços extras
     return text

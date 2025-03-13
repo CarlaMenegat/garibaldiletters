@@ -24,7 +24,6 @@ def correct_ocr_errors(text):
     text = re.sub(r'\b([A-ZÁÉÍÓÚÑÜ]{2,})[a-z]([A-ZÁÉÍÓÚÑÜ]*)\b', lambda m: m.group(1) + m.group(2).upper(), text)  # Corrige nomes com letras minúsculas no meio
     text = re.sub(r'([A-ZÁÉÍÓÚÑÜ]),\s*([a-záéíóúñü])', lambda m: f"{m.group(1)}, {m.group(2).upper()}", text)  # Corrige iniciais minúsculas após vírgulas
     text = re.sub(r'\b(\w+)-\s+(\w+)\b', r'\1\2', text)  # Remove hifens em palavras divididas
-    text = re.sub(r'\s*-?\s*(\d{4,})\s*-?\s*', ' ', text)  # Remove números longos (números de página)
     text = re.sub(r',\s*,+', ',', text)  # Remove múltiplas vírgulas
     text = text.strip(', ')  # Remove vírgulas e espaços extras
     return text

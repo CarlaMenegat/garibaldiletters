@@ -8,12 +8,12 @@ output_json = "/Users/carlamenegat/Documents/GitHub/final_project/Information-Mo
 
 # 📌 Função para extrair os dados do índice limpo
 def extract_data_from_cleaned_text(file_path, volume):
-    """Extrai nome, biografia e números de cartas de um índice limpo."""
+    """Extrai nome, biografia e páginas de um índice limpo."""
     with open(file_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
     
     entries = []
-    current_entry = {"name": "", "bio_note": "", "letters": [], "volume": volume}
+    current_entry = {"name": "", "bio_note": "", "pages": [], "volume": volume}
     
     for line in lines:
         line = line.strip()
@@ -22,26 +22,26 @@ def extract_data_from_cleaned_text(file_path, volume):
         if not line:
             continue
         
-        # Expressão regular para capturar nome, bio e números
+        # Expressão regular para capturar nome, bio e páginas
         match = re.match(r"^([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ,\s-]*)(.*?)(\d+(?:,\s*\d+)*)?$", line)
         
         if match:
             name = match.group(1).strip().rstrip(',')  # Remove vírgula final se houver
             bio = match.group(2).strip()
-            letters = match.group(3)
+            pages = match.group(3)
             
-            # Converte números das cartas em uma lista de inteiros
-            letter_numbers = [int(n) for n in letters.split(',')] if letters else []
+            # Converte números das páginas em uma lista de inteiros
+            page_numbers = [int(n) for n in pages.split(',')] if pages else []
             
             # Se já tivermos uma entrada em progresso, salvamos antes de iniciar a nova
             if current_entry["name"]:
                 entries.append(current_entry)
-                current_entry = {"name": "", "bio_note": "", "letters": [], "volume": volume}
+                current_entry = {"name": "", "bio_note": "", "pages": [], "volume": volume}
             
             # Atualiza a nova entrada
             current_entry["name"] = name
             current_entry["bio_note"] = bio
-            current_entry["letters"] = letter_numbers
+            current_entry["pages"] = page_numbers
         
         else:
             # Se não for uma nova entrada, é continuação da bio anterior

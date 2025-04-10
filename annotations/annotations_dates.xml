@@ -1,0 +1,31 @@
+<standOff xmlns="http://www.tei-c.org/ns/1.0">
+    <listEvent>
+      <event xml:id="D18481006">
+        <desc>Data da carta enviada por Garibaldi aos eleitores de Cicagna.</desc>
+        <date when="1848-10-06"/>
+      </event>
+    </listEvent>
+  
+    <spanGrp type="dates">
+      <span from="letterc4.xml#dt1" to="letterc4.xml#dt1" ana="#D18481006"/>
+    </spanGrp>
+
+    <event xml:id="D18651212">
+      <desc>Data da carta enviada por Garibaldi a Bruni, escrita em Caprera.</desc>
+      <date when="1865-12-12"/>
+    </event>
+    
+    <spanGrp type="dates">
+      <span from="letterc11.xml#dt1" to="letterc11.xml#dt1" ana="#D18651212"/>
+    </spanGrp>
+
+    <event xml:id="D18490429">
+      <desc>Letter from Garibaldi to the commander of the Legione degli Emigrati, written in Rome.</desc>
+      <date when="1849-04-29"/>
+    </event>
+
+    <event xml:id="D18620313">
+      <desc>Letter from Garibaldi to the National Education Committee, dated 13 March 1862.</desc>
+      <date when="1862-03-13"/>
+    </event>
+  </standOff>

@@ -1,0 +1,31 @@
+<standOff xmlns="http://www.tei-c.org/ns/1.0">
+    <listPlace>
+        <place xml:id="CIC">
+            <placeName>Cicagna</placeName>
+            <location>
+            <geo decl="WGS84">44.4092273, 9.2380064</geo>
+            </location>
+        </place>
+        <place xml:id="GEN">
+            <placeName>Genoa</placeName>
+            <location>
+            <geo decl="WGS84">44.4071,8.93399</geo>
+            </location>
+        </place>
+        <place xml:id="CAP">
+            <placeName>Caprera</placeName>
+            <location>
+                <geo decls="#WGS84">41.2072 9.4611</geo>
+            </location>
+        </place>
+        <place xml:id="ROM">
+            <placeName>Roma</placeName>
+            <location>
+                <geo decls="#WGS84">41.9028 12.4964</geo>
+            </location>
+            <place xml:id="VAT">
+                <placeName>Piazza del Vaticano</placeName>
+            </place>
+        </place>
+    </listPlace>
+</standOff>

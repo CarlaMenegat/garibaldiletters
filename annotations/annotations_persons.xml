@@ -1,0 +1,25 @@
+<standOff xmlns="http://www.tei-c.org/ns/1.0">
+
+    <listPerson>
+      <person xml:id="GAR">
+        <persName type="full" xml:lang="it">Giuseppe Garibaldi</persName>
+        <persName type="epithet">Hero of the Two Worlds</persName>
+        <alias>Joseph Garibaldi</alias>
+        <alias>José Garibaldi</alias>
+        <idno type="VIAF">https://viaf.org/en/viaf/100192194</idno>
+        <idno type="LOC">https://id.loc.gov/authorities/names/n79021124.html</idno>
+        <idno type="SBN">https://opac.sbn.it/risultati-autori/-/opac-autori/detail/CFIV001869</idno>
+      </person>
+
+      <person xml:id="BRU">
+        <persName>Bruni</persName>
+      </person>
+  
+      <person xml:id="CM">
+        <persName>Carla Menegat</persName>
+        <role>Editor</role>
+        <note>Responsible for transcription and editorial notes in this document.</note>
+      </person>
+    </listPerson>
+  
+</standOff>

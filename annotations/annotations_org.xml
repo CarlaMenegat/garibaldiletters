@@ -1,0 +1,16 @@
+<standOff xmlns="http://www.tei-c.org/ns/1.0">
+    <listOrg>
+        <org xml:id="CDC">
+            <orgName>Elettori del Colegio di Cicagna</orgName>
+            <note>
+                The electors of the College of Cicagna were part of the 2% of the population of the Kingdom of Sardinia able to vote for the Subalpine Parliament in 1848. Garibaldi was chosen to be the representative of this college, one of the 204 established at the time.
+            </note>
+        </org>
+        <org xml:id="CLE">
+            <orgName>Comandante della Legione Degli Emigrati</orgName>
+        </org>
+        <org xml:id="CIN">
+            <orgName>Comitato D'Istruzione Nazionale</orgName>
+        </org>
+    </listOrg>
+</standOff>

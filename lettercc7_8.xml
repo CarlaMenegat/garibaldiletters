@@ -6,85 +6,63 @@
                 <title>Lettera di Garibaldi, Giuseppe</title>
                 <author>Garibaldi, Giuseppe</author>
                 <respStmt>
-                    <resp>Transcription and editorial notes</resp>
-                    <name>Carla Menegat</name>
+                <resp>Transcription and editorial notes</resp>
+                <name>Carla Menegat</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>Estense Digital Library</publisher>
                 <idno type="UUID">efcbfbe7-cdfb-48bc-82d2-4c7a1fe9b39f</idno>
                 <availability status="restricted">
-                    <p>Restricted use according the guidelines of the archive.</p>
+                <p>Restricted use according the guidelines of the archive.</p>
                 </availability>
                 <license>CC BY-NC-SA</license>
                 <ptr target="https://edl.cultura.gov.it/item/koj8qngvj2"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>Biblioteca Estense Universitaria di Modena</repository>
-                        <idno>Garibaldi, Giuseppe, c. 7-8</idno>
-                    </msIdentifier>
-                    <msContents>
-                        <msItem>
-                            <title>Lettera di Garibaldi, Giuseppe</title>
-                            <author>Garibaldi, Giuseppe</author>
-                            <recipient></recipient>
-                            <date when="1862-03-13"/>
-                            <origPlace>
-                                <settlement type="villa">Villa Spinola</settlement>
-                                <settlement type="city">Genova</settlement>
-                            </origPlace>
-                        </msItem>
-                    </msContents>
+                <msIdentifier>
+                    <repository>Biblioteca Estense Universitaria di Modena</repository>
+                    <idno>Garibaldi, Giuseppe, c. 7-8</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                    <title>Lettera di Garibaldi, Giuseppe</title>
+                    <author>Garibaldi, Giuseppe</author>
+                    <recipient>Comitato D'Istruzione Nazionale</recipient>
+                    <date when="1862-03-13"/>
+                    <origPlace>
+                        <settlement type="villa">Villa Spinola</settlement>
+                        <settlement type="city">Genova</settlement>
+                    </origPlace>
+                    </msItem>
+                </msContents>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        
+        <encodingDesc>
+            <refsDecl>
+                <ref target="annotations_persons.xml"/>
+                <ref target="annotations_org.xml"/>
+                <ref target="annotations_places.xml"/>
+                <ref target="annotations_dates.xml"/>
+                <ref target="annotations_themes.xml"/>
+            </refsDecl>
+        </encodingDesc>
+        
         <profileDesc>
             <correspDesc resp="#CM">
                 <correspAction type="sent">
-                    <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
-                    <placeName ref="#GEN" cert="high">Genova</placeName>
-                    <date when="1862-03-13"/>
+                <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+                <placeName ref="#GEN" cert="high">Genova</placeName>
+                <date when="1862-03-13"/>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="#CIN" cert="high">Al Benemerito Comitato D'Istruzione Nazionale</orgName>
+                <orgName ref="#CIN" cert="high">Al Benemerito Comitato D'Istruzione Nazionale</orgName>
                 </correspAction>
             </correspDesc>
-            <textClass>
-                <keywords>
-                    <term>politics</term>
-                    <term>Risorgimento</term>
-                </keywords>
-            </textClass>
         </profileDesc>
-        <listPerson>
-            <person xml:id="GAR">
-                <persName type="full" xml:lang="it">Giuseppe Garibaldi</persName>
-                <persName type="epithet">Hero of the Two Worlds</persName>
-                <alias>Joseph Garibaldi</alias>
-                <alias>José Garibaldi</alias>
-                <idno type="VIAF">https://viaf.org/en/viaf/100192194</idno>
-                <idno type="LOC">https://id.loc.gov/authorities/names/n79021124.html</idno>
-                <idno type="SBN">https://opac.sbn.it/risultati-autori/-/opac-autori/detail/CFIV001869</idno>
-            </person>
-            <org xml:id="CIN">
-                <orgName>Comitato D'Istruzione Nazionale</orgName>
-            </org>
-            <person xml:id="CM">
-                <persName>Carla Menegat</persName>
-                <role>Editor</role>
-                <note>Responsible for transcription and editorial notes in this document.</note>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place xml:id="GEN">
-                <placeName>Genoa</placeName>
-                <location>
-                    <geo decl="WGS84">44.4071,8.93399</geo>
-                </location>
-            </place>
-        </listPlace>
     </teiHeader>
     <facsimile>
         <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/80c95aa4-6caa-438e-895e-81ff48ef75ca" format="image/jpeg" width="3515" height="5434"/>
@@ -100,7 +78,7 @@
                     </dateline>
                     <salute>Miei cari amici,</salute>
                 </opener>
-                <p>
+                <p xml:id="cc7-8-p1">
                     Accetando un amino riconoscente
                     <lb/>
                     la Presidenza offertami da cotesto Comitato, vi esorto

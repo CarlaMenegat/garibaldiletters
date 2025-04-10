@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<standOff xmlns="http://www.tei-c.org/ns/1.0" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  
+  <spanGrp type="themes">
+    <!-- letterc4.xml -->
+    <span from="letterc4.xml#c4p1" to="letterc4.xml#c4p2" ana="#elections">
+      <desc>Trecho da carta aos eleitores de Cicagna com conteúdo político.</desc>
+    </span>
+    <span from="letterc4.xml#c4p1" to="letterc4.xml#c4p2" ana="#risorgimento">
+      <desc>Referência ao movimento de unificação italiana (Risorgimento).</desc>
+    </span>
+
+    <!-- letterc11.xml -->
+    <span from="letterc11.xml#c11-p1" to="letterc11.xml#c11-p1" ana="#education">
+      <desc>Garibaldi’s statement linking education to political equality.</desc>
+    </span>
+    <!-- lettercc5_6.xml-->
+    <span from="lettercc5_6.xml#cc5-6-p1" to="lettercc5_6.xml#cc5-6-p2" ana="#risorgimento">
+      <desc>Passage referring to Italian national efforts and military unity during the Roman Republic.</desc>
+    </span>
+    <span from="lettercc5_6.xml#cc5-6-p1" to="lettercc5_6.xml#cc5-6-p2" ana="#repubblica_romana">
+      <desc>Contextual reference to the defense and coordination of the Roman Republic in 1849.</desc>
+    </span>
+    <span from="lettercc7_8.xml#cc7-8-p1" to="lettercc7_8.xml#cc7-8-p1" ana="#education">
+      <desc>Garibaldi’s support for educating youth in military skills through the National Education Committee.</desc>
+    </span>
+    <span from="lettercc7_8.xml#cc7-8-p1" to="lettercc7_8.xml#cc7-8-p1" ana="#risorgimento">
+      <desc>Promotion of patriotic ideals during the Italian unification movement.</desc>
+    </span>
+  </spanGrp>
+
+  <list>
+    <category xml:id="politics">
+      <catDesc xml:lang="en">Themes related to political ideas, governance, and activism.</catDesc>
+    </category>
+    <category xml:id="risorgimento">
+      <catDesc xml:lang="en">Themes related to the Italian unification movement (Risorgimento).</catDesc>
+    </category>
+    <category xml:id="education">
+      <catDesc xml:lang="en">Themes related to education, learning, and schools.</catDesc>
+    </category>
+    <category xml:id="repubblica_romana">
+      <catDesc xml:lang="en">Themes related to the short-lived Roman Republic of 1849.</catDesc>
+    </category>
+  </list>
+
+</standOff>

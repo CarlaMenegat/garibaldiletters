@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<standOff xmlns="http://www.tei-c.org/ns/1.0">
+  <spanGrp type="entidade">
+    <span from_="#pl1" to="#pl1" ana="#GEN">
+      <desc>Genova, cidade italiana de onde Garibaldi escreveu a carta.</desc>
+    </span>
+    <span from_="#dt1" to="#dt1" ana="#D18481006">
+      <desc>Data da carta: 6 de outubro de 1848.</desc>
+    </span>
+    <span from_="#sig1" to="#sig1" ana="#GAR">
+      <desc>Assinatura de Giuseppe Garibaldi, o autor da carta.</desc>
+    </span>
+  </spanGrp>
+  <spanGrp type="tema">
+    <span from_="#p1" to="#p2" ana="#politica">
+      <desc>Discurso político aos eleitores de Cicagna.</desc>
+    </span>
+  </spanGrp>
+  <listPerson>
+    <person id="GAR">
+      <persName type="full">Giuseppe Garibaldi</persName>
+      <birth when="1807-07-04"/>
+      <death when="1882-06-02"/>
+      <idno type="VIAF">https://viaf.org/viaf/100192194</idno>
+    </person>
+  </listPerson>
+  <listPlace>
+    <place id="GEN">
+      <placeName>Genova</placeName>
+      <location>
+        <geo>44.4056, 8.9463</geo>
+      </location>
+    </place>
+  </listPlace>
+  <listEvent>
+    <event id="D18481006">
+      <desc>Data da escrita da carta por Garibaldi em Genova.</desc>
+      <date when="1848-10-06"/>
+    </event>
+  </listEvent>
+</standOff>

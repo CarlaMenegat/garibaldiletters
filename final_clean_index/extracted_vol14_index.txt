@@ -1,519 +1,407 @@
-ACROLLES, Mtendente dell'armata dei Vosgi, 246, 261 
-Agrati, Carlo, 158, 161 
-ALDISIO SAMMITO, MARIO (1835-1902), esponente tra i più attivi del 
-movimento garibaldmo in Sicilia, 32, 43, 59, 74, 87 
+ACROLLES, intendente dell'armata dei Vosgi, 246, 261 
+AGRATI, CARLO, 158, 161 
+ALDISIO SAMMITO, MARIO (1835-1902), esponente tra i più attivi del movimento garibaldino in Sicilia, 32, 43, 59, 74, 87 
 ALFIERI, VITTORIO (1749-1803), poeta, 119, 128 
 ALIGHIERI, DANTE (1265-1321), poeta, 11, 21 
 ALINARI, GIUSEPPE (1836-1890), fotografo, 47 
-Antonucci, Giovanni, 123 
-ARMOSINO, FELICINA, Figha di Francesca, 174, 180, 212, 241 
-ARMOSINO, FRANCESCA, Diede tre figh, Cleha, Rosa e Manho a Gmseppe Garibaldi che la sposò nel 1880, 75, 148, 149, 150, 169, 174, 
-178, 180, 184, 189, 196, 201,212,213,216,219,241,247,259 
-ARMOSINO, Fratello di Francesca, 189, 196, 201, 241 
-ARMOSINO, Padre di Francesca, 148, 189, 196, 201, 217, 219, 241 
-ARNOLD, Sir ARTHUR (1833-1902), uomo politico e giornahsta mglese, 
-editore dell'Echo, 214 
-Aspesi, Natalia, 18 
-ASPRONI, GIORGIO (1809-1876), giornahsta, deputato, 55 
-AsTRUE, Presidente del Comitato regionale franco-italiano dell'armata 
-dei Vosgi, 222, 223 
-AzEGLIO, VITTORIO EMANUELE TAPARELLI D', diplomatico, 19 
-BAGANTI, EDILIO, Spediziomere livornese, 88, 142, 176, 206, 242 
-BAGHINO, GIACINTO (1841-1895), colonnello dell'armata dei Vosgi, 241 
-BAGNASCO, ROSARIO (1810-1879), scultore, orgamzzatore del partito 
-d'azione in Sicilia, 49 
-
--270BAGNASCO, Moglie di Rosario, 49 
-BAILLEHACHE, Mtendente dell'armata dei Vosgi, 179, 189 
-BARBÈS, ARMAND (1809-1870), repubblicano francese, 106 
+ANTONUCCI, GIOVANNI, 123 
+ARMOSINO, FELICINA, figlia di Francesca, 174, 180, 212, 241 
+ARMOSINO, FRANCESCA, diede tre figli, Clelia, Rosa e Manho a Giuseppe Garibaldi che la sposò nel 1880, 75, 148, 149, 150, 169, 174, 178, 180, 184, 189, 196, 201, 212, 213, 216, 219, 241, 247, 259 
+ARMOSINO, fratello di Francesca, 189, 196, 201, 241 
+ARMOSINO, padre di Francesca, 148, 189, 196, 201, 217, 219, 241 
+ARNOLD, SIR ARTHUR (1833-1902), uomo politico e giornalista inglese, editore dell'Echo, 214 
+ASPESI, NATALIA, 18 
+ASPRONI, GIORGIO, (1809-1876), giornalista, deputato, 55 
+ASTRUE, presidente del Comitato regionale franco-italiano dell'armata dei Vosgi, 222, 223 
+AZEGLIO, VITTORIO EMANUELE TAPARELLI D', diplomatico, 19 
+BAGANTI, EDILIO, spediziomere livornese, 88, 142, 176, 206, 242 
+BAGHINO, GIACINTO, (1841-1895), colonnello dell'armata dei Vosgi, 241 
+BAGNASCO, ROSARIO, (1810-1879), scultore, organizzatore del partito d'azione in Sicilia, 49 
+BAGNASCO, moglie di Rosario, 49 
+BAILLEHACHE, intendente dell'armata dei Vosgi, 179, 189 
+BARBÈS, ARMAND, (1809-1870), repubblicano francese, 106 
 BARBORINI, EDOARDO, Mgegnere, 20 
-BARGONI, ANDREA, Ragazzo della Maddalena mviato in Inghilterra 
-presso la signora Chambers, ó5, ó6, 75, 76, 86, 95 
-BARGONI, ANGELO, Padre di Andrea, 76, 82 
-BARNI, RUGGERO, Medico senese, 37 
-BARSANTI, Famiglia, 136 
-BARSANTI, PIETRO, Condannato a morte per aver partecipato ai movimenti msurrezionali dell'estate 1870, 98, 134 
-BARTHOLDI, FRÉDÉRIC-AUGUSTE (1834-1904), scultore, fu ufficiale di 
-Garibaldi durante la guerra franco-prussiana, 221 
-BASSANESI, Capitano, comandante la compagma delle mitragliatrici 
-dell'armata dei Vosgi, 235 
-BASSI, UGO (1801-1849), cappellano della legione ganbaldma fucilato 
-dagli austriaci, 118 
-BASSO, GIOVANNI (1824-1884), segretano di Garibaldi, 19, 20, 26, 39, 
-ó4, 71,82, 120, 122, 129, 149,237,247,252 
-BAUME, ALBERT, Direttore del giornale Rappel de Prouence, 39 
+BARGONI, ANDREA, ragazzo della Maddalena inviato in Inghilterra presso la signora Chambers, 65, 66, 75, 76, 86, 95 
+BARGONI, ANGELO, padre di Andrea, 76, 82 
+BARNI, RUGGERO, medico senese, 37 
+BARSANTI, famiglia, 136 
+BARSANTI, PIETRO, condannato a morte per aver partecipato ai movimenti msurrezionali dell'estate 1870, 98, 134 
+BARTHOLDI, FRÉDÉRIC-AUGUSTE (1834-1904), scultore, fu ufficiale di Garibaldi durante la guerra franco-prussiana, 221 
+BASSANESI, capitano, comandante la compagma delle mitragliatrici dell'armata dei Vosgi, 235 
+BASSI, UGO, (1801-1849), cappellano della legione garibaldina fucilato dagli austriaci, 118 
+BASSO, GIOVANNI, (1824-1884), segretano di Garibaldi, 19, 20, 26, 39, 64, 71, 82, 120, 122, 129, 149, 237, 247, 252 
+BAUME, ALBERT, direttore del giornale Rappel de Prouence, 39 
 BAUMÈS, Vicemtendente dell'armata dei Vosgi, 262 
-BERTANI, AGOSTINO (1812-1886), deputato, ó7, 70 
-BIANCHETTI, GIUSEPPE VALERIO, Scrittore, 23 
-BIANCHI, ITALO, Mpote di Riboli, funzionano del Mmistero dei Lavori 
-Pubblici, 204 
+BERTANI, AGOSTINO (1812-1886), deputato, 67, 70 
+BIANCHETTI, GIUSEPPE VALERIO, scrittore, 23 
+BIANCHI, ITALO, nipote di Riboli, funzionano del Mmistero dei Lavori Pubblici, 204 
 BIASIOLI, GEROLAMO, 14, 121 
-BIGNAMI, ENRICO, Giornalista, 12 
-BISMARCK-SCHONHAUSEN, OTTO, Prmcipe von, cancelliere tedesco, 240 
-
--271BIZZONI, ACHILLE, Direttore del giornale Gazzettino rosa, partecipò alla campagna dei Vosgi, 30, 111, 209 
-BLANC, LOUIS (1811-1881), storico e uomo politico francese, 106 
-BLENGINI, CESARE ALBERTO, Dmgente della Società dei reduci di Volo, , 129
-BOGEARD, Geometra francese, 230 
-BONAPARTE, PIERRE-NAPOLÉON (1815-1881), prmcipe, 15 
-BONINI, PIETRO (1844-1905), letterato friulano, 81 
-BONNERIAL, MARIE, Dirigente del Comitato degh mteressi ganbaldim 
-di Lione, 221 
-BORBONE DELLE DUE SICILIE, Dmastia, ó1 
-BORDONE, JOSEPH-PHILIPPE-TOUSSAINT, Capo di Stato maggiore dell'armata dei Vosgi, 140, 157, 158, 159, 163, 164, 165, 167, 169, 
-171, 174, 175, 176, 177, 178, 182, 189, 192, 193, 197, 202, 203, 
-20~ 215, 223, 227, 229, 23~ 231, 232, 233, 23~ 235, 23~ 23~ 
-239,240,244,246,249,251,252,254,255,261,262,263,266 
-BOURBAKI, CHARLES-DENIS-SAUTER (1816-1897), generale francese, 239 
-BRUNETTI, ANGELO detto CICERUACCHIO (1800-1849), patriota romano, , 118
-BRUZZESI, GIACINTO (1822-1900), colonnello, 246 
-BURATTINI, CARLO (1827-1870), capitano mercantile, 123 
-CAIROLI, BENEDETTO (1825-1889), deputato, 4, 55, ó6, ó7, 88, 114, 220, , 221
-CAIROLI, Famiglia, 45 
-CAIROLI BONO, ADELAIDE (1806-1871), madre di Benedetto, Enrico, 
-Luigi, Ernesto e Giovanm, 3, 4, 45, 88, 221 
-CALDES!, VINCENZO (1817-1870), ganbaldmo romagnolo, 27, 118 
-CALICCHIO, FRANCESCO, Democratico napoletano, 4, 5 
-CAMBÈRE, Chirurgo della manna francese, 161 
-
--272CAMBRIELS, ALBERT, Generale francese, 158, 163, 164, 165, 168, 170, , 175
-CAMOZZI CORALLI, ALBA, Vedova di Gabriele, 23, 24, 89, 113, 121, 129 
-Campanella, Anthony P, 8, 19, 36, ó3, 80, 96, 135, 141, 168, 180, , 195
-CAMPANELLA, FEDERICO (1804-1884), giornalista di idee repubblicane, 
-90, 106, 108, 122 
-CANZIO, ANZANI, Figlio di Stefano e di Teresa Garibaldi, 93 
-CANZIO, LINCOLN, Figlio di Stefano e di Teresa Garibaldi, 114 
-CANZIO, MAMELI, Figlio di Stefano e di Teresa Garibaldi, 93 
-CANZIO, STEFANO (1837-1909), genero di Garibaldi, comandante del 
-Quartier generale, poi della qumta brigata dell'armata dei Vosgi, 
-12, 24, 28, 32, 44, 53, 56, ó3, ó7, ó8, ó9, 81, 93, 98, 101, 114, 122, 
-126, 129, 132, 133, 137, 139, 140, 146,203,249,251,255 
-CANZIO GARIBALDI, TERESA (1845-1903), figlia di Gmseppe e di Amta 
-Ribeiro e moglie di Stefano Canzio, 24, 28, 32, 44, 53, 56, ó3, 82, 
-93, 9~ 101, 102, 11~ 122, 12~ 129, 13~ 133, 13~ 14~ 14~ 19~ 
-201,231,249,259 
-Capone, Claudio, 72 
-CARCASSI, GIUSEPPE (1823-1875), avvocato, deputato, 25 
-CARIOLATO, DOMENICO (1836-1910), garibaldino VIcentmo, 98 
+BIGNAMI, ENRICO, giornalista, 12 
+BISMARCK-SCHONHAUSEN, OTTO, principe von, cancelliere tedesco, 240 
+BIZZONI, ACHILLE, direttore del giornale Gazzettino rosa, partecipò alla campagna dei Vosgi, 30, 111, 209 
+BLANC, LOUIS, (1811-1881), storico e uomo politico francese, 106 
+BLENGINI, CESARE ALBERTO, dirigente della Società dei reduci di Volo, 129
+BOGEARD, geometra francese, 230 
+BONAPARTE, PIERRE-NAPOLÉON, (1815-1881), principe, 15 
+BONINI, PIETRO, (1844-1905), letterato friulano, 81 
+BONNERIAL, MARIE, dirigente del Comitato degli interessi garibaldini di Lione, 221 
+BORBONE DELLE DUE SICILIE, dinastia, 61 
+BORDONE, JOSEPH-PHILIPPE-TOUSSAINT, capo di Stato maggiore dell'armata dei Vosgi, 140, 157, 158, 159, 163, 164, 165, 167, 169, 171, 174, 175, 176, 177, 178, 182, 189, 192, 193, 197, 202, 203, 207, 215, 223, 227, 229, 230, 231, 232, 233, 234, 235, 237, 238, 239, 240, 244, 246, 249, 251, 252, 254, 255, 261, 262, 263, 266 
+BOURBAKI, CHARLES-DENIS-SAUTER, (1816-1897), generale francese, 239 
+BRUNETTI, ANGELO detto CICERUACCHIO, (1800-1849), patriota romano, 118
+BRUZZESI, GIACINTO, (1822-1900), colonnello, 246 
+BURATTINI, CARLO, (1827-1870), capitano mercantile, 123 
+CAIROLI, BENEDETTO, (1825-1889), deputato, 4, 55, 66, 67, 88, 114, 220, 221
+CAIROLI, famiglia, 45 
+CAIROLI BONO, ADELAIDE, (1806-1871), madre di Benedetto, Enrico, Luigi, Ernesto e Giovanni, 3, 4, 45, 88, 221 
+CALDESI, VINCENZO, (1817-1870), garibaldino romagnolo, 27, 118 
+CALICCHIO, FRANCESCO, democratico napoletano, 4, 5 
+CAMBÈRE, chirurgo della marina francese, 161 
+CAMBRIELS, ALBERT, generale francese, 158, 163, 164, 165, 168, 170, 175
+CAMOZZI CORALLI, ALBA, vedova di Gabriele, 23, 24, 89, 113, 121, 129 
+CAMPANELLA, ANTHONY P, 8, 19, 36, 63, 80, 96, 135, 141, 168, 180, 195
+CAMPANELLA, FEDERICO (1804-1884), giornalista di idee repubblicane, 90, 106, 108, 122 
+CANZIO, ANZANI, figlio di Stefano e di Teresa Garibaldi, 93 
+CANZIO, LINCOLN, figlio di Stefano e di Teresa Garibaldi, 114 
+CANZIO, MAMELI, figlio di Stefano e di Teresa Garibaldi, 93 
+CANZIO, STEFANO, (1837-1909), genero di Garibaldi, comandante del Quartier generale, poi della quinta brigata dell'armata dei Vosgi, 12, 24, 28, 32, 44, 53, 56, 63, 67, 68, 69, 81, 93, 98, 101, 114, 122, 126, 129, 132, 133, 137, 139, 140, 146, 203, 249, 251, 255 
+CANZIO GARIBALDI, TERESA, (1845-1903), figlia di Giuseppe e di Anita Ribeiro e moglie di Stefano Canzio, 24, 28, 32, 44, 53, 56, 63, 82, 93, 98, 101, 102, 114, 122, 127, 129, 132, 133, 137, 140, 146, 198, 201, 231, 249, 259 
+CAPONE, CLAUDIO, 72 
+CARCASSI, GIUSEPPE, (1823-1875), avvocato, deputato, 25 
+CARIOLATO, DOMENICO, (1836-1910), garibaldino Vicentino, 98 
 CARNOVALE, SILVESTRO, 12 
-CARRARA, FRANCESCO, Avvocato, 8, 9, 130, 131 
+CARRARA, FRANCESCO, avvocato, 8, 9, 130, 131 
 CASANOVA DE VILLAVERDE, EMILIA, 12, 13, 28, 29 
-CASELLA, COSTANZA, Mpote di 4J.ba Camozzi Coralli, 89 
-CASSELL, Editori mglesi, 93 
-CASTELLAZZO, LUIGI (1827-1890), condannato all'ergastolo a Roma nel 
-1867 fu liberato dopo la conqmsta italiana della città, 146 
-CAVALLOTTI, FELICE (1842-1898), giornalista repubblicano, 111 
-
--273Cavazzani Sentieri, Aida, 250 
-CAVE,76 
-CAZOT, THÉODORE-JULES, Uomo politico francese, 221 
-Cazzarolli, Giovanni, 104 
-CENERI, GIUSEPPE (1827-1898), avvocato, deputato, 27 
+CASELLA, COSTANZA, nipote di 4J.ba Camozzi Coralli, 89 
+CASSELL, editori inglesi, 93 
+CASTELLAZZO, LUIGI, (1827-1890), condannato all'ergastolo a Roma nel 1867 fu liberato dopo la conquista italiana della città, 146 
+CAVALLOTTI, FELICE, (1842-1898), giornalista repubblicano, 111 
+CAVAZZANI SENTIERI, AIDA, 250 
+CAVE, 76 
+CAZOT, THÉODORE-JULES, uomo politico francese, 221 
+CAZZAROLI, GIOVANNI, 104 
+CENERI, GIUSEPPE, (1827-1898), avvocato, deputato, 27 
 CEVASCO, GIOVAN BATTISTA, 87 
-CHALLEMEL-LACOUR, PAUL-ARMAND (1827-1896), prefetto delle Bocche 
-del Rodano dal settembre 1870 al 5 febbraio 1871, 157, 189 
-CHAMBERS, BABY, Figha di John e Mary Ehsabeth, 24 
-CHAMBERS, JOHN HICKINBOTHAM, Generale mglese, 29, 38, 59, 86, 93, , 113
-CHAMBERS, MARY ELISABETH, Maghe di John, finanziatrice di scuole 
-sarde, Ó, Io, 15, 18, 20, 24, 28, 32, 38, 59, ó5, 75, 82, 86, 89, 92, 
-102, 113, 120, 121, 129,206,216 
-CHENET, EDOUARD, Colonnello, comandante della guerriglia francese 
-d'oriente nell'armata dei Vosgi, 262, 263, 264, 265, 266 
-CHÉNIER, ANDRÉ DE (1762-1794), poeta francese, 174, 224 
-CHEVASSUS, ADOLPHE, Democratico francese, 200 
-Ciampoli, Domenico, 5 
-CICERUACCHIO, Vedi BRUNETTI, ANGELO 
-CIVALLERI, FRANCESCO (1837-1902), funzionario delle poste, 35, 41 
-CIVALLERI DoRANT, FLORA, Figha di Wilham Dorant, ex viceconsole 
-britanmco a Napoh, maghe di Francesco Civalleri, 35, 42 
-COCCAPIELLER, FRANCESCO, Giornalista, 98 
-COLLI, LUIGI, Presidente della fratellanza operaia di Pegognaga, 91 
-COLTELLETTI, LUIGI, Genovese, compare di Garibaldi, 204 
-Comes, Salvatore, ó9 
-COMINAZZI, P , esponente nel 1848 della democrazia milanese, ó5 
-
--274COMPORTHWAITE, Maestra mglese, Ó, 25 
+CHALLEMEL-LACOUR, PAUL-ARMAND, (1827-1896), prefetto delle Bocche del Rodano dal settembre 1870 al 5 febbraio 1871, 157, 189 
+CHAMBERS, BABY, figlia di John e Mary Elisabeth, 24 
+CHAMBERS, JOHN HICKINBOTHAM, generale inglese, 29, 38, 59, 86, 93, 113
+CHAMBERS, MARY ELISABETH, moglie di John, finanziatrice di scuole sarde, 6, Io, 15, 18, 20, 24, 28, 32, 38, 59, 65, 75, 82, 86, 89, 92, 102, 113, 120, 121, 129, 206, 216 
+CHENET, EDOUARD, colonnello, comandante della guerriglia francese d'oriente nell'armata dei Vosgi, 262, 263, 264, 265, 266 
+CHÉNIER, ANDRÉ DE, (1762-1794), poeta francese, 174, 224 
+CHEVASSUS, ADOLPHE, democratico francese, 200 
+CIAMPOLI, DOMENICO, 5 
+CICERUACCHIO, vedi BRUNETTI, ANGELO 
+CIVALLERI, FRANCESCO, (1837-1902), funzionario delle poste, 35, 41 
+CIVALLERI DORANT, FLORA, figlia di Wilham Dorant, ex viceconsole britannico a Napoli, moglie di Francesco Civalleri, 35, 42 
+COCCAPIELLER, FRANCESCO, giornalista, 98 
+COLLI, LUIGI, presidente della fratellanza operaia di Pegognaga, 91 
+COLTELLETTI, LUIGI, genovese, compare di Garibaldi, 204 
+COMES, SALVATORE, 69 
+COMINAZZI, P, esponente nel 1848 della democrazia milanese, 65 
+COMPORTHWAITE, maestra inglese, 6, 25 
 CORBIN, 216 
-CORNIBERT, Capitano francese, giudice della Corte marziale, 264 
-CORRENTI, CESARE, Mimstro della pubblica istruzione dal 14 dicembre 
-1869 al i 7 maggio 1872, 8 
+CORNIBERT, capitano francese, giudice della Corte marziale, 264 
+CORRENTI, CESARE, ministro della pubblica istruzione dal 14 dicembre 1869 al 17 maggio 1872, 8 
 CORVETTO, LUIGI EMANUELE (1756-1821), conte, uomo politico, 87 
-COSTA, GIOVANNI BATTISTA, Sottotenente dell'armata dei Vosgi, 260 
-CRÉMER, CAMILLE, Generale francese, 202, 207 
-CRÉMIEUX, LSAAC-MOISE detto ADOLPHE (1796-1889), mmistro guardasigilli nel Governo della difesa nazionale francese, presidente della delegazione di Governo a Tours, poi a Bordeaux, i 79 
-CRISPI, FRANCESCO (1819-1901), deputato, ó3, 108, 112 
-CRISPI MONTMASSON, ROSALIA (1826-1904), moglie in prime nozze di 
-Francesco, ó4 
-CUCCHI, FRANCESCO (1834-1913), deputato, 112, 123 
-Curatulo, Giacomo Emilio, 18, 56, 97, 110, 117, 125, 160 
-CURZIO, FRANCESCO, Avvocato, deputato, 106 
-DAELLI, GINO, Editore, 55 
-DALPRETE,87 
-DE BENEDETTI, ANGELO, Ex deputato, 19 
-DE NOBILI, FILIPPO, Ó8 
-DELACOUR, Chirurgo della marina francese, 161 
+COSTA, GIOVANNI BATTISTA, sottotenente dell'armata dei Vosgi, 260 
+CRÉMER, CAMILLE, generale francese, 202, 207 
+CRÉMIEUX, LSAAC-MOISE, detto ADOLPHE (1796-1889), ministro guardasigilli nel Governo della difesa nazionale francese, presidente della delegazione di Governo a Tours, poi a Bordeaux, 179 
+CRISPI, FRANCESCO, (1819-1901), deputato, 63, 108, 112 
+CRISPI MONTMASSON, ROSALIA, (1826-1904), moglie in prime nozze di Francesco, 64 
+CUCCHI, FRANCESCO, (1834-1913), deputato, 112, 123 
+CURATULO, GIACOMO EMILIO, 18, 56, 97, 110, 117, 125, 160 
+CURZIO, FRANCESCO, avvocato, deputato, 106 
+DAELLI, GINO, editore, 55 
+DALPRETE, 87 
+DE BENEDETTI, ANGELO, ex deputato, 19 
+DE NOBILI, FILIPPO, 68 
+DELACOUR, chirurgo della marina francese, 161 
 DELANOUI, J., 147 
-DELPÈCHE, Colonnello, comandante di una brigata dell'armata dei Vosgi, 185, 222, 246 
-Di Porto, Bruno, 58, 105 
-DOGLIOTTI, ORAZIO (1803-1892), maggiore di artiglieria, 31, 114, 120 
-
--275DOLFI, GIUSEPPE (1818-1869), esponente della democrazia fiorentma e 
-orgamzzatore del movimento operaio, 37 
-DOLFI, MEMMO, Figlio di Gmseppe, 14 
-DOMBROWSKI, JAROSLAV (1836-1871), patriota polacco, comandante 
-della piazza di Parigi durante la Comune morì combattendo sulle 
-barricate, 184 
+DELPÈCHE, colonnello, comandante di una brigata dell'armata dei Vosgi, 185, 222, 246 
+DI PORTO, BRUNO, 58, 105 
+DOGLIOTTI, ORAZIO, (1803-1892), maggiore di artiglieria, 31, 114, 120 
+DOLFI, GIUSEPPE, (1818-1869), esponente della democrazia fiorentina e organizzatore del movimento operaio, 37 
+DOLFI, MEMMO, figlio di Giuseppe, 14 
+DOMBROWSKI, JAROSLAV (1836-1871), patriota polacco, comandante della piazza di Parigi durante la Comune morì combattendo sulle barricate, 184 
 DROCCO,FRANCESCO, 126 
-Ehrentreich, Alfred, 45, 83, 115 
-EMMANUELE, Ordmanza della Mano, 245 
-ESTIVAL, VIRGILIO (1836-1870), scrittore, 25 
-EUDELINE, Tenente colonnello dell'armata dei Vosgi, 228 
-FABBRI, ANGELICO (1822-1886), ganbaldmo umbro, 102 
-FABRIZI, NICOLA (1804-1885), generale, deputato, 112, 114, 120, 217, 
-220,250 
-Falangola, Mario E , 172 
-Falzone, Gaetano, 202 
-FAMBRI, PAOLO, Giornalista, deputato, 99, 111 
-FARCY, CAMILLE, Capitano, addetto allo Stato Maggiore dell'armata 
-dei Vosgi, 261 
+EHRENTREICH, ALFRED, 45, 83, 115 
+EMMANUELE, ordinanza della Mano, 245 
+ESTIVAL, VIRGILIO, (1836-1870), scrittore, 25 
+EUDELINE, tenente colonnello dell'armata dei Vosgi, 228 
+FABBRI, ANGELICO (1822-1886), garibaldino umbro, 102 
+FABRIZI, NICOLA (1804-1885), generale, deputato, 112, 114, 120, 217, 220, 250 
+FALANGOLA, MARIO E, 172 
+FALZONE, GAETANO, 202 
+FAMBRI, PAOLO, giornalista, deputato, 99, 111 
+FARCY, CAMILLE, capitano, addetto allo Stato Maggiore dell'armata dei Vosgi, 261 
 FASCINATO, GIOVAN BATTISTA, 9, 13 
-FEBO, VINCENZO, Sottotenente dell'armata dei Vosgi, 261 
-FELICIOLI, VIRGINIO, Redattore del giornale Lucifero, 12 
-FERRAR!, EMILIO, Medico, 101, 159 
-FIGOLI, CARLO, Armatore genovese, ex deputato, 56, ó6 
-FILOPANTI, QUIRICO, Pseudommo di BARILLI, GIUSEPPE (1812-1894), 
-professore di meccamca e idraulica all'Umversità di Bologna, 27, 
-29, 118 
-
--276FINOCCHIARO APRILE, CAMILLO (1851-1916), fu arrestato nell'agosto 
-1870 in occasione del fallito tentativo repubblicano in Sicilia, 90 
-FLOTTE, PAUL, DE, Ufficiale di marma francese morto nel 1860 a Solano mentre combatteva i borbomci, 25 
-FLOURENS, GUSTAVE (1838-1871), uomo politico francese, 76 
-FOLDI, CARLO, Dottore, orgamzzatore degli operai di Milano, 111 
-FRANCESCO II (1836-1894), ultimo re delle Due Sicilie, ó7 
-Franciosi, Pietro, 35 
-FRAPOLLI, LUDOVICO (1815-1878), deputato, gran maestro della massoneria fino al settembre 1870, capo di Stato Maggiore dell'armata dei Vosgi, pm capo del corpo autonomo di volontari 
-« L'Etmle », 56, 108, 157, 176, 178 
-FREYCINET, CHARLES-LOUIS DE SAULSES, DE (1828-1923), delegato alla 
-Guerra nel Governo di difesa nazionale francese dall'l i ottobre 
-1870, 182, 189, 196, 205, 215, 226, 230, 232, 238, 239, 240, 252, 
-253,256 
+FEBO, VINCENZO, sottotenente dell'armata dei Vosgi, 261 
+FELICIOLI, VIRGINIO, redattore del giornale Lucifero, 12 
+FERRAR!, EMILIO, medico, 101, 159 
+FIGOLI, CARLO, armatore genovese, ex deputato, 56, 66 
+FILOPANTI, QUIRICO, pseudommo di BARILLI, GIUSEPPE (1812-1894), professore di meccanica e idraulica all'Università di Bologna, 27, 29, 118 
+FINOCCHIARO APRILE, CAMILLO, (1851-1916), fu arrestato nell'agosto 1870 in occasione del fallito tentativo repubblicano in Sicilia, 90 
+FLOTTE, PAUL DE, ufficiale di marina francese morto nel 1860 a Solano mentre combatteva i borbomci, 25 
+FLOURENS, GUSTAVE, (1838-1871), uomo politico francese, 76 
+FOLDI, CARLO, dottore, organizzatore degli operai di Milano, 111 
+FRANCESCO II, (1836-1894), ultimo re delle Due Sicilie, 67 
+FRACIOSI, PIETRO, 35 
+FRAPOLLI, LUDOVICO, (1815-1878), deputato, gran maestro della massoneria fino al settembre 1870, capo di Stato Maggiore dell'armata dei Vosgi, poi capo del corpo autonomo di volontari « L'Etoile », 56, 108, 157, 176, 178 
+FREYCINET, CHARLES-LOUIS DE SAULSES DE, (1828-1923), delegato alla Guerra nel Governo di difesa nazionale francese dall'l 1 ottobre 1870, 182, 189, 196, 205, 215, 226, 230, 232, 238, 239, 240, 252, 253, 256 
 GALATI, 103 
-GALLI, ROBERTO, Deputato, 250 
-GALPIN, S.D , mglese, finanziatore delle scuole sarde, 86 
-GAMBETTA, LÉON (1838-1882), mimstro dell'mterno e della guerra del 
-Governo proVVlsorio francese, 158, 162, 172, 175, 184, 221, 242 
-GARIBALDI, ANITA (1859-1875), figlia di Gmseppe e di Battistma Ravello, 18,97, 109, 110, 128,259 
-GARIBALDI, CLELIA (1867-1959), figlia di Giuseppe e di Francesca Armosmo, 20, 97, 132, 148, 149, 150, 169, 174, 178, 180, 184, 189, 
-196,201,212,213,216,217,219,241 
-GARIBALDI, MENOTTI (DOMENICO) (1840-1903), figlio di Gmseppe e di 
-Amta Ribeiro, comandante della terza brigata dell'armata dei Vosgi, ó3, ó7, 70, 90, 95, 115, 130, 132, 147, 157, 165, 167, 198, 202, 
-204,207,208,209,215,217,238,247,248,249,252,255,259 
-GARIBALDI, RICCIOTTI (1847-1924), figlio di Gmseppe e di Amta Ribeiro, comandante della quarta brigata dell'armata dei Vosgi, ó7, ó8, 
-
--27770, 114, 115, 157, 182, 186, 193, 194, 196, 198, 203,204,205,213, 
-215,217,219,220,224,237,249,255,259,261,262 
-GARIBALDI, ROSA (1869-1871), figlia di Gmseppe e di Francesca Armosmo, 80, 87, 92, 97, 105, 148, 149, 150, 169, 174, 178, 180, 184, 
-189, 196,201,212,213,216,217,219,247 
-GARIBALDI, TERESA, Vedi CANZIO GARIBALDI, TERESA 
-GARIBALDI BIDISCHINI, ITALIA, Moglie di Menotti, 95, 115, 132, 181, 
-198,209,214 
+GALLI, ROBERTO, deputato, 250 
+GALPIN, S.D, inglese, finanziatore delle scuole sarde, 86 
+GAMBETTA, LÉON, (1838-1882), ministro dell'interno e della guerra del Governo provisorio francese, 158, 162, 172, 175, 184, 221, 242 
+GARIBALDI, ANITA, (1859-1875), figlia di Giuseppe e di Battistina Ravello, 18,97, 109, 110, 128,259 
+GARIBALDI, CLELIA, (1867-1959), figlia di Giuseppe e di Francesca Armosmo, 20, 97, 132, 148, 149, 150, 169, 174, 178, 180, 184, 189, 196, 201, 212, 213, 216, 217, 219, 241 
+GARIBALDI, MENOTTI (DOMENICO), (1840-1903), figlio di Giuseppe e di 
+Anita Ribeiro, comandante della terza brigata dell'armata dei Vosgi, 63, 67, 70, 90, 95, 115, 130, 132, 147, 157, 165, 167, 198, 202, 204, 207, 208, 209, 215, 217, 238, 247, 248, 249, 252, 255, 259 
+GARIBALDI, RICCIOTTI, (1847-1924), figlio di Giuseppe e di Anita Ribeiro, comandante della quarta brigata dell'armata dei Vosgi, 67, 68, 70, 114, 115, 157, 182, 186, 193, 194, 196, 198, 203, 204, 205, 213, 215, 217, 219, 220, 224, 237, 249, 255, 259, 261, 262 
+GARIBALDI, ROSA (1869-1871), figlia di Giuseppe e di Francesca Armosmo, 80, 87, 92, 97, 105, 148, 149, 150, 169, 174, 178, 180, 184, 189, 196, 201, 212, 213, 216, 217, 219, 247 
+GARIBALDI, TERESA, vedi CANZIO GARIBALDI, TERESA 
+GARIBALDI BIDISCHINI, ITALIA, moglie di Menotti, 95, 115, 132, 181, 198, 209, 214 
 GHERARDINI, GIOVANNI, 25 
-GHIANI MAMELI, PIETRO, Finanziere, 56 
-Gianturco, Mano, 149, 150, 169, 175, 178, 180, 187, 190, 196, 201, 
-212,241,260 
-GLADSTONE, WILLIAM EWART (1809-1898), uomo politico britanmco, ó1 
-GRANT, ULYSSE S., generale, presidente degli Stati Umti, 173 
-GRECO, ANTONIO, Deputato, 57 
+GHIANI MAMELI, PIETRO, finanziere, 56 
+GIANTURCO, MANO, 149, 150, 169, 175, 178, 180, 187, 190, 196, 201, 212, 241, 260 
+GLADSTONE, WILLIAM EWART, (1809-1898), uomo politico britanmco, 61 
+GRANT, ULYSSE S., generale, presidente degli Stati Uniti, 173 
+GRECO, ANTONIO, deputato, 57 
 GRÉVY, JULES (1807-1891), presidente dell'Assemblea nazionale francese dal 1871 al 1873, 158, 159, 253 
-Guerzoni, Giuseppe, 234 
+GUERZONI, GIUSEPPE, 234 
 GUESMET, ENRICO, 190, 191 
-GUGLIELMO I, Re di Prussia, dal 18 gennaio 1871 imperatore di Germania, 165, 173,211,218,224,225,232,236,237,239,240 
-GULLEMOND,MARCEL,44,85,88,91, 110, 138 
-GUSMAROLI, LUIGI (1801-1872), abbandonò il sacerdozio per segmre 
-Garibaldi in tutte le battaglie e poi si ritirò con lm a Caprera, Ó 
-HAUKE, HEDWIGA, Figlia di Jòzef, 238, 244 
-HAUKE, JòZEF, Detto BOSAK (1834-1871), generale polacco, comandante della prima brigata dell'armata dei Vosgi, cadde in combattimento, 170, 194, 195,229,230,238,244 
-HAUKE, MARIA, Figlia di Jòzef, 238, 244 
-
--278HAUKE, MORITZ JÒZEF, Figlio di Jòzef, 238, 244 
-HAUKE, SZARLOTTA, Figlia di Jòzef, 238, 244 
-HAUKE KACZANOWSKA, MARIA ELZBIETA, Moglie di Jòzef, 238, 244 
-HAWEIS, HUGH REGINALD, Pastore anglicano, direttore del Cassell's 
-JYlagazine,Ó, 7, 8, 18,20, 36, 56,ó0, ó3, 78,95, 140, 141, 167, 168, 
-179, 195 
-HERZEN, ALEKSANDR lVANOVIC (1812-1870), scrittore e uomo politico 
-russo, 38 
-HUGO, VICTOR (1802-1885), scrittore francese, 25 
-IMBRIANI, GIORGIO, Fratello di Matteo Renato, morto a Digione, 231 
-lMBRIANI, MATTEO RENATO (1843-1901), partecipò con Garibaldi alla 
-spedizione dei Mille e alla campagna dell'Agro romano, 231 
-JOURDAIN, GUSTAVE, Esponente della Loggia massomca dei Filadelfi, 
-76,77 
-KAUFFMAN, ANTOINE-SÉBASTIEN, Colonnello dell'armata dei Vosgi, 217, , 226
-KELLER, KARL (1831-1915), commerciante tedesco, 45, 82, 83, 115 
-LA FAYETTE, MARIE-JOSEPH-PAUL-YVES-ROCHE-GILBERT MOTIER marchese de (1757-1834), generale e uomo politico francese, 173 
+GUGLIELMO I, re di Prussia, dal 18 gennaio 1871 imperatore di Germania, 165, 173, 211, 218, 224, 225, 232, 236, 237, 239, 240 
+GULLEMOND, MARCEL, 44, 85, 88, 91, 110, 138 
+GUSMAROLI, LUIGI, (1801-1872), abbandonò il sacerdozio per seguire Garibaldi in tutte le battaglie e poi si ritirò con lui a Caprera, 6 
+HAUKE, HEDWIGA, figlia di Jòzef, 238, 244 
+HAUKE, JòZEF, detto BOSAK (1834-1871), generale polacco, comandante della prima brigata dell'armata dei Vosgi, cadde in combattimento, 170, 194, 195, 229, 230, 238, 244 
+HAUKE, MARIA, figlia di Jòzef, 238, 244 
+HAUKE, MORITZ JÒZEF, figlio di Jòzef, 238, 244 
+HAUKE, SZARLOTTA, figlia di Jòzef, 238, 244 
+HAUKE KACZANOWSKA, MARIA ELZBIETA, moglie di Jòzef, 238, 244 
+HAWEIS, HUGH REGINALD, pastore anglicano, direttore del Cassell's Magazine,6, 7, 8, 18,20, 36, 56,60, 63, 78,95, 140, 141, 167, 168, 179, 195 
+HERZEN, ALEKSANDR IVANOVIC, (1812-1870), scrittore e uomo politico russo, 38 
+HUGO, VICTOR, (1802-1885), scrittore francese, 25 
+IMBRIANI, GIORGIO, fratello di Matteo Renato, morto a Digione, 231 
+IMBRIANI, MATTEO RENATO, (1843-1901), partecipò con Garibaldi alla spedizione dei Mille e alla campagna dell'Agro romano, 231 
+JOURDAIN, GUSTAVE, esponente della Loggia massonica dei Filadelfi, 76, 77 
+KAUFFMAN, ANTOINE-SÉBASTIEN, colonnello dell'armata dei Vosgi, 217, 226
+KELLER, KARL, (1831-1915), commerciante tedesco, 45, 82, 83, 115 
+LA FAYETTE, MARIE-JOSEPH-PAUL-YVES-ROCHE-GILBERT MOTIER, marchese de (1757-1834), generale e uomo politico francese, 173 
 LABINSKY, 38 
-Langley, JYlichael, 3 
-LANTE DI MONTEFELTRO, FILIPPO, Duca, generale, 192 
+LANGLEY, MICHAEL, 3 
+LANTE DI MONTEFELTRO, FILIPPO, duca, generale, 192 
 LAURENS, MARIE, 188 
-LAURENT, Chirurgo della marma francese, 161 
-LAURENTI ROBAUDI, CARLO (1817-1876), conte, mzzardo, 148 
-LAVARELLO, FRANCESCO (1814-1881), capitano mercantile, 115 
-LEANDEL, ABEL, Repubblicano francese, 205 
-
--279LEDRU-ROLLIN, ALEXANDRE-AUGUSTE (1807-1874), uomo politico francese, 106 
-LEMMI, ADRIANO (1826-1906), banchiere, 256 
-LEONIDA I, Re spartano del V secolo a C, 151, 238 
-LEVI, DAVIDE, Ex deputato, 42 
-Leioak, Adam, 161, 184, 238 
-LIPPI, GIUSEPPINA, Maestra, Ó, 24 
-LOBBIA, CRISTIANO, Deputato, colonnello, comandante di una brigata 
-dell'armata dei Vosgi, 193, 197, 217, 226, 250 
+LAURENT, chirurgo della marina francese, 161 
+LAURENTI ROBAUDI, CARLO, (1817-1876), conte, nizzardo, 148 
+LAVARELLO, FRANCESCO, (1814-1881), capitano mercantile, 115 
+LEANDEL, ABEL, repubblicano francese, 205 
+LEDRU-ROLLIN, ALEXANDRE-AUGUSTE, (1807-1874), uomo politico francese, 106 
+LEMMI, ADRIANO, (1826-1906), banchiere, 256 
+LEONIDA I, re spartano del V secolo a C, 151, 238 
+LEVI, DAVIDE, ex deputato, 42 
+LEWAK, ADAM, 161, 184, 238 
+LIPPI, GIUSEPPINA, maestra, 6, 24 
+LOBBIA, CRISTIANO, deputato, colonnello, comandante di una brigata dell'armata dei Vosgi, 193, 197, 217, 226, 250 
 LOMBARD-MARTIN, EDOUARD (1833-1871), medico francese, seguì Garibaldi nella campagna dei Vosgi, 46 
-LOPEZ, FRANCISCO SOLANO, Uomo politico e dittatore del Paraguay, , 101
-Lopez-Celly, Furio, 247 
+LOPEZ, FRANCISCO SOLANO, uomo politico e dittatore del Paraguay, 101
+LOPEZ-CELLY, FURIO, 247 
 LOSCIA, 142 
-LUIGI, Dipendente di Garibaldi a Caprera, 150 
-Lumbroso, Alberto, 110, 112, 125, 128, 200, 218 
-MACCHI, MAURO (1819-1880), deputato, 75, 143 
-Macchia, Guglielmo, 225 
-MACHIAVELLI, NICCOLÒ (1469-1527), politico, storico e letterato, 22 
-MAGGIONI, ANGELO, Ispettore scolastico in Sardegna, Ó, 8, 24, 25 
-Mamardi, Temistocle, 11 
-MAIOCCHI, ACHILLE (1821-1904), tenente colonnello, 111 
+LUIGI, dipendente di Garibaldi a Caprera, 150 
+LUMBROSO, ALABERTO, 110, 112, 125, 128, 200, 218 
+MACCHI, MAURO, (1819-1880), deputato, 75, 143 
+MACCHIA, GUGLIELMO, 225 
+MACHIAVELLI, NICCOLÒ, (1469-1527), politico, storico e letterato, 22 
+MAGGIONI, ANGELO, ispettore scolastico in Sardegna, 6, 8, 24, 25 
+MAINARDI, TEMISTOCLE, 11 
+MAIOCCHI, ACHILLE, (1821-1904), tenente colonnello, 111 
 MALATESTA, LUIGI, 104 
-MAMELI, Vedi GHIANI MAMELI 
-MANARA, LUCIANO (1825-1849), dopo aver partecipato alle Cmque 
-Giornate e alla I guerra d'mdipendenza morì nella difesa della 
-Repubblica romana, 30 
-
--280MANGINI, ANTONIO, Avvocato livornese, 109, 220 
-MANIN, DANIELE (1804-1857), presidente della Repubblica veneziana 
-nel 1848-1849, 21 
-MARAis, AUGUSTE, Sottoprefetto di Autun, 197, 265 
-MARCHI, ALFONSO, Partecipò alla spedizione dei Mille, 111 
-MARCHI, GIOVANNI, Spediziomere livornese, 13, 53, 88, 104, 110, 124, 
-142, 147, 148, 176, 178,205,242,247 
-MARCHI, Maghe di Giovanm, 54, 104, 111, 142, 176, 206, 242, 247 
-MARINI, Dirigente della Società dei reduci di Pistoia, 83 
-MARIO WHITE, JESSIE (1832-1906), maghe di Alberto, scrittrice, 245 
-MARTELLI, LUIGI o ROBERTO, 53 
-MARTELLI, TULLIO (1841-1918), economista, 40, ó8 
-MARTIN, GIOVANNI, Fratello di Vmcenzo, 26 
-MARTIN, VINCENZO, Gerente della Ditta Martm e C., formtnce della 
-spedizione ganbaldma del 1860, 26 
-MARTINELLI, FRANCESCO, Dirigente della Società di mutuo soccorso fra 
-gh operai di Soncmo, 93 
-MARTOGLIO, LUIGI, Segretano dell'Associazione operaia Viggiam di 
-Catama, 54 
-MATIGKA, Combatté nel 1860 con Garibaldi nella legione ungherese, 
-ó0 
-MATIGKA, Figlio, ó0 
-MATIGKA, Maghe, ó0 
-MAYER, Istitutrice di Amta Garibaldi, 97, 109, 128 
-MAZINI, GIUSEPPE (1805-1872), 41, 50, 51, 55, 56, 59, ó7, 70, 71, 255 
-MAZONI, GIUSEPPE, Avvocato, prese parte alle campagne dal 1849 al 
-1867 e fu ferito a Mentana, 14, 138 
-Mc ADAM, JOHN, Commerciante scozzese, 159 
-
--281MEDICI, GIACOMO, Marchese del Vascello (1817-1882), generale, deputato, 19 
-MELARA, FRANCESCO, Direttore del giornale Eco d'Aspromonte, 42 
+MAMELI, vedi GHIANI MAMELI 
+MANARA, LUCIANO, (1825-1849), dopo aver partecipato alle Cinque Giornate e alla I guerra d'indipendenza morì nella difesa della Repubblica romana, 30 
+MANGINI, ANTONIO, avvocato livornese, 109, 220 
+MANIN, DANIELE, (1804-1857), presidente della Repubblica veneziana nel 1848-1849, 21 
+MARAIS, AUGUSTE, sottoprefetto di Autun, 197, 265 
+MARCHI, ALFONSO, partecipò alla spedizione dei Mille, 111 
+MARCHI, GIOVANNI, spedizioniere livornese, 13, 53, 88, 104, 110, 124, 142, 147, 148, 176, 178, 205, 242, 247 
+MARCHI, moglie di Giovanni, 54, 104, 111, 142, 176, 206, 242, 247 
+MARINI, dirigente della Società dei reduci di Pistoia, 83 
+MARIO WHITE, JESSIE, (1832-1906), moglie di Alberto, scrittrice, 245 
+MARTELLI, LUIGI, o ROBERTO, 53 
+MARTELLI, TULLIO, (1841-1918), economista, 40, 68 
+MARTIN, GIOVANNI, fratello di Vmcenzo, 26 
+MARTIN, VINCENZO, gerente della Ditta Martin e C., fornitrice della spedizione garibaldina del 1860, 26 
+MARTINELLI, FRANCESCO, dirigente della Società di mutuo soccorso fra gli operai di Soncino, 93 
+MARTOGLIO, LUIGI, segretario dell'Associazione operaia Viggiani di Catama, 54 
+MATIGKA, combatté nel 1860 con Garibaldi nella legione ungherese, 60 
+MATIGKA, figlio, 60 
+MATIGKA, moglie, 60 
+MAYER, istitutrice di Anita Garibaldi, 97, 109, 128 
+MAZINI, GIUSEPPE, (1805-1872), 41, 50, 51, 55, 56, 59, 67, 70, 71, 255 
+MAZONI, GIUSEPPE, avvocato, prese parte alle campagne dal 1849 al 1867 e fu ferito a Mentana, 14, 138 
+MCADAM, JOHN, commerciante scozzese, 159 
+MEDICI, GIACOMO, marchese del Vascello (1817-1882), generale, deputato, 19 
+MELARA, FRANCESCO, direttore del giornale Eco d'Aspromonte, 42 
 MELENA, ELPIS vedi SCHWARTZ, MARIA SPERANZA VON 
-MELILLO, MATTEO, Direttore del giornale La Soluzione, 50 
+MELILLO, MATTEO, direttore del giornale La Soluzione, 50 
 MERLI, C., 52 
-Messedaglia, Luigi, 94 
-MICHEL, Generale francese, 178 
-MIGLIORINI, VINCENZO, Tenente dell'armata dei Vosgi, 246 
-Millanta, Corrado, 230 
-MILZIADE (540-489 circa a.C.), generale e uomo politico atemese, 151 
-MISSORI, GIUSEPPE (1829-1911), combatté con Garibaldi dal 1860 al 
-1867, 111 
-MITRE, BARTOLOMÉ (1821-1906), generale e uomo politico argentmo, , 101
-Monti, Antonio, 262 
-MORELLET, CARLO, Redattore del giornale Lucifero, 12 
-NANI, RAFFAELE, Partecipò alla spedizione dell'Agro romano, 41 
-NAPOLEONE III (1809-1873), imperatore dei francesi fino al 2 settembre 1870, 11, 21, 40, ó2, 73, 78, 110, 111, 115, 116, 118, 119, 120, 
-121, 122, 123, 124, 125, 127, 128, 132, 133, 134, 135, 137, 138, 
-140, 143, 151, 160, 165, 167, 173, 190,224,236 
+MESSADAGLIA, LUIGI, 94 
+MICHEL, generale francese, 178 
+MIGLIORINI, VINCENZO, tenente dell'armata dei Vosgi, 246 
+MILLANTA, CORRADO, 230 
+MILZIADE, (540-489 circa a.C.), generale e uomo politico ateniese, 151 
+MISSORI, GIUSEPPE, (1829-1911), combatté con Garibaldi dal 1860 al 1867, 111 
+MITRE, BARTOLOMÉ, (1821-1906), generale e uomo politico argentino, 101
+MONTI, ANTONIO, 262 
+MORELLET, CARLO, redattore del giornale Lucifero, 12 
+NANI, RAFFAELE, partecipò alla spedizione dell'Agro romano, 41 
+NAPOLEONE III (1809-1873), imperatore dei francesi fino al 2 settembre 1870, 11, 21, 40, 62, 73, 78, 110, 111, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 127, 128, 132, 133, 134, 135, 137, 138, 140, 143, 151, 160, 165, 167, 173, 190, 224, 236 
 NARDI, 111 
-NARGAILLAN, Vicemedico capo dell'armata dei Vosgi, 264 
-NARRATONE, DOMENICO, Direttore del giornale Il Ficcanaso, 11 
-NOIR, VICTOR (SALMON, YVAN), giornalista francese, 15 
-NULLO, FRANCESCO (1826-1863), morì combattendo per la Poloma, 30 
-Nuvolari, Francesco, ó9, 216 
-
--282NUVOLARI, GIUSEPPE (1820-1897), seguì Garibaldi nelle campagne dal 
-1859 al 1867, ó9, 82, 216 
-OLLIVIER, EMILE, Uomo politico francese, 40 
-Omodeo, Adolfo, 158 
-ORDINAIRE, Prefetto del dipartimento del Doubs, 221 
-Orlandi, Danilo, 225 
-ORTENSIA BONAPARTE BEAUHARNAIS, Regma d'Olanda, 78 
-Ortiz, Fernando, 13, 28 
-Pacciardi, Randolfo, 12 
-PAIS-SERRA, FRANCESCO (1837-1924), direttore del giornale L'amico 
-del popolo, 4, 27 
-PALLAVICINO TRIVULZIO, ANNA (NINÌ), figha di Giorgio e Anna, 57 
-PALLAVICINO TRIVULZIO, GIORGIO (1796-1878), marchese, senatore, 3, 
-5, 16, 21, 34, 46, 57, 74, 83, 96, 103, 104, 116, 124, 134, 145, 189, 
-210, 243 
-PALLAVICINO TRIVULZIO KOPPMANN, ANNA (1819-1885), marchesa, maghe di Giorgio, 3, 5, 16, 33, 34, 46, 57, 74, 83, 84, 96, 104, 116, 
-124, 133, 134, 145, 188, 189,210,240,242,243 
-PANNI, ULISSE, Presidente del Comitato italiano di Marsiglia fino al 
-gennaio 1871, 222 
-PANTALEO, GIOVANNI (1832-1879), ex frate, 50, ó9, 70, 71, 74, 103, 111 
-PARTRIDGE, RICHARD, Chirurgo mglese, 216 
-PASTORIS, CARLO, Fratello di Enrico, 247 
-PASTORIS, ENRICO, Morto a Digione, 247 
-PAVESI, URBANO, Mgegnere, 9 
-PAVIA, ALESSANDRO, Fotografo, 38 
-PELLETIER, Colonnello francese, comandante della guardia nazionale 
+NARGAILLAN, vicemedico capo dell'armata dei Vosgi, 264 
+NARRATONE, DOMENICO, direttore del giornale Il Ficcanaso, 11 
+NOIR, VICTOR, (SALMON, YVAN), giornalista francese, 15 
+NULLO, FRANCESCO, (1826-1863), morì combattendo per la Poloma, 30 
+NUVOLARI, FRANCESCO, 69, 216 
+NUVOLARI, GIUSEPPE, (1820-1897), seguì Garibaldi nelle campagne dal 1859 al 1867, 69, 82, 216 
+OLLIVIER, EMILE, uomo politico francese, 40 
+OMODEO, ADOLFO, 158 
+ORDINAIRE, prefetto del dipartimento del Doubs, 221 
+ORLANDI, DANILO, 225 
+ORTENSIA BONAPARTE BEAUHARNAIS, regina d'Olanda, 78 
+ORTIZ, FERNANDO, 13, 28 
+PACCIARDI, RANDOLFO, 12 
+PAIS-SERRA, FRANCESCO, (1837-1924), direttore del giornale L'amico del popolo, 4, 27 
+PALLAVICINO TRIVULZIO, ANNA (NINÌ), figlia di Giorgio e Anna, 57 
+PALLAVICINO TRIVULZIO, GIORGIO (1796-1878), marchese, senatore, 3, 5, 16, 21, 34, 46, 57, 74, 83, 96, 103, 104, 116, 124, 134, 145, 189, 210, 243 
+PALLAVICINO TRIVULZIO KOPPMANN, ANNA, (1819-1885), marchesa, moglie di Giorgio, 3, 5, 16, 33, 34, 46, 57, 74, 83, 84, 96, 104, 116, 124, 133, 134, 145, 188, 189,210,240,242,243 
+PANNI, ULISSE, presidente del Comitato italiano di Marsiglia fino al gennaio 1871, 222 
+PANTALEO, GIOVANNI (1832-1879), ex frate, 50, 69, 70, 71, 74, 103, 111 
+PARTRIDGE, RICHARD, chirurgo inglese, 216 
+PASTORIS, CARLO, fratello di Enrico, 247 
+PASTORIS, ENRICO, morto a Digione, 247 
+PAVESI, URBANO, ingegnere, 9 
+PAVIA, ALESSANDRO, fotografo, 38 
+PELLETIER, colonnello francese, comandante della guardia nazionale 
 di Autun, 264 
-PELLISSIER, VICTOR, Generale francese, 226 
-
--283PESCATORI, ERMINIO (1836-1905), ganbaldmo parmense, ó6, 136 
-Pescatori Vignoli, Graziella, ó6, 136 
-PESCI, DINO, Scrittore, 58, ó4 
+PELLISSIER, VICTOR, generale francese, 226 
+PESCATORI, ERMINIO, (1836-1905), garibaldino parmense, 66, 136 
+PESCATORI VIGNOLI, GRAZIELLA, 66, 136 
+PESCI, DINO, scrittore, 58, 64 
 PEZZI, GAETANO, 111 
-PHILLIPSON GIFFARD, CAROLINE, Poetessa mglese, 36, 51, 52, 96, 97, 
-107, 116, 117, 138, 139, 142, 146, 160 
-PICCINI, FRANCESCO, Presidente della Fratellanza artigiana di Firenze, 37 
-PICOZZI, ANTONIO, Direttore del giornale La Frusta, 30 
-Pierantoni, Augusto, 36, 52, 117, 139, 142, 160 
+PHILLIPSON GIFFARD, CAROLINE, poetessa inglese, 36, 51, 52, 96, 97, 107, 116, 117, 138, 139, 142, 146, 160 
+PICCINI, FRANCESCO, presidente della Fratellanza artigiana di Firenze, 37 
+PICOZZI, ANTONIO, direttore del giornale La Frusta, 30 
+PIERANTONI, AUGUSTO, 36, 52, 117, 139, 142, 160 
 PIERCE, 76 
-PIETRO, Dipendente di Garibaldi a Caprera, 148, 149, 150, 169, 174, 
-180, 184,241 
-Pro IX (1792-1878), papa, 51, ó2, 118, 190 
-PIRRO, Re dell'Epiro, 85 
+PIETRO, dipendente di Garibaldi a Caprera, 148, 149, 150, 169, 174, 180, 184, 241 
+PIO IX, (1792-1878), papa, 51, 62, 118, 190 
+PIRRO, re dell'Epiro, 85 
 PLANTULLI, FIORINA, 72 
-PLANTULLI, FRANCESCO (1843-1876), letterato e poeta, 72 
-POLITI, CORRADO, Editore, 22, 56, 71 
-Polo Fnz, Luigi, 157, 178, 188 
-Portell Vilà, Herminio, 13 
-POTTER, G W., mglese, finanziatore delle scuole sarde, 86 
-PRANDINA, GIOVAN BATTISTA (1816-1896), medico milanese, 245 
-Praticò, Giovanni, 3 
-PRIM Y PRATS, JUAN (1814-1870), uomo politico e generale spagnolo, , 173
-QUADRIO, MAURIZIO (1800-1876), mazzmiano, 210 
+PLANTULLI, FRANCESCO, (1843-1876), letterato e poeta, 72 
+POLITI, CORRADO, editore, 22, 56, 71 
+POLO FRIZ, LUIGI, 157, 178, 188 
+PORTELL VILÀ, HERMINIO, 13 
+POTTER, G W., inglese, finanziatore delle scuole sarde, 86 
+PRANDINA, GIOVAN BATTISTA, (1816-1896), medico milanese, 245 
+PRATICÒ, GIOVANNI, 3 
+PRIM Y PRATS, JUAN, (1814-1870), uomo politico e generale spagnolo, 173
+QUADRIO, MAURIZIO, (1800-1876), mazzINiano, 210 
 QUETO, ENRICO, 19 
-
--284QUINET, EDGAR (1803-1875), storico e uomo politico francese, 117 
-QUINET HASAKI, HERMION, Maghe di Edgar, 57, 117 
-RMP,111 
-RAFFAELLI, ADELINA, Amica di Ricciotti Garibaldi, 95, 115, 181, 213, , 237
-RAIMONDI, GIUSEPPINA (1841-1918), moglie per un giorno di Garibaldi 
-nel 1860, ó4 
-Ravanelli, Dora, 230 
-RAVAZZINI, EMILIANO, Ingegnere, 49 
-RAVELLI, Comandante di un reggimento dell'armata dei Vosgi, 176 
-RECHIEDEI, Fratelli, editori, 33 
-RIBOLI, TIMOTEO (1808-1895), medico di Garibaldi, medico capo dell'armata dei Vosgi, 19, 20, 26, 34, 35, 39, 48, 54, 58, ó4, 75, 77, 78, 
-80, 84, 86, 87, 92, 100, 103, 105, 107, 111, 112, 117, 123, 124, 127, 
-130, 131, 139, 150, 159, 169, 199,204,253,260 
-RIBOLI, ZAIRA, Maghe di Timoteo, 105, 112 
+QUINET, EDGAR, (1803-1875), storico e uomo politico francese, 117 
+QUINET HASAKI, HERMION, moglie di Edgar, 57, 117 
+RMP, 111 
+RAFFAELLI, ADELINA, amica di Ricciotti Garibaldi, 95, 115, 181, 213, 237
+RAIMONDI, GIUSEPPINA (1841-1918), moglie per un giorno di Garibaldi nel 1860, 64 
+RAVANELLI, DORA, 230 
+RAVAZZINI, EMILIANO, ingegnere, 49 
+RAVELLI, comandante di un reggimento dell'armata dei Vosgi, 176 
+RECHIEDEI, fratelli, editori, 33 
+RIBOLI, TIMOTEO (1808-1895), medico di Garibaldi, medico capo dell'armata dei Vosgi, 19, 20, 26, 34, 35, 39, 48, 54, 58, 64, 75, 77, 78, 80, 84, 86, 87, 92, 100, 103, 105, 107, 111, 112, 117, 123, 124, 127, 130, 131, 139, 150, 159, 169, 199, 204, 253, 260 
+RIBOLI, ZAIRA, moglie di Timoteo, 105, 112 
 RICCI DEL VASTO, LUIGI, 14, 123, 125 
-RICCIARDI, GIUSEPPE, Conte di Camaldoh (1808-1882), deputato, Ó, 17, 
-18,94, 103, 131 
-RIEGO y NUNES, RAFAEL DEL (1784-1823), generale e uomo politico 
-spagnolo, 105 
-RIVIÈRE, ARMAND, Democratico di Tours, poi deputato, 206 
-RIVIÈRE, Figlio di Armand, 206 
-ROBECCHI, LEVINO, Editore, 55 
-ROCHEFORT, HENRY, Marchese di Rochefort-Luçay (1831-1913), uomo 
-politico francese, 124 
-Romano, Elena, 9, i 7, 45, ó5, 88 
+RICCIARDI, GIUSEPPE, conte di Camaldoli (1808-1882), deputato, 6, 17, 18, 94, 103, 131 
+RIEGO y NUNES, RAFAEL DEL (1784-1823), generale e uomo politico spagnolo, 105 
+RIVIÈRE, ARMAND, democratico di Tours, poi deputato, 206 
+RIVIÈRE, figlio di Armand, 206 
+ROBECCHI, LEVINO, editore, 55 
+ROCHEFORT, HENRY, marchese di Rochefort-Luçay (1831-1913), uomo politico francese, 124 
+ROMANO, ELENA, 9, 17, 45, 65, 88 
 ROSSI, DOMENICO, 92, 143 
-
--285ROSSI, EDOARDO, Tenente colonnello, addetto allo Stato maggiore dell'armata dei Vosgi, 264 
-RUBATTINO, RAFFAELE, Armatore genovese, 41 
-Ruggen, Mana, 46 
-SACCHI, GAETANO (1824-1886), generale, ó5 
-SACCHI, INCARNAZIONE, Moglie di Gaetano, ó5 
-SAGGIAR!, avvocato, 111 
+ROSSI, EDOARDO, tenente colonnello, addetto allo Stato maggiore dell'armata dei Vosgi, 264 
+RUBATTINO, RAFFAELE, armatore genovese, 41 
+RUGGERI, MARIA, 46 
+SACCHI, GAETANO (1824-1886), generale, 65 
+SACCHI, INCARNAZIONE, moglie di Gaetano, 65 
+SAGGIARI, avvocato, 111 
 SAGGIORI, RENATO, 188 
-SALIS SCHWABE, JULIE, Educatrice e filantropa mglese di origine tedesca, 31 
-SARTORIO, ISNARDO, Giornalista, io 
-SARTORIO, LUIGI, Caduto a Calatafimi, io 
-SARTORIO, Maggiore dell'armata dei Vosgi, 230 
+SALIS SCHWABE, JULIE, educatrice e filantropa inglese di origine tedesca, 31 
+SARTORIO, ISNARDO, giornalista, io 
+SARTORIO, LUIGI, caduto a Calatafimi, io 
+SARTORIO, maggiore dell'armata dei Vosgi, 230 
 SCHENONE,TERESA, 126 
-SCHON, A , della Pall Mall Gazette di Stoccolma, 134, 135 
-SCHWARTZ, MARIA SPERANZA VON (1821-1889), scrittrice tedesca, 17, 
-18,86,97, 109, 110, 125, 128,218 
+SCHON, A, della Pall Mall Gazette di Stoccolma, 134, 135 
+SCHWARTZ, MARIA SPERANZA VON, (1821-1889), scrittrice tedesca, 17, 18, 86, 97, 109, 110, 125, 128,218 
 SCILLO, 249 
-SCIPPA, DOMENICO, Professore, 108, 143 
-SCIPPA, GIOVANNI, Padre di Domemco, 108 
-SCOTT, Medico della signora Chambers, Ó, 76, 216 
-SEELY, MARY, Moghe di Charles, membro del Parlamento britanmco, 3 
-SEGA, CARLO, Dmgente della Società operaia di Verona, 103 
-SEGA, Figho di Carlo, 104 
-SEGA, Moglie di Carlo, 104 
-SEIGNOBOSC, Capitano francese, 161, 170 
-SEMENZA, GAETANO (1826-1882), deputato, 111 
-
+SCIPPA, DOMENICO, professore, 108, 143 
+SCIPPA, GIOVANNI, padre di Domenico, 108 
+SCOTT, medico della signora Chambers, 6, 76, 216 
+SEELY, MARY, moglie di Charles, membro del Parlamento britanmco, 3 
+SEGA, CARLO, dirigente della Società operaia di Verona, 103 
+SEGA, figlo di Carlo, 104 
+SEGA, moglie di Carlo, 104 
+SEIGNOBOSC, capitano francese, 161, 170 
+SEMENZA, GAETANO, (1826-1882), deputato, 111 
 SENARD, ANTOINE, 145 
 SERRA, GIACOMO, 41 
-SERRA, Padre di Giacomo, 41 
--286SERRES, DE, Generale francese, 256 
-SETTIGNANI, GIOVANNI, Padre di Nmo, 243 
-SETTIGNANI, NINO, Morì nella campagna dei Vosgi, 243 
-SGARALLINO, ANDREA (1819-1887), combatté con Garibaldi dal 1859 al 
-1867,43 
-SGARALLINO, JACOPO (1823-1879), combatté con Garibaldi dal 1859 al 
-1867, fu implicato nel 1869 nel processo per l'uccisione del console 
-Inghrrami e per il ferimento del generale austriaco Crenneville, 
-43, 131 
-SGARBI, ANTONIO, Ufficiale garibaldmo, 126 
-SICCOLI, STEFANO (1834-1886), vecchio compagno d'armi di Garibaldi, , 237
+SERRA, padre di Giacomo, 41 
+SERRES, DE, generale francese, 256 
+SETTIGNANI, GIOVANNI, padre di Nmo, 243 
+SETTIGNANI, NINO, morì nella campagna dei Vosgi, 243 
+SGARALLINO, ANDREA, (1819-1887), combatté con Garibaldi dal 1859 al 1867, 43 
+SGARALLINO, JACOPO (1823-1879), combatté con Garibaldi dal 1859 al 1867, fu implicato nel 1869 nel processo per l'uccisione del console Inghirami e per il ferimento del generale austriaco Crenneville, 43, 131 
+SGARBI, ANTONIO, ufficiale garibaldino, 126 
+SICCOLI, STEFANO (1834-1886), vecchio compagno d'armi di Garibaldi, 237
 SINDACO DI MARSIGLIA, 222, 223 
 SINEO, RICCARDO (1805-1876), deputato, 150, 180 
 SIRTORI, GIUSEPPE (1813-1874), generale, deputato, 158, 161 
 SITZIA, 149 
 SPEAR,216 
-SPULLER, EUGÈNE, Uomo politico francese, 161 
+SPULLER, EUGÈNE, uomo politico francese, 161 
 STAMPA, EDOARDO, 111, 127 
-STEFANONI, LUIGI, Giornalista, 246 
-STEKULIS, LLIAS, Patriota greco, 202 
-STRAMBO, LUIGI, Ufficiale garibaldmo, i 7 
-STRAMBO, PIETRO, Ufficiale garibaldmo, i 7 
-STROCCHI, TITO, Garibaldmo lucchese, 225 
+STEFANONI, LUIGI, giornalista, 246 
+STEKULIS, LLIAS, patriota greco, 202 
+STRAMBO, LUIGI, ufficiale garibaldino, i 7 
+STRAMBO, PIETRO, ufficiale garibaldino, i 7 
+STROCCHI, TITO, garibaldino lucchese, 225 
 SUSINI, 149 
-
--287SUSINI, ANTONIO, Ucciso in Paraguay, 101 
+SUSINI, ANTONIO, ucciso in Paraguay, 101 
 SUSINI, FRANCESCO, 44, 81 
 SUSINI, GIANDOMENICO, 101 
 SUSINI, GIOVANNI, 101 
-SUSINI, GIUSEPPE, Ragazzo della Maddalena mviato in Inghilterra 
-presso la signora Chambers, ó5, ó6, 75, 76, 86, 95 
+SUSINI, GIUSEPPE, ragazzo della Maddalena inviato in Inghilterra presso la signora Chambers, 65, 66, 75, 76, 86, 95 
 SUSINI, NICOLÒ, ucciso in Paraguay, 101 
 SUSINI, PIETRO, 44, 81 
-TANARA, FAUSTINO (1836-1876), comandante della «Legione dei volontari itaham» nell'armata dei Vosgi, 177 
-TAVERNIER, Segretario generale del Dipartimento delle Alpi Marittime, 148 
-TELL, GUGLIELMO, Eroe nazionale svizzero, i 73 
-Terra, Enrico, 159 
-TIBALDI, PAOLO (1825-1901), repubblicano, autore di un attentato a 
-Napoleone III, Ammstiato nel 1870, 76 
-TIMOLEONE (400 circa - 336 a C ), uomo politico e generale cormzio, , 151
-TIRONI, GIUSEPPE, Trombettiere dei Mille, 94 
-TORQUEMADA, TOMÀS, DE (1420-1498), mqmsitore spagnolo, ó2 
-TRASIBULO (fine sec V - mizi IV a e), uomo pohtico atemese, 151 
+TANARA, FAUSTINO (1836-1876), comandante della «Legione dei volontari italiani» nell'armata dei Vosgi, 177 
+TAVERNIER, segretario generale del Dipartimento delle Alpi Marittime, 148 
+TELL, GUGLIELMO, eroe nazionale svizzero, i 73 
+TERRA, ENRICO, 159 
+TIBALDI, PAOLO, (1825-1901), repubblicano, autore di un attentato a Napoleone III, Ammstiato nel 1870, 76 
+TIMOLEONE, (400 circa - 336 a C ), uomo politico e generale corinzio, 151
+TIRONI, GIUSEPPE, trombettiere dei Mille, 94 
+TORQUEMADA, TOMÀS DE, (1420-1498), inquisitore spagnolo, 62 
+TRASIBULO, (fine sec V - mizi IV a e), uomo politico ateniese, 151 
 TURI, 132 
-ULLOA-CALÀ, GEROLAMO (1810-1891), generale, 148, 160 
-VERANI MASIN, ENRICO, Mzzardo, 162 
-VESINIER, PIERRE, Storico, ó4 
-VIGANÒ, FRANCESCO, Professore, 108 
-VILLANI, FILIPPO (1812-1887), marchese, 26, ó5 
-VILLANI, Marchesa, moghe di Filippo, 27, ó5 
-
--288VITTORIO EMANUELE II, Re d'Italia, 51 
-VIVALDI PASQUA, GIACOMO, Combatté nell'armata dei Vosgi, 102 
-Viviani, Ambrogio, 157, 188 
-VOLPI, Capitano, 54 
-VOLTAIRE, FRANçOIS-MARIE AROUET, Detto (1694-1778), letterato e filosofo francese, ó9 
-VUGA, GIOVANNI BATTISTA, Presidente della Società operaia di Cividale del Frmh, 100 
-WASHINGTON, GEORGE (1732-1799), primo presidente degh Stati Umti, 173 
-WINTER Woon, THOMAS, Scrittore, 77 
-Ximenes, Enrico Emilio, 5, 14, 16, 31, 42, 50, 55, 98, 108, 121, 129, 
-135, 136, 137, 141, 143, 151, 157, 158, 160, 162, 166, 188, 191, 
-198, 199,201,202,209,212,231,241,251,252,254 
+ULLOA-CALÀ, GEROLAMO, (1810-1891), generale, 148, 160 
+VERANI MASIN, ENRICO, nizzardo, 162 
+VESINIER, PIERRE, storico, 64 
+VIGANÒ, FRANCESCO, professore, 108 
+VILLANI, FILIPPO, (1812-1887), marchese, 26, 65 
+VILLANI, marchesa, moglie di Filippo, 27, 65 
+VITTORIO EMANUELE II, re d'Italia, 51 
+VIVALDI PASQUA, GIACOMO, combatté nell'armata dei Vosgi, 102 
+VIVIANI, AMBROGIO, 157, 188 
+VOLPI, capitano, 54 
+VOLTAIRE, FRANÇOIS-MARIE AROUET, detto (1694-1778), letterato e filosofo francese, 69 
+VUGA, GIOVANNI BATTISTA, presidente della Società operaia di Cividale del Frmh, 100 
+WASHINGTON, GEORGE (1732-1799), primo presidente degli Stati Uniti, 173 
+WINTER Woon, THOMAS, ccrittore, 77 
+XIMNENES, ENRICO EMILIO, 5, 14, 16, 31, 42, 50, 55, 98, 108, 121, 129, 135, 136, 137, 141, 143, 151, 157, 158, 160, 162, 166, 188, 191, 198, 199, 201, 202, 209, 212, 231, 241, 251, 252, 254 
 

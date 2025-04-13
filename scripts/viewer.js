@@ -229,6 +229,9 @@ const annotationFiles = {
               }
             }
           }
+        if (type === 'physical') {
+          desc = span.getElementsByTagNameNS(TEI_NS, 'desc')[0]?.textContent || '(no description)';
+          }
         allSpans.push({ id, type, desc });
       });
     }
@@ -296,41 +299,8 @@ const annotationFiles = {
         }
     }
   
-    document.addEventListener('DOMContentLoaded', () => {
-      preloadAnnotationData().then(() => {
-        setupLetterNavigation();
-      });
-    
-      const closeBtn = document.getElementById('close-annotations');
-      closeBtn?.addEventListener('click', () => {
-        document.getElementById('annotations-box')?.classList.add('d-none');
-        document.querySelector('.transcription-box')?.classList.remove('with-annotations');
-      });
-    
-      document.getElementById('prev-image')?.addEventListener('click', () => {
-        if (currentIndex > 0) {
-          currentIndex--;
-          displayIIIFImage();
-        }
-      });
-    
-      document.getElementById('next-image')?.addEventListener('click', () => {
-        if (currentIndex < iiifImages.length - 1) {
-          currentIndex++;
-          displayIIIFImage();
-        }
-      });
-      document.getElementById('metadata-toggle')?.addEventListener('click', () => {
-        document.getElementById('metadata-panel').classList.add('open');
-      });
-      
-      document.getElementById('close-metadata')?.addEventListener('click', () => {
-        document.getElementById('metadata-panel').classList.remove('open');
-      });
-    });
-
+  
   async function renderViewer(fileName) {
-    await preloadAnnotationData();
     const teiDoc = await loadXML(basePath + fileName);
     document.getElementById('transcription-content').innerHTML = '';
     document.getElementById('annotations-content').innerHTML = '';
@@ -372,10 +342,11 @@ function formatDate(place, dateStr) {
 }
 
 function updateLetterView(index) {
+  letterIndex = index; // 👈 ATUALIZA PRIMEIRO
+
   const letter = letters[index];
   renderViewer(letter.file);
   document.getElementById('letter-date').textContent = formatDate(letter.place, letter.date);
-  letterIndex = index;
   document.getElementById('prev-letter').disabled = index === 0;
   document.getElementById('next-letter').disabled = index === letters.length - 1;
 }

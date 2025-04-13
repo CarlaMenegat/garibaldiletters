@@ -59,25 +59,29 @@
             <div type="letter">
                 <opener>
                     <dateline>
-                        <placeName>Quarto, Villa Spinola</placeName>
-                        <date when="1862-03-13">13/3/1862</date>
+                        <placeName ref="#VSCG">Quarto, Villa Spinola</placeName>
+                        <lb/><lb/>
+                        <date xml:id="d4" when="1862-03-13">13/03/1862</date>
+                        <lb/><lb/>
                     </dateline>
                     <salute>Miei cari amici,</salute>
+                    <lb/><lb/>
                 </opener>
                 <p xml:id="cc7-8-p1">
                     Accetando un amino riconoscente
                     <lb/>
-                    la Presidenza offertami da cotesto Comitato, vi esorto
+                    la Presidenza offertami da cotesto <orgName ref="#CIN">Comitato</orgName>, vi esorto
                     <lb/>
                     a perseverare nel proposito di addestrare la gioventù
                     <lb/>
                     generosa nel maneggio dell’armi.
                     <lb/>
-                    Vi saluto con affetto.
                 </p>
                 <closer>
                     <salute>Vi saluto con affetto,</salute>
-                    <signed>Vostro <hi rend="underline">G. Garibaldi</hi></signed>
+                    <lb/><lb/>
+                    <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+                    <p xml:id="stamp-placeholder"/>
                 </closer>
             </div>
         </body>

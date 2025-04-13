@@ -49,5 +49,11 @@
             <idno type="geonames">https://www.geonames.org/6942689/piazza-santa-maria-in-trastevere.html</idno>
         </place>
 
+        <place xml:id="VSCG">
+            <placeName>Villa Spinola Cosci Garibaldi</placeName>
+            <note>Historic villa in Quarto dei Mille, Genoa, where Garibaldi established a base before the Expedition of the Thousand in 1860. Now houses the Museo Garibaldino di Quarto.</note>
+            <idno type="geonames">https://www.geonames.org/8950722/villa-spinola-cosci-garibaldi.html</idno>
+        </place>
+
     </listPlace>
 </standOff>

@@ -4,34 +4,35 @@
       <desc>Date of the letter sent by Garibaldi to the voters of Cicagna.</desc>
       <date when="1848-10-06"/>
     </event>
-  
-  <spanGrp type="date">
-    <span from="letterc4.xml#dt1" to="letterc4.xml#dt1" ana="#D18481006">
-      <desc>Date of the letter sent by Garibaldi to the voters of Cicagna.</desc>
-    </span>
-  </spanGrp>
-
     <event xml:id="D18651212">
       <desc>Date of the letter sent by Garibaldi to Bruni, written in Caprera.</desc>
       <date when="1865-12-12"/>
     </event>
-    
-    <spanGrp type="dates">
-      <span from="letterc11.xml#dt1" to="letterc11.xml#dt1" ana="#D18651212"/>
-    </spanGrp>
-
     <event xml:id="D18490429">
       <desc>Written during the brief Repubblica Romana.</desc>
       <date when="1849-04-29"/>
     </event>
-    
-    <spanGrp type="dates">
-      <span from="lettercc5_6.xml#dt1" to="lettercc5_6.xml#dt1" ana="#D18490429"/>
-    </spanGrp>
-
     <event xml:id="D18620313">
       <desc>Letter from Garibaldi to the National Education Committee, dated 13 March 1862.</desc>
       <date when="1862-03-13"/>
     </event>
   </listEvent>
+
+  <listSpan>
+    <spanGrp type="date">
+      <span from="letterc4.xml#dt1" to="letterc4.xml#dt1" ana="#D18481006"/>
+    </spanGrp>
+    <spanGrp type="date">
+      <span from="letterc11.xml#dt1" to="letterc11.xml#dt1" ana="#D18651212"/>
+    </spanGrp>
+    <spanGrp type="date">
+      <span from="lettercc5_6.xml#dt1" to="lettercc5_6.xml#dt1" ana="#D18490429"/>
+    </spanGrp>
+    <spanGrp type="date">
+      <span from="lettercc7_8.xml#d4" to="lettercc7_8.xml#d4" ana="#D18620313"/>
+    </spanGrp>
+    <spanGrp type="date">
+      <span from="letterc11.xml#d1" to="letterc11.xml#d1" ana="#D18651212"/>
+    </spanGrp>
+  </listSpan>
 </standOff>

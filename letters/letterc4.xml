@@ -130,7 +130,9 @@
           <lb/><lb/>
           <stamp xml:id="c4-s1"/>
           <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+          <p xml:id="stamp-placeholder"/>
         </closer>
+        
       </div>
     </body>
   </text>

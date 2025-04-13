@@ -17,7 +17,6 @@
                 <p>Restricted use according the guidelines of the archive.</p>
                 </availability>
                 <license>CC BY-NC-SA</license>
-                <ptr target="https://edl.cultura.gov.it/item/64jo7z4g5v"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -35,6 +34,9 @@
                     </msItem>
                 </msContents>
                 </msDesc>
+                <bibl>
+                    <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/e822e051-8c0f-44d1-9620-0d269b4b12db/manifest"/>
+                </bibl>
             </sourceDesc>
             </fileDesc>
         
@@ -62,18 +64,20 @@
             </profileDesc>
         </teiHeader>
     <facsimile>
-        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/e822e051-8c0f-44d1-9620-0d269b4b12db/canvas/f210aa9e-fdc1-4b33-bc3a-7f421164d944" format="image/jpeg" width="3515" height="5249"/>
-        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/e822e051-8c0f-44d1-9620-0d269b4b12db/canvas/fa6bb1c0-127f-49aa-a4ce-3f90e0b02404" format="image/jpeg" width="3515" height="5257"/>
+        <surface n="1" xml:id="surface-1"/>
+        <surface n="2" xml:id="surface-2"/>
     </facsimile>
     <text>
         <body resp="#CM">
             <div type="letter">
                 <opener>
                     <dateline>
-                        <placeName>Caprera</placeName>, <date when="1865-12-12">12 <choice><abbr>Dicbre</abbr><expan>Dicembre</expan></choice> 65.</date>
+                        <placeName ref="#CAP">Caprera</placeName>, <date xml:id="d1" when="1865-12-12">12 <choice><abbr>Dicbre</abbr><expan>Dicembre</expan></choice> 65.</date>
                     </dateline>
-                    <salute>Caro Bruni,</salute>
+                    <lb/><lb/>
+                    Caro <salute> <persName ref="#BRU">Bruni</persName>,</salute>
                 </opener>
+                <lb/><lb/>
                 <p xml:id="c11-p1">
                     Accetto ringraciandovene il vostro
                     <lb/>
@@ -87,15 +91,12 @@
                     <lb/>
                     Credetemi,
                 </p>
+                <lb/><lb/>
                 <closer>
                     <salute>Vostro sempre,</salute>
-                    <signed>Giuseppe Garibaldi</signed>
-                    <stamp>
-                        <note type="editorial" resp="#CM">
-                        This stamp is present in other documents signed by Garibaldi, indicating that were part of the Autografoteca Campori.
-                        </note> 
-                        <p>Above the signature stamp containing "CODICI E MSS CAMPOLI" within an arch that surrounds a coat of arms.</p>
-                    </stamp>
+                    <lb/><lb/>
+                    <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+                    <p xml:id="stamp-placeholder"/>
                 </closer>
             </div>
         </body>

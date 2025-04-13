@@ -3,29 +3,27 @@
   
   <spanGrp type="themes">
     <!-- letterc4.xml -->
-    <span from="letterc4.xml#c4p1" to="letterc4.xml#c4p2" ana="#elections">
-      <desc>Trecho da carta aos eleitores de Cicagna com conteúdo político.</desc>
+    <span from="letterc4.xml#c4seg1" to="letterc4.xml#c4seg1" ana="#nationalism_rising">
+      <desc>Garibaldi honors Genoa’s early patriotic spirit and sacrifice in 1846.</desc>
     </span>
-    <span from="letterc4.xml#c4p1" to="letterc4.xml#c4p2" ana="#risorgimento">
-      <desc>Referência ao movimento de unificação italiana (Risorgimento).</desc>
+    <span from="letterc4.xml#c4seg2" to="letterc4.xml#c4seg2" ana="#genoa1800">
+      <desc>Refers to Genoa’s uprising against the Austrians and foreign occupation.</desc>
+    </span>
+    <span from="letterc4.xml#c4-seg3" to="letterc4.xml#c4-seg3" ana="#elections">
+      <desc>Garibaldi was a candidate for the Subalpine Parliament in the 1849 elections.</desc>
     </span>
 
     <!-- letterc11.xml -->
     <span from="letterc11.xml#c11-p1" to="letterc11.xml#c11-p1" ana="#education">
       <desc>Garibaldi’s statement linking education to political equality.</desc>
     </span>
-    <!-- lettercc5_6.xml-->
-    <span from="lettercc5_6.xml#cc5-6-p1" to="lettercc5_6.xml#cc5-6-p2" ana="#risorgimento">
-      <desc>Passage referring to Italian national efforts and military unity during the Roman Republic.</desc>
-    </span>
-    <span from="lettercc5_6.xml#cc5-6-p1" to="lettercc5_6.xml#cc5-6-p2" ana="#repubblica_romana">
+
+    <!-- lettercc5_6.xml -->
+    <span from="lettercc5_6.xml#cc5-6-p1" to="lettercc5_6.xml#cc5-6-p1" ana="#repubblica_romana">
       <desc>Contextual reference to the defense and coordination of the Roman Republic in 1849.</desc>
     </span>
-    <span from="lettercc7_8.xml#cc7-8-p1" to="lettercc7_8.xml#cc7-8-p1" ana="#education">
-      <desc>Garibaldi’s support for educating youth in military skills through the National Education Committee.</desc>
-    </span>
-    <span from="lettercc7_8.xml#cc7-8-p1" to="lettercc7_8.xml#cc7-8-p1" ana="#risorgimento">
-      <desc>Promotion of patriotic ideals during the Italian unification movement.</desc>
+    <span from="lettercc5_6.xml#cc5-6-p2" to="lettercc5_6.xml#cc5-6-p2" ana="#repubblica_romana">
+      <desc>Contextual reference to the defense and coordination of the Roman Republic in 1849.</desc>
     </span>
   </spanGrp>
 
@@ -41,6 +39,15 @@
     </category>
     <category xml:id="repubblica_romana">
       <catDesc xml:lang="en">Themes related to the short-lived Roman Republic of 1849.</catDesc>
+    </category>
+    <category xml:id="nationalism_rising">
+      <catDesc xml:lang="en">Garibaldi honors Genoa’s early patriotic spirit and sacrifice in 1846.</catDesc>
+    </category>
+    <category xml:id="genoa1800">
+      <catDesc xml:lang="en">Refers to Genoa’s uprising against the Austrians and foreign occupation</catDesc>
+    </category>
+    <category xml:id="elections">
+      <catDesc xml:lang="en">Garibaldi was a candidate for the Subalpine Parliament in the 1849 elections.</catDesc>
     </category>
   </list>
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listOrg xmlns="http://www.tei-c.org/ns/1.0">
+    <org xml:id="estense">
+        <orgName>Estense Digital Library</orgName>
+        <idno type="website">https://gallerie-estensi.beniculturali.it/blog/estense-digital-library-2/</idno>
+    </org>
+    <org xml:id="risorgimento">
+        <orgName>Istituto per la storia del Risorgimento italiano</orgName>
+        <idno type="website">https://www.risorgimento.it/edizioni-scritti-di-garibaldi/</idno>
+    </org>
+</listOrg>

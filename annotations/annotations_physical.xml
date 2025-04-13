@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<standOff xmlns="http://www.tei-c.org/ns/1.0">
+  <spanGrp type="physical">
+    <span from="lettercc5_6.xml#cc5-6-stamp-placeholder" ana="stamp">
+      <desc>
+        This stamp is present in other documents signed by Garibaldi, indicating that they were part of the Autografoteca Campori. 
+        Above the signature, the stamp contains the inscription "CODICI E MSS CAMPOLI" within an arch that surrounds a coat of arms.
+      </desc>
+    </span>
+  </spanGrp>
+
+  <list>
+    
+    <!-- Página 2: Blank -->
+    <item corresp="lettercc5_6.xml#surface-2">
+      <note type="blank">Blank page</note>
+    </item>
+
+    <!-- Página 3: Blank -->
+    <item corresp="lettercc5_6.xml#surface-3">
+      <note type="blank">Blank page</note>
+    </item>
+
+    <!-- Página 4: Zonas anotadas -->
+    <item corresp="lettercc5_6.xml#surface-4">
+      <zone xml:id="annotation" ulx="0" uly="0" lrx="100" lry="10">
+        <note type="later" resp="#CM">Later annotation at the top of the page.</note>
+      </zone>
+      <zone xml:id="address" ulx="20" uly="30" lrx="80" lry="90" rotate="90">
+        <address>
+          <p>Letter address in the center of the page, written in landscape orientation.</p>
+        </address>
+      </zone>
+    </item>
+
+    <item corresp="letterc4.xml#surface-2">
+      <note type="blank">Blank page</note>
+    </item>
+  
+    <item corresp="lettercc7_8.xml#surface-2">
+      <note type="blank">Blank page</note>
+    </item>
+    <item corresp="lettercc7_8.xml#surface-3">
+      <note type="blank">Blank page</note>
+    </item>
+    <item corresp="lettercc7_8.xml#surface-4">
+      <note type="blank">Blank page</note>
+    </item>
+  </list>
+  <spanGrp type="physical">
+    
+    <!-- Selo editorial -->
+    <span from="letterc4.xml#c4-s1" to="letterc4.xml#c4-s1">
+      <desc>
+        Editorial note referring to the upper half of a stamp visible in the document,
+        containing the inscription "CI E MSS. CAM" within an arch that surrounds the upper half of a coat of arms. 
+        This stamp appears in other documents signed by Garibaldi and likely belonged to the Autografoteca Campori.
+      </desc>
+    </span>
+
+    
+
+  </spanGrp>
+</standOff>

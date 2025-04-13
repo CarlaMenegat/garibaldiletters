@@ -1,0 +1,249 @@
+/* === GERAL === */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.navbar {
+  background-color: rgba(75, 113, 96, 0.6);
+}
+
+.navbar-brand {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 1.5rem;
+  color: #2f2f2f !important;
+}
+
+.navbar-nav .nav-link {
+  color: #2f2f2f !important;
+  font-family: 'Playfair Display', serif;
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+  background-color: #2f2f2f;
+  transition: width 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #4b7160 !important;
+}
+
+.navbar-nav .nav-link:hover::after {
+  width: 100%;
+}
+
+/* === NAV DA CARTA === */
+.letter-nav {
+  background-color: #f9f9f9;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+#letter-date {
+  min-width: 200px;
+  text-align: center;
+  font-size: 0.95rem;
+  color: #2f2f2f;
+}
+
+/* === LAYOUT PRINCIPAL === */
+.main-content {
+  display: flex;
+  flex-direction: row;
+  height: calc(100vh - 120px);
+  overflow: hidden;
+}
+
+.main-content:not(.sidebar-open) .left-column,
+.main-content:not(.sidebar-open) .right-column {
+  width: 50%;
+}
+
+.main-content.sidebar-open .left-column,
+.main-content.sidebar-open .right-column {
+  width: calc(50% - 150px);
+  transition: width 0.3s ease;
+}
+
+#leaflet-viewer {
+  height: 100%;
+  width: 100%;
+  background: #eee;
+}
+
+.col-6 {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* === TRANSCRIÇÃO E ANOTAÇÕES === */
+.transcription-box, .annotations-box {
+  padding: 1rem;
+  border-left: 1px solid #ccc;
+  border-radius: 12px;
+  border: 1px solid #bbb;
+  margin: 0.5rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  background-color: #fff;
+  overflow-y: auto;
+  transition: height 0.3s ease;
+}
+
+.transcription-box.with-annotations {
+  height: 50%;
+}
+
+.transcription-box {
+  height: 100%;
+}
+
+.annotations-box {
+  height: 50%;
+}
+
+.annotation-box {
+  padding: 0.5rem;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  margin-top: 0.5rem;
+}
+
+.annotation-box.theme { background-color: #fffbe6; }
+.annotation-box.person { background-color: #e0f0ff; }
+.annotation-box.place { background-color: #e6ffee; }
+.annotation-box.org { background-color: #f3e6ff; }
+.annotation-box.date { background-color: #eeeeee; }
+.annotation-box.physical { background-color: #fef2f2; border-color: #eab0b0; }
+
+/* === ANNOTATED SPANS === */
+.annotated {
+  border-radius: 4px;
+  padding: 2px 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.annotated:not(:hover) {
+  background-color: transparent;
+}
+
+.annotated.person:hover { background-color: #e0f0ff; }
+.annotated.place:hover { background-color: #e6ffee; }
+.annotated.org:hover { background-color: #f3e6ff; }
+.annotated.date:hover { background-color: #eeeeee; }
+.annotated.theme:hover { background-color: #fffbe6; }
+.annotated.physical:hover { background-color: #fef2f2; }
+
+/* === IIIF VIEWER === */
+#iiif-viewer {
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#iiif-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.nav-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2rem;
+  background: rgba(255,255,255,0.9);
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  z-index: 10;
+  border-radius: 0.3rem;
+  user-select: none;
+}
+
+.nav-button.right { right: 10px; }
+.nav-button:not(.right) { left: 10px; }
+
+/* === BOTÃO DA SIDEBAR === */
+.toggle-sidebar-btn {
+  margin-left: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+/* === SIDEBAR === */
+#metadata-sidebar {
+  order: 3;
+  width: 0;
+  overflow: hidden;
+  transition: width 0.3s ease;
+  background-color: #f9f9f9;
+  font-family: sans-serif;
+  color: #2f2f2f;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+
+#metadata-sidebar.open {
+  width: 300px;
+  padding: 1rem;
+}
+
+.sidebar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.sidebar-content {
+  overflow-y: auto;
+  height: calc(100vh - 60px);
+}
+
+.metadata-entry {
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+#metadata-sidebar a {
+  color: #2f2f2f;
+  text-decoration: underline dotted;
+  transition: color 0.2s ease;
+}
+
+#metadata-sidebar a:hover {
+  color: #4b7160;
+  text-decoration-style: solid;
+}
+
+/* === FOOTER === */
+footer {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  text-align: center;
+}

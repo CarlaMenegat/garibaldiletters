@@ -17,28 +17,12 @@
                 <p>Restricted use according the guidelines of the archive.</p>
                 </availability>
                 <license>CC BY-NC-SA</license>
-                <ptr target="https://edl.cultura.gov.it/item/koj8qngvj2"/>
             </publicationStmt>
             <sourceDesc>
-                <msDesc>
-                <msIdentifier>
-                    <repository>Biblioteca Estense Universitaria di Modena</repository>
-                    <idno>Garibaldi, Giuseppe, c. 7-8</idno>
-                </msIdentifier>
-                <msContents>
-                    <msItem>
-                    <title>Lettera di Garibaldi, Giuseppe</title>
-                    <author>Garibaldi, Giuseppe</author>
-                    <recipient>Comitato D'Istruzione Nazionale</recipient>
-                    <date when="1862-03-13"/>
-                    <origPlace>
-                        <settlement type="villa">Villa Spinola</settlement>
-                        <settlement type="city">Genova</settlement>
-                    </origPlace>
-                    </msItem>
-                </msContents>
-                </msDesc>
-            </sourceDesc>
+                <bibl>
+                  <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/efcbfbe7-cdfb-48bc-82d2-4c7a1fe9b39f/manifest"/>
+                </bibl>
+              </sourceDesc>
         </fileDesc>
         
         <encodingDesc>
@@ -65,9 +49,11 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/80c95aa4-6caa-438e-895e-81ff48ef75ca" format="image/jpeg" width="3515" height="5434"/>
-        <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/6cd8ff33-0951-4308-9e79-fb923bd189e1" format="image/jpeg" width="3492" height="5418"/>
-    </facsimile>
+        <surface n="1" xml:id="surface-1"/>
+        <surface n="2" xml:id="surface-2"/>
+        <surface n="3" xml:id="surface-3"/>
+        <surface n="4" xml:id="surface-4"/>
+      </facsimile>
     <text>
         <body resp="#CM">
             <div type="letter">

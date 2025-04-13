@@ -2,30 +2,52 @@
     <listPlace>
         <place xml:id="CIC">
             <placeName>Cicagna</placeName>
+            <note>City in the region of Liguria.</note>
             <location>
             <geo decl="WGS84">44.4092273, 9.2380064</geo>
             </location>
+            <idno type="geonames">https://www.geonames.org/3178944/cicagna.html</idno>
         </place>
+  
         <place xml:id="GEN">
-            <placeName>Genoa</placeName>
+            <placeName>Genova</placeName>
             <location>
             <geo decl="WGS84">44.4071,8.93399</geo>
             </location>
+            <idno type="geonames">https://www.geonames.org/3176219/genoa.html</idno>
         </place>
+    
         <place xml:id="CAP">
             <placeName>Caprera</placeName>
+            <note>Island located in the La Maddalena archipelago, north of Sardinia, it became Garibaldi’s refuge and permanent residence from 1856 onward.</note>
             <location>
-                <geo decls="#WGS84">41.2072 9.4611</geo>
+            <geo decl="WGS84">41.2072 9.4611</geo>
             </location>
+            <idno type="geonames">https://www.geonames.org/2525465/caprera.html</idno>
         </place>
+    
         <place xml:id="ROM">
             <placeName>Roma</placeName>
             <location>
-                <geo decls="#WGS84">41.9028 12.4964</geo>
+            <geo decl="WGS84">41.9028 12.4964</geo>
             </location>
-            <place xml:id="VAT">
-                <placeName>Piazza del Vaticano</placeName>
-            </place>
+            <idno type="geonames">https://www.geonames.org/3169070/rome.html</idno>
         </place>
+    
+        <place xml:id="PVAT">
+            <placeName>Piazza del Vaticano</placeName>
+            <note>Actually Piazza San Pietro del Vaticano</note>
+            <idno type="geonames">https://www.geonames.org/6942629/piazza-san-pietro.html</idno>
+        </place>
+
+        <place xml:id="PSMT">
+            <placeName>Piazza di Santa Maria in Trastevere</placeName>
+            <note>Square in the Trastevere district of Rome, known for the Basilica di Santa Maria.</note>
+            <location>
+                <geo decl="WGS84">41.8902 12.4696</geo>
+            </location>
+            <idno type="geonames">https://www.geonames.org/6942689/piazza-santa-maria-in-trastevere.html</idno>
+        </place>
+
     </listPlace>
 </standOff>

@@ -82,12 +82,6 @@ html, body {
   transition: width 0.3s ease;
 }
 
-#leaflet-viewer {
-  height: 100%;
-  width: 100%;
-  background: #eee;
-}
-
 .col-6 {
   display: flex;
   flex-direction: column;
@@ -97,6 +91,9 @@ html, body {
 
 /* === TRANSCRIÇÃO E ANOTAÇÕES === */
 .transcription-box, .annotations-box {
+  position: relative; 
+  height: 100%;
+  padding-top: 3rem; 
   padding: 1rem;
   border-left: 1px solid #ccc;
   border-radius: 12px;
@@ -106,6 +103,17 @@ html, body {
   background-color: #fff;
   overflow-y: auto;
   transition: height 0.3s ease;
+}
+
+.surface-selector-wrapper {
+  position: absolute;
+  top: 0.75rem;
+  right: 1rem;
+  z-index: 5;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.05);
 }
 
 .transcription-box.with-annotations {
@@ -128,7 +136,7 @@ html, body {
   margin-top: 0.5rem;
 }
 
-.annotation-box.theme { background-color: #fffbe6; }
+.annotation-box.comment { background-color: #fffbe6; }
 .annotation-box.person { background-color: #e0f0ff; }
 .annotation-box.place { background-color: #e6ffee; }
 .annotation-box.org { background-color: #f3e6ff; }
@@ -151,7 +159,7 @@ html, body {
 .annotated.place:hover { background-color: #e6ffee; }
 .annotated.org:hover { background-color: #f3e6ff; }
 .annotated.date:hover { background-color: #eeeeee; }
-.annotated.theme:hover { background-color: #fffbe6; }
+.annotated.comment:hover { background-color: #fffbe6; }
 .annotated.physical:hover { background-color: #fef2f2; }
 
 /* === IIIF VIEWER === */
@@ -247,3 +255,4 @@ footer {
   padding: 1rem;
   text-align: center;
 }
+

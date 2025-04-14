@@ -68,10 +68,15 @@
       <div class="col-6 left-column">
         <div id="iiif-viewer"></div>
       </div>
-  
+
       <!-- Box 2 e 3: Transcrição + Anotações -->
+      <div class="text-center my-2" id="surface-selector-container"></div>
       <div class="col-6 right-column d-flex flex-column">
         <div class="transcription-box">
+          <div class="surface-selector-wrapper">
+            <label for="surface-selector" class="form-label mb-0">Surface</label>
+            <select id="surface-selector" class="form-select form-select-sm w-auto d-inline-block"></select>
+          </div>
           <div id="transcription-content"></div>
         </div>
         <div class="annotations-box d-none" id="annotations-box">

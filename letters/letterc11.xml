@@ -51,17 +51,22 @@
             </encodingDesc>
         
             <profileDesc>
-            <correspDesc resp="#CM">
-                <correspAction type="sent">
-                <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
-                <placeName ref="#CAP" cert="high">Caprera</placeName>
-                <date when="1865-12-12"/>
-                </correspAction>
-                <correspAction type="received">
-                <persName ref="#BRU" cert="low">Bruni</persName>
-                </correspAction>
-            </correspDesc>
+                <correspDesc resp="#CM">
+                    <correspAction type="sent">
+                    <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+                    <placeName ref="#CAP" cert="high">Caprera</placeName>
+                    <date when="1865-12-12"/>
+                    </correspAction>
+                    <correspAction type="received">
+                    <persName ref="#BRU" cert="low">Bruni</persName>
+                    </correspAction>
+                </correspDesc>
             </profileDesc>
+            <textClass>
+                <keywords>
+                  <term ana="#education">Education</term>
+                </keywords>
+              </textClass>
         </teiHeader>
     <facsimile>
         <surface n="1" xml:id="surface-1"/>
@@ -78,10 +83,10 @@
                     Caro <salute> <persName ref="#BRU">Bruni</persName>,</salute>
                 </opener>
                 <lb/><lb/>
-                <p xml:id="c11-p1">
+                <p>
                     Accetto ringraciandovene il vostro
                     <lb/>
-                    ricordo. La educazione intellettua-
+                    ricordo. La <seg xml:id="c4seg3" ana="#elections">educazione</seg> intellettua-
                     <lb break="no"/>
                     le e morale dei popoli è quella 
                     <lb/>

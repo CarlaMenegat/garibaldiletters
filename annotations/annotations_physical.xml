@@ -45,21 +45,39 @@
     <item corresp="lettercc5_6.xml#surface-3">
       <note type="blank">Blank page</note>
     </item>
-    <item corresp="lettercc5_6.xml#surface-4">
-      <zone xml:id="annotation" ulx="0" uly="0" lrx="100" lry="10">
-        <note type="later" resp="#CM">Later annotation at the top of the page.</note>
-      </zone>
-      <zone xml:id="address" ulx="20" uly="30" lrx="80" lry="90" rotate="90">
-        <address>
-          <p>Letter address in the center of the page, written in landscape orientation.</p>
-        </address>
-      </zone>
+    <item>
+      <surface xml:id="surface-4">
+        <zone xml:id="annotation" ulx="0" uly="0" lrx="100" lry="10">
+          <note type="later" resp="#CM">Later annotation at the top of the page.</note>
+        </zone>
+        <zone xml:id="address" ulx="20" uly="30" lrx="80" lry="90" rotate="90">
+          <address>
+            <p>Letter address in the center of the page, written in landscape orientation.</p>
+          </address>
+        </zone>
+      </surface>
     </item>
+    <spanGrp type="physical">
+      <spanGrp type="physical">
+        <span from="lettercc5_6.xml#seal1">
+          <desc>Remnants of a red wax seal visible on the center right margin of the letter page.</desc>
+        </span>
+      </spanGrp>
+      <span from="lettercc5_6.xml#phys1">
+        <desc>Later annotation at the top of the page.</desc>
+      </span>
+      <span from="lettercc5_6.xml#phys2">
+        <desc>Letter address in the center of the page, written in landscape orientation.</desc>
+      </span>
+    </spanGrp>
 
     <!-- c4 -->
     <item corresp="letterc4.xml#surface-2">
       <note type="blank">Blank page</note>
     </item>
+    <span from="letterc4.xml#div-surface2" to="letterc4.xml#div-surface2">
+      <desc>Blank page.</desc>
+    </span>
 
     <!-- cc7_8 -->
     <item corresp="lettercc7_8.xml#surface-2">

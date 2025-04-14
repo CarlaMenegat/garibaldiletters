@@ -1,5 +1,5 @@
 const annotationFiles = {
-  theme: 'annotations/annotations_themes.xml',
+  comment: 'annotations/annotations_comments.xml',
   place: 'annotations/annotations_places.xml',
   person: 'annotations/annotations_persons.xml',
   org: 'annotations/annotations_org.xml',
@@ -17,6 +17,30 @@ const annotationFiles = {
     if (!response.ok) throw new Error(`Failed to fetch ${path}`);
     const text = await response.text();
     return new window.DOMParser().parseFromString(text, 'application/xml');
+
+    const keywords = header?.getElementsByTagNameNS(TEI_NS, 'term');
+  let themes = [];
+
+  if (keywords) {
+    for (let term of keywords) {
+      const ana = term.getAttribute('ana')?.replace(/^#/, '');
+      const doc = annotationData['theme'];
+      const categories = doc?.getElementsByTagNameNS(TEI_NS, 'category') || [];
+
+      for (let cat of categories) {
+        if (cat.getAttributeNS('http://www.w3.org/XML/1998/namespace', 'id') === ana) {
+          const desc = cat.getElementsByTagNameNS(TEI_NS, 'catDesc')[0]?.textContent;
+          if (desc) themes.push(desc);
+        }
+      }
+    }
+  }
+
+  const themeEntry = `
+    <div class="mb-3">
+      <strong>General Theme:</strong><br>
+      ${themes.length ? themes.join(', ') : '(not specified)'}
+    </div>`;
   }
   
   async function loadAnnotationFile(type, path) {
@@ -166,12 +190,12 @@ const annotationFiles = {
             const ana = child.getAttribute('ana');
             const xmlId = child.getAttributeNS('http://www.w3.org/XML/1998/namespace', 'id');
             const content = renderTEIText(child);
-          
+  
             if (ana && xmlId) {
               const id = ana.replace(/^#/, '');
-              const doc = annotationData['theme'];
+              const doc = annotationData['comment'];  // 👈 USA O ARQUIVO DE COMENTÁRIOS
               let desc = '(no description)';
-          
+  
               if (doc) {
                 const categories = doc.getElementsByTagNameNS(TEI_NS, 'category');
                 for (let category of categories) {
@@ -182,8 +206,8 @@ const annotationFiles = {
                   }
                 }
               }
-          
-              html += `<span id="${xmlId}" class="annotated theme" data-type="theme" data-desc="${desc.replace(/"/g, '&quot;')}">${content}</span>`;
+  
+              html += `<span id="${xmlId}" class="annotated comment" data-type="comment" data-desc="${desc.replace(/"/g, '&quot;')}">${content}</span>`;
             } else {
               html += content;
             }
@@ -206,32 +230,48 @@ const annotationFiles = {
     });
     return html;
   }
-  
   async function applyAnnotations(container, fileName) {
     const allSpans = [];
+  
     for (const [type, doc] of Object.entries(annotationData)) {
       const spans = doc.querySelectorAll('spanGrp > span');
       spans.forEach(span => {
         const from = span.getAttribute('from');
         if (!from.includes(fileName)) return;
+  
         const match = from.match(/#(.*)$/);
         if (!match) return;
         const id = match[1];
         let desc = '(no description)';
+  
         if (type === 'date') {
-            const ana = span.getAttribute('ana')?.replace(/^#/, '');
-            const events = doc.getElementsByTagNameNS(TEI_NS, 'event');
-            for (let event of events) {
-              const xmlId = event.getAttributeNS('http://www.w3.org/XML/1998/namespace', 'id');
-              if (xmlId === ana) {
-                desc = event.getElementsByTagNameNS(TEI_NS, 'desc')[0]?.textContent || '(no description)';
-                break;
-              }
+          const ana = span.getAttribute('ana')?.replace(/^#/, '');
+          const events = doc.getElementsByTagNameNS(TEI_NS, 'event');
+          for (let event of events) {
+            const xmlId = event.getAttributeNS('http://www.w3.org/XML/1998/namespace', 'id');
+            if (xmlId === ana) {
+              desc = event.getElementsByTagNameNS(TEI_NS, 'desc')[0]?.textContent || '(no description)';
+              break;
             }
           }
+        }
+  
         if (type === 'physical') {
           desc = span.getElementsByTagNameNS(TEI_NS, 'desc')[0]?.textContent || '(no description)';
+        }
+  
+        if (type === 'comment') {
+          const ana = span.getAttribute('ana')?.replace(/^#/, '');
+          const categories = doc.getElementsByTagNameNS(TEI_NS, 'category');
+          for (let cat of categories) {
+            const catId = cat.getAttributeNS('http://www.w3.org/XML/1998/namespace', 'id');
+            if (catId === ana) {
+              desc = cat.getElementsByTagNameNS(TEI_NS, 'catDesc')[0]?.textContent || '(no description)';
+              break;
+            }
           }
+        }
+  
         allSpans.push({ id, type, desc });
       });
     }
@@ -257,37 +297,115 @@ const annotationFiles = {
       });
     });
   }
+
+  function updateTextForSurface(surfaceId, fileName) {
+    const container = document.getElementById('transcription-content');
+    const teiDoc = annotationData['_teiDoc']; // armazenamos na renderViewer
+    const divs = teiDoc.getElementsByTagNameNS(TEI_NS, 'div');
   
+    let matchedDiv = null;
+    for (let div of divs) {
+      const corresp = div.getAttribute('corresp');
+      if (corresp === `#${surfaceId}`) {
+        matchedDiv = div;
+        break;
+      }
+    }
+  
+    if (matchedDiv) {
+      const html = renderTEIText(matchedDiv);
+      container.innerHTML = html;
+      applyAnnotations(container, fileName);
+
+      // 🆕 Verifica se existem anotações físicas associadas a esta superfície
+      const physicalAnnotations = [];
+      const doc = annotationData['physical'];
+      if (doc) {
+        const spans = doc.querySelectorAll('spanGrp[type="physical"] > span');
+        spans.forEach(span => {
+          const from = span.getAttribute('from');
+          if (from === `${fileName}#${surfaceId}`) {
+            const desc = span.getElementsByTagNameNS(TEI_NS, 'desc')[0]?.textContent || '(no description)';
+            physicalAnnotations.push(desc);
+          }
+        });
+      }
+
+      if (physicalAnnotations.length > 0) {
+        const annotationBox = document.getElementById('annotations-content');
+        annotationBox.innerHTML += `
+          <div class="annotation-box physical">
+            <strong>PHYSICAL</strong><br>
+            ${physicalAnnotations.join('<br><hr>')}
+          </div>`;
+        document.getElementById('annotations-box')?.classList.remove('d-none');
+        document.querySelector('.transcription-box')?.classList.add('with-annotations');
+      }
+  
+      const plainText = matchedDiv.textContent.trim();
+      if (plainText === '[see physical note]') {
+        const annotationBox = document.getElementById('annotations-content');
+        annotationBox.innerHTML = `
+          <div class="annotation-box physical">
+            <strong>PHYSICAL</strong><br>Blank page.
+          </div>`;
+        document.getElementById('annotations-box')?.classList.remove('d-none');
+        document.querySelector('.transcription-box')?.classList.add('with-annotations');
+      } else {
+        document.getElementById('annotations-box')?.classList.add('d-none');
+        document.querySelector('.transcription-box')?.classList.remove('with-annotations');
+      }
+    }
+  }
+
   // === IIIF viewer ===
   let iiifImages = [];
   let currentIndex = 0;
   
   async function loadIIIFManifest(manifestUrl) {
-  try {
-    console.log("Carregando manifesto IIIF:", manifestUrl);
-
-    Mirador.viewer({
-      id: 'iiif-viewer',
-      windows: [{
-        manifestId: manifestUrl,
-        canvasIndex: 0,
-        allowClose: false,
-        allowMaximize: false,
-        allowFullscreen: true,
-        thumbnailNavigationPosition: 'far-bottom'
-      }],
-      workspaceControlPanel: {
-        enabled: false
-      },
-      window: {
-        defaultSideBarPanel: 'info',
-        sideBarOpenByDefault: false
-      }
-    });
-  } catch (err) {
-    console.error("Erro ao carregar o Mirador:", err);
+    try {
+      console.log("Loading IIIF manifest:", manifestUrl);
+  
+      Mirador.viewer({
+        id: 'iiif-viewer',
+        windows: [{
+          manifestId: manifestUrl,
+          canvasIndex: 0,
+          allowClose: false,
+          allowMaximize: false,
+          allowFullscreen: true,
+          thumbnailNavigationPosition: 'far-bottom'
+        }],
+        workspaceControlPanel: {
+          enabled: false
+        },
+        window: {
+          defaultSideBarPanel: 'info',
+          sideBarOpenByDefault: false
+        }
+      });
+  
+      // Listen to canvas changes and sync transcription
+      window.setTimeout(() => {
+        const miradorStore = window.Mirador.store;
+        if (miradorStore) {
+          miradorStore.subscribe(() => {
+            const state = miradorStore.getState();
+            const windows = Object.values(state.windows || {});
+            const canvasIndex = windows[0]?.canvasIndex;
+            const manifest = windows[0]?.manifestId;
+  
+            // Convert canvas index to surface ID
+            const surfaceId = `surface-${canvasIndex + 1}`;
+            updateTextForSurface(surfaceId, window.currentLetterFileName);
+          });
+        }
+      }, 1000);
+  
+    } catch (err) {
+      console.error("Failed to load Mirador viewer:", err);
+    }
   }
-}
   
     function displayIIIFImage() {
         if (iiifImages.length > 0) {
@@ -300,34 +418,57 @@ const annotationFiles = {
     }
   
   
-  async function renderViewer(fileName) {
-    const teiDoc = await loadXML(basePath + fileName);
-    document.getElementById('transcription-content').innerHTML = '';
-    document.getElementById('annotations-content').innerHTML = '';
-  
-    const transcriptionContainer = document.getElementById('transcription-content');
-    const textNode = teiDoc.getElementsByTagNameNS(TEI_NS, 'text')[0];
-    if (textNode) {
-      transcriptionContainer.innerHTML = renderTEIText(textNode);
-      await applyAnnotations(transcriptionContainer, fileName);
-    }
+    async function renderViewer(fileName) {
+      const teiDoc = await loadXML(basePath + fileName);
+      annotationData['_teiDoc'] = teiDoc; // armazena o documento TEI completo
+      window.currentLetterFileName = fileName;
     
-  
-    // ✅ Aqui está a chamada corrigida para o manifesto
-    const sourceDesc = teiDoc.getElementsByTagNameNS(TEI_NS, 'sourceDesc')[0];
-    const ptr = sourceDesc?.getElementsByTagNameNS(TEI_NS, 'ptr')[0];
-    const manifestUrl = ptr?.getAttribute('target');
-
-    console.log("Manifest IIIF URL extraída:", manifestUrl);
-
-    if (manifestUrl) {
-      loadIIIFManifest(manifestUrl);
+      document.getElementById('transcription-content').innerHTML = '';
+      document.getElementById('annotations-content').innerHTML = '';
+    
+      const divs = teiDoc.getElementsByTagNameNS(TEI_NS, 'div');
+      const selector = document.getElementById('surface-selector');
+      selector.innerHTML = '';
+    
+      let firstSurfaceId = null;
+    
+      // Preenche o seletor e captura o primeiro surfaceId
+      Array.from(divs).forEach(div => {
+        const corresp = div.getAttribute('corresp');
+        if (corresp?.startsWith('#surface-')) {
+          const surfaceId = corresp.slice(1); // remove o "#"
+          const option = document.createElement('option');
+          option.value = surfaceId;
+          option.textContent = surfaceId.replace('surface-', 'Page ');
+          selector.appendChild(option);
+    
+          if (!firstSurfaceId) {
+            firstSurfaceId = surfaceId;
+          }
+        }
+      });
+    
+      // Atualiza o conteúdo com a primeira superfície, se houver
+      if (firstSurfaceId) {
+        selector.value = firstSurfaceId; // seleciona visualmente
+        updateTextForSurface(firstSurfaceId, fileName);
+      }
+    
+      // === IIIF ===
+      const sourceDesc = teiDoc.getElementsByTagNameNS(TEI_NS, 'sourceDesc')[0];
+      const ptr = sourceDesc?.getElementsByTagNameNS(TEI_NS, 'ptr')[0];
+      const manifestUrl = ptr?.getAttribute('target');
+    
+      if (manifestUrl) {
+        loadIIIFManifest(manifestUrl);
+      }
+    
+      // === Metadata lateral
+      fillMetadataPanel(fileName);
     }
-    fillMetadataPanel(fileName);
-  }
 
   let letters = [];
-let letterIndex = 0;
+  let letterIndex = 0;
 
 function formatDate(place, dateStr) {
   const months = [
@@ -394,6 +535,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
+  document.getElementById('surface-selector')?.addEventListener('change', function () {
+    const selectedSurface = this.value;
+    updateTextForSurface(selectedSurface, window.currentLetterFileName);
+  });
+
   // 🆕 Controles da sidebar de metadados
   const toggleSidebarBtn = document.getElementById('toggle-sidebar');
   const sidebar = document.getElementById('metadata-sidebar');
@@ -423,12 +569,12 @@ function fillMetadataPanel(fileName) {
     const ptr = teiDoc.getElementsByTagNameNS(TEI_NS, 'ptr')[0];
     const manifestUrl = ptr?.getAttribute('target') || '';
     const iiifEntry = `
-  <div class="mb-3">
-    <strong>IIIF Manifest:</strong><br>
-    <a href="${manifestUrl}" target="_blank">
-      <img src="images/IIIFlogo.png" alt="IIIF" style="height: 24px;">
-    </a>
-  </div>`;
+      <div class="mb-3">
+        <strong>IIIF Manifest:</strong><br>
+        <a href="${manifestUrl}" target="_blank">
+          <img src="images/IIIFlogo.png" alt="IIIF" style="height: 24px;">
+        </a>
+      </div>`;
 
     // === From (fixo) ===
     const fromEntry = `
@@ -437,66 +583,43 @@ function fillMetadataPanel(fileName) {
         <span>Giuseppe Garibaldi</span>
       </div>`;
 
-      let to = '(desconhecido)';
-      const corresp = header?.getElementsByTagNameNS(TEI_NS, 'correspAction');
-      for (let el of corresp) {
-        if (el.getAttribute('type') === 'received') {
-          const org = el.getElementsByTagNameNS(TEI_NS, 'orgName')[0]?.textContent;
-          const person = el.getElementsByTagNameNS(TEI_NS, 'persName')[0]?.textContent;
-          const place = el.getElementsByTagNameNS(TEI_NS, 'placeName')[0]?.textContent;
-          to = org || person || place || to;
-          break;
-        }
+    // === To ===
+    let to = '(desconhecido)';
+    const corresp = header?.getElementsByTagNameNS(TEI_NS, 'correspAction');
+    for (let el of corresp) {
+      if (el.getAttribute('type') === 'received') {
+        const org = el.getElementsByTagNameNS(TEI_NS, 'orgName')[0]?.textContent;
+        const person = el.getElementsByTagNameNS(TEI_NS, 'persName')[0]?.textContent;
+        const place = el.getElementsByTagNameNS(TEI_NS, 'placeName')[0]?.textContent;
+        to = org || person || place || to;
+        break;
       }
-      const toEntry = `
-        <div class="mb-3">
-          <strong>To:</strong><br>
-          <span>${to}</span>
-        </div>`;
+    }
+    const toEntry = `
+      <div class="mb-3">
+        <strong>To:</strong><br>
+        <span>${to}</span>
+      </div>`;
 
     // === Sent from ===
     let sentFrom = '(local não identificado)';
     let sentFromLink = '';
     const placeEl = header?.getElementsByTagNameNS(TEI_NS, 'placeName')[0];
-if (placeEl) {
-  sentFrom = placeEl.textContent;
-
-  // agora procuramos pelo nome correspondente em annotations_places.xml
-  const doc = annotationData['place'];
-  const places = doc?.getElementsByTagNameNS(TEI_NS, 'place') || [];
-
-  for (let place of places) {
-    const name = place.getElementsByTagNameNS(TEI_NS, 'placeName')[0]?.textContent;
-    if (name?.trim().toLowerCase() === sentFrom.trim().toLowerCase()) {
-      const idnos = place.getElementsByTagNameNS(TEI_NS, 'idno');
-      for (let idno of idnos) {
-        if (idno.getAttribute('type') === 'geonames') {
-          sentFromLink = idno.textContent;
-        }
-      }
-      break;
-    }
-  }
-    } else {
-      // fallback em annotations_places.xml
+    if (placeEl) {
+      sentFrom = placeEl.textContent;
       const doc = annotationData['place'];
-      const spans = doc?.querySelectorAll('spanGrp > span') || [];
-      for (let span of spans) {
-        if (span.getAttribute('from')?.includes(fileName)) {
-          const ref = span.getAttribute('ref')?.replace(/^#/, '');
-          const places = doc.getElementsByTagNameNS(TEI_NS, 'place');
-          for (let place of places) {
-            if (place.getAttributeNS('http://www.w3.org/XML/1998/namespace', 'id') === ref) {
-              sentFrom = place.getElementsByTagNameNS(TEI_NS, 'placeName')[0]?.textContent || sentFrom;
-              const geoLinks = place.getElementsByTagNameNS(TEI_NS, 'idno');
-              for (let link of geoLinks) {
-                if (link.getAttribute('type') === 'geonames') {
-                  sentFromLink = link.textContent;
-                }
-              }
-              break;
+      const places = doc?.getElementsByTagNameNS(TEI_NS, 'place') || [];
+
+      for (let place of places) {
+        const name = place.getElementsByTagNameNS(TEI_NS, 'placeName')[0]?.textContent;
+        if (name?.trim().toLowerCase() === sentFrom.trim().toLowerCase()) {
+          const idnos = place.getElementsByTagNameNS(TEI_NS, 'idno');
+          for (let idno of idnos) {
+            if (idno.getAttribute('type') === 'geonames') {
+              sentFromLink = idno.textContent;
             }
           }
+          break;
         }
       }
     }
@@ -519,20 +642,60 @@ if (placeEl) {
         break;
       }
     }
-
     const conservationEntry = `
       <div class="mb-3">
         <strong>Conservation Place:</strong><br>
         ${publisherLink ? `<a href="${publisherLink}" target="_blank">${publisher}</a>` : publisher}
       </div>`;
 
-    // === Final: monta todos
+    // === General Theme (termo clicável com descrição oculta) ===
+    const keywords = header?.getElementsByTagNameNS(TEI_NS, 'term');
+    let themeItems = [];
+
+    if (keywords) {
+      for (let i = 0; i < keywords.length; i++) {
+        const term = keywords[i];
+        const ana = term.getAttribute('ana')?.replace(/^#/, '');
+        const termLabel = term.textContent || '(term not informed)';
+        let description = '(no description)';
+        const doc = annotationData['theme'];
+        const categories = doc?.getElementsByTagNameNS(TEI_NS, 'category') || [];
+
+        for (let cat of categories) {
+          const catId = cat.getAttributeNS('http://www.w3.org/XML/1998/namespace', 'id');
+          if (catId === ana) {
+            description = cat.getElementsByTagNameNS(TEI_NS, 'catDesc')[0]?.textContent || description;
+            break;
+          }
+        }
+
+        const itemHtml = `
+          <div class="theme-toggle metadata-entry">
+            <span class="theme-term" style="cursor:pointer;text-decoration:underline dotted;" onclick="this.nextElementSibling.classList.toggle('d-none');">
+              ${termLabel}
+            </span>
+            <div class="theme-description d-none small mt-1" style="padding-left:10px;">
+              ${description}
+            </div>
+          </div>`;
+        themeItems.push(itemHtml);
+      }
+    }
+
+    const themeEntry = `
+      <div class="mb-3">
+        <strong>General Theme:</strong><br>
+        ${themeItems.length ? themeItems.join('') : '(not specified)'}
+      </div>`;
+
+    // === Montagem final dos metadados ===
     container.innerHTML = `
       <div class="metadata-entry">${iiifEntry}</div>
       <div class="metadata-entry">${fromEntry}</div>
       <div class="metadata-entry">${toEntry}</div>
       <div class="metadata-entry">${sentFromEntry}</div>
       <div class="metadata-entry">${conservationEntry}</div>
+      ${themeEntry}
     `;
   });
 }

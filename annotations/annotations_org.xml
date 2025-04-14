@@ -9,6 +9,10 @@
         <org xml:id="CLE">
             <orgName>Comandante della Legione Degli Emigrati</orgName>
         </org>
+        <org xml:id="LE">
+            <orgName>Legione Degli Emigrati</orgName>
+            <note>This military corps was composed of Italian exiles who had fled political repression for supporting the unification process.</note>
+        </org>
         <org xml:id="CIN">
             <orgName>Comitato D'Istruzione Nazionale</orgName>
             <note>Probably a committee aimed at organizing the movement of the Società di Tiro a Segno Nazionale, whose main goal was to train civilians in the use of firearms. They also had a strong nationalist character and encouraged civic spirit.</note>

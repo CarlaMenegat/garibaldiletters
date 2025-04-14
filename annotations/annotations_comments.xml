@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <standOff xmlns="http://www.tei-c.org/ns/1.0" xmlns:xml="http://www.w3.org/XML/1998/namespace">
 
+  <spanGrp type="themes">
+    <!-- letterc4.xml -->
+    <span from="letterc4.xml#c4seg1" to="letterc4.xml#c4seg1" ana="#nationalism_rising">
+      <desc>Garibaldi honors Genoa’s early patriotic spirit and sacrifice in 1846.</desc>
+    </span>
+    <span from="letterc4.xml#c4seg2" to="letterc4.xml#c4seg2" ana="#genoa1800">
+      <desc>Refers to Genoa’s uprising against the Austrians and foreign occupation.</desc>
+    </span>
+    <span from="letterc4.xml#c4-seg3" to="letterc4.xml#c4-seg3" ana="#elections">
+      <desc>Garibaldi was a candidate for the Subalpine Parliament in the 1849 elections.</desc>
+    </span>
+
+    <!-- letterc11.xml -->
+    <span from="letterc11.xml#c11-seg1" to="letterc11.xml#c11-seg1" ana="#education">
+      <desc>Garibaldi’s statement linking education to political equality.</desc>
+    </span>
+  </spanGrp>
+
   <list>
     <category xml:id="politics">
       <catDesc xml:lang="en">Themes related to political ideas, governance, and activism.</catDesc>

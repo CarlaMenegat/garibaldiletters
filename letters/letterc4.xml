@@ -49,90 +49,102 @@
         </correspAction>
       </correspDesc>
     </profileDesc>
+    <textClass>
+      <keywords>
+        <term ana="#elections">Sub Alpine Parliament Elections</term>
+      </keywords>
+    </textClass>
   </teiHeader>
   <facsimile>
-    <surface n="1" xml:id="surface-1"/>
-    <surface n="2" xml:id="surface-2"/>
+    <surface xml:id="surface-1">
+      <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/80c95aa4-6caa-438e-895e-81ff48ef75ca"/>
+    </surface>
+    <surface xml:id="surface-2">
+      <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/80c95aa4-6caa-438e-895e-81ff48ef75ca"/>
+    </surface>
   </facsimile>
   <text>
     <body resp="#CM">
       <div type="letter">
-        <opener>
-          <dateline>(Pel courier livornese)</dateline>
+        <div corresp="#surface-1">
+          <opener>
+            <dateline>(Pel courier livornese)</dateline>
+            <lb/><lb/>
+            <address>
+              Agli <orgName ref="#CDC">elettori del Colegio di Cicagna</orgName>
+            </address>
+            <lb/><lb/>
+            <salute>Fratelli!</salute>
+          </opener>
           <lb/><lb/>
-          <address>
-            Agli <orgName ref="#CDC">elettori del Colegio di Cicagna</orgName>
-          </address>
-          <lb/><lb/>
-          <salute>Fratelli!</salute>
-        </opener>
-        <lb/><lb/>
-        <p xml:id="c4-p1">
-          Voi, scegliendo l'uomo del popolo che <sic>debbe</sic>
-          difendere ed allargare i vostri diritti; l'uomo
-          vi rappresenti ne' <choice>
-            <sic>da fidari</sic>
-            <corr>da fidarsi</corr>
-          </choice> e nelle credenze, 
-          <seg>getterà lo sguardo su me.</seg> 
-          Io non ho che una spada e la mia coscienza; 
-          <unclear>ve lo inisaen</unclear>.
-        </p>
+          <p>
+            Voi, scegliendo l'uomo del popolo che <sic>debbe</sic>
+            difendere ed allargare i vostri diritti; l'uomo
+            vi rappresenti ne' <choice>
+              <sic>da fidari</sic>
+              <corr>da fidarsi</corr>
+            </choice> e nelle credenze, 
+            <seg>getterà lo sguardo su me.</seg> 
+            Io non ho che una spada e la mia coscienza; 
+            <unclear>ve lo inisaen</unclear>.
+          </p>
 
-        <p xml:id="c4-p2">
-          Io ci <choice>
-            <sic>amaor</sic>
-            <corr>amor</corr>
-          </choice> fin dall'infanzia,
-          <choice>
-            <sic>udando</sic>
-            <corr>ascoltando</corr>
-          </choice> 
-          <lb/>
-          dalla storia de' vostri padri; 
-          <seg xml:id="c4seg1" ana="#nationalism_rising">nel 1846 avete risposto con
-          <lb/>
-          la vita</seg> al fiero appello di <placeName ref="#GEN">Genova</placeName>; 
-          <seg xml:id="c4seg2" ana="#genoa1800">nel 1800</seg><choice>
-            <sic>debbene</sic>
-            <corr>dovrebbero</corr>
-          </choice> 
-          <lb/>
-          i vostri ispiratori vi conducessero <choice>
-            <sic>male anché</sic>
-            <corr>male anche</corr>
-          </choice>
-          <lb/>
-          nell'error miserabilmente gagliardi, vi addimostrasle
-          <lb/>
-          uomini. Ora volete esser uomini nel coraggio, citta-
-          <lb break="no"/>
-          dini nel cuore, e la vostra fiducia mi rimeritò
-          <lb/>
-          di lunghe fatiche. Però celà la mia fede mi si
-          <lb/>
-          afforza nell'anime, per così dire giurata da un
-          <lb/>
-          voto popolare.
-          <lb/>
-          Io come tale l'accetto. Per esso, e con esso,
-          <lb/>
-          col guido e col braccio, o fratelli, io vi
-          <lb/>
-          <seg xml:id="c4seg3" ana="#elections">rappresenterò</seg> sempre.
-          <lb/>
-        </p>
-
-        <closer>
-          <dateline>
-            <placeName ref="#GEN">Genova</placeName>, <date xml:id="dt1" when="1848-10-06">6 ottobre 1848</date>
-          </dateline>
-          <lb/><lb/>
-          <stamp xml:id="c4-s1"/>
-          <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
-          <p xml:id="stamp-placeholder"/>
-        </closer>
-        
+          <p>
+            Io ci <choice>
+              <sic>amaor</sic>
+              <corr>amor</corr>
+            </choice> fin dall'infanzia,
+            <choice>
+              <sic>udando</sic>
+              <corr>ascoltando</corr>
+            </choice> 
+            <lb/>
+            dalla storia de' vostri padri; 
+            <seg xml:id="c4seg1" ana="#nationalism_rising">nel 1846 avete risposto con
+            <lb/>
+            la vita</seg> al fiero appello di <placeName ref="#GEN">Genova</placeName>; 
+            <seg xml:id="c4seg2" ana="#genoa1800">nel 1800</seg><choice>
+              <sic>debbene</sic>
+              <corr>dovrebbero</corr>
+            </choice> 
+            <lb/>
+            i vostri ispiratori vi conducessero <choice>
+              <sic>male anché</sic>
+              <corr>male anche</corr>
+            </choice>
+            <lb/>
+            nell'error miserabilmente gagliardi, vi addimostrasle
+            <lb/>
+            uomini. Ora volete esser uomini nel coraggio, citta-
+            <lb break="no"/>
+            dini nel cuore, e la vostra fiducia mi rimeritò
+            <lb/>
+            di lunghe fatiche. Però celà la mia fede mi si
+            <lb/>
+            afforza nell'anime, per così dire giurata da un
+            <lb/>
+            voto popolare.
+            <lb/>
+            Io come tale l'accetto. Per esso, e con esso,
+            <lb/>
+            col guido e col braccio, o fratelli, io vi
+            <lb/>
+            <seg xml:id="c11-seg1" ana="#education">rappresenterò</seg> sempre.
+            <lb/>
+          </p>
+          <closer>
+            <dateline>
+              <placeName ref="#GEN">Genova</placeName>, <date xml:id="dt1" when="1848-10-06">6 ottobre 1848</date>
+            </dateline>
+            <lb/><lb/>
+            <stamp xml:id="c4-s1"/>
+            <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+            <p xml:id="stamp-placeholder"/>
+          </closer> 
+        </div>
+        <div corresp="#surface-2">
+          [see physical note]
+        </div>   
       </div>
     </body>
   </text>

@@ -30,15 +30,10 @@
                                 <material function="support">Paper</material>
                             </supportDesc>
                             <handDesc>
-                                <handNote xml:id="h1">First hand, Giuseppe Garibaldi</handNote>
+                                <handNote xml:id="h1">First hand, Giuseppe Garibaldi, or his secretary</handNote>
                                 <handNote xml:id="h2">Second hand, possibly the receiver</handNote>
                                 <handNote xml:id="h3">Third hand, appears to be later annotations</handNote>
                             </handDesc>
-                            <sealDesc>
-                                <seal type="wax" subtype="fragmentary">
-                                    <p>Remnants of a red wax seal visible on the center right margin of the letter page...</p>
-                                </seal>
-                            </sealDesc>
                         </objectDesc>
                     </physDesc>
                     <msContents>
@@ -83,70 +78,93 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
+        <textClass>
+            <keywords>
+              <term ana="#repubblica_romana">Roman Republic</term>
+            </keywords>
+          </textClass>
     </teiHeader>
-    <facsimile>
-        <surface n="1" xml:id="surface-1"/>
-        <surface n="2" xml:id="surface-2"/>
-        <surface n="3" xml:id="surface-3"/>
-        <surface n="4" xml:id="surface-4"/>
-      </facsimile>
     <text>
         <body resp="#CM">
             <div type="letter_wrapper">
-                <ab type="address"><handShift hand="#h1"/>
-                    <p>
-                        Al <orgName ref="#CLE">Comandante della Legione degli Emigrati</orgName>
+                <div corresp="#surface-1">
+                    <div type="letter"><handShift hand="#h1"/>
+                        <opener>
+                            <dateline>
+                                Dalla <placeName ref="#PVAT">Piazza del Vaticano</placeName>, <date xml:id="dt1" when="1849-04-29">29/4 1849</date>
+                            </dateline>
+                            <lb/>
+                            <lb/>
+                            <salute>
+                                Al <choice>
+                                        <abbr>Com.te</abbr>
+                                        <expan><orgName ref="#CLE">Comandante</orgName></expan>
+                                    </choice> della Legione degli Emigrati
+                            </salute>
+                            <lb/>
+                            <lb/>
+                        </opener>
+                        <p>Il Ministro della Guerra col despaccio del
+                            <lb/>
+                            27 corrente affidò a me il Comando
+                            <lb/>
+                            della 1<hi rend="sup">a</hi> Brigada nella cui forza e
+                            <lb/>
+                            viene comprese la <orgName ref="#LE">Vostra Legione</orgName>.
+                        </p>
+                        <p>
+                            Le urgenze del momento esigono che <choice>
+                                <sic>insen<lb break="no"/>diamo</sic>
+                                <corr>assediamo</corr>
+                            </choice> subito e quindi oggi vorebbe
+                            <lb/>
+                            inmancabilmente trovarvi colla Vostra
+                            <lb/>
+                            truppa sulla Piazza di <placeName ref="#PSMT">Santa Maria in<lb/>Trastevere</placeName>
+                            e tutte le communicazioni.
+                            <lb/>
+                            <lb/>
+                            Salute e fratellanza
+                        </p>
+                        <closer>
+                            <salute>Vostro,</salute>
+                            <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+                            <p xml:id="stamp-placeholder"/>
+                        </closer>
+                    </div>
+                </div>
+                <div corresp="#surface-2">
+                    [see physical note]
+                </div> 
+                <div corresp="#surface-3">
+                    <p>[physical marks]</p>
+                </div> 
+                <div corresp="#surface-4">
+                        <p xml:id="phys1">[physical marks]</p>
+                        <p xml:id="seal1">[seal]</p>
+                        <ab type="address" facs="#address">
+                            <handShift hand="#h1"/>
+                            <p>
+                                Al <orgName ref="#CLE">Comandante della Legione degli Emigrati</orgName>
+                                <lb/>
+                                in <placeName ref="#ROM">Roma</placeName>
+                            </p>
+                        </ab>
+                        <p xml:id="phys2">[physical marks]</p>
+                        <p>
+                        <handShift hand="#h2"/>
+                            Garibaldi Giuseppe di Nizza
                         <lb/>
-                        in
-                        <placeName ref="#ROM">Roma</placeName>
-                    </p>
-                </ab>
-                <ab></ab>
-            </div>
-            <div type="letter"><handShift hand="#h1"/>
-                <opener>
-                    <dateline>
-                        Dalla <placeName ref="#PVAT">Piazza del Vaticano</placeName>, <date xml:id="dt1" when="1849-04-29">29/4 1849</date>
-                    </dateline>
-                    <lb/>
-                    <lb/>
-                    <salute>
-                        Al <choice>
-                                <abbr>Com.te</abbr>
-                                <expan><orgName ref="#CLE">Comandante</orgName></expan>
-                            </choice> della Legione degli Emigrati
-                    </salute>
-                    <lb/>
-                    <lb/>
-                </opener>
-                <p xml:id="cc5-6-p1">Il Ministro della Guerra col despaccio del
-                    <lb/>
-                    27 corrente affidò a me il Comando
-                    <lb/>
-                    della 1<hi rend="sup">a</hi> Brigada nella cui forza e
-                    <lb/>
-                    viene comprese la <orgName ref="#CLE">Vostra Legione</orgName>.
-                </p>
-                <p xml:id="cc5-6-p2">
-                    Le urgenze del momento esigono che <choice>
-                        <sic>insen<lb break="no"/>diamo</sic>
-                        <corr>assediamo</corr>
-                    </choice> subito e quindi oggi vorebbe
-                    <lb/>
-                    inmancabilmente trovarvi colla Vostra
-                    <lb/>
-                    truppa sulla Piazza di <placeName ref="#PSMT">Santa Maria in<lb/>Trastevere</placeName>
-                    e tutte le communicazioni.
-                    <lb/>
-                    <lb/>
-                    Salute e fratellanza
-                </p>
-                <closer>
-                    <salute>Vostro,</salute>
-                    <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
-                    <p xml:id="stamp-placeholder"/>
-                  </closer>
-            </div>
+                            Filibustiere, Cersaro, Generale delle truppe
+                        <lb/>
+                            Repubblicane al tempo dell'assedio di Roma
+                        <lb/>
+                            nel 1849, ora in America nuovamente
+                        <lb/>
+                            uomo di coraggio ed audacia.
+                        </p>
+                    </div>
+                </div> 
         </body>
     </text>
 </TEI>

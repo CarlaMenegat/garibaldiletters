@@ -62,32 +62,37 @@
     <text>
         <body resp="#CM">
             <div type="letter">
-                <opener>
-                    <dateline>
-                        <placeName ref="#VSCG">Quarto, Villa Spinola</placeName>
+                <div corresp="#surface-1">
+                    <opener>
+                        <dateline>
+                            <placeName ref="#VSCG">Quarto, Villa Spinola</placeName>
+                            <lb/><lb/>
+                            <date xml:id="d4" when="1862-03-13">13/03/1862</date>
+                            <lb/><lb/>
+                        </dateline>
+                        <salute>Miei cari amici,</salute>
                         <lb/><lb/>
-                        <date xml:id="d4" when="1862-03-13">13/03/1862</date>
+                    </opener>
+                    <p>
+                        Accetando un amino riconoscente
+                        <lb/>
+                        la Presidenza offertami da cotesto <orgName ref="#CIN">Comitato</orgName>, vi esorto
+                        <lb/>
+                        a perseverare nel proposito di addestrare la gioventù
+                        <lb/>
+                        generosa nel maneggio dell’armi.
+                        <lb/>
+                    </p>
+                    <closer>
+                        <salute>Vi saluto con affetto,</salute>
                         <lb/><lb/>
-                    </dateline>
-                    <salute>Miei cari amici,</salute>
-                    <lb/><lb/>
-                </opener>
-                <p>
-                    Accetando un amino riconoscente
-                    <lb/>
-                    la Presidenza offertami da cotesto <orgName ref="#CIN">Comitato</orgName>, vi esorto
-                    <lb/>
-                    a perseverare nel proposito di addestrare la gioventù
-                    <lb/>
-                    generosa nel maneggio dell’armi.
-                    <lb/>
-                </p>
-                <closer>
-                    <salute>Vi saluto con affetto,</salute>
-                    <lb/><lb/>
-                    <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
-                    <p xml:id="stamp-placeholder"/>
-                </closer>
+                        <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+                        <p xml:id="stamp-placeholder"/>
+                    </closer>
+                </div>
+                <div corresp="#surface-2">
+                    [see physical note]
+                </div> 
             </div>
         </body>
     </text>

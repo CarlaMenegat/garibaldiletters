@@ -75,34 +75,39 @@
     <text>
         <body resp="#CM">
             <div type="letter">
-                <opener>
-                    <dateline>
-                        <placeName ref="#CAP">Caprera</placeName>, <date xml:id="d1" when="1865-12-12">12 <choice><abbr>Dicbre</abbr><expan>Dicembre</expan></choice> 65.</date>
-                    </dateline>
+                <div corresp="#surface-1">
+                    <opener>
+                        <dateline>
+                            <placeName ref="#CAP">Caprera</placeName>, <date xml:id="d1" when="1865-12-12">12 <choice><abbr>Dicbre</abbr><expan>Dicembre</expan></choice> 65.</date>
+                        </dateline>
+                        <lb/><lb/>
+                        Caro <salute> <persName ref="#BRU">Bruni</persName>,</salute>
+                    </opener>
                     <lb/><lb/>
-                    Caro <salute> <persName ref="#BRU">Bruni</persName>,</salute>
-                </opener>
-                <lb/><lb/>
-                <p>
-                    Accetto ringraciandovene il vostro
-                    <lb/>
-                    ricordo. La <seg xml:id="c4seg3" ana="#elections">educazione</seg> intellettua-
-                    <lb break="no"/>
-                    le e morale dei popoli è quella 
-                    <lb/>
-                    che risolverà presto o tardi il
-                    <lb/>
-                    problema della eguaglianza politica.
-                    <lb/>
-                    Credetemi,
-                </p>
-                <lb/><lb/>
-                <closer>
-                    <salute>Vostro sempre,</salute>
+                    <p>
+                        Accetto ringraciandovene il vostro
+                        <lb/>
+                        ricordo. La <seg xml:id="c4seg3" ana="#elections">educazione</seg> intellettua-
+                        <lb break="no"/>
+                        le e morale dei popoli è quella 
+                        <lb/>
+                        che risolverà presto o tardi il
+                        <lb/>
+                        problema della eguaglianza politica.
+                        <lb/>
+                        Credetemi,
+                    </p>
                     <lb/><lb/>
-                    <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
-                    <p xml:id="stamp-placeholder"/>
-                </closer>
+                    <closer>
+                        <salute>Vostro sempre,</salute>
+                        <lb/><lb/>
+                        <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+                        <p xml:id="stamp-placeholder"/>
+                    </closer>
+                </div>
+                <div corresp="#surface-2">
+                    [see physical note]
+                </div> 
             </div>
         </body>
     </text>

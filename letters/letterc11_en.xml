@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>Letter by Garibaldi, Giuseppe</title>
+                <author>Garibaldi, Giuseppe</author>
+                <respStmt>
+                    <resp>Translation</resp>
+                    <name>Carla Menegat</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Estense Digital Library</publisher>
+                <idno type="UUID">fe822e051-8c0f-44d1-9620-0d269b4b12db</idno>
+                <availability status="restricted">
+                    <p>Restricted use according to the guidelines of the archive.</p>
+                </availability>
+                <license>CC BY-NC-SA</license>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Estense Universitaria di Modena</repository>
+                        <idno>Garibaldi, Giuseppe, c. 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title>Letter by Garibaldi, Giuseppe</title>
+                            <author>Garibaldi, Giuseppe</author>
+                            <recipient>Bruni</recipient>
+                            <date when="1865-12-12"/>
+                            <origPlace>Caprera</origPlace>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+                <bibl>
+                    <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/e822e051-8c0f-44d1-9620-0d269b4b12db/manifest"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <refsDecl>
+                <ref target="annotations_persons.xml"/>
+                <ref target="annotations_org.xml"/>
+                <ref target="annotations_places.xml"/>
+                <ref target="annotations_dates.xml"/>
+                <ref target="annotations_themes.xml"/>
+            </refsDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <correspDesc resp="#CM">
+                <correspAction type="sent">
+                    <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+                    <placeName ref="#CAP" cert="high">Caprera</placeName>
+                    <date when="1865-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#BRU" cert="low">Bruni</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <textClass>
+            <keywords>
+                <term ana="#education">Education</term>
+            </keywords>
+        </textClass>
+    </teiHeader>
+
+    <facsimile>
+        <surface n="1" xml:id="surface-1"/>
+        <surface n="2" xml:id="surface-2"/>
+    </facsimile>
+
+    <text>
+        <body resp="#CM">
+            <div type="letter">
+                <div corresp="#surface-1">
+                    <opener>
+                        <dateline>
+                            <placeName ref="#CAP">Caprera</placeName>, <date xml:id="d1" when="1865-12-12">December 12, 1865</date>
+                        </dateline>
+                        <lb/><lb/>
+                        Dear <salute><persName ref="#BRU">Bruni</persName>,</salute>
+                    </opener>
+                    <lb/><lb/>
+                    <p>
+                        I accept with thanks your kind
+                        <lb/>
+                        remembrance. The <seg xml:id="c4seg3" ana="#elections">intellectual</seg> and moral
+                        <lb break="no"/>
+                        education of the people is what
+                        <lb/>
+                        will sooner or later resolve the
+                        <lb/>
+                        issue of political equality.
+                        <lb/>
+                        Believe me,
+                    </p>
+                    <lb/><lb/>
+                    <closer>
+                        <salute>Always yours,</salute>
+                        <lb/><lb/>
+                        <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+                        <p xml:id="stamp-placeholder"/>
+                    </closer>
+                </div>
+                <div corresp="#surface-2">
+                    [see physical note]
+                </div> 
+            </div>
+        </body>
+    </text>
+</TEI>

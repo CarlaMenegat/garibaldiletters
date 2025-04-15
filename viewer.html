@@ -56,29 +56,41 @@
   <div class="main-content">
     <!-- Sidebar Metadata -->
     <div id="metadata-sidebar">
-        <div class="sidebar-header">
+      <div class="sidebar-header">
         <h5>Metadata</h5>
         <button id="close-sidebar" class="btn-close"></button>
-        </div>
-        <div id="metadata-content" class="sidebar-content"></div>
+      </div>
+      <div id="metadata-content" class="sidebar-content"></div>
     </div>
-    
+  
     <div class="content-wrapper d-flex w-100">
       <!-- Box 1: IIIF Viewer -->
       <div class="col-6 left-column">
         <div id="iiif-viewer"></div>
       </div>
-
+  
       <!-- Box 2 e 3: Transcrição + Anotações -->
       <div class="text-center my-2" id="surface-selector-container"></div>
       <div class="col-6 right-column d-flex flex-column">
+        
+        <!-- Transcrição com Abas -->
         <div class="transcription-box">
-          <div class="surface-selector-wrapper">
+          <div class="surface-selector-wrapper mb-2">
             <label for="surface-selector" class="form-label mb-0">Surface</label>
             <select id="surface-selector" class="form-select form-select-sm w-auto d-inline-block"></select>
           </div>
-          <div id="transcription-content"></div>
+  
+          <!-- Abas estilo fichário -->
+          <div class="transcription-tabs mb-2">
+            <button class="tab-button active" id="tab-original">Original</button>
+            <button class="tab-button" id="tab-translation">Translation</button>
+          </div>
+  
+          <!-- Conteúdo das transcrições -->
+          <div id="transcription-content" class="px-2 py-1"></div>
         </div>
+  
+        <!-- Box de Anotações -->
         <div class="annotations-box d-none" id="annotations-box">
           <div class="d-flex justify-content-between align-items-center mb-2">
             <h5 class="mb-0">Annotations</h5>

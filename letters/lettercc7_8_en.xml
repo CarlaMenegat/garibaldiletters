@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>Letter by Garibaldi, Giuseppe</title>
+                <author>Garibaldi, Giuseppe</author>
+                <respStmt>
+                    <resp>Translation</resp>
+                    <name>Carla Menegat</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Estense Digital Library</publisher>
+                <idno type="UUID">efcbfbe7-cdfb-48bc-82d2-4c7a1fe9b39f</idno>
+                <availability status="restricted">
+                    <p>Restricted use according to the guidelines of the archive.</p>
+                </availability>
+                <license>CC BY-NC-SA</license>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/efcbfbe7-cdfb-48bc-82d2-4c7a1fe9b39f/manifest"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <refsDecl>
+                <ref target="annotations_persons.xml"/>
+                <ref target="annotations_org.xml"/>
+                <ref target="annotations_places.xml"/>
+                <ref target="annotations_dates.xml"/>
+                <ref target="annotations_themes.xml"/>
+            </refsDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <correspDesc resp="#CM">
+                <correspAction type="sent">
+                    <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+                    <placeName ref="#GEN" cert="high">Genoa</placeName>
+                    <date when="1862-03-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#CIN" cert="high">To the Distinguished National Education Committee</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <textClass>
+            <keywords>
+                <term ana="#tiro">Shooting training</term>
+            </keywords>
+        </textClass>
+    </teiHeader>
+
+    <facsimile>
+        <surface n="1" xml:id="surface-1"/>
+        <surface n="2" xml:id="surface-2"/>
+        <surface n="3" xml:id="surface-3"/>
+        <surface n="4" xml:id="surface-4"/>
+    </facsimile>
+
+    <text>
+        <body resp="#CM">
+            <div type="letter">
+                <div corresp="#surface-1">
+                    <opener>
+                        <dateline>
+                            <placeName ref="#VSCG">Quarto, Villa Spinola</placeName>
+                            <lb/><lb/>
+                            <date xml:id="d4" when="1862-03-13">March 13, 1862</date>
+                            <lb/><lb/>
+                        </dateline>
+                        <salute>My dear friends,</salute>
+                        <lb/><lb/>
+                    </opener>
+                    <p>
+                        Gratefully accepting the presidency
+                        <lb/>
+                        offered to me by your <orgName ref="#CIN">Committee</orgName>, I urge you
+                        <lb/>
+                        to persevere in your intention of training the generous youth
+                        <lb/>
+                        in the handling of arms.
+                        <lb/>
+                    </p>
+                    <closer>
+                        <salute>I greet you affectionately,</salute>
+                        <lb/><lb/>
+                        <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+                        <p xml:id="stamp-placeholder"/>
+                    </closer>
+                </div>
+                <div corresp="#surface-2">
+                    [see physical note]
+                </div> 
+            </div>
+        </body>
+    </text>
+</TEI>

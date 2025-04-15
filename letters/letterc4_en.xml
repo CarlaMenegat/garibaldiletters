@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Letter by Garibaldi, Giuseppe</title>
+        <author>Garibaldi, Giuseppe</author>
+        <respStmt>
+          <resp>Translation</resp>
+          <name>Carla Menegat</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Estense Digital Library</publisher>
+        <idno type="UUID">f7c06ab2-9699-4d1c-bcc4-619a3bc05e96</idno>
+        <availability status="restricted">
+          <p>Restricted use according to the guidelines of the archive.</p>
+        </availability>
+        <license>CC BY-NC-SA</license>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/manifest"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc>
+      <refsDecl>
+        <ref target="annotations/annotations_persons.xml"/>
+        <ref target="annotations/annotations_org.xml"/>
+        <ref target="annotations/annotations_places.xml"/>
+        <ref target="annotations/annotations_dates.xml"/>
+        <ref target="annotations/annotations_themes.xml"/>
+        <ref target="annotations/annotations_physical.xml"/>
+      </refsDecl>
+    </encodingDesc>
+
+    <profileDesc>
+      <correspDesc resp="#CM">
+        <correspAction type="sent">
+          <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+          <placeName ref="#GEN" cert="high">Genoa</placeName>
+          <date when="1848-10-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="#CDC" cert="high">Electors of the College of Cicagna</orgName>
+          <placeName ref="#CIC" cert="high">Cicagna</placeName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+    <textClass>
+      <keywords>
+        <term ana="#elections">Sub-Alpine Parliament Elections</term>
+      </keywords>
+    </textClass>
+  </teiHeader>
+
+  <facsimile>
+    <surface xml:id="surface-1">
+      <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/80c95aa4-6caa-438e-895e-81ff48ef75ca"/>
+    </surface>
+    <surface xml:id="surface-2">
+      <graphic url="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/canvas/80c95aa4-6caa-438e-895e-81ff48ef75ca"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body resp="#CM">
+      <div type="letter">
+        <div corresp="#surface-1">
+          <opener>
+            <dateline>(Via the Livorno courier)</dateline>
+            <lb/><lb/>
+            <address>
+              To the <orgName ref="#CDC">Electors of the College of Cicagna</orgName>
+            </address>
+            <lb/><lb/>
+            <salute>Brothers!</salute>
+          </opener>
+          <lb/><lb/>
+          <p>
+            You, in choosing the man of the people who <sic>debbe</sic>
+            must defend and expand your rights; the man
+            who represents you in your <choice>
+              <sic>da fidari</sic>
+              <corr>trusts</corr>
+            </choice> and beliefs, 
+            <seg>will cast your gaze upon me.</seg> 
+            I have nothing but a sword and my conscience; 
+            <unclear>ve lo inisaen</unclear>.
+          </p>
+
+          <p>
+            I have <choice>
+              <sic>amaor</sic>
+              <corr>loved</corr>
+            </choice> you since childhood,
+            <choice>
+              <sic>udando</sic>
+              <corr>listening</corr>
+            </choice> 
+            <lb/>
+            to the history of your fathers; 
+            <seg xml:id="c4seg1" ana="#nationalism_rising">in 1846 you responded with
+            <lb/>
+            your lives</seg> to the proud call of <placeName ref="#GEN">Genoa</placeName>; 
+            <seg xml:id="c4seg2" ana="#genoa1800">in 1800</seg> your inspirers <choice>
+              <sic>debbene</sic>
+              <corr>should</corr>
+            </choice> 
+            <lb/>
+            have led you <choice>
+              <sic>male anché</sic>
+              <corr>poorly as well</corr>
+            </choice>
+            <lb/>
+            into grievous error, yet you proved yourselves
+            <lb/>
+            men. Now you wish to be men in courage, citi-
+            <lb break="no"/>
+            zens at heart, and your trust repaid me for
+            <lb/>
+            long efforts. Thus, that trust strengthens
+            <lb/>
+            my faith in the souls, so to speak, sworn by a
+            <lb/>
+            popular vote.
+            <lb/>
+            I accept it as such. For it, and with it,
+            <lb/>
+            with guidance and arm, oh brothers, I shall
+            <lb/>
+            <seg xml:id="c11-seg1" ana="#education">represent you</seg> always.
+            <lb/>
+          </p>
+
+          <closer>
+            <dateline>
+              <placeName ref="#GEN">Genoa</placeName>, <date xml:id="dt1" when="1848-10-06">October 6, 1848</date>
+            </dateline>
+            <lb/><lb/>
+            <stamp xml:id="c4-s1"/>
+            <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+            <p xml:id="stamp-placeholder"/>
+          </closer>
+        </div>
+        <div corresp="#surface-2">
+          [see physical note]
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

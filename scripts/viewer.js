@@ -19,22 +19,22 @@ const annotationFiles = {
     return new window.DOMParser().parseFromString(text, 'application/xml');
 
     const keywords = header?.getElementsByTagNameNS(TEI_NS, 'term');
-  let themes = [];
+    let themes = [];
 
-  if (keywords) {
-    for (let term of keywords) {
-      const ana = term.getAttribute('ana')?.replace(/^#/, '');
-      const doc = annotationData['theme'];
-      const categories = doc?.getElementsByTagNameNS(TEI_NS, 'category') || [];
+      if (keywords) {
+        for (let term of keywords) {
+          const ana = term.getAttribute('ana')?.replace(/^#/, '');
+          const doc = annotationData['theme'];
+          const categories = doc?.getElementsByTagNameNS(TEI_NS, 'category') || [];
 
-      for (let cat of categories) {
-        if (cat.getAttributeNS('http://www.w3.org/XML/1998/namespace', 'id') === ana) {
-          const desc = cat.getElementsByTagNameNS(TEI_NS, 'catDesc')[0]?.textContent;
-          if (desc) themes.push(desc);
+          for (let cat of categories) {
+            if (cat.getAttributeNS('http://www.w3.org/XML/1998/namespace', 'id') === ana) {
+              const desc = cat.getElementsByTagNameNS(TEI_NS, 'catDesc')[0]?.textContent;
+              if (desc) themes.push(desc);
+            }
+          }
         }
       }
-    }
-  }
 
   const themeEntry = `
     <div class="mb-3">
@@ -42,7 +42,21 @@ const annotationFiles = {
       ${themes.length ? themes.join(', ') : '(not specified)'}
     </div>`;
   }
-  
+  function activateAnnotationClicks(container) {
+    container.querySelectorAll('.annotated').forEach(el => {
+      el.addEventListener('click', () => {
+        const desc = el.dataset.desc;
+        const type = el.dataset.type;
+        document.getElementById('annotations-content').innerHTML = `
+          <div class="annotation-box ${type}">
+            <strong>${type.toUpperCase()}</strong><br>${desc}
+          </div>`;
+        document.getElementById('annotations-box')?.classList.remove('d-none');
+        document.querySelector('.transcription-box')?.classList.add('with-annotations');
+      });
+    });
+  }
+
   async function loadAnnotationFile(type, path) {
     try {
       const doc = await loadXML(path);
@@ -316,8 +330,8 @@ const annotationFiles = {
       const html = renderTEIText(matchedDiv);
       container.innerHTML = html;
       applyAnnotations(container, fileName);
-
-      // 🆕 Verifica se existem anotações físicas associadas a esta superfície
+  
+      // Verifica anotações físicas associadas
       const physicalAnnotations = [];
       const doc = annotationData['physical'];
       if (doc) {
@@ -330,7 +344,7 @@ const annotationFiles = {
           }
         });
       }
-
+  
       if (physicalAnnotations.length > 0) {
         const annotationBox = document.getElementById('annotations-content');
         annotationBox.innerHTML += `
@@ -355,8 +369,95 @@ const annotationFiles = {
         document.getElementById('annotations-box')?.classList.add('d-none');
         document.querySelector('.transcription-box')?.classList.remove('with-annotations');
       }
+  
+      // 🆕 Integração com abas de transcrição/tradução
+      originalHTML = html;
+      translationHTMLs = {};
+      setupTranscriptionTabs(fileName, surfaceId);
+
+      if (currentTab === 'translation') {
+        document.getElementById('tab-translation')?.click();
+      } else {
+        const container = document.getElementById('transcription-content');
+        container.innerHTML = originalHTML;
+        applyAnnotations(container, fileName);
+      }
     }
   }
+
+  let originalHTML = '';
+  let translationHTMLs = {};
+  let currentTab = 'original';
+
+// Função para carregar e renderizar a tradução
+async function loadTranslationXML(fileName, surfaceId) {
+  try {
+    const base = fileName.endsWith('.xml') ? fileName.slice(0, -4) : fileName;
+    const translatedFile = `${base}_en.xml`;
+    const translationDoc = await loadXML(`letters/${translatedFile}`);
+    const divs = translationDoc.getElementsByTagNameNS(TEI_NS, 'div');
+    const matchedDiv = Array.from(divs).find(div => div.getAttribute('corresp') === `#${surfaceId}`);
+
+    if (matchedDiv) {
+      return renderTEIText(matchedDiv);
+    } else {
+      return '<p><em>(Translation not available for this page)</em></p>';
+    }
+  } catch (err) {
+    console.warn(`Translation file not found: ${fileName}`, err);
+    return '<p><em>(Translation not available)</em></p>';
+  }
+}
+
+// Função para configurar as abas após carregar uma superfície
+function setupTranscriptionTabs(fileName, surfaceId) {
+  const tabOriginal = document.getElementById('tab-original');
+  const tabTranslation = document.getElementById('tab-translation');
+  const container = document.getElementById('transcription-content');
+
+  // Remove eventos antigos para evitar múltiplos listeners
+  tabOriginal.replaceWith(tabOriginal.cloneNode(true));
+  tabTranslation.replaceWith(tabTranslation.cloneNode(true));
+
+  const newTabOriginal = document.getElementById('tab-original');
+  const newTabTranslation = document.getElementById('tab-translation');
+
+  // Aba ORIGINAL
+  newTabOriginal.addEventListener('click', () => {
+    container.innerHTML = originalHTML;
+    currentTab = 'original';
+    updateTabStyle();
+  });
+
+  // Aba TRANSLATION
+  newTabTranslation.addEventListener('click', async () => {
+    if (!translationHTMLs[surfaceId]) {
+      const rawHTML = await loadTranslationXML(fileName, surfaceId);
+
+      // Cria container temporário e aplica anotações
+      const tempDiv = document.createElement('div');
+      tempDiv.innerHTML = rawHTML;
+      applyAnnotations(tempDiv, fileName);
+      activateAnnotationClicks(tempDiv);
+      translationHTMLs[surfaceId] = tempDiv.innerHTML;
+
+      translationHTMLs[surfaceId] = tempDiv.innerHTML;
+    }
+
+    container.innerHTML = `<div class="translated-text">${translationHTMLs[surfaceId]}</div>`;
+    activateAnnotationClicks(container);
+    currentTab = 'translation';
+    updateTabStyle();
+  });
+
+  updateTabStyle();
+}
+
+// Função auxiliar para estilizar abas ativas
+function updateTabStyle() {
+  document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+  document.getElementById(`tab-${currentTab}`)?.classList.add('active');
+}
 
   // === IIIF viewer ===
   let iiifImages = [];
@@ -423,6 +524,11 @@ const annotationFiles = {
       annotationData['_teiDoc'] = teiDoc; // armazena o documento TEI completo
       window.currentLetterFileName = fileName;
     
+      // 🆕 Zera variáveis globais de conteúdo
+      originalHTML = '';
+      translationHTMLs = {};
+      currentTab = 'original';
+    
       document.getElementById('transcription-content').innerHTML = '';
       document.getElementById('annotations-content').innerHTML = '';
     
@@ -432,11 +538,11 @@ const annotationFiles = {
     
       let firstSurfaceId = null;
     
-      // Preenche o seletor e captura o primeiro surfaceId
+      // Preenche o seletor de superfícies
       Array.from(divs).forEach(div => {
         const corresp = div.getAttribute('corresp');
         if (corresp?.startsWith('#surface-')) {
-          const surfaceId = corresp.slice(1); // remove o "#"
+          const surfaceId = corresp.slice(1);
           const option = document.createElement('option');
           option.value = surfaceId;
           option.textContent = surfaceId.replace('surface-', 'Page ');
@@ -448,13 +554,13 @@ const annotationFiles = {
         }
       });
     
-      // Atualiza o conteúdo com a primeira superfície, se houver
+      // Atualiza conteúdo da primeira superfície
       if (firstSurfaceId) {
-        selector.value = firstSurfaceId; // seleciona visualmente
+        selector.value = firstSurfaceId;
         updateTextForSurface(firstSurfaceId, fileName);
       }
     
-      // === IIIF ===
+      // === IIIF Viewer ===
       const sourceDesc = teiDoc.getElementsByTagNameNS(TEI_NS, 'sourceDesc')[0];
       const ptr = sourceDesc?.getElementsByTagNameNS(TEI_NS, 'ptr')[0];
       const manifestUrl = ptr?.getAttribute('target');
@@ -469,6 +575,8 @@ const annotationFiles = {
 
   let letters = [];
   let letterIndex = 0;
+  translationHTMLs = {};// limpa a tradução da carta anterior
+  currentTab = 'original';
 
 function formatDate(place, dateStr) {
   const months = [

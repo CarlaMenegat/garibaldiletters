@@ -116,6 +116,31 @@ html, body {
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.05);
 }
 
+.transcription-tabs {
+  display: flex;
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 0.5rem;
+}
+
+.tab-button {
+  background: #f5f5f5;
+  border: 1px solid #ccc;
+  border-bottom: none;
+  padding: 6px 12px;
+  cursor: pointer;
+  margin-right: 4px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.tab-button.active {
+  background: white;
+  border-color: #ccc;
+  border-bottom: 2px solid white;
+}
+
 .transcription-box.with-annotations {
   height: 50%;
 }

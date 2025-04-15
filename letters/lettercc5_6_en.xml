@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader xml:lang="en">
         <fileDesc>
             <titleStmt>
-                <title>Lettera di Garibaldi, Giuseppe</title>
+                <title>Letter by Garibaldi, Giuseppe</title>
                 <author>Garibaldi, Giuseppe</author>
                 <respStmt>
-                    <resp>Transcription and editorial notes</resp>
+                    <resp>Translation</resp>
                     <name>Carla Menegat</name>
                 </respStmt>
             </titleStmt>
@@ -14,7 +14,7 @@
                 <publisher>Estense Digital Library</publisher>
                 <idno type="UUID">289daccf-32f3-438a-84bb-023f6e13fda5</idno>
                 <availability status="restricted">
-                    <p>Restricted use according the guidelines of the archive.</p>
+                    <p>Restricted use according to the guidelines of the archive.</p>
                 </availability>
                 <license>CC BY-NC-SA</license>
             </publicationStmt>
@@ -31,20 +31,20 @@
                             </supportDesc>
                             <handDesc>
                                 <handNote xml:id="h1">First hand, Giuseppe Garibaldi, or his secretary</handNote>
-                                <handNote xml:id="h2">Second hand, possibly the receiver</handNote>
+                                <handNote xml:id="h2">Second hand, possibly the recipient</handNote>
                                 <handNote xml:id="h3">Third hand, appears to be later annotations</handNote>
                             </handDesc>
                         </objectDesc>
                     </physDesc>
                     <msContents>
                         <msItem>
-                            <title>Lettera di Garibaldi, Giuseppe</title>
+                            <title>Letter by Garibaldi, Giuseppe</title>
                             <author>Garibaldi, Giuseppe</author>
-                            <recipient>Comandante della Legione Degli Emigrati</recipient>
+                            <recipient>Commander of the Legion of Emigrants</recipient>
                             <date when="1849-04-29"/>
                             <origPlace>
-                                <settlement type="piazza" ref="#VATICANO">Piazza del Vaticano</settlement>
-                                <settlement type="city" ref="#ROM">Roma</settlement>
+                                <settlement type="piazza" ref="#VATICANO">St. Peter's Square</settlement>
+                                <settlement type="city" ref="#ROM">Rome</settlement>
                             </origPlace>
                         </msItem>
                     </msContents>
@@ -70,11 +70,11 @@
             <correspDesc resp="#CM">
                 <correspAction type="sent">
                     <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
-                    <placeName ref="#ROM" cert="high">Roma</placeName>
+                    <placeName ref="#ROM" cert="high">Rome</placeName>
                     <date when="1849-04-29"/>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="#CLE" cert="low">Comandante della Legione Degli Emigrati</orgName>
+                    <orgName ref="#CLE" cert="low">Commander of the Legion of Emigrants</orgName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
@@ -82,8 +82,9 @@
             <keywords>
               <term ana="#repubblica_romana">Roman Republic</term>
             </keywords>
-          </textClass>
+        </textClass>
     </teiHeader>
+
     <text>
         <body resp="#CM">
             <div type="letter_wrapper">
@@ -91,48 +92,49 @@
                     <div type="letter"><handShift hand="#h1"/>
                         <opener>
                             <dateline>
-                                Dalla <placeName ref="#PVAT">Piazza del Vaticano</placeName>, <date xml:id="dt1" when="1849-04-29">29/4 1849</date>
+                                From <placeName ref="#PVAT">Piazza del Vaticano</placeName>, <date xml:id="dt1" when="1849-04-29">April 29, 1849</date>
                             </dateline>
                             <lb/>
                             <lb/>
                             <salute>
-                                Al <choice>
-                                        <abbr>Com.te</abbr>
-                                        <expan><orgName ref="#CLE">Comandante</orgName></expan>
-                                    </choice> della Legione degli Emigrati
+                                To the <choice>
+                                        <abbr>Cmdr.</abbr>
+                                        <expan><orgName ref="#CLE">Commander</orgName></expan>
+                                    </choice> of the Legion of Emigrants
                             </salute>
                             <lb/>
                             <lb/>
                         </opener>
-                        <p>Il Ministro della Guerra col despaccio del
+                        <p>The Minister of War, with the dispatch of the
                             <lb/>
-                            27 corrente affidò a me il Comando
+                            27th of this month, entrusted to me the command
                             <lb/>
-                            della 1<hi rend="sup">a</hi> Brigada nella cui forza e
+                            of the 1<hi rend="sup">st</hi> Brigade, which includes
                             <lb/>
-                            viene comprese la <orgName ref="#LE">Vostra Legione</orgName>.
+                            your <orgName ref="#LE">Legion</orgName>.
                         </p>
                         <p>
-                            Le urgenze del momento esigono che <choice>
+                            The urgency of the moment requires that we <choice>
                                 <sic>insen<lb break="no"/>diamo</sic>
-                                <corr>assediamo</corr>
-                            </choice> subito e quindi oggi vorebbe
+                                <corr>lay siege</corr>
+                            </choice> immediately, and therefore today
                             <lb/>
-                            inmancabilmente trovarvi colla Vostra
+                            without fail you must be found with your
                             <lb/>
-                            truppa sulla Piazza di <placeName ref="#PSMT">Santa Maria in<lb/>Trastevere</placeName>
-                            e tutte le communicazioni.
+                            troops in <placeName ref="#PSMT">Piazza Santa Maria in<lb/>Trastevere</placeName>
+                            and all communication lines.
                             <lb/>
                             <lb/>
-                            Salute e fratellanza
+                            Health and fraternity
                         </p>
                         <closer>
-                            <salute>Vostro,</salute>
+                            <salute>Yours,</salute>
                             <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
                             <p xml:id="stamp-placeholder"/>
                         </closer>
                     </div>
                 </div>
+
                 <div corresp="#surface-2">
                     [see physical note]
                 </div> 
@@ -140,31 +142,31 @@
                     <p>[physical marks]</p>
                 </div> 
                 <div corresp="#surface-4">
-                        <p xml:id="phys1">[physical marks]</p>
-                        <p xml:id="seal1">[seal]</p>
-                        <ab type="address" facs="#address">
-                            <handShift hand="#h1"/>
-                            <p>
-                                Al <orgName ref="#CLE">Comandante della Legione degli Emigrati</orgName>
-                                <lb/>
-                                in <placeName ref="#ROM">Roma</placeName>
-                            </p>
-                        </ab>
-                        <p xml:id="phys2">[physical marks]</p>
+                    <p xml:id="phys1">[physical marks]</p>
+                    <p xml:id="seal1">[seal]</p>
+                    <ab type="address" facs="#address">
+                        <handShift hand="#h1"/>
                         <p>
-                        <handShift hand="#h2"/>
-                            <persName ref="#GAR">Garibaldi Giuseppe</persName> di <placeName ref="#NIZ">Nizza</placeName>
-                        <lb/>
-                            Filibustiere, Cersaro, Generale delle truppe
-                        <lb/>
-                            Repubblicane al tempo dell'assedio di Roma
-                        <lb/>
-                            nel 1849, ora in America nuovamente
-                        <lb/>
-                            uomo di coraggio ed audacia.
+                            To the <orgName ref="#CLE">Commander of the Legion of Emigrants</orgName>
+                            <lb/>
+                            in <placeName ref="#ROM">Rome</placeName>
                         </p>
-                    </div>
-                </div> 
+                    </ab>
+                    <p xml:id="phys2">[physical marks]</p>
+                    <p>
+                        <handShift hand="#h2"/>
+                        <persName ref="#GAR">Giuseppe Garibaldi</persName> from <placeName ref="#NIZ">Nice</placeName>
+                        <lb/>
+                        Filibuster, Corsair, General of the Republican troops
+                        <lb/>
+                        during the siege of Rome in 1849,
+                        <lb/>
+                        now in America once again,
+                        <lb/>
+                        a man of courage and audacity.
+                    </p>
+                </div>
+            </div> 
         </body>
     </text>
 </TEI>

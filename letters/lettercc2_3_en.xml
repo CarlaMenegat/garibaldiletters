@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader xml:lang="en">
+      <fileDesc>
+        <titleStmt>
+          <title>Letter from Garibaldi, Giuseppe to Masi, Luigi</title>
+          <author>Giuseppe Garibaldi</author>
+          <respStmt>
+            <resp>Translation</resp>
+            <name>Carla Menegat</name>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Estense Digital Library</publisher>
+          <idno type="UUID">bbe2089e-af25-4ee5-b970-6b06f9d724e7</idno>
+          <availability status="restricted">
+            <p>Restricted use according to the guidelines of the archive.</p>
+          </availability>
+          <license>CC BY-NC-SA</license>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <repository>Biblioteca Estense Universitaria di Modena</repository>
+              <idno>Garibaldi, Giuseppe, cc. 2–3</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <title>Letter from Garibaldi, Giuseppe</title>
+                <author>Giuseppe Garibaldi</author>
+                <recipient>Luigi Masi</recipient>
+                <date when="1849-05-24"/>
+                <origPlace>
+                  <settlement type="city" ref="#ANA">Anagni</settlement>
+                </origPlace>
+              </msItem>
+            </msContents>
+          </msDesc>
+          <bibl>
+            <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/bbe2089e-af25-4ee5-b970-6b06f9d724e7/manifest"/>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+  
+      <encodingDesc>
+        <refsDecl>
+          <ref target="annotations/annotations_persons.xml"/>
+          <ref target="annotations/annotations_org.xml"/>
+          <ref target="annotations/annotations_places.xml"/>
+          <ref target="annotations/annotations_dates.xml"/>
+          <ref target="annotations/annotations_themes.xml"/>
+          <ref target="annotations/annotations_physical.xml"/>
+          <ref target="annotations/annotations_publishers.xml"/>
+          <ref target="annotations/annotations_comments.xml"/>
+        </refsDecl>
+      </encodingDesc>
+  
+      <profileDesc>
+        <correspDesc resp="#CM">
+          <correspAction type="sent">
+            <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+            <placeName ref="#ANA" cert="high">Anagni</placeName>
+            <date when="1849-05-24"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#MAS" cert="high">Luigi Masi</persName>
+            <placeName ref="#FRO" cert="high">Frosinone</placeName>
+          </correspAction>
+        </correspDesc>
+      </profileDesc>
+  
+      <textClass>
+        <keywords>
+          <term ana="#repubblica_romana">Roman Republic</term>
+        </keywords>
+      </textClass>
+    </teiHeader>
+  
+    <text>
+      <body resp="#CM">
+        <div type="letter_wrapper">
+          <div corresp="#surface-1">
+            <p xml:id="stamp-logo1">[printed emblem: Comando della Prima Divisione – REPUBBLICA ROMANA]</p>
+  
+            <opener>
+              <dateline>
+                <placeName ref="#ANA">Anagni</placeName>, <date xml:id="dt1" when="1849-05-24">24 May 1849</date>
+              </dateline>
+              <lb/><lb/>
+              <salute>
+                <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+                </choice> <persName ref="#MAS">Masi</persName>
+              </salute>
+              <lb/><lb/>
+            </opener>
+  
+            <p>
+              I will leave tomorrow morning at 3 for <placeName ref="#FRO">Frosinone</placeName>.
+              <lb/>
+              The column will reach as far as <placeName ref="#FER">Ferentino</placeName>, perhaps
+              <lb/>
+              farther — In any case, I will try to maintain
+              <lb/>
+              the greatest mobility possible, and will move forward
+              <lb/>
+              as soon as we are able — <choice><abbr>Yr.</abbr><expan>Yours</expan></choice>
+            </p>
+  
+            <closer>
+              <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+              <lb/>
+              <p xml:id="stamp-placeholder"/>
+            </closer>
+          </div>
+  
+          <div corresp="#surface-2">
+            [see physical note]
+          </div>
+          <div corresp="#surface-3">
+            <p>[physical marks]</p>
+          </div>
+          <div corresp="#surface-4">
+            <p xml:id="stamp2">[stamp]</p>
+            <ab type="address" facs="#address">
+              <p>
+                <choice>
+                  <abbr>Col.</abbr>
+                  <expan>Colonel</expan>
+                </choice> <persName ref="#MAS">Masi</persName>
+                <lb/>
+                <choice>
+                  <abbr>Cmdr.</abbr>
+                  <expan>Commander</expan>
+                </choice> of the Vanguard
+                <lb/>
+                <placeName ref="#FRO">Frosinone</placeName>
+              </p>
+            </ab>
+            <p xml:id="seal1">[seal]</p>
+          </div>
+        </div>
+      </body>
+    </text>
+  </TEI>

@@ -105,5 +105,32 @@
             </location>
             <idno type="geonames">https://www.geonames.org/3171168/prato.html</idno>
           </place>
+
+          <place xml:id="ANA">
+            <placeName>Anagni</placeName>
+            <note>Town in Lazio, central Italy, near Rome. Historically known as the "City of Popes" due to being the birthplace or residence of several medieval popes. It held strategic and symbolic importance during the Risorgimento.</note>
+            <location>
+              <geo decl="WGS84">41.7497 13.1553</geo>
+            </location>
+            <idno type="geonames">https://www.geonames.org/3182893/anagni.html</idno>
+          </place>
+
+          <place xml:id="FRO">
+            <placeName>Frosinone</placeName>
+            <note>City in Lazio, central Italy, located southeast of Rome. Historically part of the Papal States, it played a strategic role during the 19th-century military and political movements of the Risorgimento.</note>
+            <location>
+              <geo decl="WGS84">41.6412 13.3514</geo>
+            </location>
+            <idno type="geonames">https://www.geonames.org/3176936/frosinone.html</idno>
+          </place>
+
+          <place xml:id="FER">
+            <placeName>Ferentino</placeName>
+            <note>Town in Lazio, central Italy, located near Frosinone. It was part of the Papal States and held local administrative and military relevance during the Risorgimento.</note>
+            <location>
+              <geo decl="WGS84">41.6926 13.2497</geo>
+            </location>
+            <idno type="geonames">https://www.geonames.org/3176913/ferentino.html</idno>
+          </place>
     </listPlace>
 </standOff>

@@ -6,6 +6,8 @@
         <persName type="epithet">Hero of the Two Worlds</persName>
         <alias>Joseph Garibaldi</alias>
         <alias>José Garibaldi</alias>
+        <birth when="1807-07-04"/>
+        <death when="1882-06-02"/>
         <idno type="VIAF">https://viaf.org/en/viaf/100192194</idno>
         <idno type="LOC">https://id.loc.gov/authorities/names/n79021124.html</idno>
         <idno type="SBN">https://opac.sbn.it/risultati-autori/-/opac-autori/detail/CFIV001869</idno>
@@ -29,6 +31,13 @@
         <persName type="full" xml:lang="it">Giovanni Grillenzoni</persName>
         <persName type="epithet">Italian politician, patriot, and entrepreneur who became a naturalized Swiss citizen.</persName>
         <idno type="TRECCANI">https://www.treccani.it/enciclopedia/giovanni-grilenzoni_(Dizionario-Biografico)/</idno>
+      </person>
+
+      <person xml:id="MAS">
+        <persName>Luigi Masi</persName>
+        <persName type="full" xml:lang="it">Luigi Masi</persName>
+        <persName type="epithet">In 1849 deputy to the Roman Constituent Assembly and member of the War Commission. He took part in the defense of Rome with the rank of colonel in the First Division; in June 1849 he was promoted to general and commanded the 5th Line Regiment.</persName>
+        <idno type="TRECCANI">https://www.treccani.it/enciclopedia/luigi-masi_(Dizionario-Biografico)/?search=MASI%2C%20Luigi%2F</idno>
       </person>
   
       <person xml:id="CM">

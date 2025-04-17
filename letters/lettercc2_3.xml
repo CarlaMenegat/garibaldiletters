@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>Lettera di Garibaldi, Giuseppe a Masi, Luigi</title>
+                <author>Garibaldi, Giuseppe</author>
+                <respStmt>
+                    <resp>Transcription and editorial notes</resp>
+                    <name>Carla Menegat</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Estense Digital Library</publisher>
+                <idno type="UUID">bbe2089e-af25-4ee5-b970-6b06f9d724e7</idno>
+                <availability status="restricted">
+                    <p>Restricted use according the guidelines of the archive.</p>
+                </availability>
+                <license>CC BY-NC-SA</license>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Estense Universitaria di Modena</repository>
+                        <idno>Garibaldi, Giuseppe, cc. 2-3</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <material function="support">Paper</material>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <msContents>
+                        <msItem>
+                            <title>Lettera di Garibaldi, Giuseppe</title>
+                            <author>Garibaldi, Giuseppe</author>
+                            <recipient>Masi, Luigi</recipient>
+                            <date when="1849-05-24"/>
+                            <origPlace>
+                                <settlement type="city" ref="#ANA">Anagni</settlement>
+                            </origPlace>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+                <bibl>
+                    <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/bbe2089e-af25-4ee5-b970-6b06f9d724e7/manifest"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl>
+                <ref target="annotations/annotations_persons.xml"/>
+                <ref target="annotations/annotations_org.xml"/>
+                <ref target="annotations/annotations_places.xml"/>
+                <ref target="annotations/annotations_dates.xml"/>
+                <ref target="annotations/annotations_themes.xml"/>
+                <ref target="annotations/annotations_physical.xml"/>
+                <ref target="annotations/annotations_publishers.xml"/>
+                <ref target="annotations/annotations_comments.xml"/>
+            </refsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc resp="#CM">
+                <correspAction type="sent">
+                    <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+                    <placeName ref="#ANA" cert="high">Anagni</placeName>
+                    <date when="1849-05-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#MAS" cert="high">Luigi Masi</orgName>
+                    <placeName ref="#FRO" cert="high">Frosinone</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <textClass>
+            <keywords>
+              <term ana="#repubblica_romana">Roman Republic</term>
+            </keywords>
+          </textClass>
+    </teiHeader>
+    <text>
+        <body resp="#CM">
+            <div type="letter_wrapper">
+                <div corresp="#surface-1">
+                    <p xml:id="stamp-logo1">[stemma stampato Comando della Prima Divisione - REPUBBLICA ROMANA]</p>
+                    <opener>
+                        <dateline>
+                            <placeName ref="#ANA">Anagni</placeName>, <date xml:id="dt1" when="1849-05-24">24 maggio 1849</date>
+                        </dateline>
+                        <lb/>
+                        <lb/>
+                        <salute>
+                            <choice>
+                                <abbr>Coll.llo</abbr>
+                                <expan>Colonnello</expan>
+                            </choice> <persName ref="#MAS">Masi</persName>
+                        </salute>
+                        <lb/>
+                        <lb/>
+                    </opener>
+                    <p>
+                        Io partirò domattina alle 3, per <placeName ref="#FRO">Frosinone</placeName>
+                        <lb/>
+                        La colonna giungerà sino a <placeName ref="#FER">Ferentino</placeName>, forse  
+                        <lb/>
+                        più avanti — In ogni modo, tenterò nel
+                        <lb/>
+                        maggior stato di mobilità possibile, andrò pure
+                        <lb/>
+                        in avanti subito lo potremo — <choice><abbr>Vt°</abbr><expan>Vostro</expan></choice>
+                        <lb/><lb/>
+                    </p>
+                    <closer>
+                        <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+                        <lb/>
+                        <p xml:id="stamp-placeholder"/>
+                    </closer>
+                </div>
+                <div corresp="#surface-2">
+                    [see physical note]
+                </div> 
+                <div corresp="#surface-3">
+                    <p>[physical marks]</p>
+                </div> 
+                <div corresp="#surface-4">
+                    <p xml:id="stamp2">[stamp]</p>
+                    <ab type="address" facs="#address">
+                        <p><choice>
+                                <abbr>Coll.llo</abbr>
+                                <expan>Colonnello</expan>
+                            </choice> <persName ref="#MAS">Masi</persName>
+                            <lb/>
+                            <choice>
+                                <abbr>Com.te</abbr>
+                                <expan>Comandante</expan>
+                            </choice> della Vanguardia
+                            <lb/>
+                            <placeName ref="#FRO">Frosinone</placeName>
+                        </p>
+                    </ab>
+                    <p xml:id="seal1">[seal]</p>
+                </div>
+            </div> 
+        </body>
+    </text>
+</TEI>

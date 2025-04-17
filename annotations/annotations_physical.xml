@@ -35,6 +35,12 @@
       </desc>
     </span>
 
+    <span from="lettercc2_3.xml#stamp-placeholder" ana="stamp">
+      <desc>
+        A stamp is present, indicating that they were part of the Autografoteca Campori. 
+        Above the signature, the stamp contains the inscription "CODICI E MSS CAMPOLI" within an arch that surrounds a coat of arms.
+      </desc>
+    </span>
   </spanGrp>
 
   <list>
@@ -69,6 +75,18 @@
       <span from="lettercc5_6.xml#phys2">
         <desc>Letter address in the center of the page, written in landscape orientation.</desc>
       </span>
+      <span from="lettercc2_3.xml#seal1">
+        <desc>Remnants of a red wax seal visible on the center right margin of the letter page. Arround the seal, there is a partial of a stamp where is possible read "E IL POPOLO" (And the People).</desc>
+      </span>
+      <span from="letterccX.xml#stamp2">
+        <desc>Smudged or faded circular stamp visible on the page, bearing the partially legible inscription: "Comando della Repubblica Italiana".</desc>
+      </span>
+      <span from="lettercc2_3.xml#stamp-logo1" ana="stamp">
+        <desc>
+          A printed emblem appears at the top of the page, reading “Comando della Prima Divisione – Repubblica Romana”.
+          Likely an official letterhead of the Roman Republic military command during 1849.
+        </desc>
+      </span>
     </spanGrp>
 
     <!-- c4 -->
@@ -87,6 +105,14 @@
       <note type="blank">Blank page</note>
     </item>
     <item corresp="lettercc7_8.xml#surface-4">
+      <note type="blank">Blank page</note>
+    </item>
+
+    <!-- cc2_3-->
+    <item corresp="lettercc2_3.xml#surface-2">
+      <note type="blank">Blank page</note>
+    </item>
+    <item corresp="lettercc2_3.xml#surface-3">
       <note type="blank">Blank page</note>
     </item>
   </list>

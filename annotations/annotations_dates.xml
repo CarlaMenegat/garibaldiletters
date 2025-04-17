@@ -20,6 +20,14 @@
       <desc>Date the letter was sent by Garibaldi to Pastacaldi.</desc>
       <date when="1854-02-22"/>
     </event>
+    <event xml:id="D18490524">
+      <desc>Letter from Garibaldi to Masi, about the march of the troopes.</desc>
+      <date when="1849-05-24"/>
+    </event>
+    <event xml:id="D18620313">
+      <desc>Date the letter was sent by Garibaldi to Giovanni Grillenzoni.</desc>
+      <date when="1862-03-13"/>
+    </event>
   </listEvent>
 
   <listSpan>
@@ -40,6 +48,12 @@
     </spanGrp>
     <spanGrp type="date">
       <span from="lettercbrown.xml#d1" to="lettercbrown.xml#d1" ana="#D18540222"/>
+    </spanGrp>
+    <spanGrp type="date">
+      <span from="lettercc9_10.xml#d4" to="lettercc9_10.xml#d4" ana="#D18620313"/>
+    </spanGrp>
+    <spanGrp type="date">
+      <span from="lettercc2_3.xml#dt1" to="lettercc2_3.xml#dt1" ana="#D18490524"/>
     </spanGrp>
   </listSpan>
 </standOff>

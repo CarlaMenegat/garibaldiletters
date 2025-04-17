@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>Lettera di Garibaldi, Giuseppe a Mazzoni, Giuseppe</title>
+                <author>Garibaldi, Giuseppe</author>
+                <respStmt>
+                <resp>Transcription and editorial notes</resp>
+                <name>Carla Menegat</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Estense Digital Library</publisher>
+                <idno type="UUID">df0f39ec-e82a-4080-8ace-176fbed2b736</idno>
+                <availability status="restricted">
+                <p>Restricted use according the guidelines of the archive.</p>
+                </availability>
+                <license>CC BY-NC-SA</license>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                <msIdentifier>
+                    <repository>Biblioteca Estense Universitaria di Modena</repository>
+                    <idno>Garibaldi, Giuseppe, c. 12</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                    <title>Lettera di Garibaldi, Giuseppe a Mazzoni, Giuseppe</title>
+                    <author>Garibaldi, Giuseppe</author>
+                    <recipient>Mazzoni, Giuseppe</recipient>
+                    <date when="1873-08-26"/>
+                    <origPlace>Caprera</origPlace>
+                    </msItem>
+                </msContents>
+                </msDesc>
+                <bibl>
+                    <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/df0f39ec-e82a-4080-8ace-176fbed2b736/manifest"/>
+                </bibl>
+            </sourceDesc>
+            </fileDesc>
+        
+            <encodingDesc>
+            <refsDecl>
+                <ref target="annotations_persons.xml"/>
+                <ref target="annotations_org.xml"/>
+                <ref target="annotations_places.xml"/>
+                <ref target="annotations_dates.xml"/>
+                <ref target="annotations_themes.xml"/>
+            </refsDecl>
+            </encodingDesc>
+        
+            <profileDesc>
+                <correspDesc resp="#CM">
+                    <correspAction type="sent">
+                    <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+                    <placeName ref="#CAP" cert="high">Caprera</placeName>
+                    <date when="1873-08-26"/>
+                    </correspAction>
+                    <correspAction type="received">
+                    <persName ref="#MAZZO" cert="high">Mazzoni, Giuseppe</persName>
+                    <placeName ref="#PRA" cert="high">Prato</placeName>
+                    </correspAction>
+                </correspDesc>
+            </profileDesc>
+            <textClass>
+                <keywords>
+                  <term ana="#freemasson">Freemasons</term>
+                </keywords>
+              </textClass>
+        </teiHeader>
+        <text>
+            <body resp="#CM">
+                <div type="letter">
+                    <div corresp="#surface-1">
+                        <opener>
+                            <salute>
+                                <seg xml:id="masonic-salute1" ana="#freemasonry">
+                                    Ilustre e Car˙∴ Fr˙ ∴
+                                  </seg>
+                              </salute>
+                        </opener>
+                        <lb/><lb/>
+                        <p>
+                            Aggiugerò la mia firma 
+                            <lb/>
+                            alle onorande raccomandazioni della lettera di 
+                            <lb/>
+                            <unclear>sbarro</unclear> e sono con gratitu-
+                            <lb break="no"/>
+                            dine
+                            <lb/>
+                        </p>
+                        <lb/><lb/>
+                        <closer>
+                            <salute>Sempre Vostro,</salute>
+                            <lb/><lb/>
+                            <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+                            <dateline>
+                                <placeName ref="#CAP">Caprera</placeName>, <date xml:id="d1" when="1873-08-26">26 Agosto 1873.</date>
+                            </dateline>
+                            <lb/><lb/>
+                        </closer>
+                        <p xml:id="stamp-placeholder"/>
+                        <lb/><lb/>
+                        <ab type="address">
+                            <p>
+                              Signor<br/>
+                              G. Mazzoni<br/>
+                              <placeName ref="#PRA">Prato</placeName>
+                            </p>
+                          </ab>
+                    </div>
+                    <div corresp="#surface-2">
+                        [see physical note]
+                    </div> 
+                </div>
+            </body>
+        </text>
+</TEI>

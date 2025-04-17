@@ -36,6 +36,9 @@
   <spanGrp type="comment">
     <span from="lettercbrown.xml#cassare" ana="#cassare"/>
   </spanGrp>
+  <spanGrp type="comment">
+    <span from="letterc12.xml#masonic-salute1" ana="#freemasonry"/>
+  </spanGrp>
 
   <list>
     <category xml:id="politics">
@@ -73,6 +76,9 @@
     </category>
     <category xml:id="tiro">
       <catDesc>Part of the movement of the National Societies of Shooting, whose main goal was to train civilians in the use of firearms. They also had a strong nationalist character and encouraged civic spirit.</catDesc>
+    </category>
+    <category xml:id="freemasonry">
+      <catDesc>Masonic salutation commonly used in 19th-century correspondence between Freemasons. "Car˙∴ Fr˙ ∴" stands for "Caro Fratello" (Dear Brother), marked by the three-dot triangle ∴, a traditional symbol of Freemasonry.</catDesc>
     </category>
   </list>
 </standOff>

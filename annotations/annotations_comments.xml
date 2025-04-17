@@ -17,6 +17,9 @@
     <span from="letterc11.xml#c11-seg1" to="letterc11.xml#c11-seg1" ana="#education">
       <desc>Garibaldi’s statement linking education to political equality.</desc>
     </span>
+
+    <span from="lettercc9_10.xml#tiro-comment1" to="lettercc9_10.xml#tiro-comment1" ana="#tiro">
+    </span>
     
   </spanGrp>
 
@@ -67,6 +70,9 @@
     </category>
     <category xml:id="cassare">
       <catDesc>Maybe a reference to the African Port of Cassare in the Guinea Coast.</catDesc>
+    </category>
+    <category xml:id="tiro">
+      <catDesc>Part of the movement of the National Societies of Shooting, whose main goal was to train civilians in the use of firearms. They also had a strong nationalist character and encouraged civic spirit.</catDesc>
     </category>
   </list>
 </standOff>

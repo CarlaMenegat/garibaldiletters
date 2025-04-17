@@ -75,6 +75,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <orgName ref="#CLE" cert="low">Commander of the Legion of Emigrants</orgName>
+                    <placeName ref="#ROM" cert="high">Roma</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

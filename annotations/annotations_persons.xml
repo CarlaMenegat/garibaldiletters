@@ -15,12 +15,20 @@
         <persName>Bruni</persName>
         <persName type="full" xml:lang="it">Antonio Bruni</persName>
         <persName type="epithet">“Founder, in 1861, of the first circulating library for the people.”</persName>
+        <idno type="TRECCANI">https://www.treccani.it/enciclopedia/antonio-bruni_res-0ba82256-87e9-11dc-8e9d-0016357eee51_(Dizionario-Biografico)/?search=BRUNI%2C%20Antonio%2F</idno>
       </person>
 
       <person xml:id="PAS">
         <persName>Pastacaldi</persName>
         <persName type="full" xml:lang="it">Michele Pastacaldi</persName>
         <persName type="epithet">Italian exile in the United States.</persName>
+      </person>
+
+      <person xml:id="GRI">
+        <persName>Giovanni Grillenzoni</persName>
+        <persName type="full" xml:lang="it">Giovanni Grillenzoni</persName>
+        <persName type="epithet">Italian politician, patriot, and entrepreneur who became a naturalized Swiss citizen.</persName>
+        <idno type="TRECCANI">https://www.treccani.it/enciclopedia/giovanni-grilenzoni_(Dizionario-Biografico)/</idno>
       </person>
   
       <person xml:id="CM">

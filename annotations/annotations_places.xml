@@ -88,5 +88,22 @@
             <idno type="geonames">https://www.geonames.org/6252001/united-states.html</idno>
           </place>
 
+          <place xml:id="REG">
+            <placeName>Reggio Emilia</placeName>
+            <note>City in northern Italy, located in the Emilia-Romagna region. Known for its history, political activism, and cultural heritage.</note>
+            <location>
+              <geo decl="WGS84">44.6983 10.6306</geo>
+            </location>
+            <idno type="geonames">https://www.geonames.org/3169361/reggio-emilia.html</idno>
+          </place>
+
+          <place xml:id="PRA">
+            <placeName>Prato</placeName>
+            <note>City in Tuscany, central Italy. Historically known for its textile industry and political activity during the Risorgimento.</note>
+            <location>
+              <geo decl="WGS84">43.8806 11.0966</geo>
+            </location>
+            <idno type="geonames">https://www.geonames.org/3171168/prato.html</idno>
+          </place>
     </listPlace>
 </standOff>

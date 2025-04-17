@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Letter from Garibaldi, Giuseppe to Grillenzoni, Giovanni</title>
+        <author>Garibaldi, Giuseppe</author>
+        <respStmt>
+          <resp>Translation</resp>
+          <name>Carla Menegat</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Estense Digital Library</publisher>
+        <idno type="UUID">473a0844-d3ef-4397-91fd-079a19b0f319</idno>
+        <availability status="restricted">
+          <p>Restricted use according to the guidelines of the archive.</p>
+        </availability>
+        <license>CC BY-NC-SA</license>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>Biblioteca Estense Universitaria di Modena</repository>
+            <idno>Garibaldi, Giuseppe, cc. 9-10</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <title>Letter from Garibaldi, Giuseppe to Grillenzoni, Giovanni</title>
+              <author>Garibaldi, Giuseppe</author>
+              <recipient>Grillenzoni, Giovanni</recipient>
+              <date when="1862-03-13"/>
+              <origPlace>
+                <settlement type="villa" ref="#VSCG">Quarto, Villa Spinola</settlement>
+                <settlement type="city" ref="#GEN">Genoa</settlement>
+              </origPlace>
+            </msItem>
+          </msContents>
+        </msDesc>
+        <bibl>
+          <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/473a0844-d3ef-4397-91fd-079a19b0f319/manifest"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc>
+      <refsDecl>
+        <ref target="annotations/annotations_persons.xml"/>
+        <ref target="annotations/annotations_org.xml"/>
+        <ref target="annotations/annotations_places.xml"/>
+        <ref target="annotations/annotations_dates.xml"/>
+        <ref target="annotations/annotations_themes.xml"/>
+        <ref target="annotations/annotations_physical.xml"/>
+        <ref target="annotations/annotations_publishers.xml"/>
+        <ref target="annotations/annotations_comments.xml"/>
+      </refsDecl>
+    </encodingDesc>
+
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+          <placeName ref="#GEN" cert="high">Genoa</placeName>
+          <date when="1862-03-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#GRI" cert="high">Giovanni Grillenzoni</persName>
+          <placeName ref="#REG" cert="high">Reggio</placeName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+
+    <textClass>
+      <keywords>
+        <term ana="#tiro">Shooting training</term>
+      </keywords>
+    </textClass>
+  </teiHeader>
+
+  <facsimile>
+    <surface n="1" xml:id="surface-1"/>
+    <surface n="2" xml:id="surface-2"/>
+    <surface n="3" xml:id="surface-3"/>
+    <surface n="4" xml:id="surface-4"/>
+  </facsimile>
+
+  <text>
+    <body resp="#CM">
+      <div type="letter">
+        <div corresp="#surface-1">
+          <opener>
+            <dateline>
+              <placeName ref="#VSCG">Quarto, Villa Spinola</placeName>
+              <lb/><lb/>
+              <date xml:id="d4" when="1862-03-13">March 13, 1862</date>
+              <lb/><lb/>
+            </dateline>
+            <salute>
+              Esteemed Mr. <persName ref="#GRI">Giovanni Grillenzoni</persName>,
+              <placeName ref="#REG">Reggio</placeName>
+            </salute>
+            <lb/><lb/>
+          </opener>
+
+          <p>
+            In accordance with the agreements made
+            <lb/>
+            with the board in charge of the <choice><sic>Institution</sic><corr>Foundation</corr></choice>
+            <lb/>
+            of <seg xml:id="tiro-comment1" ana="#tiro">Target Shooting</seg>, I hereby authorize you to take action
+            <lb/>
+            for the establishment, in that patriotic
+            <lb/>
+            city, of a shooting range, and to coordinate,
+            <lb/>
+            as necessary, with the local authorities.
+          </p>
+
+          <p>
+            Warmly encourage
+            <lb/>
+            the inhabitants of Reggio, in my name,
+            <lb/>
+            to diligently pursue the
+            <lb/>
+            foundation of shooting ranges in each municipality
+            <lb/>
+            of the province. Let them gather
+            <lb/>
+            in a provincial society; let the wealthier citizens
+            <lb/>
+            offer the initial expenses as a gift to the Fatherland.
+            <lb/>
+            I place great trust in the active
+            <lb/>
+            patriotism of the city of <placeName ref="#REG">Reggio</placeName>.
+          </p>
+
+          <closer>
+            <salute>Yours,</salute>
+            <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+            <p xml:id="stamp-placeholder"/>
+          </closer>
+        </div>
+
+        <div corresp="#surface-2">
+          [see physical note]
+        </div>
+        <div corresp="#surface-3">
+          <p>[physical marks]</p>
+        </div>
+        <div corresp="#surface-4">
+          [see physical note]
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -28,7 +28,8 @@ def main():
     letters = []
 
     for filename in os.listdir(INPUT_DIR):
-        if filename.endswith('.xml'):
+        # Ignora traduções
+        if filename.endswith('.xml') and not filename.endswith('_en.xml'):
             path = os.path.join(INPUT_DIR, filename)
             data = extract_metadata(path)
             if data:
@@ -41,7 +42,7 @@ def main():
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(letters, f, indent=2, ensure_ascii=False)
 
-    print(f'{len(letters)} cartas exportadas para {OUTPUT_FILE}')
+    print(f'{len(letters)} cartas (sem traduções) exportadas para {OUTPUT_FILE}')
 
 if __name__ == '__main__':
     main()

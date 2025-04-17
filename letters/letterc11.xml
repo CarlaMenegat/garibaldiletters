@@ -59,6 +59,7 @@
                     </correspAction>
                     <correspAction type="received">
                     <persName ref="#BRU" cert="low">Bruni</persName>
+                    <placeName ref="#PRA" cert="high">Prato</placeName>
                     </correspAction>
                 </correspDesc>
             </profileDesc>

@@ -8,4 +8,8 @@
         <orgName>Istituto per la storia del Risorgimento italiano</orgName>
         <idno type="website">https://www.risorgimento.it/edizioni-scritti-di-garibaldi/</idno>
     </org>
+    <org xml:id="brown">
+        <orgName>John Carter Brown Library</orgName>
+        <idno type="website">https://repository.library.brown.edu/studio/</idno>
+    </org>
 </listOrg>

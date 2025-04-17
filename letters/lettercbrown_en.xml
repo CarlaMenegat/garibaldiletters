@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Letter from Garibaldi, Giuseppe to Pastacaldi, Michele</title>
+          <author>Garibaldi, Giuseppe</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>John Carter Brown Library</publisher>
+          <availability>
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <repository>John Carter Brown Library</repository>
+              <idno>bdr:417984</idno>
+            </msIdentifier>
+            <bibl>
+              <ptr target="https://repository.library.brown.edu/iiif/presentation/bdr:417984/manifest.json"/>
+            </bibl>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+            <date when="1854-02-22"/>
+            <placeName ref="#LON" cert="high">London</placeName>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#PAS" cert="high">Michele Pastacaldi</persName>
+          </correspAction>
+        </correspDesc>
+      </profileDesc>
+      <textClass>
+        <keywords>
+          <term ana="#fundrising">Regards the success of Garibaldi's fundraising efforts in the United States.</term>
+          <term ana="business">Also discusses a shipment of coal that Garibaldi is arranging between Geneva and Newcastle.</term>
+        </keywords>
+      </textClass>
+      <encodingDesc>
+        <refsDecl>
+          <ref target="annotations/annotations_persons.xml"/>
+          <ref target="annotations/annotations_org.xml"/>
+          <ref target="annotations/annotations_places.xml"/>
+          <ref target="annotations/annotations_dates.xml"/>
+          <ref target="annotations/annotations_themes.xml"/>
+          <ref target="annotations/annotations_physical.xml"/>
+          <ref target="annotations/annotations_publishers.xml"/>
+          <ref target="annotations/annotations_comments.xml"/>
+        </refsDecl>
+      </encodingDesc>
+    </teiHeader>
+  
+    <facsimile>
+      <surface xml:id="surface-1">
+        <graphic url="https://repository.library.brown.edu/iiif/bdr:417984/canvas/canvas-1"/>
+      </surface>
+    </facsimile>
+  
+    <text>
+      <body resp="#CM">
+        <div type="letter">
+          <div corresp="#surface-1">
+            <opener>
+              <dateline>
+                <placeName ref="#LON">London</placeName>, <date xml:id="d1" when="1854-02-22">February 22, 1854</date>
+              </dateline>
+              <lb/><lb/>
+              <salute>Dear <persName ref="#PAS">Pastacaldi</persName></salute>
+              <lb/><lb/>
+            </opener>
+  
+            <p>Until now I have received no letters
+              <lb/>
+              from <placeName ref="#GEN">Genoa</placeName>, and I will send the dock
+              <lb/>
+              if it remains so – I have chartered for <placeName ref="#GEN">Genoa</placeName>
+              <lb/>
+              a coal shipment to <placeName ref="#NCAS">Newcastle</placeName> at <seg xml:id="LBR30" ana="#VAL30GBP">£30</seg>
+              <lb/>
+              per <seg type="comment" xml:id="freightCalc" ana="#freight">keel of 21 Cons 4 Cwt</seg> – I calculated
+              <lb/>
+              it will reach over £1200.
+            </p>
+  
+            <p>
+              They had offered me, with the same dock,
+              <lb/>
+              another for <placeName ref="#GEN">Genoa</placeName> to the <placeName ref="#USA">United States</placeName>,
+              <lb/>
+              offering around 16 thousand <seg xml:id="dollar" ana="#dollar">dollars</seg> in total;
+              <lb/>
+              I asked for 18 thousand, and it seems
+              <lb/>
+              they do not agree – I will limit myself
+              <lb/>
+              to the first for now, the freights
+              <lb/>
+              do not seem likely to <seg xml:id="cassare" ana="#cassare">fall</seg>, and
+              <lb/>
+              perhaps I will hear something from
+              <lb/>
+              some other direction – Unloading is slow
+              <lb/>
+              and seems to be the custom of this port.
+            </p>
+  
+            <closer>
+              <salute>I need your letters, and for God's
+                <lb/>
+                sake don't forget your <choice><abbr>yᵒ</abbr><expan>yours</expan></choice></salute>
+              <lb/><lb/>
+              <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+            </closer>
+            <lb/><lb/>
+  
+            <note place="postscript">
+              N.B. I think it's best to insure you
+              <placeName ref="#LON">in London</placeName> this time, and you'll give me instructions
+              <lb/>
+              for the future —
+            </note>
+          </div>
+        </div>
+      </body>
+    </text>
+  </TEI>

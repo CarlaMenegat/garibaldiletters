@@ -16,6 +16,12 @@
         <persName type="full" xml:lang="it">Antonio Bruni</persName>
         <persName type="epithet">“Founder, in 1861, of the first circulating library for the people.”</persName>
       </person>
+
+      <person xml:id="PAS">
+        <persName>Pastacaldi</persName>
+        <persName type="full" xml:lang="it">Michele Pastacaldi</persName>
+        <persName type="epithet">Italian exile in the United States.</persName>
+      </person>
   
       <person xml:id="CM">
         <persName>Carla Menegat</persName>

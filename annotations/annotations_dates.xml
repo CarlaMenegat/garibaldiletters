@@ -16,6 +16,10 @@
       <desc>Letter from Garibaldi to the National Education Committee, dated 13 March 1862.</desc>
       <date when="1862-03-13"/>
     </event>
+    <event xml:id="D18540222">
+      <desc>Date the letter was sent by Garibaldi to Pastacaldi.</desc>
+      <date when="1854-02-22"/>
+    </event>
   </listEvent>
 
   <listSpan>
@@ -33,6 +37,9 @@
     </spanGrp>
     <spanGrp type="date">
       <span from="letterc11.xml#d1" to="letterc11.xml#d1" ana="#D18651212"/>
+    </spanGrp>
+    <spanGrp type="date">
+      <span from="lettercbrown.xml#d1" to="lettercbrown.xml#d1" ana="#D18540222"/>
     </spanGrp>
   </listSpan>
 </standOff>

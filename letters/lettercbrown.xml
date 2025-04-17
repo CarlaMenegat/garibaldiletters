@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Letter from Garibaldi, Giuseppe to Pastacaldi, Michele</title>
+          <author>Garibaldi, Giuseppe</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>John Carter Brown Library</publisher>
+          <availability>
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <repository>John Carter Brown Library</repository>
+              <idno>bdr:417984</idno>
+            </msIdentifier>
+            <bibl>
+              <ptr target="https://repository.library.brown.edu/iiif/presentation/bdr:417984/manifest.json"/>
+            </bibl>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
+            <date when="1854/02/22"/>
+            <placeName ref="#LON" cert="high">LONDON</placeName>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#PAS" cert="high">Michele Pastacaldi</persName>
+          </correspAction>
+        </correspDesc>
+      </profileDesc>
+      <textClass>
+        <keywords>
+          <term ana="#fundrising">Regards the success of Garibaldi's fundraising efforts in the United States.</term>
+          <term ana="business">Also discusses a shipment of coal that Garibaldi is arranging between Geneva and Newcastle.</term>
+        </keywords>
+      </textClass>
+      <encodingDesc>
+        <refsDecl>
+          <ref target="annotations/annotations_persons.xml"/>
+          <ref target="annotations/annotations_org.xml"/>
+          <ref target="annotations/annotations_places.xml"/>
+          <ref target="annotations/annotations_dates.xml"/>
+          <ref target="annotations/annotations_themes.xml"/>
+          <ref target="annotations/annotations_physical.xml"/>
+          <ref target="annotations/annotations_publishers.xml"/>
+          <ref target="annotations/annotations_comments.xml"/>
+        </refsDecl>
+      </encodingDesc>
+    </teiHeader>
+    <facsimile>
+      <surface xml:id="surface-1">
+        <graphic url="https://repository.library.brown.edu/iiif/bdr:417984/canvas/canvas-1"/>
+      </surface>
+    </facsimile>
+    <text>
+      <body resp="#CM">
+        <div type="letter">
+          <div corresp="#surface-1">
+            <opener>
+              <dateline>
+                <placeName ref="#LON">Londra</placeName>, <date xml:id="d1" when="1854/02/22">22 
+                  <choice>
+                    <abbr>Febº</abbr>
+                    <expan>Febbraio</expan>
+                  </choice>1854</date></dateline>
+              <lb/><lb/>
+              <salute>Caro <persName ref="#PAS">Pastacaldi</persName></salute>
+              <lb/><lb/>
+            </opener>
+            <p>Sin'a questo momento non ho lettere
+              <lb/>
+              da <placeName ref="#GEN">Genova</placeName>, ed io vi rimettero il molo
+              <lb/>
+              se così segue - ho noleggiato per <placeName ref="#GEN">Genova</placeName>
+              <lb/> 
+              caricando carbone per <placeName ref="#NCAS">Newcastle</placeName> a <seg xml:id="LBR30" ana="#VAL30GBP">£30</seg>
+              <lb/>
+              per <seg type="comment" xml:id="freightCalc" ana="#freight">keel di 21 Cons 4 Cwt</seg> - ho calcolato
+              <lb/>
+              si fará al dissoppra di 1200£.
+            </p>
+            <p>
+              Mi avevano offerto colo stesso molo, un'
+              <lb/>
+              altro da <placeName ref="#GEN">Genova</placeName> agli <placename ref="#USA">Stati Uniti</placename>, dando
+              <lb/>
+              in tutto cerca 16m. <seg xml:id="dollar" ana="#dollar">dollars</seg>, io ne ho
+              <lb/>
+              chiesto 18m. e par non convengano - mi
+              <lb/>
+              limiterò dunque al primo per ora, i
+              <lb/>
+              noli non hanno apparenza di <seg xml:id="cassare" ana="#cassare">Cassare</seg>, e 
+              <lb/>
+              poi mi diranno forse qualque cosa da 
+              <lb/>
+              qualque parte - Lo scarico va lentamente 
+              <lb/>
+              e pare esser costume di questa piazza.
+            </p>
+
+            <closer>
+              <salute>Ho bisogno di lettere vostre, e non mi
+                <lb/>
+                scordate per Dio del <choice><abbr>vᵒ</abbr><expan>vostro</expan></choice></salute>
+                <lb/><lb/>
+                <signed><persName ref="#GAR">G. Garibaldi</persName></signed>
+            </closer>
+            <lb/><lb/>
+            <note place="postscript">
+              N.B. Mi pare meglio assicurarvi in 
+              <placeName ref="#LON">Londra</placeName> per questa volta, e mi darete ordini 
+              <lb/>
+              per l'avvenire —
+            </note>
+          </div>
+        </div>
+      </body>
+    </text>
+  </TEI>

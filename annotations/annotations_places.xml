@@ -64,5 +64,29 @@
             <idno type="geonames">https://www.geonames.org/8950722/villa-spinola-cosci-garibaldi.html</idno>
         </place>
 
+        <place xml:id="LON">
+            <placeName>London</placeName>
+            <location>
+                <geo decl="WGS84">51.5074 -0.1278</geo>
+            </location>
+            <idno type="geonames">https://www.geonames.org/2643743/london.html</idno>
+        </place>
+
+        <place xml:id="NCAS">
+            <placeName>New Castle</placeName>
+            <location>
+                <geo decl="WGS84">54.9784 -1.6174</geo>
+            </location>
+            <idno type="geonames">https://www.geonames.org/2641673/newcastle-upon-tyne.html</idno>
+        </place>
+
+        <place xml:id="USA">
+            <placeName>United States</placeName>
+            <location>
+              <geo decl="WGS84">39.8283 -98.5795</geo> 
+            </location>
+            <idno type="geonames">https://www.geonames.org/6252001/united-states.html</idno>
+          </place>
+
     </listPlace>
 </standOff>

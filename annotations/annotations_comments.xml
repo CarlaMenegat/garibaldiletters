@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <standOff xmlns="http://www.tei-c.org/ns/1.0" xmlns:xml="http://www.w3.org/XML/1998/namespace">
 
-  <spanGrp type="themes">
+  <spanGrp type="comments">
     <!-- letterc4.xml -->
     <span from="letterc4.xml#c4seg1" to="letterc4.xml#c4seg1" ana="#nationalism_rising">
       <desc>Garibaldi honors Genoa’s early patriotic spirit and sacrifice in 1846.</desc>
@@ -17,6 +17,21 @@
     <span from="letterc11.xml#c11-seg1" to="letterc11.xml#c11-seg1" ana="#education">
       <desc>Garibaldi’s statement linking education to political equality.</desc>
     </span>
+    
+  </spanGrp>
+
+  <spanGrp type="comment">
+    <span from="lettercbrown.xml#LBR30" ana="#VAL30GBP"/>
+  </spanGrp>
+
+  <spanGrp type="comment">
+    <span from="lettercbrown.xml#dollar" ana="#dollar"/>
+  </spanGrp>
+  <spanGrp type="comment">
+    <span from="lettercbrown.xml#freightCal" ana="#freight"/>
+  </spanGrp>
+  <spanGrp type="comment">
+    <span from="lettercbrown.xml#cassare" ana="#cassare"/>
   </spanGrp>
 
   <list>
@@ -41,6 +56,17 @@
     <category xml:id="elections">
       <catDesc xml:lang="en">Garibaldi was a candidate for the Subalpine Parliament in the 1849 elections.</catDesc>
     </category>
+    <category xml:id="VAL30GBP">
+      <catDesc xml:lang="en">Monetary value mentioned in the letter: 30 British pounds sterling (£), likely referring to the cost of coal transport or freight from Newcastle.</catDesc>
+    </category>
+    <category xml:id="dollar">
+      <catDesc xml:lang="en">Monetary value refering to the currency of United States.</catDesc>
+    </category>
+    <category xml:id="freight">
+      <catDesc>This segment contains technical freight information: "keel" refers to a vessel or cargo capacity, "Cons" likely stands for consignments, and "Cwt" means hundredweight (a British unit of mass). Garibaldi is calculating shipping costs based on this measurement.</catDesc>
+    </category>
+    <category xml:id="cassare">
+      <catDesc>Maybe a reference to the African Port of Cassare in the Guinea Coast.</catDesc>
+    </category>
   </list>
-
 </standOff>

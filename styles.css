@@ -5,11 +5,18 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  scroll-behavior: smooth;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .navbar {
   background-color: rgba(75, 113, 96, 0.6);
+}
+
+/* Somente para navbar da homepage */
+body.homepage .navbar {
+  background-color: whitesmoke !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-brand {
@@ -44,6 +51,65 @@ html, body {
 .navbar-nav .nav-link:hover::after {
   width: 100%;
 }
+
+/* Hero section atualizada */
+.hero {
+  background-image: url('images/la-bataglia-di-mentana.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  position: relative;
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.35);
+  z-index: 1;
+}
+
+.hero-content {
+  position: absolute;
+  top: 10%;
+  right: 8%;
+  color: #fff;
+  z-index: 2;
+  text-align: right;
+  max-width: 400px;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.7);
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 1rem;
+}
+
+/* === HOMEPAGE ===*/
+.section {
+  padding: 4rem 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+  line-height: 1.8;
+}
+
+.section p {
+  text-align: justify;
+}
+
+/* Verde oliva escuro */
+a {
+  color: #3e6b3e !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2e4f2e;
+  text-decoration: underline;
+}
+
+
 
 /* === NAV DA CARTA === */
 .letter-nav {
@@ -274,10 +340,62 @@ html, body {
   text-decoration-style: solid;
 }
 
+.doc-container {
+  display: flex;
+  margin-top: 80px;
+  padding: 2rem;
+}
+
+.doc-sidebar {
+  flex: 0 0 250px;
+  border-right: 1px solid #ccc;
+  padding-right: 1rem;
+  position: sticky;
+  top: 80px;
+  height: calc(100vh - 100px);
+  overflow-y: auto;
+}
+
+.doc-sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.doc-sidebar li {
+  margin-bottom: 0.75rem;
+}
+
+.doc-content {
+  flex: 1;
+  padding-left: 2rem;
+}
+
+.doc-content h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.doc-content p {
+  text-align: justify;
+}
+
+.xml-image-placeholder {
+  background: #f2f2f2;
+  height: 200px;
+  border: 1px dashed #aaa;
+  margin: 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+}
+
 /* === FOOTER === */
 footer {
   background-color: #f8f9fa;
-  padding: 1rem;
+  padding: 1rem 2rem;
   text-align: center;
+  border-top: 1px solid #ddd;
+  font-size: 0.9rem;
 }
 

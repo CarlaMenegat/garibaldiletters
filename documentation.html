@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project Documentation | Garibaldi Letters</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Garibaldi's Letters</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#">Homepage</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Letters</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Risorgimento</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Biographical Dictionary</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+    <div class="doc-container">
+        <aside class="doc-sidebar">
+            <ul>
+                <li><a href="#intro">1. Introduction</a></li>
+                <li><a href="#structure">2. General Structure</a></li>
+                <li><a href="#header">3. TEI Header and Metadata</a></li>
+                <li><a href="#encoding">4. Textual Encoding</a></li>
+                <li><a href="#iiif">5. IIIF Integration</a></li>
+                <li><a href="#annotations">6. Standoff Annotation</a></li>
+                <li><a href="#translation">7. Translation Encoding</a></li>
+                <li><a href="#entities">8. Named Entities</a></li>
+                <li><a href="#physical">9. Material Features</a></li>
+                <li><a href="#themes">10. Thematic Tagging</a></li>
+                <li><a href="#editorial">11. Editorial Principles</a></li>
+                <li><a href="#tech">12. Technologies</a></li>
+                <li><a href="#conclusion">13. Conclusion</a></li>
+                <li><a href="https://github.com/CarlaMenegat/garibaldiletters" target="_blank">GitHub Repository</a></li>
+            </ul>
+        </aside>
+
+        <main class="doc-content">
+            <header class="text-center my-4">
+                <h1>Project Documentation</h1>
+                <h2 class="h5 text-muted">Garibaldi Letters Digital Edition</h2>
+            </header>
+            <section id="intro">
+                <h2>1. Introduction</h2>
+                <p><em>The Garibaldi Letters</em> project is a digital edition of selected letters by Giuseppe Garibaldi. It aims to provide an accessible, scholarly, and interoperable corpus of his correspondence, presented through a web interface that integrates image facsimiles, TEI-encoded transcriptions, editorial annotations, and English translations. This documentation outlines the technical and encoding methodologies used in the project, as part of a prototype developed for academic assessment and future scalability.</p>          
+            <div class="xml-image-placeholder">[Insert TEI structure screenshot]</div>
+            </section>
+
+            <section id="structure">
+                <h2>2. General Structure</h2>
+                <p>Each letter is encoded as a standalone TEI-XML document, structured according to the TEI P5 Guidelines and incorporating metadata, transcription, and (where available) translation. The digital edition supports both original Italian texts and corresponding English translations, organized as separate TEI files with synchronized identifiers and segmentation.</p>
+            </section>
+
+            <section id="header">
+                <h2>3. TEI Header and Metadata</h2>
+                <p>The <code>&lt;teiHeader&gt;</code> is used comprehensively to include bibliographic and archival metadata, ensuring traceability and long-term interoperability. Key components include:</p>
+                <ul>
+                    <li><code>&lt;fileDesc&gt;</code> with full title, author, and editorial responsibility;</li>
+                    <li><code>&lt;publicationStmt&gt;</code> including UUIDs and licensing information;</li>
+                    <li><code>&lt;sourceDesc&gt;</code> referencing the holding institution and IIIF manifest (<code>&lt;ptr target=\"...\"/&gt;</code>);</li>
+                    <li><code>&lt;msDesc&gt;</code> with manuscript identifiers and physical descriptions;</li>
+                    <li><code>&lt;correspDesc&gt;</code> identifying sender, recipient, date, and places involved;</li>
+                    <li><code>&lt;textClass&gt;</code> and <code>&lt;keywords&gt;</code> to classify thematic content.</li>
+                </ul>
+                <p>Metadata is encoded in English, while the body of the document remains in the original language of the letter, that can be Italian, Portuguese, Spanish, French or English.</p>      
+                <div class="xml-image-placeholder">[Insert header example]</div>
+            </section>
+
+            <section id="encoding">
+                <h2>4. Textual Encoding and Epistolary Structure</h2>
+                <p>The structure of each letter is modeled using TEI elements appropriate for epistolary material:</p>
+                <ul>
+                    <li><code>&lt;opener&gt;</code>: includes <code>&lt;dateline&gt;</code>, <code>&lt;address&gt;</code>, and <code>&lt;salute&gt;</code>;</li>
+                    <li><code>&lt;p&gt;</code>: represents individual paragraphs;</li>
+                    <li><code>&lt;closer&gt;</code>: includes <code>&lt;salute&gt;</code>, <code>&lt;signed&gt;</code>, and final <code>&lt;dateline&gt;</code>;</li>
+                    <li><code>&lt;lb/&gt;</code>: used to preserve line breaks;</li>
+                    <li><code>&lt;choice&gt;</code>: used to represent textual corrections or editorial normalization (<code>&lt;sic&gt;</code> and <code>&lt;corr&gt;</code>);</li>
+                    <li><code>&lt;unclear&gt;</code>: for text that is illegible or uncertain;</li>
+                    <li><code>&lt;seg&gt;</code>: for semantically relevant or annotated portions of text.</li>
+                </ul>
+                <p>The <code>&lt;body&gt;</code> is tagged with <code>resp=\"#CM\"</code> to identify the responsible encoder.</p>
+            </section>
+
+            <section id="iiif">
+                <h2>5. Facsimiles and IIIF Integration</h2>
+                <p>The edition integrates IIIF (International Image Interoperability Framework) manifests for each letter. Page images are referenced via <code>&lt;facsimile&gt;</code> and <code>&lt;surface&gt;</code> elements, each associated with a canvas ID. The main text <code>&lt;div&gt;</code>s correspond to individual surfaces using <code>@corresp=\"#surface-X\"</code> to allow for precise synchronization between facsimile and transcription.</p>      
+            </section>
+
+            <section id="annotations">
+                <h2>6. Standoff Annotation and Semantic Layers</h2>
+                <p>Annotations are handled using external standoff XML files. These files are linked in the <code>&lt;encodingDesc&gt;</code> via <code>&lt;refsDecl&gt;</code>, and include:</p>
+                <ul>
+                    <li><code>annotations_comments.xml</code>: interpretive comments on passages or terms;</li>
+                    <li><code>annotations_dates.xml</code>: historically significant dates associated with the correspondence;</li>
+                    <li><code>annotations_physical.xml</code>: seals, stamps, logos, and other material traces in the manuscripts;</li>
+                    <li><code>annotations_places.xml</code>, <code>annotations_persons.xml</code>, etc.: entity references and biographical/geographical data.</li>
+                </ul>
+                <p>Annotations follow the TEI <code>&lt;span&gt;</code> and <code>&lt;event&gt;</code> models, and target specific elements via <code>@from</code>, <code>@ana</code>, and <code>@xml:id</code>.</p>      
+            </section>
+
+            <section id="translation">
+                <h2>7. Translation Encoding</h2>
+                <p>English translations are encoded in separate TEI files with the same segmentation logic. These files mirror the structure of the source text and are linked through the interface using surface and file identifiers. The attribute <code>xml:lang=\"en\"</code> is used at the root level to distinguish translated documents.</p>
+            </section>
+
+            <section id="entities">
+                <h2>8. Named Entities and Identifiers</h2>
+                <p>Named entities such as people, places, and organizations are identified using <code>@ref</code> attributes pointing to authoritative URIs when available (e.g., VIAF, GeoNames, LOC). A standoff system of <code>&lt;place&gt;</code>, <code>&lt;person&gt;</code>, and <code>&lt;org&gt;</code> elements includes:</p>
+                <ul>
+                    <li><code>&lt;placeName&gt;</code> and <code>&lt;geo&gt;</code> with WGS84 coordinates;</li>
+                    <li><code>&lt;note&gt;</code> with historical and contextual explanations;</li>
+                    <li><code>&lt;idno&gt;</code> for persistent identifiers.</li>
+                </ul>
+            </section>
+
+            <section id="physical">
+                <h2>9. Material Features and Paratext</h2>
+                <p>Physical features of the documents—such as stamps, seals, printed emblems, and addresses—are encoded using a combination of <code>&lt;stamp&gt;</code>, <code>&lt;seal&gt;</code>, and <code>&lt;ab type=\"address\"&gt;</code>. Annotations about physical traces are also included in the <code>annotations_physical.xml</code> file.</p>
+            </section>
+            
+            <section id="themes">
+                <h2>10. Thematic and Semantic Tagging</h2>
+                <p>Themes and categories relevant to the content of the letters (e.g., nationalism, elections, freemasonry, military organization) are encoded using the <code>@ana</code> attribute on <code>&lt;seg&gt;</code> elements and <code>&lt;term&gt;</code> values within the <code>&lt;textClass&gt;</code> metadata block. These thematic labels facilitate advanced filtering and semantic enrichment.</p>
+            </section>
+        
+            <section id="editorial">
+                <h2>11. Editorial Principles</h2>
+                <ul>
+                    <li><strong>Fidelity to source</strong>: Transcriptions are diplomatic but normalized through <code>&lt;choice&gt;</code> for editorial legibility.</li>
+                    <li><strong>Transparency</strong>: All interventions are encoded explicitly with responsibility attribution.</li>
+                    <li><strong>Extensibility</strong>: The TEI structure and modular standoff markup enable future expansion, including annotation crowdsourcing or full-text search indexing.</li>
+                    <li><strong>Accessibility</strong>: The website design ensures usability, clarity, and bilingual access to source and translation.</li>
+                </ul>
+            </section>
+            
+            <section id="tech">
+                <h2>12. Technologies and Standards</h2>
+                <ul>
+                    <li>TEI P5 Guidelines</li>
+                    <li>IIIF (Presentation API v2.0)</li>
+                    <li>Bootstrap 5 for frontend UI</li>
+                    <li>JavaScript for dynamic interface behavior</li>
+                    <li>JSON-based letter index (<code>letters_order.json</code>) for navigation and ordering</li>
+                </ul>
+            </section>
+        
+            <section id="conclusion">
+                <h2>13. Conclusion</h2>
+                <p>This prototype of the <em>Garibaldi Letters</em> digital edition represents an initial effort to approach nineteenth-century correspondence through semantically aware, technically structured encoding. While several layers of annotation and metadata have been implemented, a fully semantic web integration—particularly through the conversion of entities into RDF aligned with relevant ontologies—remains a goal for future development.</p>
+                <p>The editorial model adopted here is grounded in international standards for digital scholarship and has been structured with attention to long-term sustainability and scholarly reuse. However, it must be emphasized that this edition was developed as part of a learning process, and reflects both the possibilities and limitations of an academic prototype at this stage of study.</p>
+            </section>
+        </main>
+    </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Garibaldi's Letters Project. All rights reserved. |
+      <a href="#">Project Documentation</a>
+    </p>
+  </footer>
+</body>
+</html>

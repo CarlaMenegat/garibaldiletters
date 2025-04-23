@@ -3429,35 +3429,15 @@
     ]
   },
   "AVEZZANA, GIUSEPPE": {
-    "id": "avezzana-giuseppe-8",
-    "descriptions": [
-      "(1797-1879), generale"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          44,
-          46,
-          49
-        ]
-      },
-      {
-        "volume": 13,
-        "pages": [
-          208,
-          209
-        ]
-      }
-    ]
-  },
-  "AVEZZANA, GIUSEPPE (1797-1879)": {
     "id": "avezzana-giuseppe",
     "descriptions": [
       "(vedi vol. II)",
-      "incaricato del coordinamento del Tiro nazionale del Piemonte. Nel 1861 era stato eletto deputato per Il collegio di Montesarchio. vedi anche vol. VI",
-      "nel 1864 è il responsabile di un comitato per l'erezione a Ravenna di un monumento ad Anita Garibaldi (vedi i voli. III e V-VIII)",
-      "su di lui vedi i voli. III e V-IX"
+      "(Chieri 1797-Roma 1879) già ministro della guerra e comandante supremo dell'esercito della Repubblica Romana, poi esule in Inghilterra ed a New York, ritornò in Italia dopo l'entrata di Garibaldi in Napoli, in tempo per partecipare alla battaglia del Volturno ed all'assedio di Capua. Fu successivamente deputato e prese parte alla guerra del 1866 (cfr. voll. II, III, VI)",
+      "(Chieri 1797-Roma 1879) il Garibaldi pensò di utilizzarlo come elemento di umone nella crisi dei Comitati di Provvedimento, (vedi anche voll. II-III)",
+      "(1797-1879) incaricato del coordinamento del Tiro nazionale del Piemonte. Nel 1861 era stato eletto deputato per Il collegio di Montesarchio. vedi anche vol. VI",
+      "(1797-1879) nel 1864 è il responsabile di un comitato per l'erezione a Ravenna di un monumento ad Anita Garibaldi (vedi i voli. III e V-VIII)",
+      "(1797-1879) su di lui vedi i voli. III e V-IX",
+      "(1797-1879), generale"
     ],
     "occurrences": [
       {
@@ -3478,10 +3458,33 @@
         ]
       },
       {
+        "volume": 5,
+        "pages": [
+          260,
+          285
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          170,
+          212,
+          226,
+          288
+        ]
+      },
+      {
         "volume": 7,
         "pages": [
           12,
           140
+        ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          119,
+          179
         ]
       },
       {
@@ -3497,45 +3500,20 @@
           113,
           137
         ]
-      }
-    ]
-  },
-  "AVEZZANA, GIUSEPPE (Chieri 1797-Roma 1879)": {
-    "id": "avezzana-giuseppe-2",
-    "descriptions": [
-      "già ministro della guerra e comandante supremo dell'esercito della Repubblica Romana, poi esule in Inghilterra ed a New York, ritornò in Italia dopo l'entrata di Garibaldi in Napoli, in tempo per partecipare alla battaglia del Volturno ed all'assedio di Capua. Fu successivamente deputato e prese parte alla guerra del 1866 (cfr. voll. II, III, VI)",
-      "il Garibaldi pensò di utilizzarlo come elemento di umone nella crisi dei Comitati di Provvedimento, (vedi anche voll. II-III)"
-    ],
-    "occurrences": [
+      },
       {
-        "volume": 5,
+        "volume": 12,
         "pages": [
-          260,
-          285
+          44,
+          46,
+          49
         ]
       },
       {
-        "volume": 6,
+        "volume": 13,
         "pages": [
-          170,
-          212,
-          226,
-          288
-        ]
-      }
-    ]
-  },
-  "AVEZZANA, GIUSEPPE vedi voli. II": {
-    "id": "avezzana-giuseppe-5",
-    "descriptions": [
-      "III, V, VI, VII, P."
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          119,
-          179
+          208,
+          209
         ]
       }
     ]
@@ -3568,10 +3546,11 @@
       }
     ]
   },
-  "AZEGLIO, MASSIMO TAPARELLI D' (1798-1866)": {
+  "AZEGLIO, MASSIMO TAPARELLI D'": {
     "id": "azeglio-massimo",
     "descriptions": [
-      "presidente del Consiglio sardo, senatore dal 1"
+      "(1798-1866) presidente del Consiglio sardo, senatore dal 1",
+      "(Torino 1798-ivi 1866) governatore di Milano si dimise, non approvando la politica di Cavour, specialmente nel mezzogiorno, da lui giudicata poco leale. disapprovò l'annessione del mezzogiorno e la debolezza verso i rivoluzionari, auspicando una unione personale dei due Stati ed un governo basato su una forte tradizione monarchica"
     ],
     "occurrences": [
       {
@@ -3579,15 +3558,7 @@
         "pages": [
           18
         ]
-      }
-    ]
-  },
-  "AZEGLIO, MASSIMO TAPARELLI D' (Tormo 1798-ivi 1866)": {
-    "id": "azeglio-massimo-2",
-    "descriptions": [
-      "governatore di Milano si dimise, non approvando la politica di Cavour, specialmente nel mezzogiorno, da lui giudicata poco leale. disapprovò l'annessione del mezzogiorno e la debolezza verso i rivoluzionari, auspicando una unione personale dei due Stati ed un governo basato su una forte tradizione monarchica"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 5,
         "pages": [
@@ -3654,51 +3625,9 @@
       }
     ]
   },
-  "Anita Ribeiro": {
-    "id": "anita-anonimo",
-    "descriptions": [
-      "comandante della terza brigata dell'armata dei Vosgi"
-    ],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          63,
-          67,
-          70,
-          90,
-          95,
-          115,
-          130,
-          132,
-          147,
-          157,
-          165,
-          167,
-          198,
-          202,
-          204,
-          207,
-          208,
-          209,
-          215,
-          217,
-          238,
-          247,
-          248,
-          249,
-          252,
-          255,
-          259
-        ]
-      }
-    ]
-  },
-  "BACCELLI": {
-    "id": "baccelli-anonimo",
-    "descriptions": [
-      "ALFREDO"
-    ],
+  "BACCELLI, ALFREDO": {
+    "id": "baccelli-alfredo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -3708,11 +3637,9 @@
       }
     ]
   },
-  "BACCINI": {
-    "id": "baccini-anonimo",
-    "descriptions": [
-      "GIUSEPPE"
-    ],
+  "BACCINI, GIUSEPPE": {
+    "id": "baccini-giuseppe",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -3776,17 +3703,21 @@
       }
     ]
   },
-  "BADDI": {
+  "BADDI, GAETANO": {
     "id": "baddi-anonimo",
-    "descriptions": [
-      "GAETANO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
         "pages": [
           175,
           249
+        ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          35
         ]
       }
     ]
@@ -3808,20 +3739,6 @@
         "volume": 10,
         "pages": [
           178
-        ]
-      }
-    ]
-  },
-  "BADII": {
-    "id": "badii-anonimo",
-    "descriptions": [
-      "GAETANO"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          35
         ]
       }
     ]
@@ -3938,22 +3855,6 @@
       }
     ]
   },
-  "BAGNAACO, ROSARIO": {
-    "id": "bagnaaco-rosario",
-    "descriptions": [
-      "vedi voll. III e VII"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          23,
-          24,
-          29
-        ]
-      }
-    ]
-  },
   "BAGNANI FRANCESCHETTI, EMILIA": {
     "id": "bagnani-emilia",
     "descriptions": [
@@ -4004,6 +3905,7 @@
       "(1810-1879), repubblicano assai vicino a Mazzini, era stato uno dei più accaniti oppositori dei Borboni. Rientrato a Palermo dopo il 1860, organizzò il Partito d'Azione in Sicilia e reclutò adepti per il movimento repubblicano. Nelle elezioni amministrative del 1865 presiederà l'Assemblea elettorale democratica",
       "(1810-1879), massone e repubblicano, di professione scultore, nel 1865, alla vigilia delle elezioni murncipali, presiedeva l'Assemblea elettorale democratica (vedi anche i voli. VII e IX)",
       "(1810-1879), su di lui vedi i voll. VII e IX-X",
+      "(1810-1879), scultore, organizzatore del partito d'azione in Sicilia",
       "(1810-1879), scultore, organizzatore del partito d'azione in Sicilia"
     ],
     "occurrences": [
@@ -4028,6 +3930,14 @@
           297,
           298,
           304
+        ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          23,
+          24,
+          29
         ]
       },
       {
@@ -4061,25 +3971,17 @@
         ]
       },
       {
-        "volume": 14,
-        "pages": [
-          49
-        ]
-      }
-    ]
-  },
-  "BAGNASCO, ROSARIO (1810-1879)": {
-    "id": "bagnasco-rosario-7",
-    "descriptions": [
-      "scultore, orgamzzatore del partito d'azione in Sicilia"
-    ],
-    "occurrences": [
-      {
         "volume": 13,
         "pages": [
           43,
           61,
           125
+        ]
+      },
+      {
+        "volume": 14,
+        "pages": [
+          49
         ]
       }
     ]
@@ -4201,11 +4103,9 @@
       }
     ]
   },
-  "BALDI": {
-    "id": "baldi-anonimo",
-    "descriptions": [
-      "G."
-    ],
+  "BALDI, G.": {
+    "id": "baldi-g",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -4215,11 +4115,9 @@
       }
     ]
   },
-  "BALDISSERA": {
+  "BALDISSERA, LUIGI": {
     "id": "baldissera-anonimo",
-    "descriptions": [
-      "LUIGI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 13,
@@ -4232,7 +4130,7 @@
   "BALENGA, ANTONIO": {
     "id": "balenga-antonio",
     "descriptions": [
-      "legionario italiano, ucciso il 3 gennaio 1"
+      "legionario italiano, ucciso il 3 gennaio 1844"
     ],
     "occurrences": [
       {
@@ -4243,10 +4141,10 @@
       }
     ]
   },
-  "BALILLA (GIOVANNI BATTISTA PERASSO)": {
-    "id": "balilla-anonimo",
+  "BALILLA, (GIOVANNI BATTISTA PERASSO)": {
+    "id": "balilla-giovanni",
     "descriptions": [
-      "diede imzio alla rivolta che nel 1746 liberò Genova dagli austriaci"
+      "diede inizio alla rivolta che nel 1746 liberò Genova dagli austriaci"
     ],
     "occurrences": [
       {
@@ -4315,10 +4213,10 @@
       }
     ]
   },
-  "BANASSO, italiano della collettività di Montevideo": {
+  "BANASSO": {
     "id": "banasso-italiano",
     "descriptions": [
-      "non meglio identificato"
+      "italiano della collettività di Montevideo, non meglio identificato"
     ],
     "occurrences": [
       {
@@ -4329,11 +4227,11 @@
       }
     ]
   },
-  "BANDI, GIUSEPPE (Gavorrano 1834-Livorno 1894)": {
+  "BANDI, GIUSEPPE": {
     "id": "bandi-giuseppe",
     "descriptions": [
-      "fu ferito a Calatafimi, combattè a Milazzo ed al Volturno. Entrò successivamente nell'esercito regolare abbandonandolo poi per la carriera di giornalista e scrittore. Fondò il Telegrafo ed Il Corriere Livornese e pubblicò Il famoso libro di memorie I Mille (cfr. vol. VI)",
-      "responsabile della Giovine Italia in Toscana, arrestato nel 1858 ma liberato dall'insurrezione dell'aprile 1859, in questo anno conobbe Garibaldi seguendolo poi nella campagna del 1860, sulla quale scrisse un famoso libro di memorie. Ferito a Calatafimi, dopo lo scioglimento dell'E.M. entrò nell'esercito regolare abbandonando dopo il 1870 la carriera delle armi per quella di giornalista e scrittore"
+      "(Gavorrano 1834-Livorno 1894) fu ferito a Calatafimi, combattè a Milazzo ed al Volturno. Entrò successivamente nell'esercito regolare abbandonandolo poi per la carriera di giornalista e scrittore. Fondò il Telegrafo ed Il Corriere Livornese e pubblicò Il famoso libro di memorie I Mille (cfr. vol. VI)",
+      "(Gavorrano 1834-Livorno 1894) responsabile della Giovine Italia in Toscana, arrestato nel 1858 ma liberato dall'insurrezione dell'aprile 1859, in questo anno conobbe Garibaldi seguendolo poi nella campagna del 1860, sulla quale scrisse un famoso libro di memorie. Ferito a Calatafimi, dopo lo scioglimento dell'E.M. entrò nell'esercito regolare abbandonando dopo il 1870 la carriera delle armi per quella di giornalista e scrittore"
     ],
     "occurrences": [
       {
@@ -4378,11 +4276,9 @@
       }
     ]
   },
-  "BANDINI": {
-    "id": "bandini-anonimo",
-    "descriptions": [
-      "GINO"
-    ],
+  "BANDINI, GINO": {
+    "id": "bandini-gino",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -4392,7 +4288,7 @@
       }
     ]
   },
-  "BANDINI, PoLICARPO": {
+  "BANDINI, POLICARPO": {
     "id": "bandini-policarpo",
     "descriptions": [
       "(1801-1874), presidente della Società ferroviaria toscana, deputato"
@@ -4406,10 +4302,10 @@
       }
     ]
   },
-  "BANDINI, emigrato ad Alessandria d'Egitto": {
-    "id": "bandini-emigrato",
+  "BANDINI": {
+    "id": "bandini",
     "descriptions": [
-      "promotore di una colletta tra gli esuli italiani per il finanziamento del movimento garibaldino"
+      "emigrato ad Alessandria d'Egitto, promotore di una colletta tra gli esuli italiani per il finanziamento del movimento garibaldino"
     ],
     "occurrences": [
       {
@@ -4486,9 +4382,16 @@
   "BARBA, EMANUELE": {
     "id": "barba-emanuele-2",
     "descriptions": [
+      "di Gallipoli liberale dal 1848, imprigionato dai Borboni, alla caduta del Regno riprese la sua attiva militanza democratica, costituendo nella sua città il Comitato di Provvedimento per Roma e Venezia e per l'Anticoncilio di Napoli. Fu anche impegnato nella promozione dell'educazione popolare",
       "patriota e letterato di Gallipoli"
     ],
     "occurrences": [
+      {
+        "volume": 8,
+        "pages": [
+          169
+        ]
+      },
       {
         "volume": 12,
         "pages": [
@@ -4497,25 +4400,9 @@
       }
     ]
   },
-  "BARBA, EMANUELE di Gallipoli": {
-    "id": "barba-emanuele",
-    "descriptions": [
-      "liberale dal 1848, imprigionato dai Borboni, alla caduta del Regno riprese la sua attiva militanza democratica, costituendo nella sua città il Comitato di Provvedimento per Roma e Venezia e per l'Anticoncilio di Napoli. Fu anche impegnato nella promozione dell'educazione popolare"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          169
-        ]
-      }
-    ]
-  },
-  "BARBARO": {
-    "id": "barbaro-anonimo",
-    "descriptions": [
-      "ANTONIETTA"
-    ],
+  "BARBARO, ANTONIETTA": {
+    "id": "barbaro-antonietta",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -4537,10 +4424,10 @@
       }
     ]
   },
-  "BARBAROSSA, FEDERICO I (1123-1190)": {
+  "BARBAROSSA, FEDERICO I": {
     "id": "barbarossa-federico",
     "descriptions": [
-      "imperatore"
+      "(1123-1190) imperatore"
     ],
     "occurrences": [
       {
@@ -4579,12 +4466,21 @@
       }
     ]
   },
-  "BARBIANO DI BELGIOIOSO ESTE, CRISTINA": {
-    "id": "barbiano-cristina-2",
+  "BARBIANO DI BELGIOIOSO ESTE, CRISTINA TRIVULZIO": {
+    "id": "barbiano-cristina",
     "descriptions": [
+      "(1808-1871), patriota lombarda",
       "a lei Garibaldi pensò per la promozione dei Comitati Femmmili (vedi vol. III)"
     ],
     "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          41,
+          52,
+          75
+        ]
+      },
       {
         "volume": 6,
         "pages": [
@@ -4618,22 +4514,6 @@
       }
     ]
   },
-  "BARBIANO DI BELGIOJOSO-ESTE, CRISTINA TRIVULZIO": {
-    "id": "barbiano-cristina",
-    "descriptions": [
-      ", (1808-1871), patriota lombarda"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          41,
-          52,
-          75
-        ]
-      }
-    ]
-  },
   "BARBIERI, SECONDO": {
     "id": "barbieri-secondo",
     "descriptions": [
@@ -4651,6 +4531,7 @@
   "BARBINI, CARLO": {
     "id": "barbini-carlo-2",
     "descriptions": [
+      "(Milano 1828 - ivi, 5 dicembre 1890), libraio editore milanese, esordì in quella professione nel 1860 pubblicando numerose opere di argomento patriottico e di polemica anticlericale",
       "(1828-1890), editore milanese"
     ],
     "occurrences": [
@@ -4659,15 +4540,7 @@
         "pages": [
           51
         ]
-      }
-    ]
-  },
-  "BARBINI, CARLO (Milano": {
-    "id": "barbini-carlo",
-    "descriptions": [
-      "1828 - ivi, 5 dicembre 1890), libraio editore milanese, esordì in quella professione nel 1860 pubblicando numerose opere di argomento patriottico e di polemica anticlericale"
-    ],
-    "occurrences": [
+      }, 
       {
         "volume": 8,
         "pages": [
@@ -4726,10 +4599,10 @@
       }
     ]
   },
-  "BARCELLARI, sottufficiale del reggimento Novi": {
+  "BARCELLARI": {
     "id": "barcellari-sottufficiale",
     "descriptions": [
-      "disertò al fine di raggiungere Garibaldi in Sicilia"
+      "sottufficiale del reggimento Novi, disertò al fine di raggiungere Garibaldi in Sicilia"
     ],
     "occurrences": [
       {
@@ -4754,10 +4627,10 @@
       }
     ]
   },
-  "BARENGO": {
-    "id": "barengo-anonimo",
+  "BARENGO, Ulderico": {
+    "id": "barengo-ulderico",
     "descriptions": [
-      "ULADERICO"
+      "U. BARENGO, Vicende mazziniane e garibaldine nelle carte dei carabinieri reali, Milano, Edizione del Museo Storico dell'Arma, 1942"
     ],
     "occurrences": [
       {
@@ -4769,11 +4642,9 @@
       }
     ]
   },
-  "BARGONI": {
-    "id": "bargoni-anonimo",
-    "descriptions": [
-      "ATTILIO"
-    ],
+  "BARGONI, ATTILIO": {
+    "id": "bargoni-attilio",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -4809,110 +4680,94 @@
       }
     ]
   },
-  "BARGONI, ANGELO": {
-    "id": "bargoni-angelo-4",
-    "descriptions": [
-      "(1829-1901), ex-direttore del Diritto, era vicino a Mordini ed al suo progetto di definitiva istituzionalizzazione della Simstra (vedi anche i voli. III, V, VII e VIII)",
-      "(1829-1901), su di lui vedi i voll. VII-IX",
-      "padre di Andrea"
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          26
-        ]
-      },
-      {
-        "volume": 11,
-        "pages": [
-          236,
-          237
-        ]
-      },
-      {
-        "volume": 14,
-        "pages": [
-          76,
-          82
-        ]
-      }
-    ]
-  },
-  "BARGONI, ANGELO (Cremona": {
-    "id": "bargoni-angelo-3",
-    "descriptions": [
-      "1829 - Roma, 1901), vedi voll. III, V, VII"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          23,
-          29
-        ]
-      }
-    ]
-  },
-  "BARGONI, ANGELO (Cremona 1829-Roma 1901)": {
-    "id": "bargoni-angelo",
-    "descriptions": [
-      "in rapporto con Bertani ed amici di Cavour inviò aiuti alla spedizione garibaldina; segretario generale di Depretis e Mordim pro-dittatori. Dal 1861 al 1863 direttore del diritto, poi prefetto, deputato, ministro e senatore",
-      "stabilitosi a Genova nel 1853 dopo esser fuggito da Milano, sospettato di aver partecipato ai fatti del 6 febbraio di quell'anno, entrò in rapporti con ambienti repubblicani, evolvendo però presto verso posizioni più moderate. Fu direttore de Il Diritto dal marzo del 1861 al giugno 1863, dando in questo periodo al foglio torinese il carattere di organo del partito garibaldino"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          324
-        ]
-      },
-      {
-        "volume": 7,
-        "pages": [
-          22,
-          115,
-          116,
-          201,
-          230,
-          231,
-          232,
-          241,
-          250,
-          263
-        ]
-      }
-    ]
-  },
-  "BARGONI, ANGELO.": {
-    "id": "bargoni-angelo.",
-    "descriptions": [
-      "(1829--1901), avvocato e giornalista cremonese, segretario dèlla Commissione dell'Emigrazione Italiana"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          83
-        ]
-      }
-    ]
-  },
-  "BARILLI": {
-    "id": "barilli-anonimo",
-    "descriptions": [
-      "ARANALDO"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          31
-        ]
-      }
-    ]
-  },
-  "BARKER, JOHN SALE": {
+    "BARGONI, ANGELO (padre di Andrea)": {
+      "id": "bargoni-angelo",
+      "descriptions": [
+        "padre di Andrea"
+      ],
+      "occurrences": [
+        {
+          "volume": 14,
+          "pages": [
+            76,
+            82
+          ]
+        }
+      ]
+    },
+
+    "BARGONI, ANGELO": {
+      "id": "bargoni-angelo-1",
+      "descriptions": [
+        "(1829–1901), avvocato e giornalista cremonese, segretario della Commissione dell'Emigrazione Italiana",
+        "(Cremona 1829 – Roma 1901) in rapporto con Bertani ed amici di Cavour, inviò aiuti alla spedizione garibaldina; segretario generale di Depretis e Mordini pro-dittatori. Dal 1861 al 1863 direttore de *Il Diritto*, poi prefetto, deputato, ministro e senatore",
+        "(Cremona 1829 – Roma 1901) stabilitosi a Genova nel 1853 dopo esser fuggito da Milano, sospettato di aver partecipato ai fatti del 6 febbraio di quell'anno, entrò in rapporti con ambienti repubblicani, evolvendo però presto verso posizioni più moderate. Fu direttore de *Il Diritto* dal marzo del 1861 al giugno 1863, dando in questo periodo al foglio torinese il carattere di organo del partito garibaldino",
+        "(Cremona 1829 – Roma 1901), vedi voll. III, V, VII",
+        "(1829–1901), ex-direttore de *Il Diritto*, era vicino a Mordini ed al suo progetto di definitiva istituzionalizzazione della Sinistra (vedi anche i voll. III, V, VII e VIII)",
+        "(1829–1901), su di lui vedi i voll. VII–IX"
+      ],
+      "occurrences": [
+        {
+          "volume": 3,
+          "pages": [
+            83
+          ]
+        },
+        {
+          "volume": 5,
+          "pages": [
+            324
+          ]
+        },
+        {
+          "volume": 7,
+          "pages": [
+            22, 
+            115, 
+            116, 
+            201, 
+            230, 
+            231, 
+            232, 
+            241, 
+            250,
+            263]
+        },
+        {
+          "volume": 8,
+          "pages": [
+            23, 
+            29
+          ]
+        },
+        {
+          "volume": 9,
+          "pages": [
+            26
+          ]
+        },
+        {
+          "volume": 11,
+          "pages": [
+            236, 
+            237
+          ]
+        }
+      ]
+    },
+    "BARILLI, ARNALDO": {
+      "id": "barilli-arnaldo",
+      "descriptions": [],
+      "occurrences": [
+        {
+          "volume": 11,
+          "pages": [
+            31
+          ]
+        }
+      ]
+    },
+    "BARKER, JOHN SALE": {
     "id": "barker-john",
     "descriptions": [
       "membro dell'esecutivo del Garibaldi Italian Unity Commitee"
@@ -4970,10 +4825,10 @@
       }
     ]
   },
-  "BARONE, capitano d'amministrazione dei C.d.A.": {
+  "BARONE": {
     "id": "barone-capitano",
     "descriptions": [
-      "poi maggiore"
+      "capitano d'amministrazione dei C.d.A. poi maggiore"
     ],
     "occurrences": [
       {
@@ -5012,9 +4867,10 @@
       }
     ]
   },
-  "BARRILI, ANTON GIULIO": {
+  "BARRILLI, ANTON GIULIO": {
     "id": "barrili-anton",
     "descriptions": [
+      "nato a Savona nel 1836 fu collaboratore e direttore de Il Diritto. Scrittore, commediografo, conferenziere di successo, più tardi fu deputato e docente di letteratura italiana nell'ateneo genovese",
       "(1836-1918), fu sempre un «garibaldino ortodosso» e in questi anni direttore de Il Movimento e non de Il Diritto, come è scritto, per evidente errore, nella nota del vol. VI, Al quale si rimanda",
       "(1836-1918), direttore del foglio genovese Il Movimento, era uomo di fiducia di Garibaldi (vedi vol. VII)",
       "(1836-1908), direttore del Il Movimento di Genova, nel luglio del 1865 resta ferito alla mano destra nel corso di un duello con un ufficiale dell'Esercito occasionato dalle polemiche sulla strage di Fantina (su di lui vedi anche i voll. VII-IX)",
@@ -5022,6 +4878,12 @@
       "(1836-1918), direttore del giornale Il Movimento di Genova"
     ],
     "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          232
+        ]
+      },
       {
         "volume": 7,
         "pages": [
@@ -5071,20 +4933,6 @@
       }
     ]
   },
-  "BARRILLI, ANTON GIULIO": {
-    "id": "barrilli-anton",
-    "descriptions": [
-      "nato a Savona nel 1836 fu collaboratore e direttore de Il Diritto. Scrittore, commediografo, conferenziere di successo, più tardi fu deputato e docente di letteratura italiana nell'ateneo genovese"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          232
-        ]
-      }
-    ]
-  },
   "BARRIOS, GERARDO": {
     "id": "barrios-gerardo",
     "descriptions": [
@@ -5099,7 +4947,7 @@
       }
     ]
   },
-  "BARSANTI": {
+  "BARSANTI, famiglia": {
     "id": "barsanti-anonimo",
     "descriptions": [
       "famiglia"
@@ -5200,10 +5048,10 @@
       }
     ]
   },
-  "BARTOLOMEI PALLI, ANGELICA (1798-1875) di famiglia greca": {
+  "BARTOLOMEI PALLI, ANGELICA": {
     "id": "bartolomei-angelica",
     "descriptions": [
-      "sposò Ludovico Bartolomei (o Bartolommei), patriota toscano. Poetessa estemporanea di una certa fama cantò nei suoi versi Il desiderio di libertà della sua terra e dell'Italia. Morto il manto e disperso il patrimonio per l'impegno patriottico si ritirò a Livorno raccogliendo intorno a lei i più significativi esponenti della democrazia livornese"
+      "(1798-1875) di famiglia greca sposò Ludovico Bartolomei (o Bartolommei), patriota toscano. Poetessa estemporanea di una certa fama cantò nei suoi versi Il desiderio di libertà della sua terra e dell'Italia. Morto il manto e disperso il patrimonio per l'impegno patriottico si ritirò a Livorno raccogliendo intorno a lei i più significativi esponenti della democrazia livornese"
     ],
     "occurrences": [
       {
@@ -5242,10 +5090,10 @@
       }
     ]
   },
-  "BASILE, ACHILLE (S. Angelo di Brolo": {
+  "BASILE, ACHILLE": {
     "id": "basile-achille",
     "descriptions": [
-      "Messma-Venezia 1893), si uni a Garibaldi nel 1860 entrando poi nel 1861 nell'amministrazione dello Stato. Successivamente prefetto e senatore"
+      "(S. Angelo di Brolo Messina-Venezia 1893), si uni a Garibaldi nel 1860 entrando poi nel 1861 nell'amministrazione dello Stato. Successivamente prefetto e senatore"
     ],
     "occurrences": [
       {
@@ -5319,10 +5167,10 @@
       }
     ]
   },
-  "BASSANESI, capitano": {
+  "BASSANESI": {
     "id": "bassanesi-capitano",
     "descriptions": [
-      "comandante la compagma delle mitragliatrici dell'armata dei Vosgi"
+      " capitano, comandante la compagma delle mitragliatrici dell'armata dei Vosgi"
     ],
     "occurrences": [
       {
@@ -5333,11 +5181,9 @@
       }
     ]
   },
-  "BASSANO": {
-    "id": "bassano-anonimo",
-    "descriptions": [
-      "ANTONIO"
-    ],
+  "BASSANO, ANTONIO": {
+    "id": "bassano-antonio",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -5364,7 +5210,7 @@
   "BASSI, UGO": {
     "id": "bassi-ugo",
     "descriptions": [
-      ", (1801-1849), barnabita, fucilato dagli austriaci (vedi vol. II)",
+      "(1801-1849), barnabita, fucilato dagli austriaci (vedi vol. II)",
       "(1801-1849) vedi vol. II",
       "(1801-1849), cappellano della Legione Garibaldina fucilato dagli Austriaci (vedi anche i voli. II e VI)",
       "(1801-1849), cappellano della Legione garibaldina fucilato dagli Austriaci, per Garibaldi simbolo perenne di un sacerdozio immune dall'oscurantismo cattolico (vedi anche i voll. II, VI e IX)",
@@ -5415,7 +5261,8 @@
   "BASSINI, ANGELO": {
     "id": "bassini-angelo",
     "descriptions": [
-      ", (1815-1889), patriota lombardo (vedi vol. II)"
+      "(1815-1889), patriota lombardo (vedi vol. II)",
+      "(Pavia 1815-ivi 1888) capitano dei C.d.A. e dell'esercito della Lega"
     ],
     "occurrences": [
       {
@@ -5426,15 +5273,7 @@
           110,
           136
         ]
-      }
-    ]
-  },
-  "BASSINI, ANGELO (Pavia 1815-ivi 1888)": {
-    "id": "bassini-angelo-2",
-    "descriptions": [
-      "capitano dei C.d.A. e dell'esercito della Lega"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 4,
         "pages": [
@@ -5464,6 +5303,9 @@
     "descriptions": [
       "marinaio della Carmen e del Commonwealth nei viaggi nel Pacifico e nell'Atlantico nel 1852 e nel 1853, poi segretario di Garibaldi",
       "(1824-1884), in questo periodo fu tra i familiari di Garibaldi, vivendo a Caprera e svolgendo le funzioni di segretario del generale, (vedasi voll. III e IV)",
+      "(Nizza Marittima 1824-Genova 1884) sottotenente dei C.d.A., segretario di Garibaldi del quale imitava benissimo la scrittura (vedi vol. III)",
+      "(Nizza Marittima 1824-Genova 1884) segretario del generale, lo seguì in tutti gli. eventi del 1860 ( cfr. voll. III, IV, VI)",
+      "(Nizza 1824-Genova 1884) segui Garibaldi ad Aspromonte e in questo periodo fu uno dei suoi segretari, soprattutto durante la detenzione al Varignano e la lunga, successiva convalescenza tenendo, tra l'altro, l'amministrazione dei fondi raccolti per i prigionieri di Aspromonte, vedi anche vol. VI, 90, 150, 196, 209, 217, 24",
       "(1824-1884), tra gli intimi della comunità di Caprera, vedi i voll. III, IV, V, VI e VII",
       "(1824-1884), uno dei segretari di Garibaldi (vedi anche i voll. III-VIII)",
       "(1824-1884), uno dei segretari di Garibaldi (vedi i voll. III-IX)",
@@ -5480,10 +5322,37 @@
         ]
       },
       {
+        "volume": 4,
+        "pages": [
+          12,
+          20,
+          87,
+          118
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          187,
+          240,
+          241,
+          253,
+          282,
+          326
+        ]
+      },
+      {
         "volume": 6,
         "pages": [
           7,
           126
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          7,
+          289
         ]
       },
       {
@@ -5590,50 +5459,6 @@
       }
     ]
   },
-  "BASSO, GIOVANNI (Nizza 1824-Genova 1884)": {
-    "id": "basso-giovanni-5",
-    "descriptions": [
-      "segui Garibaldi ad Aspromonte e in questo periodo fu uno dei suoi segretari, soprattutto durante la detenzione al Varignano e la lunga, successiva convalescenza tenendo, tra l'altro, l'amministrazione dei fondi raccolti per i prigionieri di Aspromonte, vedi anche vol. VI, 90, 150, 196, 209, 217, 24"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          7,
-          289
-        ]
-      }
-    ]
-  },
-  "BASSO, GIOVANNI (Nizza Marittima 1824-Genova 1884)": {
-    "id": "basso-giovanni-2",
-    "descriptions": [
-      "sottotenente dei C.d.A., segretario di Garibaldi del quale imitava benissimo la scrittura (vedi vol. III)",
-      "segretario del generale, lo seguì in tutti gli. eventi del 1860 ( cfr. voll. III, IV, VI)"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          12,
-          20,
-          87,
-          118
-        ]
-      },
-      {
-        "volume": 5,
-        "pages": [
-          187,
-          240,
-          241,
-          253,
-          282,
-          326
-        ]
-      }
-    ]
-  },
   "BASTINI, GIROLAMO FRANCESCO": {
     "id": "bastini-girolamo",
     "descriptions": [
@@ -5666,25 +5491,9 @@
   "BATLLE Y GRAU, LORENZO": {
     "id": "batlle-lorenzo-3",
     "descriptions": [
-      "(1810-1887), presidente della repubblica dell'Uruguay dal 1868 al 1"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          62,
-          104,
-          105,
-          183
-        ]
-      }
-    ]
-  },
-  "BATLLE, LORENZO": {
-    "id": "batlle-lorenzo",
-    "descriptions": [
       "colonnello uruguaiano, ministro della guerra e marina 1847-1",
-      "colonnelo uruguaiano (vedi vol. I)"
+      "colonnelo uruguaiano (vedi vol. I)",
+      "(1810-1887), presidente della repubblica dell'Uruguay dal 1868 al 1872"
     ],
     "occurrences": [
       {
@@ -5706,14 +5515,21 @@
           24,
           38
         ]
+      },
+      {
+        "volume": 13,
+        "pages": [
+          62,
+          104,
+          105,
+          183
+        ]
       }
     ]
   },
-  "BATTAGLIOLI": {
-    "id": "battaglioli-anonimo",
-    "descriptions": [
-      "GIULIETTA"
-    ],
+  "BATTAGLIOLI, GIULIETTA": {
+    "id": "battaglioli-giulieta",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -5751,10 +5567,10 @@
       }
     ]
   },
-  "BAUDIN, JEAN-BAPTISTE-ALPHONSE-VICTOR (1811-1851)": {
+  "BAUDIN, JEAN-BAPTISTE-ALPHONSE-VICTOR": {
     "id": "baudin-jean-baptiste-alphonse-victor",
     "descriptions": [
-      "uomo politico francese ucciso sulle barricate durante il colpo di Stato di Luigi Napoleone"
+      "(1811-1851) uomo politico francese ucciso sulle barricate durante il colpo di Stato di Luigi Napoleone"
     ],
     "occurrences": [
       {
@@ -5790,7 +5606,7 @@
   "BAUME, padre di Albert": {
     "id": "baume-padre",
     "descriptions": [
-      "rappresentante del popolo di Tolosa nel 1"
+      "rappresentante del popolo di Tolosa nel 1848"
     ],
     "occurrences": [
       {
@@ -5815,7 +5631,7 @@
       }
     ]
   },
-  "BAUZÁ, RuFINO": {
+  "BAUZÁ, RUFINO": {
     "id": "bauzá-rufino",
     "descriptions": [
       "gen. uruguaiano, mimstro della guerra e marina 1844-1"
@@ -5909,10 +5725,10 @@
       }
     ]
   },
-  "BAZANCOURT": {
-    "id": "bazancourt-anonimo",
+  "BAZANCOURT, CESAT LECAT": {
+    "id": "bazancourt-cesat",
     "descriptions": [
-      "CESAT LECAT barone di"
+      "barone di"
     ],
     "occurrences": [
       {
@@ -5959,10 +5775,10 @@
       }
     ]
   },
-  "BEAUGRAND, comandante dell'Emma": {
+  "BEAUGRAND": {
     "id": "beaugrand-comandante",
     "descriptions": [
-      "cutter di proprietà di Alessandro Dumas"
+      "comandante dell'Emma, cutter di proprietà di Alessandro Dumas"
     ],
     "occurrences": [
       {
@@ -5973,10 +5789,11 @@
       }
     ]
   },
-  "BECCARIA, CESARE (Milano 1738-ivi 1794)": {
+  "BECCARIA, CESARE": {
     "id": "beccaria-cesare",
     "descriptions": [
-      "fece parte del gruppo dei giovani intellettuali raccolti intorno a Il Caffè; per la sua opera Dei delitti e delle pene fu considerato tra i padri della moderna civiltà giuridica"
+      "(Milano 1738-ivi 1794) fece parte del gruppo dei giovani intellettuali raccolti intorno a Il Caffè; per la sua opera Dei delitti e delle pene fu considerato tra i padri della moderna civiltà giuridica",
+      "marchese di (1738-1794), giurista"
     ],
     "occurrences": [
       {
@@ -5984,15 +5801,7 @@
         "pages": [
           224
         ]
-      }
-    ]
-  },
-  "BECCARIA, CESARE BONESANA": {
-    "id": "beccaria-cesare-2",
-    "descriptions": [
-      "marchese di (1738-1794), giurista"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 13,
         "pages": [
@@ -6054,10 +5863,10 @@
       }
     ]
   },
-  "BECKER, JOHANN PHILIP (Frankenthal": {
+  "BECKER, JOHANN PHILIP": {
     "id": "becker-johann",
     "descriptions": [
-      "19 marzo 1809-Genf, 7 dicembre 1886), politico e pubblicista di tendenze radicali, attivo fin dagli anni Trenta nel movimento democratico tedesco. Nel 1860 aveva conosciuto Garibaldi a Genova e lo aveva poi raggiunto a Napoli. Nel 1864 fu tra i promotori e diffusori in Germania della Associazione Internazionale dei lavoratori (I Internazionale)"
+      "(Frankenthal 19 marzo 1809-Genf, 7 dicembre 1886), politico e pubblicista di tendenze radicali, attivo fin dagli anni Trenta nel movimento democratico tedesco. Nel 1860 aveva conosciuto Garibaldi a Genova e lo aveva poi raggiunto a Napoli. Nel 1864 fu tra i promotori e diffusori in Germania della Associazione Internazionale dei lavoratori (I Internazionale)"
     ],
     "occurrences": [
       {
@@ -6146,7 +5955,7 @@
       }
     ]
   },
-  "BEJAR, JOSÉ de": {
+  "BEJAR, JOSÉ DE": {
     "id": "bejar-josé",
     "descriptions": [
       "colonnello uruguaiano, ministro delle finanze (20 ottobre 1845-29 dicembre 1846) e ad interim di Governo (5 dicembre 1845-4 luglio 1847)"
@@ -6160,12 +5969,18 @@
       }
     ]
   },
-  "BELGRANO, GIUSEPPE CARLO": {
+  "BELGRANO, GIUSEPPE CARLO AGOSTINO": {
     "id": "belgrano-giuseppe-2",
     "descriptions": [
       "(1806-1883), medico e vecchio compagno d'arme di Garibaldi, vedi anche voll. II e III"
     ],
     "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          77
+        ]
+      },
       {
         "volume": 7,
         "pages": [
@@ -6174,25 +5989,9 @@
       }
     ]
   },
-  "BELGRANO, GIUSEPPE CARLO AGOSTINO": {
-    "id": "belgrano-giuseppe",
-    "descriptions": [
-      ", (1806-1883), medico garibaldino (vedi vol. II)"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          77
-        ]
-      }
-    ]
-  },
-  "BELLAI": {
+  "BELLAI, GIOVANNA": {
     "id": "bellai-anonimo",
-    "descriptions": [
-      "GIOVANNA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -6205,6 +6004,7 @@
   "BELLAZZI, FEDERICO": {
     "id": "bellazzi-federico-2",
     "descriptions": [
+      "(Milano 1825-Firenze 1867) segretario del governo provvisorio milanese nel 1848. Segretario di Garibaldi e Bertani. Poi deputato e prefetto; morì suicida (cfr. vol. VI)",
       "nato a Milano nel 1825. A partire dal 1859 si avvicinò a Garibaldi che lo volle come segretario e factotum del Comitato Centrale di Provvedimento per Roma e Venezza, fu da alcuni considerato uomo di Rattazzi. Morì suicida nel 1867, dopo essere stato allontanato dal Gualterio dall'incarico di prefetto di Belluno ottenuto da Rattazzi",
       "(1825-1867), segretario di Garibaldi dal febbraio al gingno del 1862, fu membro dell'Emancipatrice e tra gli organizzatori della spedizione di Aspromonte. Dopo Sarnico però era stato eletto deputato di Erba. vedi anche vol. VI",
       "vedi voll. VI e VII",
@@ -6213,6 +6013,14 @@
       "(1825-1867), vedi i voll. VI-X"
     ],
     "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          286,
+          289,
+          290
+        ]
+      },
       {
         "volume": 6,
         "pages": [
@@ -6346,22 +6154,6 @@
       }
     ]
   },
-  "BELLAZZI, FEDERICO (Milano 1825-Firenze 1867)": {
-    "id": "bellazzi-federico",
-    "descriptions": [
-      "segretario del governo provvisorio milanese nel 1848. Segretario di Garibaldi e Bertani. Poi deputato e prefetto; morì suicida (cfr. vol. VI)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          286,
-          289,
-          290
-        ]
-      }
-    ]
-  },
   "BELLETTI, LUIGI": {
     "id": "belletti-luigi",
     "descriptions": [
@@ -6418,24 +6210,11 @@
       }
     ]
   },
-  "BELLUOMINI": {
-    "id": "belluomini-anonimo",
-    "descriptions": [
-      "EUGENIO (vedi vol. I)"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          243
-        ]
-      }
-    ]
-  },
   "BELLUOMINI, EUGENIO": {
     "id": "belluomini-eugenio",
     "descriptions": [
-      "livornese, aveva conoscmto Garibaldi a Montevideo nel 1"
+      "livornese, aveva conoscmto Garibaldi a Montevideo nel 1",
+      "(vedi vol. I)"
     ],
     "occurrences": [
       {
@@ -6443,6 +6222,12 @@
         "pages": [
           238,
           239
+        ]
+      },
+      {
+        "volume": 4,
+        "pages": [
+          243
         ]
       }
     ]
@@ -6491,10 +6276,10 @@
       }
     ]
   },
-  "BENAGLIA": {
-    "id": "benaglia-anonimo",
+  "BENAGLIA, BARTOLOMEO": {
+    "id": "benaglia-bartolomeo",
     "descriptions": [
-      "BARTOLOMEO sindaco di Monza"
+      "sindaco di Monza"
     ],
     "occurrences": [
       {
@@ -6520,11 +6305,9 @@
       }
     ]
   },
-  "BENEDETTI": {
-    "id": "benedetti-anonimo",
-    "descriptions": [
-      "ANDREA"
-    ],
+  "BENEDETTI, ANDREA": {
+    "id": "benedetti-andrea",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -6534,7 +6317,7 @@
       }
     ]
   },
-  "BENEDINI": {
+  "BENEDINI, famiglia": {
     "id": "benedini-anonimo",
     "descriptions": [
       "famiglia"
@@ -6577,13 +6360,20 @@
     ]
   },
   "BENNICI, GIUSEPPE": {
-    "id": "bennici-giuseppe-2",
+    "id": "bennici-giuseppe",
     "descriptions": [
-      ", (1841-1911), (vedi il vol. VIII)",
+      "(17 novembre 1841 - San Giorgio a Cremano, 15 luglio 1911), tra i volontari del 1860, passato nell'esercito regolare, disertò in occasione di Aspromonte, unendosi a Garibaldi a Catania. Imprigionato e condannato per tradimento alla pena di morte, poi commutata nei lavori forzati e successivamente nel carcere a vita, fu in realtà rimesso in libertà nel 1865 e fu di nuovo tra i volontari garibaldini nel 1866 e nel 1",
+      "(1841-1911), (vedi il vol. VIII)",
       "(1841-1911), entrato nell'Esercito regolare dopo il 1860, nel 1862 aveva disertato per seguire Garibaldi, era stato fatto prigioniero dalle truppe regie e condannato alla fucilazione alla schiena, condanna che non era mai stata eseguita fino all'amnistia, sopraggiunta nel 1865; nel 1866 è tenente facente funzioni di capitano nel C.V.I.",
       "scrittore"
     ],
     "occurrences": [
+      {
+        "volume": 8,
+        "pages": [
+          109
+        ]
+      },
       {
         "volume": 9,
         "pages": [
@@ -6605,20 +6395,6 @@
         "volume": 13,
         "pages": [
           290
-        ]
-      }
-    ]
-  },
-  "BENNICI, GIUSEPPE (Piana dei Greci": {
-    "id": "bennici-giuseppe",
-    "descriptions": [
-      "17 novembre 1841 - San Giorgio a Cremano, 15 luglio 1911), tra i volontari del 1860, passato nell'esercito regolare, disertò in occasione di Aspromonte, unendosi a Garibaldi a Catania. Imprigionato e condannato per tradimento alla pena di morte, poi commutata nei lavori forzati e successivamente nel carcere a vita, fu in realtà rimesso in libertà nel 1865 e fu di nuovo tra i volontari garibaldini nel 1866 e nel 1"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          109
         ]
       }
     ]
@@ -6659,7 +6435,7 @@
   "BENTIVOGLIO, STANISLAO": {
     "id": "bentivoglio-stanislao",
     "descriptions": [
-      "cognato di Alessandro Waleioski"
+      "cognato di Alessandro Walewski"
     ],
     "occurrences": [
       {
@@ -6712,10 +6488,10 @@
       }
     ]
   },
-  "BERCHET, GIOVANNI (Milano 1783-Torino 1851)": {
+  "BERCHET, GIOVANNI": {
     "id": "berchet-giovanni",
     "descriptions": [
-      "poeta romantico e patriota"
+      "(Milano 1783-Torino 1851) poeta romantico e patriota"
     ],
     "occurrences": [
       {
@@ -6916,11 +6692,9 @@
       }
     ]
   },
-  "BERNARDI": {
-    "id": "bernardi-anonimo",
-    "descriptions": [
-      "VINCENZO"
-    ],
+  "BERNARDI, VINCENZO": {
+    "id": "bernardi-vincenzo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -6930,11 +6704,9 @@
       }
     ]
   },
-  "BERNAREGGI": {
-    "id": "bernareggi-anonimo",
-    "descriptions": [
-      "ERNESTO"
-    ],
+  "BERNAREGGI, ERNESTO": {
+    "id": "bernareggi-ernesto",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 13,
@@ -6974,28 +6746,19 @@
       }
     ]
   },
-  "BERTANI": {
-    "id": "bertani-anonimo",
-    "descriptions": [
-      "AGOSTINO"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          291
-        ]
-      }
-    ]
-  },
   "BERTANI, AGOSTINO": {
     "id": "bertani-agostino",
     "descriptions": [
-      ", (1812-1886)",
+      "(1812-1886)",
+      "(Milano 1812-Roma 1886) repubblicano collaborazionista, maggiore medico dei C.d.A.",
+      "(Milano 1812-Roma 1886) nel 1860 rimase in un primo tempo a Genova provvedendo all'invio di aiuti e rinforzi e sperando di portare la rivoluzione anche nello Stato Pontificio. Sostenne poi il rinvio dell'annessione del Mezzogiorno e la sua permanenza sotto il governo di Garibaldi anche per preparare l'attacco a Roma Istitui i Comitati di Provvedimento per Venezia e Roma (cfr. voll. IV, VI)",
+      "(Milano 1812-Roma 1886) dopo essere stato tra i principali orgamzzatori della spedizione dei' Mille fu deputato della sinistra tra i più influenti (vedi vol. IV)",
       "(Milano 1812-Roma 1886), deputato tra i più in vista della sinistra, ebbe contatti con Garibaldi prima della tentata spedizione del Trentino. Come medico non si mancò di interpellarlo sulle condizioni della ferita riportata da Garibaldi ad Aspromonte",
       "(1812-1886), nel 1864 portò avanti, ma senza successo, il tentativo di staccare Garibaldi dalla Monarchia (vedi anche i voli. III e IV-VIII)",
+      "(Milano 1812 - Roma, 1886), riprese intensi rapporti politici con Garibaldi nella seconda metà del 1863 per la costituzione del Comitato Centrale Unitario, rappresentando anche le ragioni della componente mazziniana, vedi anche i voll. IV, V, VI, VII",
       "(1812-1886), medico capo dell'ambulanza militare, su di lui vedi i voll. IV-IX",
       "(1812-1886), deputato, prestò la sua opera di medico nella campagna dell'Agro romano",
+      "(1812-1886), deputato",
       "(1812-1886), deputato"
     ],
     "occurrences": [
@@ -7006,107 +6769,6 @@
           140
         ]
       },
-      {
-        "volume": 7,
-        "pages": [
-          42,
-          272
-        ]
-      },
-      {
-        "volume": 9,
-        "pages": [
-          226
-        ]
-      },
-      {
-        "volume": 11,
-        "pages": [
-          34,
-          57,
-          58,
-          74,
-          78,
-          94,
-          140,
-          141,
-          142,
-          145,
-          175,
-          203,
-          205,
-          208,
-          213,
-          215,
-          227,
-          254,
-          284,
-          328
-        ]
-      },
-      {
-        "volume": 12,
-        "pages": [
-          13,
-          15,
-          28,
-          129,
-          206
-        ]
-      },
-      {
-        "volume": 13,
-        "pages": [
-          9,
-          68,
-          129,
-          183,
-          231
-        ]
-      }
-    ]
-  },
-  "BERTANI, AGOSTINO (1812-1886)": {
-    "id": "bertani-agostino-11",
-    "descriptions": [
-      "deputato"
-    ],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          67,
-          70
-        ]
-      }
-    ]
-  },
-  "BERTANI, AGOSTINO (Milano": {
-    "id": "bertani-agostino-6",
-    "descriptions": [
-      "1812 - Roma, 1886), riprese intensi rapporti politici con Garibaldi nella seconda metà del 1863 per la costituzione del Comitato Centrale Unitario, rappresentando anche le ragioni della componente mazziniana, vedi anche i voll. IV, V, VI, VII"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          85,
-          103,
-          128,
-          138,
-          151
-        ]
-      }
-    ]
-  },
-  "BERTANI, AGOSTINO (Milano 1812-Roma 1886)": {
-    "id": "bertani-agostino-2",
-    "descriptions": [
-      "repubblicano collaborazionista, maggiore medico dei C.d.A.",
-      "nel 1860 rimase in un primo tempo a Genova provvedendo all'invio di aiuti e rinforzi e sperando di portare la rivoluzione anche nello Stato Pontificio. Sostenne poi il rinvio dell'annessione del Mezzogiorno e la sua permanenza sotto il governo di Garibaldi anche per preparare l'attacco a Roma Istitui i Comitati di Provvedimento per Venezia e Roma (cfr. voll. IV, VI)",
-      "dopo essere stato tra i principali orgamzzatori della spedizione dei' Mille fu deputato della sinistra tra i più influenti (vedi vol. IV)"
-    ],
-    "occurrences": [
       {
         "volume": 4,
         "pages": [
@@ -7205,6 +6867,81 @@
           117,
           133
         ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          42,
+          272
+        ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          85,
+          103,
+          128,
+          138,
+          151
+        ]
+      },
+      {
+        "volume": 9,
+        "pages": [
+          226
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          34,
+          57,
+          58,
+          74,
+          78,
+          94,
+          140,
+          141,
+          142,
+          145,
+          175,
+          203,
+          205,
+          208,
+          213,
+          215,
+          227,
+          254,
+          284,
+          328
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          13,
+          15,
+          28,
+          129,
+          206
+        ]
+      },
+      {
+        "volume": 13,
+        "pages": [
+          9,
+          68,
+          129,
+          183,
+          231
+        ]
+      },
+      {
+        "volume": 14,
+        "pages": [
+          67,
+          70
+        ]
       }
     ]
   },
@@ -7237,10 +6974,11 @@
       }
     ]
   },
-  "BERTOLÈ VIALE, ETTORE (Genova 1829-Torino 1892)": {
+  "BERTOLÈ VIALE, ETTORE": {
     "id": "bertolè-ettore",
     "descriptions": [
-      "capitano di S.M. nella II divisione dell'esercito piemontese, poi segretario particolare di Fanti a Modena"
+      "(Genova 1829-Torino 1892) capitano di S.M. nella II divisione dell'esercito piemontese, poi segretario particolare di Fanti a Modena",
+      "(1829-1892), nativo di Genova, nel 1866 ha l'incarico di intendente generale dell'Esercito regolare; sarà due volte ministro della Guerra: nel 1867-1869 e nel 1889-1891"
     ],
     "occurrences": [
       {
@@ -7249,15 +6987,7 @@
           154,
           156
         ]
-      }
-    ]
-  },
-  "BERTOLÉ VIALE, E'ITORE": {
-    "id": "bertolé-e'itore",
-    "descriptions": [
-      "(1829-1892), nativo di Genova, nel 1866 ha l'incarico di intendente generale dell'Esercito regolare; sarà due volte ministro della Guerra: nel 1867-1869 e nel 1889-1"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 11,
         "pages": [
@@ -7282,25 +7012,29 @@
     ]
   },
   "BESANA, ENRICO": {
-    "id": "besana-enrico-4",
+    "id": "besana-enrico",
     "descriptions": [
-      ", (1814-1878), membro di un Comitato di soccorso per gli Ungheresi (vedi anche i voli. IV-VI)"
+      "(Milano 1814-Genova 1878), segui Garibaldi in tutta la campagna; alla fine del 1859 deputato di Cassano d'Adda e direttore della sottoscrizione per il milione di fucili",
+      "(Milano 1814-Genova 1878) direttore della sottoscrizione per il milione di fucili, deputato di Cassano d'Adda, raggiunse Garibaldi a Napoli (cfr. voll. IV, VI)",
+      "direttore della sottoscrizione per il milione di fucili fu deputato. Con Garibaldi a Napoli nel 1860 lo seguì anche nelle campagne del 1866 e di Francia (vedi vol. IV)",
+      "(1814-1878), membro di un Comitato di soccorso per gli Ungheresi (vedi anche i voli. IV-VI)"
     ],
     "occurrences": [
       {
-        "volume": 9,
+        "volume": 4,
         "pages": [
-          38
+          175,
+          183,
+          184,
+          187,
+          196,
+          199,
+          204,
+          223,
+          224,
+          240
         ]
-      }
-    ]
-  },
-  "BESANA, ENRICO (Milano 1814-Genova 1878)": {
-    "id": "besana-enrico-2",
-    "descriptions": [
-      "direttore della sottoscrizione per il milione di fucili, deputato di Cassano d'Adda, raggiunse Garibaldi a Napoli (cfr. voll. IV, VI)"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 5,
         "pages": [
@@ -7334,38 +7068,7 @@
           149,
           188
         ]
-      }
-    ]
-  },
-  "BESANA, ENRICO (Milano 1814-Genova i": {
-    "id": "besana-enrico",
-    "descriptions": [
-      "878), segui Garibaldi in tutta la campagna; alla fine del 1859 deputato di Cassano d'Adda e direttore della sottoscrizione per il milione di fucili"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          175,
-          183,
-          184,
-          187,
-          196,
-          199,
-          204,
-          223,
-          224,
-          240
-        ]
-      }
-    ]
-  },
-  "BESANA, ENRICO direttore della sottoscrizione per il milione di fucili": {
-    "id": "besana-enrico-3",
-    "descriptions": [
-      "fu deputato. Con Garibaldi a Napoli nel 1860 lo seguì anche nelle campagne del 1866 e di Francia (vedi vol. IV)"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 6,
         "pages": [
@@ -7374,14 +7077,18 @@
           144,
           166
         ]
+      },
+      {
+        "volume": 9,
+        "pages": [
+          38
+        ]
       }
     ]
   },
-  "BESEGHI": {
-    "id": "beseghi-anonimo",
-    "descriptions": [
-      "UMBERTO"
-    ],
+  "BESEGHI, UMBERTO": {
+    "id": "beseghi-umberto",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -7424,11 +7131,9 @@
       }
     ]
   },
-  "BETTELLA": {
-    "id": "bettella-anonimo",
-    "descriptions": [
-      "FRANCO"
-    ],
+  "BETTELLA, FRANCO": {
+    "id": "bettella-franco",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -7438,11 +7143,9 @@
       }
     ]
   },
-  "BETTI": {
-    "id": "betti-anonimo",
-    "descriptions": [
-      "TORQUATO"
-    ],
+  "BETTI, TORQUATO": {
+    "id": "betti-torquato",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -7611,11 +7314,9 @@
       }
     ]
   },
-  "BEZZI": {
+  "BEZZI, QUIRINO": {
     "id": "bezzi-anonimo",
-    "descriptions": [
-      "QUIRINO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -7625,12 +7326,23 @@
       }
     ]
   },
-  "BEZZI, ERGIST": {
-    "id": "bezzi-ergist",
+  "BEZZI, ERGISTO": {
+    "id": "bezzi-ergisto",
     "descriptions": [
-      "fu nel Comitato Centrale Unitario su incalico di Mazzini che lo aveva conosciuto nell'autunno del l,862 a Lugano e aveva affidato a lui il compito di coordinare il fronte interno trentino in previsione di una azione insurrezionale, vedi anche vol. VII"
+      "(Cresiano 1835-1920) tra i C.d.A. nel 1859 e nel 1860 coi Mille, costituì con altri elementi patriottici trentini il nucleo d'appoggio della tentata spedizione, fallita con i fatti di Sarnico. Prese poi parte alla spedizione di Aspromonte. Sul finire del 1862 e successivamente fu in rapporto con Mazzini, sempre cospirando per la liberazione delle sue terre",
+      "fu nel Comitato Centrale Unitario su incalico di Mazzini che lo aveva conosciuto nell'autunno del l,862 a Lugano e aveva affidato a lui il compito di coordinare il fronte interno trentino in previsione di una azione insurrezionale, vedi anche vol. VII",
+      "(1835-1920), tra gli elementi della Sinistra repubblicana più votati alla lotta armata, nel 1864 prese parte attiva al moto del Friuli (vedi anche i voli. VII e VIII)",
+      "(1835-1920), trentino, sempre tenace nel cospirare per l'insurrezione armata, è tra i garibaldini uno dei più vicini alle posizioni mazziniane (vedi i voli. VII-IX)",
+      "(1835-1920), trentino della Val di Sole, capitano di Stato Maggiore, organizzatore del servizio di informazioni, a Bezzecca resta ferito a una gamba",
+      "(1835-1920), maggiore dei volontari garibaldini ferito durante la campagna dell'Agro romano"
     ],
     "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          212
+        ]
+      },
       {
         "volume": 8,
         "pages": [
@@ -7640,18 +7352,7 @@
           204,
           207
         ]
-      }
-    ]
-  },
-  "BEZZI, ERGISTO": {
-    "id": "bezzi-ergisto-2",
-    "descriptions": [
-      "(1835-1920), tra gli elementi della Sinistra repubblicana più votati alla lotta armata, nel 1864 prese parte attiva al moto del Friuli (vedi anche i voli. VII e VIII)",
-      "(1835-1920), trentino, sempre tenace nel cospirare per l'insurrezione armata, è tra i garibaldini uno dei più vicini alle posizioni mazziniane (vedi i voli. VII-IX)",
-      "(1835-1920), trentino della Val di Sole, capitano di Stato Maggiore, organizzatore del servizio di informazioni, a Bezzecca resta ferito a una gamba",
-      "(1835-1920), maggiore dei volontari garibaldini ferito durante la campagna dell'Agro romano"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 9,
         "pages": [
@@ -7687,24 +7388,11 @@
       }
     ]
   },
-  "BEZZI, ERGISTO (Cresiano 1835-1920)": {
-    "id": "bezzi-ergisto",
-    "descriptions": [
-      "tra i C.d.A. nel 1859 e nel 1860 coi Mille, costituì con altri elementi patriottici trentini il nucleo d'appoggio della tentata spedizione, fallita con i fatti di Sarnico. Prese poi parte alla spedizione di Aspromonte. Sul finire del 1862 e successivamente fu in rapporto con Mazzini, sempre cospirando per la liberazione delle sue terre"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          212
-        ]
-      }
-    ]
-  },
-  "BIANCA, maggiore dei volontari garibaldini": {
+
+  "BIANCA": {
     "id": "bianca-maggiore",
     "descriptions": [
-      "partecipò alla campagna dell'Agro romano"
+      "maggiore dei volontari garibaldini, partecipò alla campagna dell'Agro romano"
     ],
     "occurrences": [
       {
@@ -7715,11 +7403,9 @@
       }
     ]
   },
-  "BIANCARDI": {
+  "BIANCARDI, AMELIA": {
     "id": "biancardi-anonimo",
-    "descriptions": [
-      "AMELIA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -7963,11 +7649,9 @@
       }
     ]
   },
-  "BIASIOLI": {
+  "BIASIOLI, GEROLAMO": {
     "id": "biasioli-anonimo",
-    "descriptions": [
-      "GEROLAMO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -8008,10 +7692,11 @@
       }
     ]
   },
-  "BIDESCHINI, FRANCESCO": {
+  "BIDISCHINI, FRANCESCO": {
     "id": "bideschini-francesco",
     "descriptions": [
-      "veneziano di Burano, fu dei Mille e dopo quella campagna tra gli intimi di Garibaldi. Una sua sorella andò sposa a Menotti. Nella spedizione di Aspromonte comandò il II battaglione dei bersaglieri"
+      "veneziano di Burano, fu dei Mille e dopo quella campagna tra gli intimi di Garibaldi. Una sua sorella andò sposa a Menotti. Nella spedizione di Aspromonte comandò il II battaglione dei bersaglieri",
+      "cognato di Menotti e assiduo frequentatore di Caprera. Nato nel 1835, darà alle stampe nel 1907 un Garibaldi nella vita intima (vedi il vol. VII)"
     ],
     "occurrences": [
       {
@@ -8019,15 +7704,7 @@
         "pages": [
           289
         ]
-      }
-    ]
-  },
-  "BIDISCHINI, FRANCESCO": {
-    "id": "bidischini-francesco",
-    "descriptions": [
-      "cognato di Menotti e assiduo frequentatore di Caprera. Nato nel 1835, darà alle stampe nel 1907 un Garibaldi nella vita intima (vedi il vol. VII)"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 10,
         "pages": [
@@ -8036,10 +7713,10 @@
       }
     ]
   },
-  "BIFFI, ADOLFO (Caprino Bergamasco 1846-Calatafimi 1860)": {
+  "BIFFI, ADOLFO": {
     "id": "biffi-adolfo",
     "descriptions": [
-      "il più giovane dei Mille, medaglia d'argento alla memoria"
+      "(Caprino Bergamasco 1846-Calatafimi 1860) il più giovane dei Mille, medaglia d'argento alla memoria"
     ],
     "occurrences": [
       {
@@ -8205,11 +7882,9 @@
       }
     ]
   },
-  "BISCOTTINI": {
-    "id": "biscottini-anonimo",
-    "descriptions": [
-      "UMBERTO"
-    ],
+  "BISCOTTINI, UMBERTO": {
+    "id": "biscottini-umberto",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -8308,9 +7983,15 @@
   "BIXIO, GEROLAMO": {
     "id": "bixio-gerolamo",
     "descriptions": [
-      ", (1821-1873), detto Nrno (vedi vol. II), 6",
+      "(1821-1873), detto Nrno (vedi vol. II), 6",
       "(1821-1873), detto NINO, tenente colonnello dei C.d.A. e nell'esercito della Lega (vedi voll. II e III)",
       "detto NINO (Genova 1821-Atjem, Sumatra, 1873), comandante del Lombardo e della i a compagnia dei Mille, nominato Maggior generale il 19 luglio, prese parte a molti combattimenti venendo ferito due volte. Represse duramente la rivolta di Bronte. Entrò successivamente nell'esercito regolare (cfr. voll. IV, VI), 4, 7, 14, 24, 25, 4",
+      "detto Nino (1821-1873), in questo periodo fu ancora in stretti rapporti con Garibaldi e prese parte non secondaria ai segreti maneggi tra questi, il re e Rattazzi sul finire del 1861 (vedi anche voli. II, III e IV)",
+      "detto NINO (1821-1873), ebbe parte notevole negli accordi che portarono all'avvento di Rattazzi (vedi vol. VI), ma rimase poi defilato rispetto alle iniziative del partito d'azione, né ritenne opportuno, dopo il proclama regio del 3 agosto, raggiungere Garibaldi in Sicilia, benché da questi chiamato, per non incorrere nell'accusa di altro tradimento",
+      "detto NINO, si vedano i voli. precedenti",
+      "(1821-1873), (si vedano tutti i voli. precedenti)",
+      "(1821-1873), conserva sporadici contatti epistolari con Garibaldi (vedi tutti i voli. precedenti)",
+      "(1821-1873), generale dell'Esercito regolare, durante la guerra del 1866 comanda la VII divisione del IV Corpo d'Armata, (su di lui vedi tutti i voll. precedenti)",
       "detto NINO, (1821-1873), generale, deputato"
     ],
     "occurrences": [
@@ -8371,41 +8052,6 @@
         ]
       },
       {
-        "volume": 12,
-        "pages": [
-          24
-        ]
-      }
-    ]
-  },
-  "BIXIO, GEROLAMO detto NINO": {
-    "id": "bixio-gerolamo-5",
-    "descriptions": [
-      "(1821-1873), ebbe parte notevole negli accordi che portarono all'avvento di Rattazzi (vedi vol. VI), ma rimase poi defilato rispetto alle iniziative del partito d'azione, né ritenne opportuno, dopo il proclama regio del 3 agosto, raggiungere Garibaldi in Sicilia, benché da questi chiamato, per non incorrere nell'accusa di altro tradimento",
-      "si vedano i voli. precedenti"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          72
-        ]
-      },
-      {
-        "volume": 8,
-        "pages": [
-          178
-        ]
-      }
-    ]
-  },
-  "BIXIO, GEROLAMO detto Nino": {
-    "id": "bixio-gerolamo-4",
-    "descriptions": [
-      "(1821-1873), in questo periodo fu ancora in stretti rapporti con Garibaldi e prese parte non secondaria ai segreti maneggi tra questi, il re e Rattazzi sul finire del 1861 (vedi anche voli. II, III e IV)"
-    ],
-    "occurrences": [
-      {
         "volume": 6,
         "pages": [
           8,
@@ -8421,17 +8067,19 @@
           275,
           285
         ]
-      }
-    ]
-  },
-  "BIXIO, NINO": {
-    "id": "bixio-nino",
-    "descriptions": [
-      "(1821-1873), (si vedano tutti i voli. precedenti)",
-      "(1821-1873), conserva sporadici contatti epistolari con Garibaldi (vedi tutti i voli. precedenti)",
-      "(1821-1873), generale dell'Esercito regolare, durante la guerra del 1866 comanda la VII divisione del IV Corpo d'Armata, (su di lui vedi tutti i voll. precedenti), 9, 10, 20.i"
-    ],
-    "occurrences": [
+      },
+      {
+        "volume": 7,
+        "pages": [
+          72
+        ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          178
+        ]
+      },
       {
         "volume": 9,
         "pages": [
@@ -8451,15 +8099,24 @@
       {
         "volume": 11,
         "pages": [
+          9,
+          10,
+          201,
           240
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          24
         ]
       }
     ]
   },
-  "BIZZONI": {
-    "id": "bizzoni-anonimo",
+  "BIZZONI, ACHILLE": {
+    "id": "bizzoni-achille",
     "descriptions": [
-      "ACHILLE"
+      "direttore del giornale Gazzettino rosa, partecipò alla campagna dei Vosgi"
     ],
     "occurrences": [
       {
@@ -8482,15 +8139,7 @@
         "pages": [
           55
         ]
-      }
-    ]
-  },
-  "BIZZONI, ACHILLE": {
-    "id": "bizzoni-achille",
-    "descriptions": [
-      "direttore del giornale Gazzettino rosa, partecipò alla campagna dei Vosgi"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 14,
         "pages": [
@@ -8504,7 +8153,7 @@
   "BLANC, LOUIS": {
     "id": "blanc-louis",
     "descriptions": [
-      ", (1811-1812), repubblicano francese, emerse al tempo della rivoluzione del 1848 quando, all'interno del governo provvisorio, portò avanti un programma tra i più radicali cui dovette rinunziare dopo il fallimento dell'insurrezione del giugno. Si rifugiò allora in Inghilterra, dove rimase fino al 1870; autore di una famosa Storia della rivoluzione francese",
+      "(1811-1812), repubblicano francese, emerse al tempo della rivoluzione del 1848 quando, all'interno del governo provvisorio, portò avanti un programma tra i più radicali cui dovette rinunziare dopo il fallimento dell'insurrezione del giugno. Si rifugiò allora in Inghilterra, dove rimase fino al 1870; autore di una famosa Storia della rivoluzione francese",
       "(1811-1882), repubblicano francese. Esule a Londra, godeva grande prestigio negli ambienti della democrazia europea per la sua risoluta opposizione al bonapartismo e per essere stato uno dei primi teorici del socialismo ottocentesco (vedi anche il vol. IX)",
       "(1811-1881), storico e uomo politico francese"
     ],
@@ -8611,11 +8260,9 @@
       }
     ]
   },
-  "BLENGINI": {
-    "id": "blengini-anonimo",
-    "descriptions": [
-      "MARIO"
-    ],
+  "BLENGINI, MARIO": {
+    "id": "blengini-mario",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 8,
@@ -8655,10 +8302,10 @@
       }
     ]
   },
-  "BLIND": {
-    "id": "blind-anonimo",
+  "BLIND ETTLINGER, FRIEDERIKE": {
+    "id": "blind-friederike",
     "descriptions": [
-      "moglie di Karl"
+      "moglie di Karl, vedova Cohen"
     ],
     "occurrences": [
       {
@@ -8666,15 +8313,7 @@
         "pages": [
           192
         ]
-      }
-    ]
-  },
-  "BLIND ETTLINGER, FRIEDERIKE": {
-    "id": "blind-friederike",
-    "descriptions": [
-      "moglie di Karl, vedova Cohen"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 13,
         "pages": [
@@ -8769,10 +8408,10 @@
       }
     ]
   },
-  "BOBBIO": {
-    "id": "bobbio-anonimo",
+  "BOBBIO, LEONE": {
+    "id": "bobbio-leone",
     "descriptions": [
-      "ufficiale dei C.d.A."
+      "ufficiale dei volontali garibaldini nel 1859"
     ],
     "occurrences": [
       {
@@ -8780,15 +8419,7 @@
         "pages": [
           120
         ]
-      }
-    ]
-  },
-  "BOBBIO, LEONE": {
-    "id": "bobbio-leone",
-    "descriptions": [
-      "ufficiale dei volontali garibaldini nel 1859, vedi vol. IV"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 8,
         "pages": [
@@ -8853,26 +8484,18 @@
       }
     ]
   },
-  "BOGGIO": {
-    "id": "boggio-anonimo",
+  "BOGGIO, PIER CARLO": {
+    "id": "boggio-pier",
     "descriptions": [
-      "PIER CARLO"
+      "(Torino 1826-Acque di Lissa 1866) fu a lungo in esilio in Svizzera e Parigi per segmre il padre, compromessosi con la rivoluzione. A Parigi iniziò la sua attività giornalistica che proseguì con successo quando nentrò in Piemonte, divenendo stretto collaboratore di Cavour e direttore di importanti testate. Era professore di diritto all'Ateneo torinese e deputato dal 1858. Nel 1862 fu strenuo avversario di Garibaldi"
     ],
     "occurrences": [
-      {
+    {
         "volume": 3,
         "pages": [
           138
         ]
-      }
-    ]
-  },
-  "BOGGIO, PIER CARLO (Torino 1826-Acque di Lissa 1866)": {
-    "id": "boggio-pier",
-    "descriptions": [
-      "fu a lungo in esilio in Svizzera e Parigi per segmre il padre, compromessosi con la rivoluzione. A Parigi iniziò la sua attività giornalistica che proseguì con successo quando nentrò in Piemonte, divenendo stretto collaboratore di Cavour e direttore di importanti testate. Era professore di diritto all'Ateneo torinese e deputato dal 1858. Nel 1862 fu strenuo avversario di Garibaldi"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 7,
         "pages": [
@@ -8881,11 +8504,9 @@
       }
     ]
   },
-  "BOIS": {
-    "id": "bois-anonimo",
-    "descriptions": [
-      "GILBERTO"
-    ],
+  "BOIS, GILBERTO": {
+    "id": "bois-gilberto",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -8926,10 +8547,24 @@
   "BOLDRINI, CESARE": {
     "id": "boldrini-cesare-3",
     "descriptions": [
+      "(Castel d'Ario 1816-Napoli 1860) ufficiale medico dei C.d.A.",
+      "(Castel d' Ario 1816-Napoli 1860) ufficiale medico, morì in dicembre per una ferita riportata nel combattimento di Maddaloni (cfr. voll. II, IV, VI)",
       "medico mantovano morto a Napoli nel dicembre 1860 a seguito di una ferita riportata a Maddaloni (vedi vol. II e IV)",
       "(1816-1860), medico mantovano morto in seguito ad una ferita riportata a Maddaloni"
     ],
     "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          19
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          74
+        ]
+      },
       {
         "volume": 6,
         "pages": [
@@ -8940,34 +8575,6 @@
         "volume": 13,
         "pages": [
           109
-        ]
-      }
-    ]
-  },
-  "BOLDRINI, CESARE (Castel d' Ario 1816-Napoli 1860)": {
-    "id": "boldrini-cesare-2",
-    "descriptions": [
-      "ufficiale medico, morì in dicembre per una ferita riportata nel combattimento di Maddaloni (cfr. voll. II, IV, VI)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          74
-        ]
-      }
-    ]
-  },
-  "BOLDRINI, CESARE (Castel d'Ario 1816-Napoli 1860)": {
-    "id": "boldrini-cesare",
-    "descriptions": [
-      "ufficiale medico dei C.d.A."
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          19
         ]
       }
     ]
@@ -8986,10 +8593,10 @@
       }
     ]
   },
-  "BOLIS, LUIGI (Bergamo 1841-Figline Valdarno 1932)": {
+  "BOLIS, LUIGI": {
     "id": "bolis-luigi",
     "descriptions": [
-      "giovanissimo fu nel 1859 cm C.d.A. e nel 1860 coi Mille mettendosi in luce a Palermo, Capua e al Volturno. Nel 1862, volontario, fu fatto prigioniero ad Aspromonte. Ottenne poi un impiego nell'amministrazione delle poste. Morto in tarda età, aderì al fascismo"
+      "(Bergamo 1841-Figline Valdarno 1932) giovanissimo fu nel 1859 cm C.d.A. e nel 1860 coi Mille mettendosi in luce a Palermo, Capua e al Volturno. Nel 1862, volontario, fu fatto prigioniero ad Aspromonte. Ottenne poi un impiego nell'amministrazione delle poste. Morto in tarda età, aderì al fascismo"
     ],
     "occurrences": [
       {
@@ -9000,11 +8607,9 @@
       }
     ]
   },
-  "BOLLEA": {
+  "BOLLEA, CESARE": {
     "id": "bollea-anonimo",
-    "descriptions": [
-      "CESARE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -9071,11 +8676,9 @@
       }
     ]
   },
-  "BONAFEDE": {
+  "BONAFEDE, GIACOMO ODDO": {
     "id": "bonafede-anonimo",
-    "descriptions": [
-      "GIACOMO ODDO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -9141,9 +8744,10 @@
       }
     ]
   },
-  "BONAPARTE NAPOLEONE": {
-    "id": "bonaparte-anonimo",
+  "BONAPARTE, NAPOLÉON-EUGÈNE": {
+    "id": "bonaparte-napoleon",
     "descriptions": [
+      "(1836-1879), principe imperiale dei francesi",
       "imperatore dei Francesi col nome di Napoleone I (1769-1821)"
     ],
     "occurrences": [
@@ -9152,15 +8756,7 @@
         "pages": [
           332
         ]
-      }
-    ]
-  },
-  "BONAPARTE, NAPOLÉON-EUGÈNE": {
-    "id": "bonaparte-napoléon-eugène",
-    "descriptions": [
-      "(1836-1879), principe imperiale dei francesi"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 12,
         "pages": [
@@ -9241,10 +8837,10 @@
       }
     ]
   },
-  "BONATI, LUIGI (Cremona 1820-ivi 1895)": {
+  "BONATI, LUIGI": {
     "id": "bonati-luigi",
     "descriptions": [
-      "esule in Piemonte dopo l'48, fu deputato della VI legislatura. Tornato nella sua città copri van incanchi ammmistrativi. Favorì li tiro a segno, offrendo una cospicua somma"
+      "(Cremona 1820-ivi 1895) esule in Piemonte dopo l'48, fu deputato della VI legislatura. Tornato nella sua città copri van incanchi ammmistrativi. Favorì li tiro a segno, offrendo una cospicua somma"
     ],
     "occurrences": [
       {
@@ -9256,10 +8852,10 @@
       }
     ]
   },
-  "BONCOMPAGNI LUDOVISI ANTONIO, principe di Piombino": {
+  "BONCOMPAGNI, LUDOVISI ANTONIO": {
     "id": "boncompagni-principe",
     "descriptions": [
-      "(1809-1883), senatore, componente del Comitato esecutivo delle provincie insorte"
+      "principe di Piombino (1809-1883), senatore, componente del Comitato esecutivo delle provincie insorte"
     ],
     "occurrences": [
       {
@@ -9270,23 +8866,30 @@
       }
     ]
   },
+  "BONDURI, famiglia": {
+    "id": "bonduri-famiglia",
+    "descriptions": [
+      "famiglia"
+    ],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          33
+        ]
+      }
+    ]
+  },
   "BONDURI": {
     "id": "bonduri-anonimo",
     "descriptions": [
-      "ufficiale dei C.d.A.",
-      "famiglia"
+      "ufficiale dei C.d.A."
     ],
     "occurrences": [
       {
         "volume": 4,
         "pages": [
           15
-        ]
-      },
-      {
-        "volume": 12,
-        "pages": [
-          33
         ]
       }
     ]
@@ -9319,10 +8922,10 @@
       }
     ]
   },
-  "BONETTI, capitano": {
+  "BONETTI, cap": {
     "id": "bonetti-capitano",
     "descriptions": [
-      "milita nel 5° Reggimento del e.V.I."
+      "capitano, milita nel 5° Reggimento del e.V.I."
     ],
     "occurrences": [
       {
@@ -9333,10 +8936,10 @@
       }
     ]
   },
-  "BONETTI, servitore di Garibaldi": {
+  "BONETTI, serv.": {
     "id": "bonetti-servitore",
     "descriptions": [
-      "forse lo stesso che nel 1864 ne aveva recapitato un messaggio a G. Basile"
+      "servitore di Garibaldi, forse lo stesso che nel 1864 ne aveva recapitato un messaggio a G. Basile"
     ],
     "occurrences": [
       {
@@ -9347,11 +8950,9 @@
       }
     ]
   },
-  "BONETTO": {
-    "id": "bonetto-anonimo",
-    "descriptions": [
-      "GUGLIELMO"
-    ],
+  "BONETTO, GUGLIELMO": {
+    "id": "bonetto-guglielmo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -9389,10 +8990,10 @@
       }
     ]
   },
-  "BONIFACIO, detto il guercio": {
+  "BONIFACIO": {
     "id": "bonifacio-detto",
     "descriptions": [
-      "comandante della flottiglia da guerra argentina nelle acque del Rio Uruguay"
+      "detto il guercio, comandante della flottiglia da guerra argentina nelle acque del Rio Uruguay"
     ],
     "occurrences": [
       {
@@ -9408,29 +9009,22 @@
     ]
   },
   "BONINI, PIETRO": {
-    "id": "bonini-pietro-2",
-    "descriptions": [
-      "(1844-1905), letterato friulano"
-    ],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          81
-        ]
-      }
-    ]
-  },
-  "BONINI, PIETRO (1844-1905)": {
     "id": "bonini-pietro",
     "descriptions": [
-      "letterato frmlano, seguì Garibaldi nelle campagne del 1866 e del 1"
+      "(1844-1905) letterato friulano, seguì Garibaldi nelle campagne del 1866 e del 1867",
+      "(1844-1905), letterato friulano"
     ],
     "occurrences": [
       {
         "volume": 13,
         "pages": [
           92
+        ]
+      },
+      {
+        "volume": 14,
+        "pages": [
+          81
         ]
       }
     ]
@@ -9494,36 +9088,14 @@
       }
     ]
   },
-  "BONNET": {
+  "BONNET, MICHELE": {
     "id": "bonnet-anonimo",
-    "descriptions": [
-      "NINO",
-      "MICHELE"
-    ],
+    "descriptions": [],
     "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          112
-        ]
-      },
       {
         "volume": 5,
         "pages": [
           329
-        ]
-      },
-      {
-        "volume": 8,
-        "pages": [
-          113,
-          129
-        ]
-      },
-      {
-        "volume": 10,
-        "pages": [
-          11
         ]
       }
     ]
@@ -9531,7 +9103,7 @@
   "BONNET, GIOACCHINO": {
     "id": "bonnet-gioacchino",
     "descriptions": [
-      "(1824-1890), di Comacchio, capitano aiutante maggiore nel III btg. bersaglien nell'esercito della Lega",
+      "(1819-1890), di Comacchio, capitano aiutante maggiore nel III btg. bersaglien nell'esercito della Lega",
       "nel 1860 aveva raccolto fondi e volontari nelle Romagne per la campagna dell'Italia Meridionale, nella quale lui stesso fu capitano dei bersaglieri. Il Generale lo considerava tra i fedelissimi, vedi anche vol. IV",
       "(1819-1890), amico e commilitone di vecchia data, viveva a Comacchio (vedi anche i voll. IV e VIII)",
       "(1819-1890), col grado di tenente colonnello comanda il i° reggimento del e.V.I. (su di lui vedi i voll. IV, VIII e X)",
@@ -9541,7 +9113,8 @@
       {
         "volume": 4,
         "pages": [
-          111
+          111, 
+          112
         ]
       },
       {
@@ -9588,7 +9161,7 @@
       }
     ]
   },
-  "BONORis, ACHILLE": {
+  "BONORIS, ACHILLE": {
     "id": "bonoris-achille",
     "descriptions": [
       "di Brescia"
@@ -9602,10 +9175,10 @@
       }
     ]
   },
-  "BONSIGNORI, EUGENIO (Montirone": {
+  "BONSIGNORI, EUGENIO": {
     "id": "bonsignori-eugenio",
     "descriptions": [
-      "Brescia-Milano 1871), uno dei Mille"
+      "(Montirone Brescia-Milano 1871), uno dei Mille"
     ],
     "occurrences": [
       {
@@ -9630,10 +9203,11 @@
       }
     ]
   },
-  "BORBONE": {
-    "id": "borbone-anonimo",
+  "BORBONE (DELLE DUE SICILIE)": {
+    "id": "borbone-delle-due-sicilie",
     "descriptions": [
-      "famiglia regnante nel Regno delle Due Sicilie"
+      "famiglia regnante nel Regno delle Due Sicilie",
+      "dinastia"
     ],
     "occurrences": [
       {
@@ -9643,15 +9217,7 @@
           86,
           254
         ]
-      }
-    ]
-  },
-  "BORBONE DELLE DUE SICILIE": {
-    "id": "borbone-anonimo-3",
-    "descriptions": [
-      "dinastia"
-    ],
-    "occurrences": [
+      }, 
       {
         "volume": 14,
         "pages": [
@@ -9661,7 +9227,7 @@
     ]
   },
   "BORBONE DI SPAGNA": {
-    "id": "borbone-anonimo-2",
+    "id": "borbone-di-spagna",
     "descriptions": [
       "dinastia"
     ],
@@ -9689,7 +9255,7 @@
       }
     ]
   },
-  "BORDILLON, G.": {
+  "BORDILLON, GRÉGOIRE.": {
     "id": "bordillon-g.",
     "descriptions": [
       "ammiratore francese di Garibaldi, consigliere municipale ad Angers, nel 1848 era stato Commissario di governo del suo paese"
@@ -9701,15 +9267,7 @@
           45,
           52
         ]
-      }
-    ]
-  },
-  "BORDILLON, GRÉGOIRE": {
-    "id": "bordillon-grégoire",
-    "descriptions": [
-      "consigliere municipale ad Angers"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 12,
         "pages": [
@@ -9719,26 +9277,26 @@
       }
     ]
   },
-  "BORDONE": {
-    "id": "bordone-anonimo",
+  "BORDONE, JOSEPH-PHILIPPE-TOUSSAINT": {
+    "id": "bordone-joseph-philippe-toussaint",
     "descriptions": [
-      "JOSEPH PHILIPPE"
+      "(Avignone 1821-1892) medico di marina fino al 1856, colonnello dell'E.M.",
+      "capo di Stato maggiore dell'armata dei Vosgi"
     ],
     "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          209,
+          216
+        ]
+      },
       {
         "volume": 6,
         "pages": [
           232
         ]
-      }
-    ]
-  },
-  "BORDONE, JOSEPH-PHILIPPE-TOUSSAINT": {
-    "id": "bordone-joseph-philippe-toussaint",
-    "descriptions": [
-      "capo di Stato maggiore dell'armata dei Vosgi"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 14,
         "pages": [
@@ -9794,26 +9352,9 @@
       }
     ]
   },
-  "BORDONE, PHILIPPE JOSEPH (Avignone 1821-1892)": {
-    "id": "bordone-philippe",
-    "descriptions": [
-      "medico di marina fino al 1856, colonnello dell'E.M."
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          209,
-          216
-        ]
-      }
-    ]
-  },
-  "BORELLA": {
-    "id": "borella-anonimo",
-    "descriptions": [
-      "VALERIO"
-    ],
+  "BORELLA, VALERIO": {
+    "id": "borella-valerio",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -9843,28 +9384,6 @@
       }
     ]
   },
-  "BORELLI": {
-    "id": "borelli-anonimo",
-    "descriptions": [
-      "famiglia amica di Garibaldi",
-      "FELICE"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          87
-        ]
-      },
-      {
-        "volume": 3,
-        "pages": [
-          100,
-          101
-        ]
-      }
-    ]
-  },
   "BORELLI, ADELE": {
     "id": "borelli-adele",
     "descriptions": [
@@ -9875,6 +9394,35 @@
         "volume": 7,
         "pages": [
           59
+        ]
+      }
+    ]
+  },
+  "BORELLI, famiglia": {
+    "id": "borelli-famiglia",
+    "descriptions": [
+      "famiglia amica di Garibaldi"
+    ],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          87
+        ]
+      }
+    ]
+  },
+  "BORELLI, FELICE": {
+    "id": "borelli-anonimo",
+    "descriptions": [
+      "famiglia amica di Garibaldi"
+    ],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          100,
+          101
         ]
       }
     ]
@@ -9955,7 +9503,7 @@
       }
     ]
   },
-  "BORGIA": {
+  "BORGIA, famiglia": {
     "id": "borgia-anonimo",
     "descriptions": [
       "famiglia"
@@ -9969,11 +9517,9 @@
       }
     ]
   },
-  "BORROMEO": {
-    "id": "borromeo-anonimo",
-    "descriptions": [
-      "RENATO"
-    ],
+  "BORROMEO, RENATO": {
+    "id": "borromeo-renato",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -10025,11 +9571,10 @@
       }
     ]
   },
-  "BOSIO": {
-    "id": "bosio-anonimo",
+  "BOSIO, STEPHANE": {
+    "id": "bosio-stephane",
     "descriptions": [
-      "STHÉPHANE",
-      "STEPHANE"
+      "STEPHANE Bosxo, Une exposition de souvenirs garibaldiens, in Pour le cinquantenaire de la mort de Joseph Garibaldi, Les annales du Comté de Nice, Revue Historique, Litteraire, Scientifique, Dialectale et Artistique, s.d. [1932)"
     ],
     "occurrences": [
       {
@@ -10158,7 +9703,7 @@
   "BOTTERO, GIOVANNI BATTISTA": {
     "id": "bottero-giovanni",
     "descriptions": [
-      ", (1822-1897), di Nizza, giornalista e uomo politico (vedi vol. II)"
+      "(1822-1897), di Nizza, giornalista e uomo politico (vedi vol. II)"
     ],
     "occurrences": [
       {
@@ -10196,9 +9741,18 @@
   "BOUCHER DE CREVECOEUR DE PERTHÈS, JACQUES": {
     "id": "boucher-jacques-2",
     "descriptions": [
-      "(1788-1868), paleontologo francese"
+      "(1788-1868), paleontologo francese",
+      "(1788-1868), paleontologo francese che dallo studio dei depositi alluvionali di Abbeville aveva dedotto la certezza della presenza degli uomini accanto agli animali antidiluviani: nel 1864 questa sua teoria, contestatissima, aveva ricevuto una sicura conferma dalla scoperta di un graffito raffigurante un mammouth"
     ],
     "occurrences": [
+      {
+        "volume": 11,
+        "pages": [
+          254,
+          255,
+          287
+        ]
+      },
       {
         "volume": 12,
         "pages": [
@@ -10220,22 +9774,6 @@
       }
     ]
   },
-  "BOUCHER de CRÈVECOUR de PERTHES, JACQUES": {
-    "id": "boucher-jacques",
-    "descriptions": [
-      "(1788-1868), paleontologo francese che dallo studio dei depositi alluvionali di Abbeville aveva dedotto la certezza della presenza degli uomini accanto agli animali antidiluviani: nel 1864 questa sua teoria, contestatissima, aveva ricevuto una sicura conferma dalla scoperta di un graffito raffigurante un mammouth"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          254,
-          255,
-          287
-        ]
-      }
-    ]
-  },
   "BOURBAKI, CHARLES-DENIS-SAUTER": {
     "id": "bourbaki-charles-denis-sauter",
     "descriptions": [
@@ -10250,10 +9788,10 @@
       }
     ]
   },
-  "BOURGIN": {
+  "BOURGIN, GEORGES": {
     "id": "bourgin-anonimo",
     "descriptions": [
-      "GEORGES"
+      "GEORGES BouRGIN, Garibaldi et la France en Uruguay 1840-1848, in Rassegna storica del Risorgimento, a. LII (1965), n. 3."
     ],
     "occurrences": [
       {
@@ -10265,10 +9803,14 @@
       }
     ]
   },
-  "BOVI CAMPEGGI, PAOLO": {
+  "BOVI CAMPEGGI, PAOLO GUERINO": {
     "id": "bovi-paolo",
     "descriptions": [
-      ", (1814-1874), ingegnere, ufficiale, con Garibaldi nell'esilio di Tangeri e di New York"
+      "(1814-1874), ingegnere, ufficiale, con Garibaldi nell'esilio di Tangeri e di New York",
+      "(Bologna 1814-ivi 1874) tenente di S.M. dei C.d.A., poi nel III btg. bersaglieri nell'esercito della Lega (vedi vol. III)",
+      "(Bologna 1814-ivi 1874) ufficiale dell'intendenza dei Mille (cfr. voll. III, IV)",
+      "(1814-1874), bolognese, aveva perso la mano destra durante la difesa della Repubblica romana, cosa che non gli aveva impedito di essere ammesso con il grado di capitano nei Cacciatori delle Alpi e, dopo la campagna meridionale, di entrare nell'Esercito regio. In disponibilità dal 1862, aveva presentato a Garibaldi l'ingegner E. Canevazzi (vedi il vol. IV)",
+      "(1814-1874), perse la mano destra nella difesa della Repubblica romana"
     ],
     "occurrences": [
       {
@@ -10277,16 +9819,7 @@
           26,
           198
         ]
-      }
-    ]
-  },
-  "BOVI CAMPEGGI, PAOLO (Bologna 1814-ivi 1874)": {
-    "id": "bovi-paolo-2",
-    "descriptions": [
-      "tenente di S.M. dei C.d.A., poi nel III btg. bersaglieri nell'esercito della Lega (vedi vol. III)",
-      "ufficiale dell'intendenza dei Mille (cfr. voll. III, IV)"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 4,
         "pages": [
@@ -10302,16 +9835,7 @@
           193,
           330
         ]
-      }
-    ]
-  },
-  "BOVI CAMPEGGI, PAOLO GUERINO": {
-    "id": "bovi-paolo-4",
-    "descriptions": [
-      "(1814-1874), bolognese, aveva perso la mano destra durante la difesa della Repubblica romana, cosa che non gli aveva impedito di essere ammesso con il grado di capitano nei Cacciatori delle Alpi e, dopo la campagna meridionale, di entrare nell'Esercito regio. In disponibilità dal 1862, aveva presentato a Garibaldi l'ingegner E. Canevazzi (vedi il vol. IV)",
-      "(1814-1874), perse la mano destra nella difesa della Repubblica romana"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 10,
         "pages": [
@@ -10343,11 +9867,9 @@
       }
     ]
   },
-  "BOYER": {
-    "id": "boyer-anonimo",
-    "descriptions": [
-      "FERDINANDO"
-    ],
+  "BOYER, FERDINANDO": {
+    "id": "boyer-ferdinando",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -10402,11 +9924,18 @@
   "BOZZONI, GIAN LUIGI": {
     "id": "bozzoni-gian-2",
     "descriptions": [
+      "(Brescia 1830-Genova 1902) trasferitosi a Falerno nel 1860 fu esponente di rilievo della massoneria siciliana e Gran Segretario di quel G.'.0.'. tra li 1864 e il 1867. Di fede mazziniana adempi delicati incanchi affidatigli dal suo maestro",
       "vedi vol. VII",
       "massone",
       "(1830-19.02), esponente della massoneria siciliana"
     ],
     "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          26
+        ]
+      },
       {
         "volume": 8,
         "pages": [
@@ -10429,25 +9958,9 @@
       }
     ]
   },
-  "BOZZONI, GIAN LUIGI (Brescia 1830-Genova 1902)": {
-    "id": "bozzoni-gian",
-    "descriptions": [
-      "trasferitosi a Falerno nel 1860 fu esponente di rilievo della massoneria siciliana e Gran Segretario di quel G.'.0.'. tra li 1864 e il 1867. Di fede mazziniana adempi delicati incanchi affidatigli dal suo maestro"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          26
-        ]
-      }
-    ]
-  },
-  "BRACACCIO": {
-    "id": "bracaccio-anonimo",
-    "descriptions": [
-      "NICOLA"
-    ],
+  "BRACACCIO, NICOLA": {
+    "id": "bracaccio-nicola",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -10461,7 +9974,8 @@
   "BRAMBILLA, GIUSEPPE": {
     "id": "brambilla-giuseppe",
     "descriptions": [
-      "avvocato di Como, membro del Comitato centrale di soccorso a Garibaldi in Genova"
+      "avvocato di Como, membro del Comitato centrale di soccorso a Garibaldi in Genova", 
+      "(Como 1803-Capiago 1866) sacerdote, insegnò nel collegio Sant'Agostino in Como. Amico di Cattaneo, nel 1848 fu attivo giornahsta nella sua città e poi costretto all'esilio. Tornato nel 1859 riprese l'insegnamento, dando alle stampe molte e dotte opere, tra le quali ebbe fama un'ardente cantica patriottica intitolata Italia"
     ],
     "occurrences": [
       {
@@ -10470,15 +9984,7 @@
           239,
           267
         ]
-      }
-    ]
-  },
-  "BRAMBILLA, GIUSEPPE (Como 1803-Capiago 1866)": {
-    "id": "brambilla-giuseppe-2",
-    "descriptions": [
-      "sacerdote, insegnò nel collegio Sant'Agostino in Como. Amico di Cattaneo, nel 1848 fu attivo giornahsta nella sua città e poi costretto all'esilio. Tornato nel 1859 riprese l'insegnamento, dando alle stampe molte e dotte opere, tra le quali ebbe fama un'ardente cantica patriottica intitolata Italia"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 7,
         "pages": [
@@ -10529,10 +10035,10 @@
       }
     ]
   },
-  "BRENNO, leggendario capo dei Galli Senoni; dopo avere sconfitto i Romani (390 a.O.)": {
+  "BRENNO": {
     "id": "brenno-leggendario",
     "descriptions": [
-      "avrebbe pronunciato, nell'atto di gettare la spada sulla bilancia, il famoso \"Vae victis\""
+      "leggendario capo dei Galli Senoni; dopo avere sconfitto i Romani (390 a.O.), avrebbe pronunciato, nell'atto di gettare la spada sulla bilancia, il famoso \"Vae victis\""
     ],
     "occurrences": [
       {
@@ -10543,11 +10049,9 @@
       }
     ]
   },
-  "BRENTARI": {
-    "id": "brentari-anonimo",
-    "descriptions": [
-      "OTTONE"
-    ],
+  "BRENTARI, OTTONE": {
+    "id": "brentari-ottone",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -10584,13 +10088,13 @@
   "BRICOLI, EMILIANO": {
     "id": "bricoli-emiliano",
     "descriptions": [
-      "luogotenente colonnello e capo di Stato Maggiore presso il Comando di Chieti, 7"
+      "luogotenente colonnello e capo di Stato Maggiore presso il Comando di Chieti"
     ],
     "occurrences": [
       {
         "volume": 11,
         "pages": [
-          4
+          74
         ]
       }
     ]
@@ -10640,10 +10144,10 @@
       }
     ]
   },
-  "BRIGNOLE, Nrno": {
-    "id": "brignole-nrno",
+  "BRIGNOLE, NINO": {
+    "id": "brignole-nino",
     "descriptions": [
-      "era stato impiegato contabile della Cassa Centrale genovese nel 1"
+      "era stato impiegato contabile della Cassa Centrale genovese nel 1860"
     ],
     "occurrences": [
       {
@@ -10654,10 +10158,10 @@
       }
     ]
   },
-  "BRIGNONE, FILIPPO (Torino 1812-ivi 1877)": {
+  "BRIGNONE, FILIPPO": {
     "id": "brignone-filippo",
     "descriptions": [
-      "generale dell'esercito sardo, prese parte alla campagna del 1860-1861. Fu poi cominissario straordinario in Sicilia, deputato e senatore"
+      "(Torino 1812-ivi 1877) generale dell'esercito sardo, prese parte alla campagna del 1860-1861. Fu poi cominissario straordinario in Sicilia, deputato e senatore"
     ],
     "occurrences": [
       {
@@ -10670,11 +10174,9 @@
       }
     ]
   },
-  "BRIGUGLIO": {
+  "BRIGUGLIO, LETTERIO": {
     "id": "briguglio-anonimo",
-    "descriptions": [
-      "LETTERIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -10751,7 +10253,7 @@
   "BROCCHI, CARLO": {
     "id": "brocchi-carlo",
     "descriptions": [
-      "garibaldino, morto nel 1860 a Sant' Angelo"
+      "garibaldino, morto nel 1860 a Sant'Angelo"
     ],
     "occurrences": [
       {
@@ -10780,6 +10282,8 @@
     "id": "brofferio-angelo",
     "descriptions": [
       "(1802-1866), deputato di sinistra",
+      "(Castelnuovo Calcea 1802-Locarno 1866) scrittore, giornalista, uomo politico e deputato della sinistra",
+      "(Castelnuovo Calcea 1802-Locarno 1866) scrittore, letterato, giornalista fu uno degli uomini più rumorosi della sinistra subalpina e poi del parlamento nazionale",
       "(1802-1866), vedi vol. VI",
       "(1802-1866), uno dei promotori dell'Assemblea Popolare di Torino; in coerenza con l'indirizzo antiministeriale della stessa, propone, nella riunione del 4 giugno 1875, di conferire una medaglia d'onore a Ganbaldi (vedi anche i voll. VI-VII)"
     ],
@@ -10788,6 +10292,19 @@
         "volume": 4,
         "pages": [
           108,
+          113
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          143
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          112,
           113
         ]
       },
@@ -10803,28 +10320,6 @@
         "pages": [
           185,
           187
-        ]
-      }
-    ]
-  },
-  "BROFFERIO, ANGELO (Castelnuovo Calcea 1802-Locarno 1866)": {
-    "id": "brofferio-angelo-2",
-    "descriptions": [
-      "scrittore, giornalista, uomo politico e deputato della sinistra",
-      "scrittore, letterato, giornalista fu uno degli uomini più rumorosi della sinistra subalpina e poi del parlamento nazionale"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          143
-        ]
-      },
-      {
-        "volume": 6,
-        "pages": [
-          112,
-          113
         ]
       }
     ]
@@ -10905,24 +10400,11 @@
       }
     ]
   },
-  "BRONZETTI, PILADE": {
-    "id": "bronzetti-pilade-2",
-    "descriptions": [
-      "comandante del primo reggimento dei carabmieri garibaldini, morì eroicamente nel 1860 a Castel Marrone"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          109
-        ]
-      }
-    ]
-  },
-  "BRONZETTI, PILADE (Mantova 1832-Castelnuovo 1860) volontario a Roma nel 1849 ancorché giovanissimo": {
+  "BRONZETTI, PILADE ": {
     "id": "bronzetti-pilade",
     "descriptions": [
-      "si segnalò nei fatti d'arme di Valmontone. Visse poi in esilio a Genova. Nel 1859 fu dei C.d.A. e nel 1860 con l'E.M., campagna durante la quale fu colpito mortalmente"
+      "(Mantova 1832-Castelnuovo 1860) volontario a Roma nel 1849 ancorché giovanissimo si segnalò nei fatti d'arme di Valmontone. Visse poi in esilio a Genova. Nel 1859 fu dei C.d.A. e nel 1860 con l'E.M., campagna durante la quale fu colpito mortalmente",
+      "comandante del primo reggimento dei carabinieri garibaldini, morì eroicamente nel 1860 a Castel Marrone"
     ],
     "occurrences": [
       {
@@ -10931,6 +10413,12 @@
           17,
           131,
           206
+        ]
+      },
+      {
+        "volume": 13,
+        "pages": [
+          109
         ]
       }
     ]
@@ -11021,10 +10509,10 @@
       }
     ]
   },
-  "BRUNELLESCHI, FILIPPO (Firenze 1377-ivI 1446)": {
+  "BRUNELLESCHI, FILIPPO": {
     "id": "brunelleschi-filippo",
     "descriptions": [
-      "grande architetto apri la stagione del Rinascimento ed arricchi la sua città di immortali capolavori"
+      "(Firenze 1377-ivI 1446) grande architetto apri la stagione del Rinascimento ed arricchi la sua città di immortali capolavori"
     ],
     "occurrences": [
       {
@@ -11035,25 +10523,17 @@
       }
     ]
   },
-  "BRUNETI'I, ANGELO": {
-    "id": "bruneti'i-angelo",
-    "descriptions": [
-      "detto CICERUACCHIO, (1800-1849), patriota romano"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          56
-        ]
-      }
-    ]
-  },
   "BRUNETTI, ANGELO": {
     "id": "brunetti-angelo",
     "descriptions": [
-      ", (1800-1849), detto Ciceruacchio, popolano romano fucilato dagli austriaci",
-      "Detto CICERUACCHIO (vedi vol. III)"
+      "(1800-1849), detto Ciceruacchio, popolano romano fucilato dagli austriaci",
+      "detto CICERUACCHIO (1806-1849), vedi vol. II",
+      "detto CICERUACCHIO (1806-1849), vedi voli. II. VI",
+      "detto CICERUACCHIO vedi vol. II, VII,",
+      "Detto CICERUACCHIO (vedi vol. III)",
+      "detto CICERUACCHIO, (1800-1849), patriota romano",
+      "detto CICERUACCHIO (1800-1849) patriota romano",
+      "detto CICERUACCHIO (1800-1849), patriota romano"
     ],
     "occurrences": [
       {
@@ -11070,18 +10550,7 @@
           178,
           179
         ]
-      }
-    ]
-  },
-  "BRUNETTI, ANGELO detto CICERUACCHIO": {
-    "id": "brunetti-angelo-3",
-    "descriptions": [
-      "(1806-1849), vedi vol. II",
-      "(1806-1849), vedi voli. II. VI",
-      "vedi vol. II, VII,",
-      "(1800-1849), patriota romano"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 6,
         "pages": [
@@ -11101,23 +10570,21 @@
         ]
       },
       {
-        "volume": 14,
+        "volume": 12,
         "pages": [
-          118
+          56
         ]
-      }
-    ]
-  },
-  "BRUNETTI, ANGELO detto CICERUACCHIO (1800-1849)": {
-    "id": "brunetti-angelo-6",
-    "descriptions": [
-      "patriota romano"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 13,
         "pages": [
           123
+        ]
+      },
+      {
+        "volume": 14,
+        "pages": [
+          118
         ]
       }
     ]
@@ -11179,11 +10646,18 @@
     ]
   },
   "BRUNO, GIORDANO": {
-    "id": "bruno-giordano-3",
+    "id": "bruno-giordano",
     "descriptions": [
+      "(1548-1600)filosofo e letterato, fu dalla Chiesa condannato al rogo con l'accusa di aver sostenuto teorie eretiche; i democratici italiani dell'Ottocento ne fecero il simbolo della libertà di pensiero perseguitata",
       "(1548-1600), filosofo e scrittore"
     ],
     "occurrences": [
+      {
+        "volume": 9,
+        "pages": [
+          155
+        ]
+      },
       {
         "volume": 13,
         "pages": [
@@ -11192,22 +10666,8 @@
       }
     ]
   },
-  "BRUNO, GIORDANO (1548-1600)": {
-    "id": "bruno-giordano-2",
-    "descriptions": [
-      "filosofo e letterato, fu dalla Chiesa condannato al rogo con l'accusa di aver sostenuto teorie eretiche; i democratici italiani dell'Ottocento ne fecero il simbolo della libertà di pensiero perseguitata"
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          155
-        ]
-      }
-    ]
-  },
   "BRUNO, GIORDANO GIUSEPPE": {
-    "id": "bruno-giordano",
+    "id": "bruno-giordano-giuseppe",
     "descriptions": [
       "(Palermo, 17 aprile 1823 - ivi, 20 giugno 1900), combattente antiborbonico nel 1848, fu poi esule a Malta. Tornato a Palermo nel 1859 riprese a cospirare, trovandosi tra i promotori del moto della Gancia e poi tra i garibaldini. Partecipò all'impresa di Aspromonte dopo essersi dimesso dall'Esercito e fu fatto prigioniero dai governativi. Nel 1867 fu nuovamente sotto il comando del suo Generale"
     ],
@@ -11220,10 +10680,10 @@
       }
     ]
   },
-  "BRUNO, GIUSEPPE (Nicosia 1830-Catania 1904)": {
+  "BRUNO, GIUSEPPE": {
     "id": "bruno-giuseppe",
     "descriptions": [
-      "laureato in medicma, com volto nei moti sicillani del'48 emigrò in Piemonte. Tornò in Sicilia nel 1860. Più volte sindaco della sua città, la rappresentò anche al Parlamento ove si schierò tra i seguaci di Rattazzi"
+      "(Nicosia 1830-Catania 1904) laureato in medicma, com volto nei moti sicillani del'48 emigrò in Piemonte. Tornò in Sicilia nel 1860. Più volte sindaco della sua città, la rappresentò anche al Parlamento ove si schierò tra i seguaci di Rattazzi"
     ],
     "occurrences": [
       {
@@ -11237,10 +10697,28 @@
   "BRUSCO, ENRICO": {
     "id": "brusco-enrico-3",
     "descriptions": [
+      "(Marassi Genova 1829-ivi 1901), avvocato, giornalista, membro del comitato centrale di soccorso a Garibaldi, del quale fu ascoltato consigliere, organizzatore della spedizione dei Mille (cfr. vol. VI)",
+      "(Marassi 1829-ivi 1901) avvocato, collaborò a vari giornali e tra questi e Il Rinnovamento. Fu operoso membro del Comitato Centrale di soccorso a Garibaldi e nel luglio del 1860 si recò in Sicilia per rimuovere le difficoltà incontrate dal prestito di guerra lanciato da Garibaldi, del quale fu consigliere ascoltato anche negli anni successivi in qualità di membro dell'esecutivo del Comitato Centrale di Provvedimento. Ebbe parte cospicua nella vita pubblica genovese e fu anche sindaco del suo paese natale",
       "vedi vol. VI",
       "(1829-1901), avvocato e pubblicista genovese nonché figura di grande rilievo nella vita cittadina (su di lui vedi anche i voll. VI e VIII)"
     ],
     "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          128,
+          129,
+          241
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          45,
+          89,
+          127
+        ]
+      },
       {
         "volume": 8,
         "pages": [
@@ -11251,38 +10729,6 @@
         "volume": 10,
         "pages": [
           130
-        ]
-      }
-    ]
-  },
-  "BRUSCO, ENRICO (Marassi": {
-    "id": "brusco-enrico",
-    "descriptions": [
-      "Genova 1829-ivi 1901), avvocato, giornalista, membro del comitato centrale di soccorso a Garibaldi, del quale fu ascoltato consigliere, organizzatore della spedizione dei Mille (cfr. vol. VI)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          128,
-          129,
-          241
-        ]
-      }
-    ]
-  },
-  "BRUSCO, ENRICO (Marassi 1829-ivi 1901)": {
-    "id": "brusco-enrico-2",
-    "descriptions": [
-      "avvocato, collaborò a vari giornali e tra questi e Il Rinnovamento. Fu operoso membro del Comitato Centrale di soccorso a Garibaldi e nel luglio del 1860 si recò in Sicilia per rimuovere le difficoltà incontrate dal prestito di guerra lanciato da Garibaldi, del quale fu consigliere ascoltato anche negli anni successivi in qualità di membro dell'esecutivo del Comitato Centrale di Provvedimento. Ebbe parte cospicua nella vita pubblica genovese e fu anche sindaco del suo paese natale"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          45,
-          89,
-          127
         ]
       }
     ]
@@ -11301,24 +10747,11 @@
       }
     ]
   },
-  "BRUTO, MA.Reo GIUNIO": {
-    "id": "bruto-ma.reo",
-    "descriptions": [
-      "Uccisore di Giulio Cesare, incarnò per tutto l'Ottocento il prototipo del tirannicida in nome della libertà"
-    ],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          200
-        ]
-      }
-    ]
-  },
   "BRUTO, MARCO GIUNIO": {
     "id": "bruto-marco",
     "descriptions": [
-      "tra i massimi promotori della congiura contro Giulio Cesare, il suo nome divenne epommo dell'eroe estremo difensore delle libertà repubblicane"
+      "tra i massimi promotori della congiura contro Giulio Cesare, il suo nome divenne epommo dell'eroe estremo difensore delle libertà repubblicane",
+      "Uccisore di Giulio Cesare, incarnò per tutto l'Ottocento il prototipo del tirannicida in nome della libertà"
     ],
     "occurrences": [
       {
@@ -11327,14 +10760,19 @@
           255,
           256
         ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          200
+        ]
       }
     ]
   },
-  "BRUZZESI": {
-    "id": "bruzzesi-anonimo",
+  "BRUZZESI, GIUNIO": {
+    "id": "bruzzesi-GIUNIO",
     "descriptions": [
-      "GIUNIO",
-      "GIULIO"
+      "GIUNIO BRUZZESI, Dallo scoglio di Quarto, numero straordinariode la rivista Vita, Milano, 15 aprile 1910."
     ],
     "occurrences": [
       {
@@ -11395,7 +10833,8 @@
   "BRUZZESI, GIACINTO": {
     "id": "bruzzesi-giacinto-2",
     "descriptions": [
-      "(1822-1900), SI dimette dall'esercito nel febbraio 1862 per seguire Garibaldi ad Aspromonte come Capo di Stato e Generale. Alla polizia appariva molto vicino al gruppo che aveva dato vita al giornale L'Unità Italiana ma in realtà fu sempre strettamente legato a Garibaldi, vedi anche vol. VI",
+      "(Cerveteri 1822 - Milano 1900) dopo una intensa attività politico militare che lo vide tra l'altro nel 1859 tra I C.d.A. e nel 1860 nello Stato Maggiore dell'E.M.. fu molto attivo nelle cospirazioni romane. Uomo di fiducia di Garibaldi per i collegamenti coi rivoluzionari di Roma, assolse a numerose missioni. Arrestato ad Aspromonte fu ancora protagonista degli avvemmenti culminati a Mentana. Dopo di allora si ritirò dalla politica e si dedicò ad imprese industriali e di commercio, e pur restando repubblicano si mantenne estraneo al partito",
+      "(1822-1900), Si dimette dall'esercito nel febbraio 1862 per seguire Garibaldi ad Aspromonte come Capo di Stato e Generale. Alla polizia appariva molto vicino al gruppo che aveva dato vita al giornale L'Unità Italiana ma in realtà fu sempre strettamente legato a Garibaldi, vedi anche vol. VI",
       "(1822-1900), in rapporti di affari con l'Inghilterra, si trovava a Londra quando Garibaldi, che lo teneva tra i fedelissimi, gli affidò la responsabilità del Comitato Romano. A lui fu dato anche il compito di far parte della commissione Crispi per la verifica dei debiti di Aspromonte, ma in questo anno fu comunque molto attivo e presente nelle iniziative politiche di Garibaldi, vedi anche voll. VI, VII;",
       "(1822-1900), collaboratore fidato di Garibaldi, tiene i contatti con la cospirazione romana; nella seconda metà del 1864 cura anche i propri rapporti commerciali con l'Inghilterra (vedi anche i voll. VI-VIII)",
       "(1822-1900), a Londra per affari dall'inizio del 1865 (assumerà la rappresentanza per l'Italia di alcuni prodotti industriali), è in grande confidenza con tutta la famiglia Garibaldi e si lamenta degli intrighi orditi ai suoi d~nni dai coniugi Chambers (vedi i voll. VI-IX)",
@@ -11404,6 +10843,13 @@
       "(1822-1900), colonnello"
     ],
     "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          23,
+          53
+        ]
+      },
       {
         "volume": 7,
         "pages": [
@@ -11487,26 +10933,9 @@
       }
     ]
   },
-  "BRUZZESI, GIACINTO (Cerveteri 1822-Mllano 1900)": {
-    "id": "bruzzesi-giacinto",
-    "descriptions": [
-      "dopo una intensa attività politico militare che lo vide tra l'altro nel 1859 tra I C.d.A. e nel 1860 nello Stato Maggiore dell'E.M.. fu molto attivo nelle cospirazioni romane. Uomo di fiducia di Garibaldi per i collegamenti coi rivoluzionari di Roma, assolse a numerose missioni. Arrestato ad Aspromonte fu ancora protagonista degli avvemmenti culminati a Mentana. Dopo di allora si ritirò dalla politica e si dedicò ad imprese industriali e di commercio, e pur restando repubblicano si mantenne estraneo al partito"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          23,
-          53
-        ]
-      }
-    ]
-  },
-  "BRUZZONE": {
-    "id": "bruzzone-anonimo",
-    "descriptions": [
-      "GIAN LUIGI"
-    ],
+  "BRUZZONE, GIAN LUIGI": {
+    "id": "bruzzone-gian",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -11522,10 +10951,10 @@
       }
     ]
   },
-  "BUFARDECI, EMILIO (Siracusa 1816-ivi 1899)": {
+  "BUFARDECI, EMILIO": {
     "id": "bufardeci-emilio",
     "descriptions": [
-      "matematico, entrò giovanissimo in rapporto con ambienti hberali della sua città, nella quale svolse un ruolo nlevante negli avvemmenti del 1848, poi si ritirò a vita privata mantenendo segreti legami con i rivoluzionari. Nel 1860 assunse la carica di sindaco di Siracusa in nome di Garibaldi. Fu anche deputato"
+      "(Siracusa 1816-ivi 1899) matematico, entrò giovanissimo in rapporto con ambienti hberali della sua città, nella quale svolse un ruolo nlevante negli avvemmenti del 1848, poi si ritirò a vita privata mantenendo segreti legami con i rivoluzionari. Nel 1860 assunse la carica di sindaco di Siracusa in nome di Garibaldi. Fu anche deputato"
     ],
     "occurrences": [
       {
@@ -11540,7 +10969,7 @@
   "BUFFA, DOMENICO": {
     "id": "buffa-domenico",
     "descriptions": [
-      ", (1818-1858), di Ovada, Intendente generale a Genova nel 1853 (vedi vol. II)"
+      "(1818-1858), di Ovada, Intendente generale a Genova nel 1853 (vedi vol. II)"
     ],
     "occurrences": [
       {
@@ -11552,10 +10981,10 @@
       }
     ]
   },
-  "BUFFONI": {
-    "id": "buffoni-anonimo",
+  "BUFFONI, FRANCESCO": {
+    "id": "buffoni-francesco",
     "descriptions": [
-      "FRANCESCO"
+      "(1843-1911), mazziniano romagnolo, era uno dei fungenti della Società dei Liberi cacciatori del Montefeltro"
     ],
     "occurrences": [
       {
@@ -11563,15 +10992,7 @@
         "pages": [
           80
         ]
-      }
-    ]
-  },
-  "BUFFONI, FRANCESCO": {
-    "id": "buffoni-francesco",
-    "descriptions": [
-      "(1843-1911), mazziniano romagnolo, era uno dei fungenti della Società dei Liberi cacciatori del Montefeltro"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 10,
         "pages": [
@@ -11638,20 +11059,6 @@
       }
     ]
   },
-  "BURATI'INI, CARLO": {
-    "id": "burati'ini-carlo",
-    "descriptions": [
-      "(1827-1870), capitano mercantile"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          13
-        ]
-      }
-    ]
-  },
   "BURATOVICH FRANCESCHINI": {
     "id": "buratovich-anonimo",
     "descriptions": [
@@ -11684,6 +11091,7 @@
     "id": "burattini-carlo",
     "descriptions": [
       "(1827-1870), capitano mercantile, commissario di guerra della flottiglia itahana",
+      "(1827-1870), capitano mercantile",
       "(1827-1870), capitano mercantile, vedi vol. IV",
       "(1827-1870), capitano mercantile"
     ],
@@ -11704,6 +11112,12 @@
         ]
       },
       {
+        "volume": 12,
+        "pages": [
+          13
+        ]
+      },
+      {
         "volume": 14,
         "pages": [
           123
@@ -11714,7 +11128,7 @@
   "BURCI, CARLO": {
     "id": "burci-carlo",
     "descriptions": [
-      "studente di medicma a Pisa ebbe modo di mettersi in vista come capo delle forze repubblicane. Ebbe poi parte nella sommossa genevose del 1857 e nella spedizione di Pisacane, mentre nel 1860 risulta in rapporti col Bertani per l'organizzazione e l'invio di volontari nel Mezzogiorno"
+      "studente di medicina a Pisa ebbe modo di mettersi in vista come capo delle forze repubblicane. Ebbe poi parte nella sommossa genevose del 1857 e nella spedizione di Pisacane, mentre nel 1860 risulta in rapporti col Bertani per l'organizzazione e l'invio di volontari nel Mezzogiorno"
     ],
     "occurrences": [
       {
@@ -11775,10 +11189,10 @@
       }
     ]
   },
-  "BURGOYNE, SIR JOHN FOX (1782-1871)": {
+  "BURGOYNE, SIR JOHN FOX": {
     "id": "burgoyne-sir",
     "descriptions": [
-      "baronetto, generale britanmco"
+      "(1782-1871) baronetto, generale britannico"
     ],
     "occurrences": [
       {
@@ -11854,11 +11268,9 @@
       }
     ]
   },
-  "BURONZI": {
-    "id": "buronzi-anonimo",
-    "descriptions": [
-      "MARIO"
-    ],
+  "BURONZI, MARIO": {
+    "id": "buronzi-mario",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -11882,11 +11294,9 @@
       }
     ]
   },
-  "BUSETTO": {
-    "id": "busetto-anonimo",
-    "descriptions": [
-      "GIROLAMO"
-    ],
+  "BUSETTO, GIROLAMO": {
+    "id": "busetto-girolamo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -11896,11 +11306,9 @@
       }
     ]
   },
-  "BUSNELLI": {
-    "id": "busnelli-anonimo",
-    "descriptions": [
-      "VALERIO"
-    ],
+  "BUSNELLI, VALERIO": {
+    "id": "busnelli-valerio",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -11910,10 +11318,11 @@
       }
     ]
   },
-  "BYRON, GEORGE": {
+  "BYRON, GEORGE GORDON": {
     "id": "byron-george",
     "descriptions": [
-      "Lord"
+      "Lord",
+      "(1788-1824), lord, poeta inglese"
     ],
     "occurrences": [
       {
@@ -11921,15 +11330,7 @@
         "pages": [
           42
         ]
-      }
-    ]
-  },
-  "BYRON, GEORGE GORDON": {
-    "id": "byron-george-2",
-    "descriptions": [
-      "(1788-1824), lord, poeta inglese"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 13,
         "pages": [
@@ -12022,11 +11423,9 @@
       }
     ]
   },
-  "CADDEO": {
-    "id": "caddeo-anonimo",
-    "descriptions": [
-      "RINALDO"
-    ],
+  "CADDEO, RINALDO": {
+    "id": "caddeo-rinaldo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -12044,10 +11443,10 @@
       }
     ]
   },
-  "CADEI, FERDINANDO (Caleppio 1838-Calatafimi 1860)": {
+  "CADEI, FERDINANDO": {
     "id": "cadei-ferdinando",
     "descriptions": [
-      "uno dei Mille, medaglia d'argento alla memoria"
+      "(Caleppio 1838-Calatafimi 1860) uno dei Mille, medaglia d'argento alla memoria"
     ],
     "occurrences": [
       {
@@ -12058,39 +11457,24 @@
       }
     ]
   },
-  "CADOLINI GIOVANNI, (1830-1917)": {
-    "id": "cadolini-(1830-1917)",
-    "descriptions": [
-      "luogotenente colonnello, comanda il 4° reggimento del C.V.I. impiegato in Val Camonica, vedi anche i voll. VII-IX"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          76,
-          77,
-          78,
-          91,
-          96,
-          97,
-          103,
-          121,
-          129,
-          134,
-          203,
-          216
-        ]
-      }
-    ]
-  },
   "CADOLINI, GIOVANNI": {
-    "id": "cadolini-giovanni-2",
+    "id": "cadolini-giovanni",
     "descriptions": [
+      "(Cremona 1830-1917) dopo una lunga esperienza di combattente, iniziata nel 1848 coi volontari lombardi e continuata a Roma nel 1849 e dieci anni dopo coi C.d.A. e poi nell'E.M., fu deputato, rimanendo esponente di spicco del partito d'azione. Membro del Consiglio Centrale dell'Emancipatrice, fece parte con Mordini e Fabrizi della delegazione della sinistra parlamentare inviata in Sicilia presso Garibaldi nel 1862",
       "(1830-1917), come deputato rimase politicamente vicino a Mordini, vedi vol. VII",
       "(1830-1917), nel 1864 membro del Comitato Centrale Unitario (vedi anche i voli. VII e VIII)",
+      "(1830-1917) luogotenente colonnello, comanda il 4° reggimento del C.V.I. impiegato in Val Camonica, vedi anche i voll. VII-IX",
       "(1830-1917), deputato"
     ],
     "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          193,
+          272,
+          283
+        ]
+      },
       {
         "volume": 8,
         "pages": [
@@ -12107,6 +11491,23 @@
           13,
           22,
           221
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          76,
+          77,
+          78,
+          91,
+          96,
+          97,
+          103,
+          121,
+          129,
+          134,
+          203,
+          216
         ]
       },
       {
@@ -12127,26 +11528,10 @@
       }
     ]
   },
-  "CADOLINI, GIOVANNI (Cremona 1830-1917)": {
-    "id": "cadolini-giovanni",
-    "descriptions": [
-      "dopo una lunga esperienza di combattente, iniziata nel 1848 coi volontari lombardi e continuata a Roma nel 1849 e dieci anni dopo coi C.d.A. e poi nell'E.M., fu deputato, rimanendo esponente di spicco del partito d'azione. Membro del Consiglio Centrale dell'Emancipatrice, fece parte con Mordini e Fabrizi della delegazione della sinistra parlamentare inviata in Sicilia presso Garibaldi nel 1"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          193,
-          272,
-          283
-        ]
-      }
-    ]
-  },
-  "CADORNA, RAFFAELE ALESSANDRO (Milano 1815-Roma 1897)": {
+  "CADORNA, RAFFAELE ALESSANDRO": {
     "id": "cadorna-raffaele",
     "descriptions": [
-      "promosso colonnello per mento di guerra a S. Martino, dal 15 ottobre maggior generale nell'esercito toscano e ministro della guerra a Firenze"
+      "(Milano 1815-Roma 1897) promosso colonnello per mento di guerra a S. Martino, dal 15 ottobre maggior generale nell'esercito toscano e ministro della guerra a Firenze"
     ],
     "occurrences": [
       {
@@ -33346,7 +32731,8 @@
       "(1840-1903), primogeruto di Giuseppe e di Anita Ribeiro. Tra il 1865 e il 1866 vive a Caprera e disbriga spesso la corrispondenza paterna (vedi i voli. I-II, IV, VIVII, IX)",
       "(1840-1903), su di lui vedi tutti i voll. precedenti; il padre gli affida con il grado di tenente colonnello il comando del 9° reggimento; a Bezzecca si guadagna una medaglia d'oro e alla fine della guerra è decorato con la croce dell'ordine militare di Savoia",
       "(1840-1903), primogenito di Giuseppe e di Anita Ribeiro, diresse i preparativi per la spedizione nel Lazio che comandò fino all'arrivo del padre, poi fu a capo della colonna di centro, 14, 15, 16, 85, 123, 177, 182, 185, 188, 191, 193, 196, 197, 198, 202;",
-      "(DOMENICO) (1840-1903), primogemto di Giuseppe e di Amta Ribeiro"
+      "(DOMENICO) (1840-1903), primogemto di Giuseppe e di Amta Ribeiro",
+      "comandante della terza brigata dell'armata dei Vosgi"
     ],
     "occurrences": [
       {
@@ -33497,6 +32883,38 @@
           184,
           273,
           315
+        ]
+      },
+      {
+        "volume": 14,
+        "pages": [
+          63,
+          67,
+          70,
+          90,
+          95,
+          115,
+          130,
+          132,
+          147,
+          157,
+          165,
+          167,
+          198,
+          202,
+          204,
+          207,
+          208,
+          209,
+          215,
+          217,
+          238,
+          247,
+          248,
+          249,
+          252,
+          255,
+          259
         ]
       }
     ]

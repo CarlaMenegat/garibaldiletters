@@ -459,6 +459,21 @@ a:hover {
   color: #666;
 }
 
+#alphabet-selector {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+#alphabet-selector button {
+  min-width: 2.5rem;
+  padding: 0.4rem 0.6rem;
+  font-weight: 500;
+}
+
 /* === FOOTER === */
 footer {
   background-color: #f8f9fa;

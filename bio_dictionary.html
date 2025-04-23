@@ -53,7 +53,14 @@
         <input id="search-volume" type="number" class="form-control" placeholder="Search by volume...">
       </div>
     </div>
-
+    <div class="mb-3 text-center" id="alphabet-selector">
+      <button class="btn btn-sm btn-outline-secondary mx-1" onclick="filterByLetter('all')">All</button>
+      <script>
+        'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').forEach(letter => {
+          document.write(`<button class="btn btn-sm btn-outline-secondary mx-1" onclick="filterByLetter('${letter}')">${letter}</button>`);
+        });
+      </script>
+    </div>
     <div id="entries-list"></div>
     <div class="mt-4 text-center">
       <button class="btn btn-outline-dark pagination-btn" id="prev-btn">Previous</button>
@@ -86,6 +93,7 @@
       const pageItems = filteredData.slice(start, start + ITEMS_PER_PAGE);
       const list = document.getElementById('entries-list');
       list.innerHTML = '';
+
       pageItems.forEach(entry => {
         const link = document.createElement('a');
         link.href = `entry.html?id=${entry.id}`;
@@ -123,6 +131,15 @@
         filteredData = [...data];
       } else {
         filteredData = data.filter(entry => entry.ocorrencias.some(o => o.volume == volume));
+      }
+      currentPage = 1;
+      renderPage();
+    };
+    function filterByLetter(letter) {
+      if (letter === 'all') {
+        filteredData = [...data];
+      } else {
+        filteredData = data.filter(entry => entry.nome.charAt(0).toUpperCase() === letter);
       }
       currentPage = 1;
       renderPage();

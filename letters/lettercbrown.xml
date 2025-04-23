@@ -19,6 +19,7 @@
             </msIdentifier>
             <bibl>
               <ptr target="https://repository.library.brown.edu/iiif/presentation/bdr:417984/manifest.json"/>
+              <ref type="thumbnail" target="https://repository.library.brown.edu/iiif/image/bdr:1098268/full/full/0/default.jpg"/>
             </bibl>
           </msDesc>
         </sourceDesc>
@@ -28,10 +29,11 @@
           <correspAction type="sent">
             <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>
             <date when="1854/02/22"/>
-            <placeName ref="#LON" cert="high">LONDON</placeName>
+            <placeName ref="#LON" cert="high">London</placeName>
           </correspAction>
           <correspAction type="received">
             <persName ref="#PAS" cert="high">Michele Pastacaldi</persName>
+            <placeName ref="#NY" cert="low">New York</placeName>
           </correspAction>
         </correspDesc>
       </profileDesc>
@@ -55,7 +57,8 @@
     </teiHeader>
     <facsimile>
       <surface xml:id="surface-1">
-        <graphic url="https://repository.library.brown.edu/iiif/bdr:417984/canvas/canvas-1"/>
+        <graphic url="https://repository.library.brown.edu/iiif/presentation/bdr:417984/manifest.json"/>
+        <ref type="thumbnail" target="https://repository.library.brown.edu/images/iiif/bdr:417984/full/!200,200/0/default.jpg"/>
       </surface>
     </facsimile>
     <text>

@@ -1,72 +1,83 @@
 import os
-import re
 import json
+import re
+from collections import defaultdict
 
-# 📌 Diretórios de entrada e saída
-input_dir = "/Users/carlamenegat/Documents/GitHub/final_project/Information-Modeling-and-Web-Technologies/garibaldiletters/final_clean_index"
-output_json = "/Users/carlamenegat/Documents/GitHub/final_project/Information-Modeling-and-Web-Technologies/garibaldiletters/database/biographical_data.json"
+# Caminhos
+base_path = '/Users/carlamenegat/Documents/GitHub/final_project/Information-Modeling-and-Web-Technologies/garibaldiletters/final_clean_index'
+output_path = '/Users/carlamenegat/Documents/GitHub/final_project/Information-Modeling-and-Web-Technologies/garibaldiletters/database'
 
-# 📌 Função para extrair os dados do índice limpo
-def extract_data_from_cleaned_text(file_path, volume):
-    """Extrai nome, biografia e páginas de um índice limpo."""
-    with open(file_path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-    
-    entries = []
-    current_entry = {"name": "", "bio_note": "", "pages": [], "volume": volume}
-    
-    for line in lines:
-        line = line.strip()
-        
-        # Se a linha estiver vazia, pula
-        if not line:
-            continue
-        
-        # Expressão regular para capturar nome, bio e páginas
-        match = re.match(r"^([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ,\s-]*)(.*?)(\d+(?:,\s*\d+)*)?$", line)
-        
-        if match:
-            name = match.group(1).strip().rstrip(',')  # Remove vírgula final se houver
-            bio = match.group(2).strip()
-            pages = match.group(3)
-            
-            # Converte números das páginas em uma lista de inteiros
-            page_numbers = [int(n) for n in pages.split(',')] if pages else []
-            
-            # Se já tivermos uma entrada em progresso, salvamos antes de iniciar a nova
-            if current_entry["name"]:
-                entries.append(current_entry)
-                current_entry = {"name": "", "bio_note": "", "pages": [], "volume": volume}
-            
-            # Atualiza a nova entrada
-            current_entry["name"] = name
-            current_entry["bio_note"] = bio
-            current_entry["pages"] = page_numbers
-        
-        else:
-            # Se não for uma nova entrada, é continuação da bio anterior
-            current_entry["bio_note"] += " " + line.strip()
-    
-    # Adiciona a última entrada se houver
-    if current_entry["name"]:
-        entries.append(current_entry)
-    
-    return entries
+# Dicionário biográfico
+bio_dict = {}
+id_ocorrencias = defaultdict(int)  # Para lidar com homônimos
 
-# 📌 Processar todos os arquivos na pasta de entrada
-all_entries = []
-if os.path.exists(input_dir):
-    for filename in os.listdir(input_dir):
-        if filename.startswith("extracted_vol") and filename.endswith(".txt"):
-            volume = int(re.search(r'vol(\d+)', filename).group(1))  # Extrai o número do volume
-            file_path = os.path.join(input_dir, filename)
-            entries = extract_data_from_cleaned_text(file_path, volume)
-            all_entries.extend(entries)
-    
-    # Salvar em JSON
-    with open(output_json, "w", encoding="utf-8") as f:
-        json.dump(all_entries, f, indent=4, ensure_ascii=False)
-    
-    print(f"✅ Dados biográficos extraídos e salvos em: {output_json}")
-else:
-    print(f"❌ ERRO: O diretório de entrada '{input_dir}' não existe. Verifique o caminho e tente novamente.")
+# Função para gerar ID simples e legível
+def generate_human_id(sobrenome, nome):
+    primeiro_sobrenome = sobrenome.strip().split()[0].lower()
+    primeiro_nome = nome.strip().split()[0].lower() if nome else "anonimo"
+    base_id = f"{primeiro_sobrenome}-{primeiro_nome}"
+    id_ocorrencias[base_id] += 1
+    if id_ocorrencias[base_id] > 1:
+        return f"{base_id}-{id_ocorrencias[base_id]}"
+    return base_id
+
+# Loop pelos arquivos
+for volume in range(1, 15):
+    file_path = os.path.join(base_path, f"extracted_vol{volume}_index.txt")
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            line = line.strip()
+            if not line:
+                continue
+
+            # Tenta separar páginas
+            match_paginas = re.search(r'(\d{1,3}(?:,\s*\d{1,3})*)$', line)
+            if not match_paginas:
+                continue
+
+            paginas_str = match_paginas.group(1)
+            paginas = [int(p.strip()) for p in paginas_str.split(',') if int(p.strip()) <= 500]
+            if not paginas:
+                continue
+
+            texto_principal = line[:match_paginas.start()].strip().rstrip(',')
+
+            # Divide usando vírgulas
+            partes = [p.strip() for p in texto_principal.split(',', maxsplit=2)]
+
+            if len(partes) == 3:
+                sobrenome, nome, descricao = partes
+            elif len(partes) == 2:
+                sobrenome = partes[0]
+                nome = ''
+                descricao = partes[1]
+            else:
+                continue
+
+            nome_completo = f"{sobrenome}, {nome}".strip(', ').strip()
+            unique_id = generate_human_id(sobrenome, nome)
+
+            if nome_completo not in bio_dict:
+                bio_dict[nome_completo] = {
+                    "id": unique_id,
+                    "descriptions": [],
+                    "occurrences": []
+                }
+
+            if descricao and descricao not in bio_dict[nome_completo]["descriptions"]:
+                bio_dict[nome_completo]["descriptions"].append(descricao)
+
+            bio_dict[nome_completo]["occurrences"].append({
+                "volume": volume,
+                "pages": paginas
+            })
+
+# Ordenar o dicionário por nome completo (chave)
+bio_dict_ordenado = dict(sorted(bio_dict.items(), key=lambda x: x[0]))
+
+# Exportar JSON
+json_output_path = os.path.join(output_path, 'dicionario_biografico.json')
+with open(json_output_path, 'w', encoding='utf-8') as json_file:
+    json.dump(bio_dict_ordenado, json_file, indent=2, ensure_ascii=False)
+
+print(f"✅ Dicionário biográfico exportado em ordem alfabética para {json_output_path}")

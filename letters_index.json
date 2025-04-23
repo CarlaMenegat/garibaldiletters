@@ -1,0 +1,98 @@
+[
+  {
+    "file": "letterc4.xml",
+    "title": "Lettera di Garibaldi, Giuseppe",
+    "date": "1848-10-06",
+    "place": "Genova",
+    "destPlace": "Cicagna",
+    "sender": "Giuseppe Garibaldi",
+    "recipient": "Elettori del Colegio di Cicagna",
+    "manifest": "https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/manifest",
+    "thumbnail": "https://edl-jarvis.cultura.gov.it/images/db/80c95aa4-6caa-438e-895e-81ff48ef75ca/thumb.jpg",
+    "theme": "#elections"
+  },
+  {
+    "file": "lettercc5_6.xml",
+    "title": "Lettera di Garibaldi, Giuseppe",
+    "date": "1849-04-29",
+    "place": "Roma",
+    "destPlace": "Roma",
+    "sender": "Giuseppe Garibaldi",
+    "recipient": "Comandante della Legione Degli Emigrati",
+    "manifest": "https://edl-jarvis.cultura.gov.it/meta/iiif/289daccf-32f3-438a-84bb-023f6e13fda5/manifest",
+    "thumbnail": "https://edl-jarvis.cultura.gov.it/images/db/76da8de0-239c-4e82-8191-058cb570ae3b/thumb.jpg",
+    "theme": "#repubblica_romana"
+  },
+  {
+    "file": "lettercc2_3.xml",
+    "title": "Lettera di Garibaldi, Giuseppe a Masi, Luigi",
+    "date": "1849-05-24",
+    "place": "Anagni",
+    "destPlace": "Frosinone",
+    "sender": "Giuseppe Garibaldi",
+    "recipient": "Luigi Masi",
+    "manifest": "https://edl-jarvis.cultura.gov.it/meta/iiif/bbe2089e-af25-4ee5-b970-6b06f9d724e7/manifest",
+    "thumbnail": "https://edl-jarvis.cultura.gov.it/images/db/f6b30b63-a0fa-4999-9ba0-37c9c9298d36/thumb.jpg",
+    "theme": "#repubblica_romana"
+  },
+  {
+    "file": "lettercbrown.xml",
+    "title": "Letter from Garibaldi, Giuseppe to Pastacaldi, Michele",
+    "date": "1854/02/22",
+    "place": "London",
+    "destPlace": "New York",
+    "sender": "Giuseppe Garibaldi",
+    "recipient": "Michele Pastacaldi",
+    "manifest": "https://repository.library.brown.edu/iiif/presentation/bdr:417984/manifest.json",
+    "thumbnail": "https://repository.library.brown.edu/iiif/image/bdr:1098268/full/full/0/default.jpg",
+    "theme": "business"
+  },
+  {
+    "file": "lettercc7_8.xml",
+    "title": "Lettera di Garibaldi, Giuseppe",
+    "date": "1862-03-13",
+    "place": "Genova",
+    "destPlace": "",
+    "sender": "Giuseppe Garibaldi",
+    "recipient": "Al Benemerito Comitato D'Istruzione Nazionale",
+    "manifest": "https://edl-jarvis.cultura.gov.it/meta/iiif/efcbfbe7-cdfb-48bc-82d2-4c7a1fe9b39f/manifest",
+    "thumbnail": "https://edl-jarvis.cultura.gov.it/images/db/9cb20e0d-35bd-4620-895e-02ab3d244b51/thumb.jpg",
+    "theme": "#tiro"
+  },
+  {
+    "file": "lettercc9_10.xml",
+    "title": "Lettera di Garibaldi, Giuseppe a Grillenzoni, Giovanni",
+    "date": "1862-03-13",
+    "place": "Genova",
+    "destPlace": "Reggio",
+    "sender": "Giuseppe Garibaldi",
+    "recipient": "Giovanni Grillenzoni",
+    "manifest": "https://edl-jarvis.cultura.gov.it/meta/iiif/473a0844-d3ef-4397-91fd-079a19b0f319/manifest",
+    "thumbnail": "https://edl-jarvis.cultura.gov.it/images/db/086a5599-cfdb-4933-b73b-6e5304e67a92/thumb.jpg",
+    "theme": "#tiro"
+  },
+  {
+    "file": "letterc11.xml",
+    "title": "Lettera di Garibaldi, Giuseppe",
+    "date": "1865-12-12",
+    "place": "Caprera",
+    "destPlace": "Prato",
+    "sender": "Giuseppe Garibaldi",
+    "recipient": "Bruni",
+    "manifest": "https://edl-jarvis.cultura.gov.it/meta/iiif/e822e051-8c0f-44d1-9620-0d269b4b12db/manifest",
+    "thumbnail": "https://edl-jarvis.cultura.gov.it/images/db/f210aa9e-fdc1-4b33-bc3a-7f421164d944/thumb.jpg",
+    "theme": "#education"
+  },
+  {
+    "file": "letterc12.xml",
+    "title": "Lettera di Garibaldi, Giuseppe a Mazzoni, Giuseppe",
+    "date": "1873-08-26",
+    "place": "Caprera",
+    "destPlace": "Prato",
+    "sender": "Giuseppe Garibaldi",
+    "recipient": "Mazzoni, Giuseppe",
+    "manifest": "https://edl-jarvis.cultura.gov.it/meta/iiif/df0f39ec-e82a-4080-8ace-176fbed2b736/manifest",
+    "thumbnail": "https://edl-jarvis.cultura.gov.it/images/db/b1cfaafe-b4ed-4870-89ce-febde5606f84/thumb.jpg",
+    "theme": "#freemasson"
+  }
+]

@@ -20,9 +20,10 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                  <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/efcbfbe7-cdfb-48bc-82d2-4c7a1fe9b39f/manifest"/>
+                    <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/efcbfbe7-cdfb-48bc-82d2-4c7a1fe9b39f/manifest"/>
+                    <ref type="thumbnail" target="https://edl-jarvis.cultura.gov.it/images/db/9cb20e0d-35bd-4620-895e-02ab3d244b51/thumb.jpg"/>
                 </bibl>
-              </sourceDesc>
+            </sourceDesc>
         </fileDesc>
         
         <encodingDesc>

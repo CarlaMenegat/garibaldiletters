@@ -45,6 +45,7 @@
                 </msDesc>
                 <bibl>
                     <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/bbe2089e-af25-4ee5-b970-6b06f9d724e7/manifest"/>
+                    <ref type="thumbnail" target="https://edl-jarvis.cultura.gov.it/images/db/f6b30b63-a0fa-4999-9ba0-37c9c9298d36/thumb.jpg"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -68,7 +69,7 @@
                     <date when="1849-05-24"/>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="#MAS" cert="high">Luigi Masi</orgName>
+                    <persName ref="#MAS" cert="high">Luigi Masi</persName>
                     <placeName ref="#FRO" cert="high">Frosinone</placeName>
                 </correspAction>
             </correspDesc>

@@ -16,25 +16,31 @@
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Garibaldi's Letters</a>
+      <a class="navbar-brand" href="index.html">Garibaldi's Letters</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-  
+
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link" href="#">Homepage</a>
+            <a class="nav-link" href="index.html">Homepage</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Letters</a>
+
+          <!-- Dropdown for Letters -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="lettersDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Letters
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="lettersDropdown">
+              <li><a class="dropdown-item" href="letters-index.html">Letters Index</a></li>
+              <li><a class="dropdown-item" href="viewer.html">Viewer</a></li>
+            </ul>
           </li>
+
           <li class="nav-item">
-            <a class="nav-link" href="#">Risorgimento</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Biographical Dictionary</a>
+            <a class="nav-link" href="bio_dictionary.html">Biographical Dictionary</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">About</a>
@@ -44,68 +50,68 @@
     </div>
   </nav>
   <!-- selector letter -->
-<div class="container mt-3 text-center">
-    <div class="letter-nav d-inline-flex align-items-center gap-3">
-        <button id="prev-letter" class="btn btn-outline-secondary btn-sm">&laquo; Previous</button>
-        <div id="letter-date" class="fw-bold text-uppercase small px-2"></div>
-        <button id="next-letter" class="btn btn-outline-secondary btn-sm">Next &raquo;</button>
-        <button id="toggle-sidebar" class="btn btn-outline-secondary btn-sm">Metadata</button>
-      </div>
-  </div>
+  <div class="container mt-3 text-center">
+      <div class="letter-nav d-inline-flex align-items-center gap-3">
+          <button id="prev-letter" class="btn btn-outline-secondary btn-sm">&laquo; Previous</button>
+          <div id="letter-date" class="fw-bold text-uppercase small px-2"></div>
+          <button id="next-letter" class="btn btn-outline-secondary btn-sm">Next &raquo;</button>
+          <button id="toggle-sidebar" class="btn btn-outline-secondary btn-sm">Metadata</button>
+        </div>
+    </div>
 
-  <div class="main-content">
-    <!-- Sidebar Metadata -->
-    <div id="metadata-sidebar">
-      <div class="sidebar-header">
-        <h5>Metadata</h5>
-        <button id="close-sidebar" class="btn-close"></button>
-      </div>
-      <div id="metadata-content" class="sidebar-content"></div>
-    </div>
-  
-    <div class="content-wrapper d-flex w-100">
-      <!-- Box 1: IIIF Viewer -->
-      <div class="col-6 left-column">
-        <div id="iiif-viewer"></div>
-      </div>
-  
-      <!-- Box 2 e 3: Transcrição + Anotações -->
-      <div class="text-center my-2" id="surface-selector-container"></div>
-      <div class="col-6 right-column d-flex flex-column">
-        
-        <!-- Transcrição com Abas -->
-        <div class="transcription-box">
-          <div class="surface-selector-wrapper mb-2">
-            <label for="surface-selector" class="form-label mb-0">Surface</label>
-            <select id="surface-selector" class="form-select form-select-sm w-auto d-inline-block"></select>
-          </div>
-  
-          <!-- Abas estilo fichário -->
-          <div class="transcription-tabs mb-2">
-            <button class="tab-button active" id="tab-original">Original</button>
-            <button class="tab-button" id="tab-translation">Translation</button>
-          </div>
-  
-          <!-- Conteúdo das transcrições -->
-          <div id="transcription-content" class="px-2 py-1"></div>
+    <div class="main-content">
+      <!-- Sidebar Metadata -->
+      <div id="metadata-sidebar">
+        <div class="sidebar-header">
+          <h5>Metadata</h5>
+          <button id="close-sidebar" class="btn-close"></button>
         </div>
-  
-        <!-- Box de Anotações -->
-        <div class="annotations-box d-none" id="annotations-box">
-          <div class="d-flex justify-content-between align-items-center mb-2">
-            <h5 class="mb-0">Annotations</h5>
-            <button id="close-annotations" class="btn btn-sm btn-outline-secondary">×</button>
+        <div id="metadata-content" class="sidebar-content"></div>
+      </div>
+    
+      <div class="content-wrapper d-flex w-100">
+        <!-- Box 1: IIIF Viewer -->
+        <div class="col-6 left-column">
+          <div id="iiif-viewer"></div>
+        </div>
+    
+        <!-- Box 2 e 3: Transcrição + Anotações -->
+        <div class="text-center my-2" id="surface-selector-container"></div>
+        <div class="col-6 right-column d-flex flex-column">
+          
+          <!-- Transcrição com Abas -->
+          <div class="transcription-box">
+            <div class="surface-selector-wrapper mb-2">
+              <label for="surface-selector" class="form-label mb-0">Surface</label>
+              <select id="surface-selector" class="form-select form-select-sm w-auto d-inline-block"></select>
+            </div>
+    
+            <!-- Abas estilo fichário -->
+            <div class="transcription-tabs mb-2">
+              <button class="tab-button active" id="tab-original">Original</button>
+              <button class="tab-button" id="tab-translation">Translation</button>
+            </div>
+    
+            <!-- Conteúdo das transcrições -->
+            <div id="transcription-content" class="px-2 py-1"></div>
           </div>
-          <div id="annotations-content"></div>
+    
+          <!-- Box de Anotações -->
+          <div class="annotations-box d-none" id="annotations-box">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+              <h5 class="mb-0">Annotations</h5>
+              <button id="close-annotations" class="btn btn-sm btn-outline-secondary">×</button>
+            </div>
+            <div id="annotations-content"></div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-  
-  <!-- Footer -->
-  <footer>
-    <p>© 2025 Garibaldi's Letters Project. All rights reserved. | <a href="#">Project Documentation</a></p>
-  </footer>
-  <script src="scripts/viewer.js"></script>
-</body>
+    
+    <!-- Footer -->
+    <footer>
+      <p>© 2025 Garibaldi's Letters Project. All rights reserved. | <a href="documentation.html">Project Documentation</a></p>
+    </footer>
+    <script src="scripts/viewer.js"></script>
+  </body>
 </html>

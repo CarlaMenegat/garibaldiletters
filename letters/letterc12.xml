@@ -36,6 +36,7 @@
                 </msDesc>
                 <bibl>
                     <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/df0f39ec-e82a-4080-8ace-176fbed2b736/manifest"/>
+                    <ref type="thumbnail" target="https://edl-jarvis.cultura.gov.it/images/db/b1cfaafe-b4ed-4870-89ce-febde5606f84/thumb.jpg"/>
                 </bibl>
             </sourceDesc>
             </fileDesc>

@@ -52,6 +52,24 @@ body.homepage .navbar {
   width: 100%;
 }
 
+.navbar-nav .dropdown-menu {
+  font-family: 'Playfair Display', serif;
+  font-size: 1rem;     
+  background-color: white;
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-menu .dropdown-item {
+  font-family: inherit;
+  font-size: inherit;
+  padding: 0.5rem 1rem;
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background-color: #f0f0f0;
+}
+
 /* Hero section atualizada */
 .hero {
   background-image: url('images/la-bataglia-di-mentana.jpg');
@@ -109,7 +127,58 @@ a:hover {
   text-decoration: underline;
 }
 
+/* === INDEX DE CARTAS === */
+.letters-index h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
 
+.letter-card .card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease;
+}
+
+.letter-card .card:hover {
+  transform: translateY(-4px);
+}
+
+.letter-card .card-img-top {
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  object-fit: cover;
+  height: 180px;
+}
+
+.letter-card .card-body {
+  padding: 1rem 1.2rem;
+}
+
+.letter-card .card-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.letter-card .card-text {
+  font-size: 0.95rem;
+  color: #333;
+  line-height: 1.4;
+}
+
+.letter-card .btn-primary {
+  background-color: rgba(75, 113, 96, 0.6);
+  border-color: rgba(75, 113, 96, 0.6);
+  font-size: 0.9rem;
+}
+
+.letter-card .btn-primary:hover {
+  background-color: #3e5d4f;
+  border-color: #3e5d4f;
+}
 
 /* === NAV DA CARTA === */
 .letter-nav {

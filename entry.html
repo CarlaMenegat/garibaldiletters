@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Biographical Entry</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .custom-green-btn {
+      background-color: rgba(75, 113, 96, 0.6);
+      color: #2f2f2f;
+      border: none;
+    }
+    .custom-green-btn:hover {
+      background-color: rgba(75, 113, 96, 0.8);
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">Garibaldi's Letters</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="index.html">Homepage</a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Letters</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="letters-index.html">Letters Index</a></li>
+              <li><a class="dropdown-item" href="viewer.html">Viewer</a></li>
+            </ul>
+          </li>
+          <li class="nav-item"><a class="nav-link active" href="dictionary.html">Biographical Dictionary</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main class="section pt-5 mt-5">
+    <div id="entry-content">
+      <h1 id="entry-name" class="mb-3"></h1>
+      <div id="entry-id" class="mb-4 text-muted"></div>
+
+      <h4>Descriptions:</h4>
+      <ul id="entry-descriptions" class="mb-4"></ul>
+      <button id="translate-btn" class="btn custom-green-btn mb-4">Translate Descriptions to English</button>
+
+      <h4>Volume Appearances:</h4>
+      <div id="entry-occurrences" class="mb-4"></div>
+
+      <a href="dictionary.html" class="btn btn-outline-dark">← Back to Dictionary</a>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="mt-5">
+    <p>© 2025 Garibaldi's Letters Project. All rights reserved.</p>
+  </footer>
+
+  <script>
+    let entryInfo = null;
+
+    async function loadEntry() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const id = urlParams.get('id');
+
+      const [bioRes, linksRes] = await Promise.all([
+        fetch('database/dicionario_biografico.json'),
+        fetch('database/volumes_links.json')
+      ]);
+      const [bioData, linksData] = await Promise.all([bioRes.json(), linksRes.json()]);
+
+      const entry = Object.entries(bioData).find(([_, info]) => info.id === id);
+
+      if (!entry) {
+        document.getElementById('entry-content').innerHTML = '<p class="text-danger">Entry not found.</p>';
+        return;
+      }
+
+      const [nome, info] = entry;
+      entryInfo = info;
+      document.getElementById('entry-name').textContent = nome;
+      document.getElementById('entry-id').textContent = `ID: ${info.id}`;
+
+      const descList = document.getElementById('entry-descriptions');
+      descList.innerHTML = '';
+      info.descriptions.forEach(desc => {
+        const li = document.createElement('li');
+        li.textContent = desc;
+        descList.appendChild(li);
+      });
+
+      const occDiv = document.getElementById('entry-occurrences');
+      occDiv.innerHTML = '';
+      const grouped = {};
+      info.occurrences.forEach(({ volume, pages }) => {
+        if (!grouped[volume]) grouped[volume] = [];
+        grouped[volume].push(...pages);
+      });
+
+      Object.keys(grouped).sort((a, b) => a - b).forEach(volume => {
+        const div = document.createElement('div');
+        const link = linksData[volume] ? `<a href="${linksData[volume]}" target="_blank">[PDF]</a>` : '';
+        div.innerHTML = `<strong>Volume ${volume}:</strong> pages ${grouped[volume].sort((a, b) => a - b).join(', ')} ${link}`;
+        occDiv.appendChild(div);
+      });
+    }
+
+    document.getElementById('translate-btn').addEventListener('click', async () => {
+      const list = document.getElementById('entry-descriptions');
+      const originalItems = Array.from(list.children).map(li => li.textContent);
+
+      const translations = await Promise.all(
+        originalItems.map(async (text) => {
+          const res = await fetch('http://localhost:5001/translate', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ text })
+          });
+          const json = await res.json();
+          return json.translated || text;
+        })
+      );
+
+      list.innerHTML = '';
+      originalItems.forEach((original, index) => {
+        const li = document.createElement('li');
+        li.innerHTML = `
+          <div><strong>${original}</strong></div>
+          <div style="font-style: italic; color: #555; font-size: 0.95em;">${translations[index]}</div>
+        `;
+        list.appendChild(li);
+      });
+    });
+
+    loadEntry();
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

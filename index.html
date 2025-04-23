@@ -10,35 +10,41 @@
 <body class="homepage">
 
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg fixed-top">
-        <div class="container-fluid">
-        <a class="navbar-brand" href="#">Garibaldi's Letters</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="#">Homepage</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Letters</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Risorgimento</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Biographical Dictionary</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">About</a>
-            </li>
+<nav class="navbar navbar-expand-lg fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">Garibaldi's Letters</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+  
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Homepage</a>
+          </li>
+  
+          <!-- Dropdown for Letters -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="lettersDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Letters
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="lettersDropdown">
+              <li><a class="dropdown-item" href="letters-index.html">Letters Index</a></li>
+              <li><a class="dropdown-item" href="viewer.html">Viewer</a></li>
             </ul>
-        </div>
-        </div>
-    </nav>
+          </li>
+  
+          <li class="nav-item">
+            <a class="nav-link" href="bio_dictionary.html">Biographical Dictionary</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
     <!-- Hero section -->
     <section class="hero">
@@ -52,7 +58,10 @@
     <section id="project" class="section">
         <h2>About the Project</h2>
         <p>
-        <strong>Garibaldi Letters</strong> is a digital edition of the personal correspondence of Giuseppe Garibaldi. This project offers scholarly transcriptions, editorial annotations, metadata, and English translations of selected letters, made available in a user-friendly interface integrating IIIF viewers and TEI-based data models.
+          <em>Garibaldi's Letters</em> is a digital edition dedicated to the correspondence of Giuseppe Garibaldi, one of the central figures of the Italian Risorgimento. Garibaldi maintained an extensive network of correspondence that linked him not only to various parts of Europe, but also to South America, Central America, and the United States. This project presents TEI-encoded transcriptions of selected letters alongside high-resolution facsimiles and editorial annotations, aiming to provide researchers, students, and the broader public with accessible materials that reflect both the historical reach and textual richness of Garibaldi’s epistolary legacy.
+        </p>
+        <p>
+          The project also includes a <a href="bio_dictionary.html">Biographical Dictionary</a> that consolidates all personal name entries found in the printed indexes of the <a href="https://www.risorgimento.it/edizioni-scritti-di-garibaldi/" target="_blank">Epistolario di Giuseppe Garibaldi</a>, volumes 1 to 14. This component enables users to explore individuals mentioned in Garibaldi's letters, view the volume and page references where they appear, and access brief biographical notes. Each entry page features translation support to make descriptions accessible in English.
         </p>
 
         <h3>State of the Art</h3>
@@ -102,7 +111,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>© 2025 Garibaldi's Letters Project. All rights reserved. | <a href="#">Project Documentation</a></p>
+        <p>© 2025 Garibaldi's Letters Project. All rights reserved. | <a href="#documentation.html">Project Documentation</a></p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

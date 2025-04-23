@@ -21,6 +21,7 @@
       <sourceDesc>
         <bibl>
           <ptr target="https://edl-jarvis.cultura.gov.it/meta/iiif/f7c06ab2-9699-4d1c-bcc4-619a3bc05e96/manifest"/>
+          <ref type="thumbnail" target="https://edl-jarvis.cultura.gov.it/images/db/80c95aa4-6caa-438e-895e-81ff48ef75ca/thumb.jpg"/>
         </bibl>
       </sourceDesc>
     </fileDesc>

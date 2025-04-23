@@ -10,35 +10,44 @@
 </head>
 <body>
   <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg fixed-top">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">Garibaldi's Letters</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ms-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="#">Homepage</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Letters</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Risorgimento</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Biographical Dictionary</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+  <nav class="navbar navbar-expand-lg">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Garibaldi's Letters</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html">Homepage</a>
+        </li>
+
+        <!-- Dropdown for Letters -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="lettersDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Letters
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="lettersDropdown">
+            <li><a class="dropdown-item" href="letters-index.html">Letters Index</a></li>
+            <li><a class="dropdown-item" href="viewer.html">Viewer</a></li>
+          </ul>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#">Risorgimento</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Biographical Dictionary</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  </nav>
     <div class="doc-container">
         <aside class="doc-sidebar">
             <ul>
@@ -167,6 +176,14 @@
                     <li>JSON-based letter index (<code>letters_order.json</code>) for navigation and ordering</li>
                 </ul>
             </section>
+
+            <section id="biographical-dictionary">
+              <h2>9. Biographical Dictionary Module</h2>
+              <p>The digital edition integrates a <strong>Biographical Dictionary</strong> module that consolidates all name entries present in the printed indexes of the <a href="https://www.risorgimento.it/edizioni-scritti-di-garibaldi/" target="_blank">Epistolario di Giuseppe Garibaldi</a>, volumes 1 through 14. These entries were manually extracted, normalized, and cleaned from the PDFs of the original publications, resulting in a set of structured plain-text files, one for each volume.</p>
+              <p>A Python script processes the extracted data into a single <code>.json</code> file that serves as the data source for a searchable and paginated web interface. The application dynamically aggregates repeated names across volumes, merges their descriptions, and organizes page references by volume. Unique identifiers for each person are automatically generated using a combination of name components and numerical suffixes to resolve homonyms.</p>
+              <p>The frontend provides a browsable list of all individuals, with support for searching by name or volume. Clicking on a name opens a dedicated entry page displaying associated biographical descriptions and all occurrences in the correspondence volumes.</p>
+              <p>To enhance accessibility, a translation feature has been integrated into each entry page using the DeepL API. When activated, this feature sends the original Italian descriptions to a local Flask backend, which securely relays the request to DeepL's translation service and returns an English version of the text. Both original and translated content are presented side by side for clarity and comparative analysis.</p>
+            </section>
         
             <section id="conclusion">
                 <h2>13. Conclusion</h2>
@@ -179,7 +196,7 @@
   <!-- Footer -->
   <footer>
     <p>© 2025 Garibaldi's Letters Project. All rights reserved. |
-      <a href="#">Project Documentation</a>
+      <a href="#documentation.html">Project Documentation</a>
     </p>
   </footer>
 </body>

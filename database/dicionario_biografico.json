@@ -22454,6 +22454,7 @@
     "id": "damiani-abele",
     "descriptions": [
       "(Marsala, 1835 - ivi, 2 marzo 1905), studiò nei seminari di Marsala e Palermo, e già da allora in relazione con gli esuli siciliani residenti in Malta, fu tra i promotori della rivolta di Marsala nel 1860. Arruolatosi nell'E.M. vi raggiunse il grado di capitano; successivamente fu sindaco della sua città. Capo dell'Intendenza Militare della Legione Romana, fece parte del Quartier Generale della spedizione d'Aspromonte, ciò che gli procurò l'arresto e la detenzione nel forte di Bard, da dove fu liberato essendo stato eletto deputato nel collegio di Marsala. Rappresentò questa città ininterrottamente dalla IX alla XIX legislatura, sempre in strettissime relazioni con il Crispi. Nel 1863 dirigeva il giornale La Sibillia di Trapani ed era consigliere provinciale",
+      "(1835-1905), autore nel 1864 di uno scritto commemorativo per Andrea D'Anna (vedi il vol. VIII)",
       "(1835-1905), molto legato a Crispi, nel 1865 entrò nel Parlamento in rappresentanza del collegio di Marsala, sua città natale, e vi rimase fino alla XIX legislatura (vedi i voli. VIII-IX)",
       "(1835-1905), (vedi i voll. VIII-X), addetto al Quartier generale, combatte a Bezzecca"
     ],
@@ -22463,6 +22464,13 @@
         "pages": [
           45,
           69
+        ]
+      },
+      {
+        "volume": 9,
+        "pages": [
+          121,
+          122
         ]
       },
       {
@@ -22480,26 +22488,9 @@
       }
     ]
   },
-  "DAMIANI, ÀBELE": {
-    "id": "damiani-àbele",
-    "descriptions": [
-      "(1835-1905), autore nel 1864 di uno scritto commemorativo per Andrea D'Anna (vedi il vol. VIII)"
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          121,
-          122
-        ]
-      }
-    ]
-  },
-  "DANA": {
+  "DANA, A. C.": {
     "id": "dana-anonimo",
-    "descriptions": [
-      "A. C."
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -22509,10 +22500,10 @@
       }
     ]
   },
-  "DANDOLO, ENRICO (Varese 1827-Roma 1849) nome illustre negli annali del patriottismo risorgimentale": {
+  "DANDOLO, ENRICO": {
     "id": "dandolo-enrico",
     "descriptions": [
-      "mori a Roma, a villa Corsini, mentre respingeva un attacco francese"
+      "(Varese 1827-Roma 1849) nome illustre negli annali del patriottismo risorgimentale mori a Roma, a villa Corsini, mentre respingeva un attacco francese"
     ],
     "occurrences": [
       {
@@ -22554,7 +22545,7 @@
   "DANESI, ANTONIO": {
     "id": "danesi-antonio",
     "descriptions": [
-      "Giornahsta, dirigeva n Democratico di Forlì"
+      "Giornalista, dirigeva n Democratico di Forlì"
     ],
     "occurrences": [
       {
@@ -22610,11 +22601,9 @@
       }
     ]
   },
-  "DARDANELLI": {
-    "id": "dardanelli-anonimo",
-    "descriptions": [
-      "B."
-    ],
+  "DARDANELLI, B.": {
+    "id": "dardanelli-b",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,

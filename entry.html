@@ -48,7 +48,6 @@
   <main class="section pt-5 mt-5">
     <div id="entry-content">
       <h1 id="entry-name" class="mb-3"></h1>
-      <div id="entry-id" class="mb-4 text-muted"></div>
 
       <h4>Descriptions:</h4>
       <ul id="entry-descriptions" class="mb-4"></ul>
@@ -91,7 +90,6 @@
       const [nome, info] = entry;
       entryInfo = info;
       document.getElementById('entry-name').textContent = nome;
-      document.getElementById('entry-id').textContent = `ID: ${info.id}`;
 
       const descList = document.getElementById('entry-descriptions');
       descList.innerHTML = '';

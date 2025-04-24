@@ -796,6 +796,22 @@ function fillMetadataPanel(fileName) {
         ${themeItems.length ? themeItems.join('') : '(not specified)'}
       </div>`;
 
+      const baseFile = fileName.replace('.xml', '');
+      const rdfEntry = `
+        <div class="mb-3">
+          <strong>Download RDF:</strong><br>
+          <a href="rdf/${baseFile}.ttl" download>📄 Turtle (.ttl)</a><br>
+          <a href="rdf/${baseFile}.rdf" download>📄 RDF/XML (.rdf)</a><br>
+          <a href="rdf/${baseFile}.jsonld" download>📄 JSON-LD (.jsonld)</a>
+        </div>`;
+      
+      const xmlDownloadEntry = `
+        <div class="mb-3">
+          <strong>Download XML:</strong><br>
+          <a href="letters/${fileName}" download>📜 Original XML</a><br>
+          <a href="letters/${fileName.replace('.xml', '_en.xml')}" download>📜 Translated XML (English)</a>
+        </div>`;
+
     // === Montagem final dos metadados ===
     container.innerHTML = `
       <div class="metadata-entry">${iiifEntry}</div>
@@ -804,6 +820,8 @@ function fillMetadataPanel(fileName) {
       <div class="metadata-entry">${sentFromEntry}</div>
       <div class="metadata-entry">${conservationEntry}</div>
       ${themeEntry}
+      <div class="metadata-entry">${rdfEntry}</div>
+      <div class="metadata-entry">${xmlDownloadEntry}</div>
     `;
   });
 }

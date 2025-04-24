@@ -62,6 +62,9 @@
             </refsDecl>
         </encodingDesc>
         <profileDesc>
+            <langUsage>
+                <language ident="it">Italian</language>
+            </langUsage>
             <correspDesc resp="#CM">
                 <correspAction type="sent">
                     <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>

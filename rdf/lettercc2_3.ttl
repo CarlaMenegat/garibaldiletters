@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix ex: <http://example.org/correspondence/> .
+
+ex:lettercc2_3
+    a ex:Letter ;
+    dc:title "Lettera di Garibaldi, Giuseppe a Masi, Luigi" ;
+    dc:creator "Garibaldi, Giuseppe" ;
+    dc:date "1849-05-24" ;
+    dc:identifier "lettercc2_3" ;
+    dc:coverage "Anagni" ;
+    
+    foaf:maker ex:lettercc2_3-author .
+
+ex:lettercc2_3-author a foaf:Person ;
+    foaf:name "Garibaldi, Giuseppe" .

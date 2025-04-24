@@ -40,18 +40,22 @@
                 </bibl>
             </sourceDesc>
             </fileDesc>
-        
             <encodingDesc>
-            <refsDecl>
-                <ref target="annotations_persons.xml"/>
-                <ref target="annotations_org.xml"/>
-                <ref target="annotations_places.xml"/>
-                <ref target="annotations_dates.xml"/>
-                <ref target="annotations_themes.xml"/>
-            </refsDecl>
+                <refsDecl>
+                    <ref target="annotations/annotations_persons.xml"/>
+                    <ref target="annotations/annotations_org.xml"/>
+                    <ref target="annotations/annotations_places.xml"/>
+                    <ref target="annotations/annotations_dates.xml"/>
+                    <ref target="annotations/annotations_themes.xml"/>
+                    <ref target="annotations/annotations_physical.xml"/>
+                    <ref target="annotations/annotations_publishers.xml"/>
+                    <ref target="annotations/annotations_comments.xml"/>
+                </refsDecl>
             </encodingDesc>
-        
             <profileDesc>
+                <langUsage>
+                    <language ident="it">Italian</language>
+                </langUsage>
                 <correspDesc resp="#CM">
                     <correspAction type="sent">
                     <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>

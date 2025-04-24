@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix ex: <http://example.org/correspondence/> .
+
+ex:lettercc7_8
+    a ex:Letter ;
+    dc:title "Lettera di Garibaldi, Giuseppe" ;
+    dc:creator "Garibaldi, Giuseppe" ;
+    dc:date "1862-03-13" ;
+    dc:identifier "lettercc7_8" ;
+    dc:coverage "Genova" ;
+    
+    foaf:maker ex:lettercc7_8-author .
+
+ex:lettercc7_8-author a foaf:Person ;
+    foaf:name "Garibaldi, Giuseppe" .

@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix ex: <http://example.org/correspondence/> .
+
+ex:lettercbrown
+    a ex:Letter ;
+    dc:title "Letter from Garibaldi, Giuseppe to Pastacaldi, Michele" ;
+    dc:creator "Garibaldi, Giuseppe" ;
+    dc:date "1854/02/22" ;
+    dc:identifier "lettercbrown" ;
+    dc:coverage "London" ;
+    
+    foaf:maker ex:lettercbrown-author .
+
+ex:lettercbrown-author a foaf:Person ;
+    foaf:name "Garibaldi, Giuseppe" .

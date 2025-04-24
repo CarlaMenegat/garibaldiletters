@@ -43,7 +43,6 @@
                 </bibl>
             </sourceDesc>
             </fileDesc>
-        
         <encodingDesc>
             <refsDecl>
                 <ref target="annotations/annotations_persons.xml"/>
@@ -57,6 +56,9 @@
             </refsDecl>
         </encodingDesc>
         <profileDesc>
+            <langUsage>
+                <language ident="it">Italian</language>
+            </langUsage>
             <correspDesc>
                 <correspAction type="sent">
                 <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>

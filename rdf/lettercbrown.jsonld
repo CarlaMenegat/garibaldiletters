@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "gn": "http://www.geonames.org/ontology#"
+  },
+  "@id": "http://example.org/correspondence/lettercbrown",
+  "@type": "Letter",
+  "dc:title": "Letter from Garibaldi, Giuseppe to Pastacaldi, Michele",
+  "dc:creator": "Garibaldi, Giuseppe",
+  "dc:date": "1854/02/22",
+  "dc:identifier": "lettercbrown",
+  "dc:coverage": "London",
+  "foaf:maker": {
+    "@id": "http://example.org/correspondence/lettercbrown-author",
+    "@type": "foaf:Person",
+    "foaf:name": "Garibaldi, Giuseppe"
+  }
+}

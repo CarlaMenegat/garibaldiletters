@@ -25,6 +25,9 @@
         </sourceDesc>
       </fileDesc>
       <profileDesc>
+        <langUsage>
+          <language ident="it">Italian</language>
+        </langUsage>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#GAR" cert="high">Giuseppe Garibaldi</persName>

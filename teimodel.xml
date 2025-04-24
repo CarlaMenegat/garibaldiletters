@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:lang="en">[Title of the Letter]</title>
+            <author>[Author Name]</author>
+            <editor>[Editor Name]</editor>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>[Publisher or Project Name]</publisher>
+            <pubPlace>[Place]</pubPlace>
+            <date when="YYYY-MM-DD"/>
+            <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+            <msIdentifier>
+                <country>[Country]</country>
+                <repository>[Repository]</repository>
+                <idno>[Manuscript ID]</idno>
+            </msIdentifier>
+            <physDesc>
+                <objectDesc>
+                <supportDesc>
+                    <support>[Paper, ink, etc.]</support>
+                </supportDesc>
+                </objectDesc>
+            </physDesc>
+            </msDesc>
+        </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+        <editorialDecl>
+            <p>Encoded in TEI P5. Standoff annotations and RDF available separately.</p>
+        </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+        <langUsage>
+            <language ident="it">Italian</language>
+        </langUsage>
+        <correspDesc>
+            <correspAction type="sent">
+            <persName>[Sender Name]</persName>
+            <placeName key="#XXX">[Place Sent From]</placeName>
+            <date when="YYYY-MM-DD"/>
+            </correspAction>
+            <correspAction type="received">
+            <persName>[Recipient Name]</persName>
+            <placeName>[Place Received]</placeName>
+            </correspAction>
+        </correspDesc>
+        </profileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+        <div type="letter" xml:lang="it">
+            <opener>
+            <dateline>
+                <placeName>[Place]</placeName>,
+                <date when="YYYY-MM-DD">[Date]</date>
+            </dateline>
+            <salute>[Salutation]</salute>
+            </opener>
+            <p>[Main letter content goes here...]</p>
+            <closer>
+            <salute>[Closing phrase]</salute>
+            <signed>[Signature]</signed>
+            </closer>
+        </div>
+        </body>
+    </text>
+</TEI>

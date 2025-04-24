@@ -22705,10 +22705,10 @@
       }
     ]
   },
-  "DATA, avvocato": {
+  "DATA": {
     "id": "data-avvocato",
     "descriptions": [
-      "legale di G. D. Cogliolo"
+      "avvocato legale di G. D. Cogliolo"
     ],
     "occurrences": [
       {
@@ -22733,19 +22733,22 @@
       }
     ]
   },
-  "DAVERIO": {
-    "id": "daverio-anonimo",
-    "descriptions": [
-      "AMELIA",
-      "AUGUSTINA"
-    ],
+  "DAVERIO, AMELIA": {
+    "id": "daverio-amelia",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
         "pages": [
           132
         ]
-      },
+      }
+    ]
+  },
+  "DAVERIO, AUGUSTINA": {
+    "id": "daverio-augustina",
+    "descriptions": [],
+    "occurrences": [
       {
         "volume": 7,
         "pages": [
@@ -22771,7 +22774,7 @@
   "DAVERIO, FRANCESCO": {
     "id": "daverio-francesco",
     "descriptions": [
-      ", (1815-1849), caduto alla difesa di Roma (vedi vol. II)"
+      "(1815-1849), caduto alla difesa di Roma (vedi vol. II)"
     ],
     "occurrences": [
       {
@@ -22813,12 +22816,19 @@
       }
     ]
   },
-  "DE AGOSTINI": {
-    "id": "de-anonimo-2",
+  "DE AGOSTINI, LUIGI": {
+    "id": "de-luigi",
     "descriptions": [
-      "LUIGI (vedi vol. I)"
+      "sottotenente di marina nell'E.N. partecipò alla spedizione sul Rio Paraná (1842); segui Garibaldi nel ritorno in Italia", 
+      "(vedi vol. I)"
     ],
     "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          32
+        ]
+      }, 
       {
         "volume": 3,
         "pages": [
@@ -22827,24 +22837,10 @@
       }
     ]
   },
-  "DE AGOSTINI, LUIGI": {
-    "id": "de-luigi",
-    "descriptions": [
-      "sottotenente di marina nell'E.N. partecipò alla spedizione sul Rio Paraná (1842); segui Garibaldi nel ritorno in Italia"
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          32
-        ]
-      }
-    ]
-  },
-  "DE ALBERTIS, SEBASTIANO (Milano 1828-ivi 1898)": {
+  "DE ALBERTIS, SEBASTIANO": {
     "id": "de-sebastiano",
     "descriptions": [
-      "ufficiale dei C.d.A., celebre pittore di battaglie"
+      "(Milano 1828-ivi 1898) ufficiale dei C.d.A., celebre pittore di battaglie"
     ],
     "occurrences": [
       {
@@ -22856,10 +22852,10 @@
       }
     ]
   },
-  "DE ALMEIDA": {
-    "id": "de-anonimo-3",
+  "DE ALMEIDA, DOMINGOS JOSÉ": {
+    "id": "de-almeida",
     "descriptions": [
-      "DOMINGOS JOSÉ"
+      "Dal 1835 al 1839 fu Ministro delle Finanze della Repubblica Riograndense."
     ],
     "occurrences": [
       {
@@ -22898,11 +22894,9 @@
       }
     ]
   },
-  "DE BEAUMONT": {
-    "id": "de-anonimo-5",
-    "descriptions": [
-      "FRANCESCO"
-    ],
+  "DE BEAUMONT, FRANCESCO": {
+    "id": "de-beaumont",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -22913,7 +22907,7 @@
     ]
   },
   "DE BENEDETTI, ANGELO": {
-    "id": "de-angelo-3",
+    "id": "de-benedetti",
     "descriptions": [
       "ex deputato"
     ],
@@ -22926,8 +22920,8 @@
       }
     ]
   },
-  "DE BENEDETTO": {
-    "id": "de-anonimo-27",
+  "DE BENEDETTO, famiglia": {
+    "id": "de-benedetto",
     "descriptions": [
       "famiglia"
     ],
@@ -22941,7 +22935,7 @@
     ]
   },
   "DE BENEDETTO, PASQUALE": {
-    "id": "de-pasquale-2",
+    "id": "de-benedetto-pasquale",
     "descriptions": [
       "patriota siciliano"
     ],
@@ -22956,7 +22950,7 @@
     ]
   },
   "DE BENEDETTO, SALVATORE": {
-    "id": "de-salvatore-3",
+    "id": "de-benedetto-salvatore",
     "descriptions": [
       "patriota siciliano"
     ],
@@ -22970,11 +22964,9 @@
       }
     ]
   },
-  "DE BIASA": {
-    "id": "de-anonimo-11",
-    "descriptions": [
-      "CORRADO"
-    ],
+  "DE BIASA, CORRADO": {
+    "id": "de-biasa",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -22984,11 +22976,9 @@
       }
     ]
   },
-  "DE BIASE": {
-    "id": "de-anonimo-20",
-    "descriptions": [
-      "LUIGI"
-    ],
+  "DE BIASE, LUIGI": {
+    "id": "de-biase",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -23001,10 +22991,10 @@
       }
     ]
   },
-  "DE BLASIS, GIUSEPPE (Sulmona 1832-Napoli 1914)": {
-    "id": "de-giuseppe",
+  "DE BLASIS, GIUSEPPE": {
+    "id": "de-blasis-giuseppe",
     "descriptions": [
-      "maggiore, capo della legione del Matese, fu poi docente universitario di Storia moderna"
+      "(Sulmona 1832-Napoli 1914) maggiore, capo della legione del Matese, fu poi docente universitario di Storia moderna"
     ],
     "occurrences": [
       {
@@ -23016,12 +23006,20 @@
     ]
   },
   "DE BONI, FILIPPO": {
-    "id": "de-filippo-2",
+    "id": "de-boni-filippo",
     "descriptions": [
+      "(Campo Feltre 1816-Firenze 1870), membro del governo provvisorio durante le Cinque Giornate di Milano, mazziniano, esule in Svizzera fino al 1860; successivamente deputato",
       "(1816-1870). dopo aver sostenuto l'organizzazione del moto friulano del 1864 ed essere stato eletto presidente dell'emigrazione veneta a Torino, fa parte del gruppo dirigente dell'Associazione democratica di Torino che cerca di accordarsi con la Destra piemontese, passata all'opposizione dopo il trasferimento della capitale a Firenze, città in cui De Boro, eletto alla Camera nel collegio di Tricarico, si stabilisce nel corso del 1865 (vedi anche i voli. II e V)",
-      "(1816-1870), scrittore, deputato dal 1861 al 1"
+      "(1816-1870), scrittore, deputato dal 1861 al 1870",
+      "(1816-1870), pubblicista, deputato"
     ],
     "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          28
+        ]
+      },
       {
         "volume": 10,
         "pages": [
@@ -23038,28 +23036,18 @@
           85,
           86
         ]
-      }
-    ]
-  },
-  "DE BONI, FILIPPO (Campo": {
-    "id": "de-filippo",
-    "descriptions": [
-      "Feltre 1816-Firenze 1870), membro del governo provvisorio durante le Cinque Giornate di Milano, mazziniano, esule in Svizzera fino al 1860; successivamente deputato"
-    ],
-    "occurrences": [
+      },
       {
-        "volume": 5,
+        "volume": 13,
         "pages": [
-          28
+          68
         ]
       }
     ]
   },
-  "DE CESARE": {
-    "id": "de-anonimo-6",
-    "descriptions": [
-      "RAFFAELE"
-    ],
+  "DE CESARE, RAFFAELE": {
+    "id": "de-cesare-raffaele",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -23073,10 +23061,10 @@
       }
     ]
   },
-  "DE CESARE, ufficiale dell'E M. inviato": {
+  "DE CESARE": {
     "id": "de-ufficiale",
     "descriptions": [
-      "con altri commilitoni, presso la Scuola Militare di Ivrea, da dove, in occasione dell'onomastico di Garibaldi, mandò al suo generale un saluto e un augurio per le sorti della patria firmato anche dagli ufficiali dell'esercito regolare"
+      "ufficiale dell'E M. inviato con altri commilitoni, presso la Scuola Militare di Ivrea, da dove, in occasione dell'onomastico di Garibaldi, mandò al suo generale un saluto e un augurio per le sorti della patria firmato anche dagli ufficiali dell'esercito regolare"
     ],
     "occurrences": [
       {
@@ -23087,11 +23075,9 @@
       }
     ]
   },
-  "DE CRESCENZO": {
-    "id": "de-anonimo-7",
-    "descriptions": [
-      "GENNARO"
-    ],
+  "DE CRESCENZO, GENNARO": {
+    "id": "de-crescenzo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -23101,24 +23087,11 @@
       }
     ]
   },
-  "DE CRISTOFORIS, CARLO (Milano 1824 - San Fermo 1859)": {
-    "id": "de-carlo-2",
+  "DE CRISTOFORIS, CARLO": {
+    "id": "de-cristoforis-carlo",
     "descriptions": [
-      "capitano dei C.d.A. caduto a S. Fermo, scrittore militare (cfr. vol. IV)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          33
-        ]
-      }
-    ]
-  },
-  "DE CRISTOFORIS, CARLO (Milano 1824-S. Fermo 1859)": {
-    "id": "de-carlo",
-    "descriptions": [
-      "capitano dei C.d.A. caduto a S. Fermo, scrittore militare"
+      "(Milano 1824-S. Fermo 1859)capitano dei C.d.A. caduto a S. Fermo, scrittore militare",
+      "(Milano 1824 - San Fermo 1859) capitano dei C.d.A. caduto a S. Fermo, scrittore militare (cfr. vol. IV)"
     ],
     "occurrences": [
       {
@@ -23128,6 +23101,12 @@
           59,
           60,
           61
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          33
         ]
       }
     ]
@@ -23155,7 +23134,7 @@
     ]
   },
   "DE DOMENICO": {
-    "id": "de-anonimo-25",
+    "id": "de-domenico",
     "descriptions": [
       "massone"
     ],
@@ -23168,22 +23147,8 @@
       }
     ]
   },
-  "DE EONI, FILIPPO": {
-    "id": "de-filippo-4",
-    "descriptions": [
-      "(1816-1870), pubblicista, deputato"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          68
-        ]
-      }
-    ]
-  },
   "DE FERRARI, GIUSEPPE": {
-    "id": "de-giuseppe-4",
+    "id": "de-ferrari",
     "descriptions": [
       "(1813-1898), capo della polizia"
     ],
@@ -23304,30 +23269,23 @@
       }
     ]
   },
-  "DE LABA, SALVATORE il cui vero cognome fu DE LABAR": {
-    "id": "de-salvatore-2",
-    "descriptions": [
-      "sofferse persecuzioni perché, ufficiale a Talamone nel 1860, accolse nella sua casa il Nullo, cedendo alla sua richiesta di armi per i Mille"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          88
-        ]
-      }
-    ]
-  },
   "DE LABAR, SALVATORE": {
     "id": "de-salvatore",
     "descriptions": [
-      "sottotenente piemontese, comandante il forte di Talamone, processato per aver consegnato armi e munizioni a Garibaldi (cfr. vol. VII)"
+      "sottotenente piemontese, comandante il forte di Talamone, processato per aver consegnato armi e munizioni a Garibaldi (cfr. vol. VII)",
+    "sofferse persecuzioni perché, ufficiale a Talamone nel 1860, accolse nella sua casa il Nullo, cedendo alla sua richiesta di armi per i Mille"
     ],
     "occurrences": [
       {
         "volume": 5,
         "pages": [
           303
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          88
         ]
       }
     ]
@@ -23346,10 +23304,10 @@
       }
     ]
   },
-  "DE MAESTRI": {
-    "id": "de-anonimo-4",
+  "DE MAESTRI, FRANCESCO": {
+    "id": "de-maestri",
     "descriptions": [
-      "FRANCESCO (vedi voll. II e III)"
+      "(vedi voll. II e III)"
     ],
     "occurrences": [
       {
@@ -23388,11 +23346,9 @@
       }
     ]
   },
-  "DE MARCO": {
-    "id": "de-anonimo-8",
-    "descriptions": [
-      "EMANUELE"
-    ],
+  "DE MARCO, EMANUELE": {
+    "id": "de-marco",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -23403,11 +23359,9 @@
       }
     ]
   },
-  "DE MARIA": {
-    "id": "de-anonimo-22",
-    "descriptions": [
-      "UGO"
-    ],
+  "DE MARIA, UGO": {
+    "id": "de-maria-ugo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -23418,11 +23372,9 @@
       }
     ]
   },
-  "DE MARTA": {
-    "id": "de-anonimo",
-    "descriptions": [
-      "ISIDORO"
-    ],
+  "DE MARTA, ISIDORO": {
+    "id": "de-marta",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 1,
@@ -23438,7 +23390,7 @@
   "DE MASINI, ANGELO": {
     "id": "de-angelo",
     "descriptions": [
-      ", (1815-1849), detto Masina (vedi vol. II)"
+      "(1815-1849), detto Masina (vedi vol. II)"
     ],
     "occurrences": [
       {
@@ -23479,10 +23431,9 @@
       }
     ]
   },
-  "DE MICHELI": {
-    "id": "de-anonimo-12",
+  "DE MICHELI, LEONARDO": {
+    "id": "de-micheli",
     "descriptions": [
-      "LEONARDO",
       "autore di un opuscolo in onore di Nullo"
     ],
     "occurrences": [
@@ -23522,11 +23473,9 @@
       }
     ]
   },
-  "DE NEGRI": {
+  "DE NEGRI, PIETRO": {
     "id": "de-anonimo-9",
-    "descriptions": [
-      "PIETRO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -23579,11 +23528,11 @@
       }
     ]
   },
-  "DE NOBILE, ALBERTO (Corfù 1837-Catanzaro 1865)": {
+  "DE NOBILE, ALBERTO": {
     "id": "de-alberto",
     "descriptions": [
-      "barone, uno dei Mille, fomentò la rivoluzione nelle Calabrie (cfr. vol. VII)",
-      "prese parte alla guerra del 1859 come volontario nell'esercito piemontese e nel 1860 fu dei Mille. Nommato ispettore della Guardia Mobile, nel 1862 con Garibaldi ad Aspromonte. Amnistiato, tornò a Catanzaro, ove prese parte attiva alla vita politica cittadina"
+      "(Corfù 1837-Catanzaro 1865) barone, uno dei Mille, fomentò la rivoluzione nelle Calabrie (cfr. vol. VII)",
+      "(Corfù 1837-Catanzaro 1865) prese parte alla guerra del 1859 come volontario nell'esercito piemontese e nel 1860 fu dei Mille. Nommato ispettore della Guardia Mobile, nel 1862 con Garibaldi ad Aspromonte. Amnistiato, tornò a Catanzaro, ove prese parte attiva alla vita politica cittadina"
     ],
     "occurrences": [
       {
@@ -23596,27 +23545,6 @@
         "volume": 7,
         "pages": [
           185
-        ]
-      }
-    ]
-  },
-  "DE NOBILI": {
-    "id": "de-anonimo-23",
-    "descriptions": [
-      "GIUSEPPE",
-      "FILIPPO"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          292
-        ]
-      },
-      {
-        "volume": 14,
-        "pages": [
-          68
         ]
       }
     ]
@@ -23658,6 +23586,30 @@
         "volume": 11,
         "pages": [
           291,
+          292
+        ]
+      }
+    ]
+  },
+  "DE NOBILI, FILIPPO": {
+    "id": "de-nobili-filippo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 14,
+        "pages": [
+          68
+        ]
+      }
+    ]
+  },
+  "DE NOBILI, GIUSEPPE": {
+    "id": "de-nobili-giuseppe",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 11,
+        "pages": [
           292
         ]
       }
@@ -23706,11 +23658,9 @@
       }
     ]
   },
-  "DE ORESTIS": {
+  "DE ORESTIS, GIULIO": {
     "id": "de-anonimo-19",
-    "descriptions": [
-      "GIULIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 10,
@@ -23818,9 +23768,16 @@
   "DE SANCTIS, FRANCESCO": {
     "id": "de-francesco-5",
     "descriptions": [
+      "(Morra Irpina Avellino 1817-Napoli 1883), il noto letterato fu governatore di Avellino e ministro della pubblica istruzione nel governo pro-dittatoriale",
       "(1817-1883), critico letterario, esponente della Sinistra giovane"
     ],
     "occurrences": [
+    {
+        "volume": 5,
+        "pages": [
+          279
+        ]
+      },
       {
         "volume": 11,
         "pages": [
@@ -23829,44 +23786,14 @@
       }
     ]
   },
-  "DE SANCTIS, FRANCESCO (Morra Irpina": {
-    "id": "de-francesco",
-    "descriptions": [
-      "Avellino 1817-Napoli 1883), il noto letterato fu governatore di Avellino e ministro della pubblica istruzione nel governo pro-dittatoriale"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          279
-        ]
-      }
-    ]
-  },
-  "DE SILVESTRI": {
-    "id": "de-anonimo-24",
-    "descriptions": [
-      "L."
-    ],
+  "DE SILVESTRI, L.": {
+    "id": "de-silvestri",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
         "pages": [
           64
-        ]
-      }
-    ]
-  },
-  "DE STEFANI": {
-    "id": "de-anonimo-10",
-    "descriptions": [
-      "GIUSEPPE"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          144
         ]
       }
     ]
@@ -23885,11 +23812,21 @@
       }
     ]
   },
-  "DE VECCHI DI VAL CISMON": {
-    "id": "de-anonimo-17",
-    "descriptions": [
-      "CESARE MARIA"
-    ],
+    "DE STEFANI, GIUSEPPE": {
+    "id": "de-stefani",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          144
+        ]
+      }
+    ]
+  },
+  "DE VECCHI DI VAL CISMON, CESARE MARIA": {
+    "id": "de-vecchi-di-val-cismon",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -23913,11 +23850,9 @@
       }
     ]
   },
-  "DE VECCHIO": {
+  "DE VECCHIO, LUIGI": {
     "id": "de-anonimo-14",
-    "descriptions": [
-      "LUIGI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -23942,10 +23877,10 @@
       }
     ]
   },
-  "DE ZERBI, ROCCO (Reggio Calabria 1843-Roma 1893)": {
+  "DE ZERBI, ROCCO": {
     "id": "de-rocco",
     "descriptions": [
-      "fu dei Mille passando poi nell'esercito regolare"
+      "(Reggio Calabria 1843-Roma 1893) fu dei Mille passando poi nell'esercito regolare"
     ],
     "occurrences": [
       {
@@ -23987,8 +23922,7 @@
   "DEIDERI": {
     "id": "deideri-anonimo-2",
     "descriptions": [
-      "moglie di Giuseppe",
-      "famiglia"
+      "moglie di Giuseppe"
     ],
     "occurrences": [
       {
@@ -23996,7 +23930,15 @@
         "pages": [
           49
         ]
-      },
+      }
+    ]
+  },
+  "DEIDERI, famiglia": {
+    "id": "deideri-famiglia",
+    "descriptions": [
+      "famiglia"
+    ],
+    "occurrences": [
       {
         "volume": 5,
         "pages": [
@@ -24005,10 +23947,18 @@
       }
     ]
   },
-  "DEIDERI GIUSEPPE": {
-    "id": "deideri-anonimo",
+  "DEIDERI, GIUSEPPE (GIOVANNI)": {
+    "id": "deideri-giuseppe",
     "descriptions": [
-      "comandante della guardia nazionale a Nizza (vedi vol. II)"
+    "comandante della guardia nazionale a Nizza (vedi vol. II)",
+      "nizzardo amico di Garibaldi (vedi voll. II e III), 12, 27, 81, 91, 111, 113, 120, 126, 138, 140, 162, 206, 219, 222 DEIDERI, VINCENZA, moglie di Giuseppe",
+      "nizzardo amico di Garibaldi (cfr. voll. II, III, IV, VI)",
+      "amico di antica data di Garibaldi, nizzardo (vedi voli. II, III e IV)",
+      "vedi vol. VI",
+      "vedi i voll. II, III, IV, V, VI, VII",
+      "nizzardo, da moltissimi anni intimo di Garibaldi (vedi anche i voli. II-VIII)",
+      "nizzardo, legatissimo a Garibaldi sin dalla giovinezza, muore a Firenze l'11 marzo 1865 (vedi i voli. II-IX)",
+      "morto a Firenze i'11 marzo 1865, su di lui vedi i voll. II-X"
     ],
     "occurrences": [
       {
@@ -24019,20 +23969,7 @@
           184,
           191
         ]
-      }
-    ]
-  },
-  "DEIDERI, GIUSEPPE": {
-    "id": "deideri-giuseppe",
-    "descriptions": [
-      "nizzardo amico di Garibaldi (vedi voll. II e III), 12, 27, 81, 91, 111, 113, 120, 126, 138, 140, 162, 206, 219, 222 DEIDERI, VINCENZA, moglie di Giuseppe",
-      "nizzardo amico di Garibaldi (cfr. voll. II, III, IV, VI)",
-      "amico di antica data di Garibaldi, nizzardo (vedi voli. II, III e IV)",
-      "vedi vol. VI",
-      "vedi i voll. II, III, IV, V, VI, VII",
-      "nizzardo, da moltissimi anni intimo di Garibaldi (vedi anche i voli. II-VIII)"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 4,
         "pages": [
@@ -24096,16 +24033,7 @@
         "pages": [
           224
         ]
-      }
-    ]
-  },
-  "DEIDERI, GIUSEPPE GIOVANNI": {
-    "id": "deideri-giuseppe-7",
-    "descriptions": [
-      "nizzardo, legatissimo a Garibaldi sin dalla giovinezza, muore a Firenze l'11 marzo 1865 (vedi i voli. II-IX)",
-      "morto a Firenze i'11 marzo 1865, su di lui vedi i voll. II-X"
-    ],
-    "occurrences": [
+      }, 
       {
         "volume": 10,
         "pages": [
@@ -24219,11 +24147,9 @@
       }
     ]
   },
-  "DEL BONO": {
-    "id": "del-anonimo",
-    "descriptions": [
-      "GIULIO"
-    ],
+  "DEL BONO, GIULIO": {
+    "id": "del-bono",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -24283,11 +24209,9 @@
       }
     ]
   },
-  "DEL GIUDICE": {
-    "id": "del-anonimo-3",
-    "descriptions": [
-      "PIETRO"
-    ],
+  "DEL GIUDICE, PIETRO": {
+    "id": "del-giudice",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -24396,11 +24320,9 @@
       }
     ]
   },
-  "DELANOUI": {
-    "id": "delanoui-anonimo",
-    "descriptions": [
-      "J."
-    ],
+  "DELANOUI, J. ": {
+    "id": "delanoui-j",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -24410,11 +24332,9 @@
       }
     ]
   },
-  "DELFICO ROSSI": {
+  "DELFICO ROSSI, AURORA": {
     "id": "delfico-anonimo",
-    "descriptions": [
-      "AURORA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -24424,11 +24344,9 @@
       }
     ]
   },
-  "DELFINO": {
-    "id": "delfino-anonimo",
-    "descriptions": [
-      "LUCA"
-    ],
+  "DELFINO, LUCA": {
+    "id": "delfino-luca",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -24557,7 +24475,7 @@
       }
     ]
   },
-  "DELLA TORRE SALASCO p ALLA VICINI, MARIA MARTINI GIOVIO": {
+  "DELLA TORRE SALASCO PALLAVICINI, MARIA MARTINI GIOVIO": {
     "id": "della-maria",
     "descriptions": [
       "scrittrice"
@@ -24571,10 +24489,10 @@
       }
     ]
   },
-  "DELLA VALLE": {
-    "id": "della-anonimo",
+  "DELLA VALLE, GIUSEPPE": {
+    "id": "della-giuseppe",
     "descriptions": [
-      "GIUSEPPE"
+      "sacerdote, autore di una memoria storica sugli avvenimenti della guerra del 1859 combattuta dai volontari"
     ],
     "occurrences": [
       {
@@ -24582,15 +24500,7 @@
         "pages": [
           116
         ]
-      }
-    ]
-  },
-  "DELLA VALLE, GIUSEPPE": {
-    "id": "della-giuseppe",
-    "descriptions": [
-      "sacerdote, autore di una memoria storica sugli avvenimenti della guerra del 1859 combattuta dai volontari"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 8,
         "pages": [
@@ -24601,30 +24511,23 @@
     ]
   },
   "DELLA VERDURA, GIULIO BENSO SAMMARTINO": {
-    "id": "della-giulio-2",
-    "descriptions": [
-      "duca, (1816-1904), sostenitore attivo di tutte le imprese garibaldine in Sicilia, rappresenta il Generale al comizio palermitano di fine gennaio 1865 (vedi anche il vol. VII)"
-    ],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          16,
-          28
-        ]
-      }
-    ]
-  },
-  "DELLA VERDURA, GIULIO BENSO e SANMARTINO duca (Palermo 1816ivi 1904)": {
     "id": "della-giulio",
     "descriptions": [
-      "di illustre famiglia palermitana, già esule a Firenze, prese parte attiva agli avvemmenti del 1860. Più volte sindaco di Palermo (cfr. vol. VII)"
+      "duca (Palermo 1816ivi 1904) di illustre famiglia palermitana, già esule a Firenze, prese parte attiva agli avvemmenti del 1860. Più volte sindaco di Palermo (cfr. vol. VII)",
+      "duca, (1816-1904), sostenitore attivo di tutte le imprese garibaldine in Sicilia, rappresenta il Generale al comizio palermitano di fine gennaio 1865 (vedi anche il vol. VII)"
     ],
     "occurrences": [
       {
         "volume": 5,
         "pages": [
           175
+        ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          16,
+          28
         ]
       }
     ]
@@ -24643,10 +24546,10 @@
       }
     ]
   },
-  "DELPÈCHE, colonnello": {
+  "DELPÈCHE": {
     "id": "delpèche-colonnello",
     "descriptions": [
-      "comandante di una brigata dell'armata dei Vosgi"
+      "colonnello, comandante di una brigata dell'armata dei Vosgi"
     ],
     "occurrences": [
       {
@@ -24662,7 +24565,7 @@
   "DEMAESTRI, FRANCESCO": {
     "id": "demaestri-francesco",
     "descriptions": [
-      ", (1826-1876), esule (vedi vol. II)"
+      "(1826-1876), esule (vedi vol. II)"
     ],
     "occurrences": [
       {
@@ -24673,10 +24576,10 @@
       }
     ]
   },
-  "DEMETRIO FALEREO, uomo politico": {
-    "id": "demetrio-uomo",
+  "DEMETRIO, FALEREO": {
+    "id": "demetrio-falereo",
     "descriptions": [
-      "scrittore e legislatore di Atene di parte oligarchica, governò quella città dal 317 a. C. al 307, quando fu costretto alla fuga dal re di Macedonia Demetrio Poliorcete"
+      "uomo politico scrittore e legislatore di Atene di parte oligarchica, governò quella città dal 317 a. C. al 307, quando fu costretto alla fuga dal re di Macedonia Demetrio Poliorcete"
     ],
     "occurrences": [
       {
@@ -24687,10 +24590,10 @@
       }
     ]
   },
-  "DEMOCRITO, filosofo di Abdera": {
+  "DEMOCRITO": {
     "id": "democrito-filosofo",
     "descriptions": [
-      "visse tra il 450 e il 361 a. C."
+      "filosofo di Abdera visse tra il 450 e il 361 a. C."
     ],
     "occurrences": [
       {
@@ -24704,7 +24607,8 @@
   "DEMORA, GIOVAN BATTISTA": {
     "id": "demora-giovan",
     "descriptions": [
-      "poeta patriottico"
+      "poeta patriottico",
+      "poeta, direttore del Libero pensatore"
     ],
     "occurrences": [
       {
@@ -24712,15 +24616,7 @@
         "pages": [
           205
         ]
-      }
-    ]
-  },
-  "DEMORA, GIOVANNI BATTISTA": {
-    "id": "demora-giovanni",
-    "descriptions": [
-      "poeta, direttore del Libero pensatore"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 13,
         "pages": [
@@ -24729,11 +24625,10 @@
       }
     ]
   },
-  "DENNIE": {
+
+  "DENNIE, MARY": {
     "id": "dennie-anonimo",
-    "descriptions": [
-      "MARY"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 8,
@@ -24743,11 +24638,9 @@
       }
     ]
   },
-  "DEPOLI": {
-    "id": "depoli-anonimo",
-    "descriptions": [
-      "ATTILIO"
-    ],
+  "DEPOLI, ATTILIO": {
+    "id": "depoli-attilio",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -24761,6 +24654,7 @@
     "id": "depretis-agostino",
     "descriptions": [
       "(1813-1887), governatore di Brescia",
+      "(Mezzana Corti o Cascina Bella 1813-Stradella 1887) pro-dittatore sicihano dal 22 luglio al 14 settembre, quando Garibaldi ne accettò le dimissiom, non approvando l'annessione immediata dell'isola al Piemonte (cfr. voll. IV, VI)",
       "(1813-1887), deputato della sinistra moderata, svolse la funzione di intermediario tra Garibaldi, Rattazzi e Vittorio Emanuele nella fase che culminò con la crisi del ministero Ricasoli",
       "(1813-1887), ministro dei Lavori Pubblici nel ministero Rattazzi, si disse che fosse il garante dell'accordo tra quest'ultimo e Garibaldi. vedi anche Vol. VI",
       "(1813-1887), ministro della Marina nel Governo Ricasoli (vedi anche i voll. VI-VII)"
@@ -24770,6 +24664,42 @@
         "volume": 4,
         "pages": [
           245
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          36,
+          61,
+          71,
+          79,
+          80,
+          150,
+          166,
+          171,
+          173,
+          175,
+          179,
+          181,
+          182,
+          183,
+          186,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          200,
+          202,
+          203,
+          218,
+          230,
+          233,
+          240,
+          241,
+          323,
+          324
         ]
       },
       {
@@ -24812,50 +24742,6 @@
           293,
           300,
           328
-        ]
-      }
-    ]
-  },
-  "DEPRETIS, AGOSTINO (Mezzana Corti o Cascina Bella 1813-Stradella 1887)": {
-    "id": "depretis-agostino-2",
-    "descriptions": [
-      "pro-dittatore sicihano dal 22 luglio al 14 settembre, quando Garibaldi ne accettò le dimissiom, non approvando l'annessione immediata dell'isola al Piemonte (cfr. voll. IV, VI)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          36,
-          61,
-          71,
-          79,
-          80,
-          150,
-          166,
-          171,
-          173,
-          175,
-          179,
-          181,
-          182,
-          183,
-          186,
-          191,
-          192,
-          193,
-          194,
-          195,
-          196,
-          200,
-          202,
-          203,
-          218,
-          230,
-          233,
-          240,
-          241,
-          323,
-          324
         ]
       }
     ]
@@ -24912,27 +24798,20 @@
   "DEVECCHI": {
     "id": "devecchi-anonimo",
     "descriptions": [
-      "dottore"
+      "dottore",
+      "dottore, amico di Anna Pallavicino"
     ],
     "occurrences": [
+    {
+        "volume": 9,
+        "pages": [
+          175
+        ]
+      },
       {
         "volume": 13,
         "pages": [
           236
-        ]
-      }
-    ]
-  },
-  "DEVECCHI, dottore": {
-    "id": "devecchi-dottore",
-    "descriptions": [
-      "amico di Anna Pallavicino"
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          175
         ]
       }
     ]
@@ -24996,10 +24875,10 @@
       }
     ]
   },
-  "DI COSTANZO, massone": {
+  "DI COSTANZO": {
     "id": "di-massone",
     "descriptions": [
-      "aderente al Grande Oriente di Palermo"
+      "massone, aderente al Grande Oriente di Palermo"
     ],
     "occurrences": [
       {
@@ -25010,11 +24889,9 @@
       }
     ]
   },
-  "DI IORIO": {
+  "DI IORIO, EDUARDO": {
     "id": "di-anonimo",
-    "descriptions": [
-      "EDUARDO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -25061,17 +24938,21 @@
       }
     ]
   },
-  "DI PORTO": {
-    "id": "di-anonimo-2",
-    "descriptions": [
-      "BRUNO"
-    ],
+  "DI PORTO, BRUNO": {
+    "id": "di-PORTO",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 8,
         "pages": [
           81,
           121
+        ]
+      },
+      {
+        "volume": 9,
+        "pages": [
+          174
         ]
       },
       {
@@ -25095,24 +24976,10 @@
       }
     ]
   },
-  "DI PORTO, BRUNO": {
-    "id": "di-bruno",
-    "descriptions": [
-      "17"
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          4
-        ]
-      }
-    ]
-  },
   "DI SALVATORE, GIUSTINO": {
     "id": "di-giustino",
     "descriptions": [
-      "Mcisore, hbraio e tipografo napoletano"
+      "incisore, libraio e tipografo napoletano"
     ],
     "occurrences": [
       {
@@ -25151,11 +25018,9 @@
       }
     ]
   },
-  "DIAMILLA MULLER": {
+  "DIAMILLA MULLER, DEMETRIO": {
     "id": "diamilla-anonimo",
-    "descriptions": [
-      "DEMETRIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -25229,11 +25094,9 @@
       }
     ]
   },
-  "DILETTI": {
+  "DILETTI, FELICE": {
     "id": "diletti-anonimo",
-    "descriptions": [
-      "FELICE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -25259,10 +25122,10 @@
       }
     ]
   },
-  "DIOGENE, (413 a C - 327 a C )": {
-    "id": "diogene-(413",
+  "DIOGENE": {
+    "id": "diogene",
     "descriptions": [
-      "filosofo greco"
+      "(413 a C - 327 a C ) filosofo greco"
     ],
     "occurrences": [
       {
@@ -25283,20 +25146,6 @@
         "volume": 5,
         "pages": [
           330
-        ]
-      }
-    ]
-  },
-  "DLLOA CALÀ, GIROLAMO (1810-1891)": {
-    "id": "dlloa-girolamo",
-    "descriptions": [
-      "generale, scrittore militare"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          256
         ]
       }
     ]
@@ -25326,29 +25175,6 @@
         "pages": [
           167,
           168
-        ]
-      }
-    ]
-  },
-  "DOGLIO'ITI, ORAZIO": {
-    "id": "doglio'iti-orazio",
-    "descriptions": [
-      "(1832-1892), nizzardo, nel 1860 aveva partecipato alla campagna delle Marche e a quella dell'Italia meridionale; nel 1866, inquadrato con il grado di maggiore nell'Esercito sardo, comanda la brigata d'artiglieria che opera in Trentino agli ordini di Garibaldi e ottiene la medaglia d'oro; finirà la carriera col grado di maggiore generale"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          109,
-          121,
-          134,
-          148,
-          151,
-          194,
-          259,
-          270,
-          318,
-          320
         ]
       }
     ]
@@ -25385,11 +25211,27 @@
   "DOGLIOTTI, ORAZIO": {
     "id": "dogliotti-orazio",
     "descriptions": [
+      "(1832-1892), nizzardo, nel 1860 aveva partecipato alla campagna delle Marche e a quella dell'Italia meridionale; nel 1866, inquadrato con il grado di maggiore nell'Esercito sardo, comanda la brigata d'artiglieria che opera in Trentino agli ordini di Garibaldi e ottiene la medaglia d'oro; finirà la carriera col grado di maggiore generale",
       "(1832-1892), maggiore",
       "(1832-1892), maggiore di artighena",
       "(1803-1892), maggiore di artiglieria"
     ],
     "occurrences": [
+      {
+        "volume": 11,
+        "pages": [
+          109,
+          121,
+          134,
+          148,
+          151,
+          194,
+          259,
+          270,
+          318,
+          320
+        ]
+      },
       {
         "volume": 12,
         "pages": [
@@ -25665,10 +25507,10 @@
       }
     ]
   },
-  "DOMBROWSKI, JAROSLAV (1836-1871)": {
+  "DOMBROWSKI, JAROSLAV": {
     "id": "dombrowski-jaroslav",
     "descriptions": [
-      "patriota polacco, comandante della piazza di Parigi durante la Comune morì combattendo sulle barricate"
+      "(1836-1871) patriota polacco, comandante della piazza di Parigi durante la Comune morì combattendo sulle barricate"
     ],
     "occurrences": [
       {
@@ -25742,11 +25584,9 @@
       }
     ]
   },
-  "DONNINI": {
-    "id": "donnini-anonimo",
-    "descriptions": [
-      "GIOVANNI"
-    ],
+  "DONNINI, GIOVANNI": {
+    "id": "donnini-giovanni",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -25803,10 +25643,10 @@
       }
     ]
   },
-  "DORIA": {
-    "id": "doria-anonimo",
+  "DORIA, ANDREA": {
+    "id": "doria-andrea",
     "descriptions": [
-      "ANDREA"
+      "(1466-1560)"
     ],
     "occurrences": [
       {
@@ -25814,15 +25654,7 @@
         "pages": [
           76
         ]
-      }
-    ]
-  },
-  "DORIA, ANDREA": {
-    "id": "doria-andrea",
-    "descriptions": [
-      "(1466-1560)"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 11,
         "pages": [
@@ -25845,11 +25677,9 @@
       }
     ]
   },
-  "DORZA": {
-    "id": "dorza-anonimo",
-    "descriptions": [
-      "GINO"
-    ],
+  "DORZA, GINO": {
+    "id": "dorza-gino",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 1,
@@ -25874,11 +25704,9 @@
       }
     ]
   },
-  "DROCCO": {
+  "DROCCO, FRANCESCO": {
     "id": "drocco-anonimo",
-    "descriptions": [
-      "FRANCESCO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -25902,10 +25730,10 @@
       }
     ]
   },
-  "DUCA d'ÀLBA (1507-1582), generale e uomo politico spagnolo": {
+  "DUCA d'ÀLBA": {
     "id": "duca-generale",
     "descriptions": [
-      "dopo aver guidato le truppe di Carlo V nella vittoriosa guerra contro i protestanti tedeschi fu lo stratega del conflitto che avrebbe aperto agli Spagnoli la dominazione incontrastata in Italia. Inviato successivamente nei Paesi Bassi, inaugurò una politica talmente repressiva che lo si dovette richiamare in patria"
+      "(1507-1582), generale e uomo politico spagnolo, dopo aver guidato le truppe di Carlo V nella vittoriosa guerra contro i protestanti tedeschi fu lo stratega del conflitto che avrebbe aperto agli Spagnoli la dominazione incontrastata in Italia. Inviato successivamente nei Paesi Bassi, inaugurò una politica talmente repressiva che lo si dovette richiamare in patria"
     ],
     "occurrences": [
       {
@@ -25916,10 +25744,10 @@
       }
     ]
   },
-  "DUCE, LUIGI (Albenga 1838-Roma 1906)": {
+  "DUCE, LUIGI": {
     "id": "duce-luigi",
     "descriptions": [
-      "entrò come volontario nell'esercito nel 1859, in seguito prese parte anche alla campagna del 1866. Nel 1862 è aiutante maggiore in seconda nel 19° fanteria di stanza a Brescia. Negli anni successivi ebbe parte notevole nell'ordinamento e sviluppo del tiro a segno nazionale"
+      "(Albenga 1838-Roma 1906) entrò come volontario nell'esercito nel 1859, in seguito prese parte anche alla campagna del 1866. Nel 1862 è aiutante maggiore in seconda nel 19° fanteria di stanza a Brescia. Negli anni successivi ebbe parte notevole nell'ordinamento e sviluppo del tiro a segno nazionale"
     ],
     "occurrences": [
       {
@@ -25944,38 +25772,11 @@
       }
     ]
   },
-  "DUMAS": {
-    "id": "dumas-anonimo",
-    "descriptions": [
-      "ALEXANDRE"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          318
-        ]
-      }
-    ]
-  },
   "DUMAS, ALEXANDRE": {
     "id": "dumas-alexandre-2",
     "descriptions": [
+      "(Parigi 1803-Puiys 1870) il noto romanziere raggiunse nel giugno Garibaldi in Sicilia a bordo della sua goletta carica di armi e lo precedette a Napoli sempre con la stessa nave. La sua nomina a direttore dei musei e delle antichità fu contestata; fondò il giornale l'Indipendente e pubblicò negli anni successivi vari volumi di argomento garibaldino",
       "(1803-1870), fecondo scrittore popolare francese e amico di Garibaldi. Tradusse in francese nel 1860 le Memorie del Generale e fu autore di vane opere di argomento garibaldino"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          122
-        ]
-      }
-    ]
-  },
-  "DUMAS, ALEXANDRE (Parigi 1803-Puiys 1870)": {
-    "id": "dumas-alexandre",
-    "descriptions": [
-      "il noto romanziere raggiunse nel giugno Garibaldi in Sicilia a bordo della sua goletta carica di armi e lo precedette a Napoli sempre con la stessa nave. La sua nomina a direttore dei musei e delle antichità fu contestata; fondò il giornale l'Indipendente e pubblicò negli anni successivi vari volumi di argomento garibaldino"
     ],
     "occurrences": [
       {
@@ -25989,6 +25790,12 @@
           261,
           297,
           318
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          122
         ]
       }
     ]
@@ -26065,10 +25872,10 @@
       }
     ]
   },
-  "DURANDO, GIOVANNI (Mondovì 1804-Firenze 1869)": {
+  "DURANDO, GIOVANNI": {
     "id": "durando-giovanni",
     "descriptions": [
-      "comandante la III poi la I divisione dell'esercito piemontese"
+      "(Mondovì 1804-Firenze 1869) comandante la III poi la I divisione dell'esercito piemontese"
     ],
     "occurrences": [
       {
@@ -26150,10 +25957,10 @@
       }
     ]
   },
-  "EBER, FERDINANDO (Buda 1825-Budapest 1885) corrispondente del Times di Londra": {
+  "EBER, FERDINANDO": {
     "id": "eber-ferdinando",
     "descriptions": [
-      "si arruolò con Garibaldi raggiungendo il grado di colonnello"
+      "(Buda 1825-Budapest 1885) corrispondente del Times di Londra si arruolò con Garibaldi raggiungendo il grado di colonnello"
     ],
     "occurrences": [
       {
@@ -26170,7 +25977,8 @@
   "ECHAGUE, PASCUAL": {
     "id": "echague-pascual",
     "descriptions": [
-      "governatore della Provincia di Entre Rios, federata con quella di Buenos Aires dominata da Juan Manuel de Rosas"
+      "governatore della Provincia di Entre Rios, federata con quella di Buenos Aires dominata da Juan Manuel de Rosas",
+      "(1797-1867) generale e uomo politico argentino"
     ],
     "occurrences": [
       {
@@ -26179,15 +25987,7 @@
           15,
           16
         ]
-      }
-    ]
-  },
-  "ECHAGÙE, PASCUAL (1797-1867)": {
-    "id": "echagùe-pascual",
-    "descriptions": [
-      "generale e uomo politico argentino"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 11,
         "pages": [
@@ -26226,11 +26026,9 @@
       }
     ]
   },
-  "EHRENTREICH": {
-    "id": "ehrentreich-anonimo",
-    "descriptions": [
-      "ALFRED"
-    ],
+  "EHRENTREICH, ALFRED": {
+    "id": "ehrentreich-alfred",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -26278,7 +26076,7 @@
   "ELENA, DOMENICO": {
     "id": "elena-domenico",
     "descriptions": [
-      "smdaco di Genova"
+      "sindaco di Genova"
     ],
     "occurrences": [
       {
@@ -26301,21 +26099,6 @@
         "volume": 12,
         "pages": [
           58
-        ]
-      }
-    ]
-  },
-  "ELIA": {
-    "id": "elia-anonimo",
-    "descriptions": [
-      "AUGUSTO"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          243,
-          333
         ]
       }
     ]
@@ -26347,6 +26130,7 @@
     "descriptions": [
       "(1829-1919), ufficiale garibaldino ferito a Calatafimi mentre proteggeva Garibaldi (cfr. vol. VI)",
       "(1829-1919), esperto di marnieria, discendente da una famiglia di patrioti, fu con Garibaldi nel 1859 e da allora si annoverò tra i suoi amici fidati. Si narra di lui che salvasse la vita del suo generale nella battaglia di Calatafimi",
+      "(Ancona-1929-Roma 1919) convalescente per i postumi della grave ferita riportata nel 1860 a Calatafimi, vedi vol. VI, Non si trovò ad Aspromonte, ma si pensò a lui per una spedizione nei Balcani",
       "vedi voli. V, VI e VII",
       "potrebbe essere lui il personaggio cui Garibaldi si riferisce in una sua lettera a Teresa Pulszky, (vedi anche i voli. V-VIII)",
       "(1829-1919), anconetano, esperto di marineria, è molto amico di F. Pulszky e si interessa all'eventualità di una iniziativa garibaldina nei Balcani (vedi i voli. V-IX)",
@@ -26359,6 +26143,7 @@
         "pages": [
           186,
           218,
+          243,
           333
         ]
       },
@@ -26368,6 +26153,16 @@
           24,
           235,
           236
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          104,
+          142,
+          143,
+          223,
+          310
         ]
       },
       {
@@ -26407,28 +26202,10 @@
       }
     ]
   },
-  "ELIA, AUGUSTO (Ancona-1929-Roma 1919)": {
-    "id": "elia-augusto-3",
-    "descriptions": [
-      "convalescente per i postumi della grave ferita riportata nel 1860 a Calatafimi, vedi vol. VI, Non si trovò ad Aspromonte, ma si pensò a lui per una spedizione nei Balcani"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          104,
-          142,
-          143,
-          223,
-          310
-        ]
-      }
-    ]
-  },
-  "ELISANTER, giornalista tedesco": {
+  "ELISANTER": {
     "id": "elisanter-giornalista",
     "descriptions": [
-      "redattore della Deutsche Zeitung"
+      "giornalista tedesco, redattore della Deutsche Zeitung"
     ],
     "occurrences": [
       {
@@ -26440,29 +26217,22 @@
     ]
   },
   "ELLERO, PIETRO": {
-    "id": "ellero-pietro-2",
-    "descriptions": [
-      "(1833-1933), vedi il vol. VII"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          10
-        ]
-      }
-    ]
-  },
-  "ELLERO, PIETRO (Pordenone 1833-Roma 1933)": {
     "id": "ellero-pietro",
     "descriptions": [
-      "autore dell'opera Della pena capitale (Venezia, 1858), con la quale rilanciò in Italia la battaglia politica e morale per l'abolizione della pena di morte, problema che fu al centro della sua azione di giurista e di pubblicista"
+      "(Pordenone 1833-Roma 1933) autore dell'opera Della pena capitale (Venezia, 1858), con la quale rilanciò in Italia la battaglia politica e morale per l'abolizione della pena di morte, problema che fu al centro della sua azione di giurista e di pubblicista",
+      "(1833-1933), vedi il vol. VII"
     ],
     "occurrences": [
       {
         "volume": 7,
         "pages": [
           223
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          10
         ]
       }
     ]
@@ -26533,7 +26303,7 @@
   "ERNESTO": {
     "id": "ernesto-anonimo",
     "descriptions": [
-      "figlio di Maria Speranza von Schioartz (vedi)"
+      "figlio di Maria Speranza von Schwartz"
     ],
     "occurrences": [
       {
@@ -26601,11 +26371,9 @@
       }
     ]
   },
-  "ESPADAS BURGOS": {
+  "ESPADAS BURGOS, MANUEL": {
     "id": "espadas-anonimo",
-    "descriptions": [
-      "MANUEL"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 13,
@@ -26644,11 +26412,9 @@
       }
     ]
   },
-  "ESPOSITO": {
+  "ESPOSITO, ROSARIO F.": {
     "id": "esposito-anonimo",
-    "descriptions": [
-      "ROSARIO F."
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -26732,11 +26498,9 @@
       }
     ]
   },
-  "EULA": {
-    "id": "eula-anonimo",
-    "descriptions": [
-      "D. C."
-    ],
+  "EULA, D. C.": {
+    "id": "eula-d",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -26746,10 +26510,10 @@
       }
     ]
   },
-  "EVANGELISTO, potrebbe trattarsi di Paolo Emilio Evangelisti": {
-    "id": "evangelisto-potrebbe",
+  "EVANGELISTO": {
+    "id": "evangelisto-anonimo",
     "descriptions": [
-      "dei Mille, il quale fu commissario di guerra della II bgt."
+      "potrebbe trattarsi di Paolo Emilio Evangelisti dei Mille, il quale fu commissario di guerra della II bgt."
     ],
     "occurrences": [
       {
@@ -26778,7 +26542,8 @@
     "id": "fabbri-angelico",
     "descriptions": [
       "(1822-1886), originario di Gubbio, dopo aver combattuto con Garibaldi a Roma nel 1849, prese parte alla guerra del 1859 con il grado di colonnello. Nel 1865 si candida alle politiche in rappresentanza della sua città natale: sarà eletto nell'elezione suppletiva del 7 gennaio 1",
-      "(1822-1886), combatté con Garibaldi a Roma nel 1849 e nella guerra del 1"
+      "(1822-1886), combatté con Garibaldi a Roma nel 1849 e nella guerra del 1",
+      "(1822-1886), garibaldino umbro"
     ],
     "occurrences": [
       {
@@ -26796,15 +26561,7 @@
           121,
           299
         ]
-      }
-    ]
-  },
-  "FABBRI, ANGELICO (1822-1886)": {
-    "id": "fabbri-angelico-3",
-    "descriptions": [
-      "garibaldino umbro"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 14,
         "pages": [
@@ -26841,11 +26598,9 @@
       }
     ]
   },
-  "FABIANI": {
+  "FABIANI, GIOVANNI": {
     "id": "fabiani-anonimo",
-    "descriptions": [
-      "GIOVANNI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -26856,9 +26611,10 @@
     ]
   },
   "FABIO MASSIMO, QUINTO": {
-    "id": "fabio-quinto-2",
+    "id": "fabio-quinto",
     "descriptions": [
-      "(275 circa a C - 203 a C ), uomo politico e generale romano"
+      "(275 circa a C - 203 a C ), uomo politico e generale romano",
+      "(275 circa a. C. - 203 a. C.) uomo politico e generale romano"
     ],
     "occurrences": [
       {
@@ -26866,15 +26622,7 @@
         "pages": [
           306
         ]
-      }
-    ]
-  },
-  "FABIO MASSIMO, QUINTO (275 circa a. C. - 203 a. C.)": {
-    "id": "fabio-quinto",
-    "descriptions": [
-      "uomo politico e generale romano"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 12,
         "pages": [
@@ -26915,12 +26663,14 @@
   "FABRIZI, NICOLA": {
     "id": "fabrizi-nicola",
     "descriptions": [
-      ", (1805-1885), in questi anni esule a Malta",
+      "(1805-1885), in questi anni esule a Malta",
+      "(Modena 1804-Roma 1885) cospiratore con Menotti nel 1831, esule in Francia, Grecia e Malta, combattè nella repubblica romana. Brigadiere nell'E.M. (cfr. vol. VI, VII)",
       "(1804-1885), partito Garibaldi da Napoli il Fabrizi rimase in contatto con lui in vista di una possibile ripresa dell'iniziativa rivoluzionaria nella primavera del 1861. Fallita questa prospettiva si recò a Malta e visse appartato dalla lotta politica fino a quando Cialdini non lo chiamò a Napoli come suo collaboratore",
       "(1804-1885), eletto deputato, fece parte con Cadolmi, Calvino e Mordini della delegazione inviata a Garibaldi in Sicilia dai deputati della sinistra, vedi anche vol. VI",
       "(1804-1885), figura di spicco del Partito d'Azione (vedi anche i voli. III, V, VI e VII)",
       "(1804-1885), patriota modenese, dal 1860 uomo di fiducia di Garibaldi; generale e capo di Stato Maggiore del C.V.I. nel 1866, al termine della campagna ne comunica lo scioglimento (a partire dal 25 settembre) con una nota pubblicata sulla Gazzetta Ufficiale del Regno, dichiarando illecito continuare a indossarne la divisa (vedi anche i voll. III, V-VII e IX-X)",
-      "(1804-1885), generale, capo di Stato maggiore di Garibaldi"
+      "(1804-1885), generale, capo di Stato maggiore di Garibaldi",
+      "(1804-1885) generale, deputato"
     ],
     "occurrences": [
       {
@@ -26929,6 +26679,13 @@
           88,
           105,
           130
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          222,
+          242
         ]
       },
       {
@@ -27000,15 +26757,7 @@
           237,
           241
         ]
-      }
-    ]
-  },
-  "FABRIZI, NICOLA (1804-1885)": {
-    "id": "fabrizi-nicola-8",
-    "descriptions": [
-      "generale, deputato"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 13,
         "pages": [
@@ -27031,21 +26780,6 @@
           217,
           220,
           250
-        ]
-      }
-    ]
-  },
-  "FABRIZI, NICOLA (Modena 1804-Roma 1885)": {
-    "id": "fabrizi-nicola-2",
-    "descriptions": [
-      "cospiratore con Menotti nel 1831, esule in Francia, Grecia e Malta, combattè nella repubblica romana. Brigadiere nell'E.M. (cfr. vol. VI, VII)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          222,
-          242
         ]
       }
     ]
@@ -27111,11 +26845,9 @@
       }
     ]
   },
-  "FAGAN": {
+  "FAGAN, LUIGI": {
     "id": "fagan-anonimo",
-    "descriptions": [
-      "LUIGI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -27153,11 +26885,9 @@
       }
     ]
   },
-  "FALANGOLA": {
-    "id": "falangola-anonimo",
-    "descriptions": [
-      "MARIO E"
-    ],
+  "FALANGOLA, MARIO E": {
+    "id": "falangola-mario",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -27167,11 +26897,9 @@
       }
     ]
   },
-  "FALCHI": {
-    "id": "falchi-anonimo",
-    "descriptions": [
-      "LUIGI"
-    ],
+  "FALCHI, LUIGI": {
+    "id": "falchi-luigi",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 10,
@@ -27181,11 +26909,9 @@
       }
     ]
   },
-  "FALCONI": {
-    "id": "falconi-anonimo",
-    "descriptions": [
-      "ANGELO"
-    ],
+  "FALCONI, ANGELO": {
+    "id": "falconi-angelo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -27210,11 +26936,9 @@
       }
     ]
   },
-  "FALZONE": {
+  "FALZONE, GAETANO": {
     "id": "falzone-anonimo",
-    "descriptions": [
-      "GAETANO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -27276,10 +27000,10 @@
       }
     ]
   },
-  "FANELLI, GIUSEPPE (Napoli 1827-ivi 1877)": {
+  "FANELLI, GIUSEPPE": {
     "id": "fanelli-giuseppe",
     "descriptions": [
-      "combattente in Lombardia e a Roma nel 1848-1849, organizzatore dell'impresa di Pisacane, esule a Malta e in Inghilterra. Dopo il 1860 fu varie volte deputato"
+      "(Napoli 1827-ivi 1877) combattente in Lombardia e a Roma nel 1848-1849, organizzatore dell'impresa di Pisacane, esule a Malta e in Inghilterra. Dopo il 1860 fu varie volte deputato"
     ],
     "occurrences": [
       {
@@ -27305,30 +27029,11 @@
     ]
   },
   "FANTI, MANFREDO": {
-    "id": "fanti-manfredo-2",
-    "descriptions": [
-      "(1806-1865), ministro della guerra nell'ultimo ministero Cavour, alla morte del quale si affrettò a rassegnare le sue dimissioni, fu il principale avversario di Garibaldi sulla questione relativa alla sorte dell'E.M. (vedi vol. IV)",
-      "(1806-1865), avversario di Garibaldi e delle aspettative dell'Esercito Meridionale nella fase di costruzione dell'Esercito regio da lui gestita in prima persona, fu fatto senatore nel 1860 (vedi anche i voli. IV e VI)"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          148
-        ]
-      },
-      {
-        "volume": 10,
-        "pages": [
-          62
-        ]
-      }
-    ]
-  },
-  "FANTI, MANFREDO (Carpi 1806-Firenze 1865)": {
     "id": "fanti-manfredo",
     "descriptions": [
-      "comandante della II divisione dell'esercito piemontese, dopo Villafranca comandante delle quattro divisioni piemontesi tra Mincio ed Oglio, nell'agosto comandante dell'esercito della Lega"
+      "(Carpi 1806-Firenze 1865) comandante della II divisione dell'esercito piemontese, dopo Villafranca comandante delle quattro divisioni piemontesi tra Mincio ed Oglio, nell'agosto comandante dell'esercito della Lega",
+      "(1806-1865), ministro della guerra nell'ultimo ministero Cavour, alla morte del quale si affrettò a rassegnare le sue dimissioni, fu il principale avversario di Garibaldi sulla questione relativa alla sorte dell'E.M. (vedi vol. IV)",
+      "(1806-1865), avversario di Garibaldi e delle aspettative dell'Esercito Meridionale nella fase di costruzione dell'Esercito regio da lui gestita in prima persona, fu fatto senatore nel 1860 (vedi anche i voli. IV e VI)"
     ],
     "occurrences": [
       {
@@ -27359,14 +27064,24 @@
           188,
           189
         ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          148
+        ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          62
+        ]
       }
     ]
   },
-  "FAPPANI": {
-    "id": "fappani-anonimo",
-    "descriptions": [
-      "ANTONIO"
-    ],
+  "FAPPANI, ANTONIO": {
+    "id": "fappani-antonio",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -27406,10 +27121,10 @@
       }
     ]
   },
-  "FARDELLA DI TORREARSA, ENRICO (Trapani 1821-ivi 1892)": {
+  "FARDELLA DI TORREARSA, ENRICO": {
     "id": "fardella-enrico",
     "descriptions": [
-      "di famiglia aristocratica, governatore garibaldino di Trapani, colonnello dell'E.M. Fu poi generale nordista durante la guerra civile americana e sindaco della sua città"
+      "(Trapani 1821-ivi 1892) di famiglia aristocratica, governatore garibaldino di Trapani, colonnello dell'E.M. Fu poi generale nordista durante la guerra civile americana e sindaco della sua città"
     ],
     "occurrences": [
       {
@@ -27438,6 +27153,7 @@
     "id": "farini-luigi",
     "descriptions": [
       "(1812-1866), governatore di Modena, dittatore dell'Emilia",
+      "(Russi Ravenna 1812-Quarto 1866), ministro dell'interno di Cavour fu inviato a Napoli al seguito del Re Vittorio Emanuele, del quale fu successivamente Luogotenente. Ebbe vari contrasti con Garibaldi (cfr. voll. IV, VI, VII)",
       "(1812-1866), inviato da Cavour a Napoli, al seguito del re per organizzare la transizione dal vecchio al nuovo ordine, in questa veste, come per altro in precedenza in Emilia, si attirò le ostilità di Garibaldi e dei garibaldini (vedi vol. IV)",
       "(1812-1866) fu in questo periodo uno dei più influenti membri del Parlamento e tra i capi del partito moderato, come tale destinato, di li a poco, a raccogliere la successione al Rattazzi, sebbene le incipienti manifestazioni di una grave malattia mentale lo costringessero poi ad allontanarsi dalla vita pubblica, vedi anche vol. VI",
       "(1812-1866), luogotenente generale a Napoli dopo l'annessione del Regno delle Due Sicilie, con la sua politica di assoluta devozione a Cavour provocò spesso le ire di Garibaldi. Presidente del Consiglio dopo le dimissioni di Rattazzi nel 1862, dovette lasciare il Governo per una grave malattia (vedi anche i voli. IV-VII)",
@@ -27453,6 +27169,13 @@
           160,
           186,
           243
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          190,
+          238
         ]
       },
       {
@@ -27482,21 +27205,6 @@
       }
     ]
   },
-  "FARINI, LUIGI CARLO (Russi": {
-    "id": "farini-luigi-2",
-    "descriptions": [
-      "Ravenna 1812-Quarto 1866), ministro dell'interno di Cavour fu inviato a Napoli al seguito del Re Vittorio Emanuele, del quale fu successivamente Luogotenente. Ebbe vari contrasti con Garibaldi (cfr. voll. IV, VI, VII)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          190,
-          238
-        ]
-      }
-    ]
-  },
   "FARRACCIOLO, GIUSEPPE": {
     "id": "farracciolo-giuseppe",
     "descriptions": [
@@ -27511,11 +27219,9 @@
       }
     ]
   },
-  "FASCINATO": {
-    "id": "fascinato-anonimo",
-    "descriptions": [
-      "GIOVAN BATTISTA"
-    ],
+  "FASCINATO, GIOVAN BATTISTA": {
+    "id": "fascinato-giovan",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -27544,10 +27250,10 @@
       }
     ]
   },
-  "FASI, ospite": {
+  "FASI": {
     "id": "fasi-ospite",
     "descriptions": [
-      "di Garibaldi a New York"
+      "ospite di Garibaldi a New York"
     ],
     "occurrences": [
       {
@@ -27558,11 +27264,12 @@
       }
     ]
   },
-  "FAUCHÈ, GIOVANNI BATTISTA (Venezia 1815-ivi 1884)": {
+  "FAUCHÈ, GIOVANNI BATTISTA": {
     "id": "fauchè-giovanni",
     "descriptions": [
-      "patriota, direttore della società di navigazione Rubattino",
-      "procuratore generale della società di navigazione Rubattino, concesse a Garibaldi il Piemonte ed il Lombardo, licenziato, si recò in Sicilia, dove fu da Garibaldi nominato cominissario generale per la marina (cfr. vol. IV)"
+      "(Venezia 1815-ivi 1884), patriota, direttore della società di navigazione Rubattino",
+      "(Venezia 1815-ivi 1884), procuratore generale della società di navigazione Rubattino, concesse a Garibaldi il Piemonte ed il Lombardo, licenziato, si recò in Sicilia, dove fu da Garibaldi nominato cominissario generale per la marina (cfr. vol. IV)",
+      "(1815-1884), veneziano, già combattente della difesa del 1849, poi esule in Piemonte, dopo essere stato licenziato dalla Società Rubattino per la questione dei due vapori ceduti a Garibaldi per l'impresa dei Mille, nel 1865 è promosso capitano di porto di I classe e assegnato alla capitaneria di Livorno (vedi anche i voli. IV-V)"
     ],
     "occurrences": [
       {
@@ -27578,15 +27285,7 @@
           65,
           79
         ]
-      }
-    ]
-  },
-  "FAUCHÉ, GIOVAN BATTISTA": {
-    "id": "fauché-giovan",
-    "descriptions": [
-      "(1815-1884), veneziano, già combattente della difesa del 1849, poi esule in Piemonte, dopo essere stato licenziato dalla Società Rubattino per la questione dei due vapori ceduti a Garibaldi per l'impresa dei Mille, nel 1865 è promosso capitano di porto di I classe e assegnato alla capitaneria di Livorno (vedi anche i voli. IV-V)"
-    ],
-    "occurrences": [
+      }, 
       {
         "volume": 10,
         "pages": [
@@ -27644,12 +27343,20 @@
       }
     ]
   },
-  "FAVARA VERDERAME, VINCENZO": {
-    "id": "favara-vincenzo-2",
+  "FAVARA, VINCENZO ": {
+    "id": "favara-vincenzo",
     "descriptions": [
+      "(Menfi 1816-Palermo 15 gennaio 1885) fu sindaco di Palermo dopo l'entrata di Garibaldi nel 1860. Molto legato a Crispi, rifiutò l'offerta della prefettura palermitana da Rattazzi. già prima dell'arrivo di Garibaldi a Palermo nel 1862 aveva lanciato, con altri esponenti filogaribaldini della sua città, una sottoscrizione per il Dono a Garzbaldz, ed egli ne fu l'amministratore, come nel luglio e nell'agosto sarebbe stato uno dei membri più attivi del comitato palermitano di provvedimento per la spedizione di Aspromonte",
       "vedi vol. VII"
     ],
     "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          172,
+          179
+        ]
+      },
       {
         "volume": 8,
         "pages": [
@@ -27660,26 +27367,9 @@
       }
     ]
   },
-  "FAVARA, VINCENZO (Menfi 1816-Palermo 15 gennaio 1885)": {
-    "id": "favara-vincenzo",
-    "descriptions": [
-      "fu sindaco di Palermo dopo l'entrata di Garibaldi nel 1860. Molto legato a Crispi, rifiutò l'offerta della prefettura palermitana da Rattazzi. già prima dell'arrivo di Garibaldi a Palermo nel 1862 aveva lanciato, con altri esponenti filogaribaldini della sua città, una sottoscrizione per il Dono a Garzbaldz, ed egli ne fu l'amministratore, come nel luglio e nell'agosto sarebbe stato uno dei membri più attivi del comitato palermitano di provvedimento per la spedizione di Aspromonte"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          172,
-          179
-        ]
-      }
-    ]
-  },
-  "FAVAZZI": {
+  "FAVAZZI, VITO": {
     "id": "favazzi-anonimo",
-    "descriptions": [
-      "VITO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 8,
@@ -27737,10 +27427,10 @@
       }
     ]
   },
-  "FAZIO, il riferimento potrebbe essere a Melchiorre": {
+  "FAZIO": {
     "id": "fazio-il",
     "descriptions": [
-      "(1805-1880), nativo di Alcamo, che insorse contro i Borbone fin dall'aprile"
+      "il riferimento potrebbe essere a Melchiorre (1805-1880), nativo di Alcamo, che insorse contro i Borbone fin dall'aprile"
     ],
     "occurrences": [
       {
@@ -27861,10 +27551,10 @@
       }
     ]
   },
-  "FEDERICO Il il GRANDE (1712-1786), re di Prussia dal 1740": {
+  "FEDERICO II": {
     "id": "federico-re",
     "descriptions": [
-      "diede al suo regno una formidabile organizzazione militare"
+      "il GRANDE (1712-1786), re di Prussia dal 1740, diede al suo regno una formidabile organizzazione militare"
     ],
     "occurrences": [
       {
@@ -27875,11 +27565,9 @@
       }
     ]
   },
-  "FEINIANI": {
+  "FEINIANI, CLEONICE": {
     "id": "feiniani-anonimo",
-    "descriptions": [
-      "CLEONICE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 13,
@@ -27904,7 +27592,7 @@
       }
     ]
   },
-  "FELLETTI": {
+  "FELLETTI, signora": {
     "id": "felletti-anonimo",
     "descriptions": [
       "signora"
@@ -27933,11 +27621,9 @@
       }
     ]
   },
-  "FENTON": {
+  "FENTON, JONATHAN": {
     "id": "fenton-anonimo",
-    "descriptions": [
-      "JONATHAN"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -27947,10 +27633,10 @@
       }
     ]
   },
-  "FENZI": {
-    "id": "fenzi-anonimo",
+  "FENZI, CARLO ": {
+    "id": "fenzi-carlo",
     "descriptions": [
-      "CARLO"
+      "(Firenze 24 novembre 1823-ivi 2 settembre 1881) nel 1858 ebbe da Ricasoli l'incarico di costituire la guardia civica. Fu tra i fondatori de La Nazione. Fu più volte deputato e poi senatore, politicamente vicmo alle posizioni ricasoliane"
     ],
     "occurrences": [
       {
@@ -27958,15 +27644,7 @@
         "pages": [
           57
         ]
-      }
-    ]
-  },
-  "FENZI, CARLO (Firenze 24 novembre 1823-ivi 2 settembre 1881)": {
-    "id": "fenzi-carlo",
-    "descriptions": [
-      "nel 1858 ebbe da Ricasoli l'incarico di costituire la guardia civica. Fu tra i fondatori de La Nazione. Fu più volte deputato e poi senatore, politicamente vicmo alle posizioni ricasoliane"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 7,
         "pages": [
@@ -28054,11 +27732,9 @@
       }
     ]
   },
-  "FERMO": {
+  "FERMO, NICOLA": {
     "id": "fermo-anonimo",
-    "descriptions": [
-      "NICOLA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -28082,19 +27758,22 @@
       }
     ]
   },
-  "FERONI": {
+  "FERONI, ANGELO": {
     "id": "feroni-anonimo",
-    "descriptions": [
-      "ANGELO",
-      "PIETRO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
         "pages": [
           100
         ]
-      },
+      }
+    ]
+  },
+  "FERONI, PIETRO": {
+    "id": "feroni-anonimo",
+    "descriptions": [],
+    "occurrences": [
       {
         "volume": 2,
         "pages": [
@@ -28134,6 +27813,21 @@
       }
     ]
   },
+  "FERRACIUOLO, GIUSEPPE": {
+    "id": "ferraciuolo-giuseppe",
+    "descriptions": [
+      "Ex proprietario terriero in Caprera"
+    ],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          122,
+          128
+        ]
+      }
+    ]
+  },
   "FERRAIOLO, BATTISTA": {
     "id": "ferraiolo-battista",
     "descriptions": [
@@ -28148,53 +27842,10 @@
       }
     ]
   },
-  "FERRAR!, EMILIO": {
-    "id": "ferrar!-emilio",
-    "descriptions": [
-      "medico"
-    ],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          101,
-          159
-        ]
-      }
-    ]
-  },
-  "FERRARI": {
-    "id": "ferrari-anonimo",
-    "descriptions": [
-      "FRANCESCO",
-      "NAZARENO",
-      "EMILIO"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          13
-        ]
-      },
-      {
-        "volume": 7,
-        "pages": [
-          120
-        ]
-      },
-      {
-        "volume": 8,
-        "pages": [
-          127
-        ]
-      }
-    ]
-  },
-  "FERRARI, ANDREA (1770-1849)": {
+  "FERRARI, ANDREA": {
     "id": "ferrari-andrea",
     "descriptions": [
-      "generale della Guardia Civica Romana e deputato all'Assemblea Costituente, mori alla difesa di Roma"
+      "(1770-1849) generale della Guardia Civica Romana e deputato all'Assemblea Costituente, mori alla difesa di Roma"
     ],
     "occurrences": [
       {
@@ -28223,6 +27874,7 @@
   "FERRARI, EMILIO": {
     "id": "ferrari-emilio",
     "descriptions": [
+      "medico",
       "poeta, autore di uno Stabat Mater degli italiani, dedicò a Garibaldi una raccolta di sue poesie politiche",
       "medico"
     ],
@@ -28234,39 +27886,45 @@
         ]
       },
       {
-        "volume": 12,
+        "volume": 8,
         "pages": [
-          67
-        ]
-      }
-    ]
-  },
-  "FERRARI, GIOVANNI": {
-    "id": "ferrari-giovanni-3",
-    "descriptions": [
-      "sergente del battaglione Caldesi",
-      "scultore, residente a Montevideo"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          230
+          127
         ]
       },
       {
         "volume": 12,
         "pages": [
-          47
+          67
+        ]
+      },
+      {
+        "volume": 14,
+        "pages": [
+          101,
+          159
         ]
       }
     ]
   },
-  "FERRARI, GIOVANNI (Brescia 1817-Novara 1871)": {
+  "FERRARI, FRANCESCO": {
+    "id": "ferrari-francesco",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          13
+        ]
+      }
+    ]
+  },
+  "FERRARI, GIOVANNI": {
     "id": "ferrari-giovanni",
     "descriptions": [
-      "capitano dei C.d.A., medaglia d'argento al V.M.",
-      "maggiore dell'E.M., (cfr. vol. IV)"
+      "(Brescia 1817-Novara 1871), capitano dei C.d.A., medaglia d'argento al V.M.",
+      "(Brescia 1817-Novara 1871), maggiore dell'E.M., (cfr. vol. IV)",
+      "sergente del battaglione Caldesi",
+      "scultore, residente a Montevideo"
     ],
     "occurrences": [
       {
@@ -28281,6 +27939,31 @@
         "pages": [
           89,
           271
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          230
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          47
+        ]
+      }
+    ]
+  },
+    "FERRARI, NAZARENO": {
+    "id": "ferrari-nazareno",
+    "descriptions": [
+    ],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          120
         ]
       }
     ]
@@ -28313,25 +27996,10 @@
       }
     ]
   },
-  "FERRAciuoLo, GIUSEPPE": {
-    "id": "ferraciuolo-giuseppe",
-    "descriptions": [
-      "Ex proprietario terriero in Caprera"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          122,
-          128
-        ]
-      }
-    ]
-  },
-  "FERRERO DELLA MARMORA, ALBERTO (1789-1863)": {
+  "FERRERO DELLA MARMORA, ALBERTO": {
     "id": "ferrero-alberto",
     "descriptions": [
-      "militare piemontese, nel 1848 si occupò dell'organizzazione dei volontari veneti"
+      "(1789-1863) militare piemontese, nel 1848 si occupò dell'organizzazione dei volontari veneti"
     ],
     "occurrences": [
       {
@@ -28343,24 +28011,12 @@
     ]
   },
   "FERRERO DELLA MARMORA, ALFONSO": {
-    "id": "ferrero-alfonso-3",
-    "descriptions": [
-      "(1804-1878), presidente del Consiglio entrato in carica il 28 settembre 1864; si dimette il 19 dicembre 1865, ma, ricevuto un nuovo incarico, succede a se stesso a partire dal 31 dicembre 1865 (vedi i voll. IV e VII), 91"
-    ],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          161,
-          199
-        ]
-      }
-    ]
-  },
-  "FERRERO DELLA MARMORA, ALFONSO (Tonno 1804-Firenze 1878)": {
     "id": "ferrero-alfonso",
     "descriptions": [
-      "presidente del consiglio dei ministri e ministro della guerra piemontese fino al gennaio, comandante del corpo d'armata di Milano"
+      "(Torino 1804-Firenze 1878)presidente del consiglio dei ministri e ministro della guerra piemontese fino al gennaio, comandante del corpo d'armata di Milano",
+      "(Torino 1804-Firenze 1878) fu uno dei massimi esponenti dell'alta ufficialità piemontese e poi italiana e a lungo Ministro della Guerra con Cavour. Dopo il 1861 fu comandante del Corpo d'Armata di Napoli e prefetto della città, incarichi che lo posero in prima linea nella lotta al brigantaggio",
+      "(1804-1878), presidente del Consiglio entrato in carica il 28 settembre 1864; si dimette il 19 dicembre 1865, ma, ricevuto un nuovo incarico, succede a se stesso a partire dal 31 dicembre 1865 (vedi i voll. IV e VII), 91",
+      "(1804-1878), generale d'armata, capo di Stato Maggiore generale dell'Esercito, sono noti il suo dualismo con E. Cialdini in merito alla conduzione della guerra e il suo smarrimento dopo la sconfitta di Custoza; lascia il comando dell'Esercito a Cialdini il 18 agosto 1866 (vedi anche i voll. IIV e VII)"
     ],
     "occurrences": [
       {
@@ -28368,30 +28024,21 @@
         "pages": [
           6
         ]
-      }
-    ]
-  },
-  "FERRERO DELLA MARMORA, ALFONSO (Torino 1804-Firenze 1878)": {
-    "id": "ferrero-alfonso-2",
-    "descriptions": [
-      "fu uno dei massimi esponenti dell'alta ufficialità piemontese e poi italiana e a lungo Ministro della Guerra con Cavour. Dopo il 1861 fu comandante del Corpo d'Armata di Napoli e prefetto della città, incarichi che lo posero in prima linea nella lotta al brigantaggio"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 7,
         "pages": [
           16,
           281
         ]
-      }
-    ]
-  },
-  "FERRERO della MARMORA, ALFONSO": {
-    "id": "ferrero-alfonso-4",
-    "descriptions": [
-      "(1804-1878), generale d'armata, capo di Stato Maggiore generale dell'Esercito, sono noti il suo dualismo con E. Cialdini in merito alla conduzione della guerra e il suo smarrimento dopo la sconfitta di Custoza; lascia il comando dell'Esercito a Cialdini il 18 agosto 1866 (vedi anche i voll. IIV e VII)"
-    ],
-    "occurrences": [
+      },
+            {
+        "volume": 10,
+        "pages": [
+          161,
+          199
+        ]
+      },
       {
         "volume": 11,
         "pages": [
@@ -28436,26 +28083,10 @@
       }
     ]
   },
-  "FERRI": {
-    "id": "ferri-anonimo",
-    "descriptions": [
-      "ANGELO",
-      "FELICE",
-      "VINCENZO"
-    ],
+  "FERRI, ANGELO": {
+    "id": "ferri-angelo",
+    "descriptions": [],
     "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          101
-        ]
-      },
-      {
-        "volume": 2,
-        "pages": [
-          100
-        ]
-      },
       {
         "volume": 2,
         "pages": [
@@ -28467,9 +28098,15 @@
   "FERRI, FELICE": {
     "id": "ferri-felice",
     "descriptions": [
-      "(1828cl889), componente del Comitato centrale delle provincie insorte, partecipò alla campagna dell'Agro romano"
+      "(1828-1889), componente del Comitato centrale delle provincie insorte, partecipò alla campagna dell'Agro romano"
     ],
     "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          100
+        ]
+      },
       {
         "volume": 12,
         "pages": [
@@ -28498,6 +28135,12 @@
       "responsabile del Comitato d'azione per Roma e Venezia del Grossetano"
     ],
     "occurrences": [
+            {
+        "volume": 2,
+        "pages": [
+          100
+        ]
+      },
       {
         "volume": 8,
         "pages": [
@@ -28506,10 +28149,10 @@
       }
     ]
   },
-  "FERRIGHI, FELICE (S. Clemente di Valdagno": {
+  "FERRIGHI, FELICE": {
     "id": "ferrighi-felice",
     "descriptions": [
-      "Vicenza 1831-Cremona 1863), uno dei Mille"
+      "(S. Clemente di Valdagno Vicenza 1831-Cremona 1863), uno dei Mille"
     ],
     "occurrences": [
       {
@@ -28548,11 +28191,9 @@
       }
     ]
   },
-  "FERRONE": {
-    "id": "ferrone-anonimo",
-    "descriptions": [
-      "FERDINANDO M."
-    ],
+  "FERRONE, FERDINANDO M.": {
+    "id": "ferrone-ferdinando",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 1,
@@ -28576,11 +28217,11 @@
       }
     ]
   },
-  "FERRUCCI, FRANCESCO (1489-1530)": {
+  "FERRUCCI, FRANCESCO": {
     "id": "ferrucci-francesco",
     "descriptions": [
-      "mercante, uomo politico e comandante militare fiorentino, fu sconfitto dalle truppe imperiali a Gavinana e, ferito, fu ucciso da Fabrizio Maramaldo",
-      "distintosi nella difesa di Firenze assaltata dagli imperiali, fatto prigioniero a Gavinana e ucciso da F. Maramaldo"
+      "(1489-1530) mercante, uomo politico e comandante militare fiorentino, fu sconfitto dalle truppe imperiali a Gavinana e, ferito, fu ucciso da Fabrizio Maramaldo",
+      "(1489-1530) distintosi nella difesa di Firenze assaltata dagli imperiali, fatto prigioniero a Gavinana e ucciso da F. Maramaldo"
     ],
     "occurrences": [
       {
@@ -28643,11 +28284,9 @@
       }
     ]
   },
-  "FIANDACA CURRÒ": {
-    "id": "fiandaca-anonimo",
-    "descriptions": [
-      "IGNAZZO"
-    ],
+  "FIANDACA CURRÒ, IGNAZIO": {
+    "id": "fiandaca-curro",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -28657,10 +28296,10 @@
       }
     ]
   },
-  "FIANDACA PORRIVECCHI, IGNAZIO (Santa Caterina Villarmosa 7 dicembre 1818Aci Sant' Antonio 5 gennaio 1878) barone": {
+  "FIANDACA PORRIVECCHI, IGNAZIO": {
     "id": "fiandaca-ignazio",
     "descriptions": [
-      "nel 1860 favorevole ad una rapida annessione della Sicilia al Piemonte, fu poi per diversi anni sindaco del paese natio e comandante la locale Guardia Nazionale. Durante il soggiorno di Garibaldi a Santa Caterina fu solerte nel soccorso a lui e ai volontari"
+      "(Santa Caterina Villarmosa 7 dicembre 1818A - Sant'Antonio 5 gennaio 1878) barone nel 1860 favorevole ad una rapida annessione della Sicilia al Piemonte, fu poi per diversi anni sindaco del paese natio e comandante la locale Guardia Nazionale. Durante il soggiorno di Garibaldi a Santa Caterina fu solerte nel soccorso a lui e ai volontari"
     ],
     "occurrences": [
       {
@@ -28685,11 +28324,9 @@
       }
     ]
   },
-  "FICCADENTI": {
+  "FICCADENTI, BRUNO": {
     "id": "ficcadenti-anonimo",
-    "descriptions": [
-      "BRUNO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -28734,11 +28371,9 @@
       }
     ]
   },
-  "FIGLIOLI": {
+  "FIGLIOLI, ANDREA": {
     "id": "figlioli-anonimo",
-    "descriptions": [
-      "ANDREA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -28807,10 +28442,10 @@
       }
     ]
   },
-  "FILIPPO II, il Re di Spagna (Valladolid 1527-Escorial 1598)": {
-    "id": "filippo-il",
+  "FILIPPO II": {
+    "id": "filippo-ii",
     "descriptions": [
-      "fu per antonomasia il sovrano della Controriforma. Nel persegmre la sua politica di egemonia in Europa dovette combattere, peraltro senza fortuna, contro gli Olandesi"
+      "il Re di Spagna (Valladolid 1527-Escorial 1598), fu per antonomasia il sovrano della Controriforma. Nel persegmre la sua politica di egemonia in Europa dovette combattere, peraltro senza fortuna, contro gli Olandesi"
     ],
     "occurrences": [
       {
@@ -28821,31 +28456,14 @@
       }
     ]
   },
-  "FILIPPONI": {
+  "FILIPPONI, LUCA": {
     "id": "filipponi-anonimo",
-    "descriptions": [
-      "LUCA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
         "pages": [
           100
-        ]
-      }
-    ]
-  },
-  "FILOPANTI, QIBRICO": {
-    "id": "filopanti-qibrico",
-    "descriptions": [
-      "pseudonimo di BARILLI, GIUSEPPE, (1812-1894), (su di lui vedi i voll. IV e IX-X); assai stimato da Garibaldi, lo segue anche in Trentino e combatte valorosamente a Condino"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          66,
-          73
         ]
       }
     ]
@@ -28856,6 +28474,7 @@
       "Pseudonimo di GIUSEPPE BARILLI (Budrio 1812 - Bologna 1894), esule a New York, tornò in Italia nel 1859 riprendendovi studi ed insegnamento universitario",
       "pseudonimo di BARILLI, GIUSEPPE, (18121894), dal 1864 al 1868 farà parte della Commissione Permanente varata a conclusione dell'XI congresso delle Società Operaie, (vedi il vol. IV)",
       "pseudonimo di BARILLI, GIUSEPPE, (18121894). Tra il 1864 e il 1868 è membro della Commissione permanente delle società operaie italiane. Molto stimato da Garibaldi, cui è legato dai tempi del comune esilio a New York, è noto per i suoi studi scientifici e per l'insegnamento di meccanica e idraulica che tiene presso l'Università di Bologna (vedi anche i voli. IV e IX)",
+      "pseudonimo di BARILLI, GIUSEPPE, (1812-1894), (su di lui vedi i voll. IV e IX-X); assai stimato da Garibaldi, lo segue anche in Trentino e combatte valorosamente a Condino",
       "pseudonimo di BARILLI, GIUSEPPE, (1812-1894), . professore di meccanica e idraulica all'Università di Bologna, seguì nel 1867 Garibaldi nella campagna dell'Agro romano, 54;",
       "pseudommo di BARILLI, GIUSEPPE (1812-1894), professore di meccanica e idraulica all'Università di Bologna"
     ],
@@ -28879,6 +28498,13 @@
           15,
           26,
           38
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          66,
+          73
         ]
       },
       {
@@ -28907,24 +28533,11 @@
       }
     ]
   },
-  "FINOCCHIARO APRILE, CAMILLO": {
-    "id": "finocchiaro-camillo-2",
-    "descriptions": [
-      "(1851-1916), fu arrestato nell'agosto 1870 in occasione del fallito tentativo repubblicano in Sicilia"
-    ],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          90
-        ]
-      }
-    ]
-  },
-  "FINOCCHIARO APRILE, CAMILLO (1851-1916)": {
+  "FINOCCHIARO APRILE, CAMILLO ": {
     "id": "finocchiaro-camillo",
     "descriptions": [
-      "partecipò a soli sedici anni alla campagna garibaldina del 1"
+      "(1851-1916) partecipò a soli sedici anni alla campagna garibaldina del 1867",
+      "(1851-1916), fu arrestato nell'agosto 1870 in occasione del fallito tentativo repubblicano in Sicilia"
     ],
     "occurrences": [
       {
@@ -28933,6 +28546,12 @@
           179,
           246,
           247
+        ]
+      },
+            {
+        "volume": 14,
+        "pages": [
+          90
         ]
       }
     ]
@@ -28969,6 +28588,7 @@
     "id": "finzi-giuseppe",
     "descriptions": [
       "(1815-1886), già mazzimano, commissario per la provincia di Mantova, direttore della sottoscrizione per il milione di fucili",
+      "(Rivarolo 1815-Mantova 1886) direttore con Besana della sottoscrizione per il milione di fucili, deputato",
       "(1815-1886), direttore insieme al Besana della sottoscrizione per il milione di fucili (vedi vol. IV)",
       "vedi i voli. IV, V, VI",
       "(1815-1886), raccoglie fondi per gli Ungheresi colpiti dalla carestia (vedi anche i voli. IV-VI e VIII)"
@@ -28983,34 +28603,6 @@
           224
         ]
       },
-      {
-        "volume": 6,
-        "pages": [
-          11,
-          144,
-          166
-        ]
-      },
-      {
-        "volume": 8,
-        "pages": [
-          59
-        ]
-      },
-      {
-        "volume": 9,
-        "pages": [
-          38
-        ]
-      }
-    ]
-  },
-  "FINZI, GIUSEPPE (Rivarolo 1815-Mantova 1886)": {
-    "id": "finzi-giuseppe-2",
-    "descriptions": [
-      "direttore con Besana della sottoscrizione per il milione di fucili, deputato"
-    ],
-    "occurrences": [
       {
         "volume": 5,
         "pages": [
@@ -29043,14 +28635,32 @@
           149,
           188
         ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          11,
+          144,
+          166
+        ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          59
+        ]
+      },
+      {
+        "volume": 9,
+        "pages": [
+          38
+        ]
       }
     ]
   },
-  "FIORELLI": {
-    "id": "fiorelli-anonimo",
-    "descriptions": [
-      "DOMENICO"
-    ],
+  "FIORELLI, DOMENICO": {
+    "id": "fiorelli-domenico",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -29060,10 +28670,10 @@
       }
     ]
   },
-  "FIORENTINI, PIETRO (Verona 1825-Mllano 1863)": {
+  "FIORENTINI, PIETRO": {
     "id": "fiorentini-pietro",
     "descriptions": [
-      "uno dei Mille"
+      "(Verona 1825-Mllano 1863) uno dei Mille"
     ],
     "occurrences": [
       {
@@ -29074,11 +28684,9 @@
       }
     ]
   },
-  "FIORI": {
-    "id": "fiori-anonimo",
-    "descriptions": [
-      "LUISA"
-    ],
+  "FIORI, LUISA": {
+    "id": "fiori-luisa",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -29202,10 +28810,10 @@
       }
     ]
   },
-  "FLAVIA, cameriera e governante della famiglia Deideri": {
+  "FLAVIA, cameriera": {
     "id": "flavia-cameriera",
     "descriptions": [
-      "se ne conosce solo il nome (vedi il vol. VIII)"
+      "cameriera e governante della famiglia Deideri se ne conosce solo il nome (vedi il vol. VIII)"
     ],
     "occurrences": [
       {
@@ -29220,6 +28828,7 @@
     "id": "flores-venancio",
     "descriptions": [
       "negli anni dei suoi rapporti con Garibaldi che corrispondono a quelli della spedizione nel Rio Uruguay (18451846), è colonnello dell'esercito uruguiano. Più tardi avrebbe assunto posizioni di primo piano nella vita del Paese e, partecipando alle lotte interne, avrebbe conseguito anche la carica suprema di Presidente della Repubblica",
+      "(n. 1809) militare uruguaiano, protagonista di una rivoluzione che lo portò al potere all'inizio del 1865; Garibaldi lo conosceva fin dai tempi dell'esilio sudamericano (vedi il voi. I)",
       "(1809-1868), generale, presidente dal 1866 della Repubblica dell'Uruguay"
     ],
     "occurrences": [
@@ -29233,25 +28842,17 @@
         ]
       },
       {
-        "volume": 12,
-        "pages": [
-          47,
-          48
-        ]
-      }
-    ]
-  },
-  "FLORES, VENANCIO (n. 1809)": {
-    "id": "flores-venancio-2",
-    "descriptions": [
-      "militare uruguaiano, protagonista di una rivoluzione che lo portò al potere all'inizio del 1865; Garibaldi lo conosceva fin dai tempi dell'esilio sudamericano (vedi il voi. I)"
-    ],
-    "occurrences": [
-      {
         "volume": 9,
         "pages": [
           202,
           203
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          47,
+          48
         ]
       }
     ]
@@ -29298,11 +28899,9 @@
       }
     ]
   },
-  "FOGGIA": {
+  "FOGGIA, ANTONIO": {
     "id": "foggia-anonimo",
-    "descriptions": [
-      "ANTONIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -29395,10 +28994,10 @@
       }
     ]
   },
-  "FONTAINE, giornalista belga residente a Bruxelles": {
+  "FONTAINE": {
     "id": "fontaine-giornalista",
     "descriptions": [
-      "fu tra gli organizzatori del Congresso democratico internazionale tenutosi nel settembre del 1863 nella sua città"
+      "giornalista belga residente a Bruxelles fu tra gli organizzatori del Congresso democratico internazionale tenutosi nel settembre del 1863 nella sua città"
     ],
     "occurrences": [
       {
@@ -29423,10 +29022,10 @@
       }
     ]
   },
-  "FONTANA, GIUSEPPE (Rovereto 1824-Milano 1890)": {
+  "FONTANA, GIUSEPPE": {
     "id": "fontana-giuseppe",
     "descriptions": [
-      "uno dei Mille, raggiunse il grado di capitano, medaglia d'argento al V.M."
+      "(Rovereto 1824-Milano 1890) uno dei Mille, raggiunse il grado di capitano, medaglia d'argento al V.M."
     ],
     "occurrences": [
       {
@@ -29465,11 +29064,9 @@
       }
     ]
   },
-  "FONTEROSSI": {
+  "FONTEROSSI, GIUSEPPE": {
     "id": "fonterossi-anonimo",
-    "descriptions": [
-      "GIUSEPPE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -29504,11 +29101,20 @@
   "FORBES, HUGH": {
     "id": "forbes-hugh",
     "descriptions": [
+      "colonnello, accompagnò Garibaldi nella ritirata da Roma a S. Marino",
       "colonnelo (vedi vol. II,)",
       "già ufficiale delle Grenadier Guards, sposò un'italiana in seconde nozze e fu con Garibaldi già nel 1848. Colonnello dell'E.M.",
       "(1829-1876) combattè con Garibaldi dal luglio all'ottobre del 1860 e di questa esperienza lasciò una relazione in inglese (vedi voli. II e III)"
     ],
     "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          190,
+          193,
+          196
+        ]
+      },
       {
         "volume": 3,
         "pages": [
@@ -29530,22 +29136,6 @@
       }
     ]
   },
-  "FORBES, UG": {
-    "id": "forbes-ug",
-    "descriptions": [
-      "colonnello, accompagnò Garibaldi nella ritirata da Roma a S. Marino"
-    ],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          190,
-          193,
-          196
-        ]
-      }
-    ]
-  },
   "FORCIGNANÒ, LUIGI": {
     "id": "forcignanò-luigi",
     "descriptions": [
@@ -29563,7 +29153,8 @@
   "FORESTI, ELEUTERIO FELICE": {
     "id": "foresti-eleuterio",
     "descriptions": [
-      "patriota di Monselice (1789-1858), condannato a morte nel 1821, ebbe commutata la pena in 20 anni di carcere e rimase allo Spielberg fino al 1836. Deportato negli Stati Uniti d'America, diresse la Congrega Centrale di New-York della Giovine Italia: questa fu interessata da Mazzini per il reperimento di fondi che potessero accelerare il ritorno in Patria di Garibaldi e dei suoi compagni"
+      "patriota di Monselice (1789-1858), condannato a morte nel 1821, ebbe commutata la pena in 20 anni di carcere e rimase allo Spielberg fino al 1836. Deportato negli Stati Uniti d'America, diresse la Congrega Centrale di New-York della Giovine Italia: questa fu interessata da Mazzini per il reperimento di fondi che potessero accelerare il ritorno in Patria di Garibaldi e dei suoi compagni",
+      "(1789-1858) patriota di Monselice, ex mazziniano, poi aderente alla Società Nazionale Italiana, console degli Stati Uniti a Genova (vedi vol. I)"
     ],
     "occurrences": [
       {
@@ -29571,18 +29162,24 @@
         "pages": [
           244
         ]
-      }
-    ]
-  },
-  "FORESTI, ELEUTERIO FELICE (1789-1858)": {
-    "id": "foresti-eleuterio-2",
-    "descriptions": [
-      "patriota di Monselice, ex mazziniano, poi aderente alla Società Nazionale Italiana, console degli Stati Uniti a Genova (vedi vol. I), 33, 35, 40, 42, 43, 54, 58, 59, 60, 65, 102, 103, 115, 11~"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 3,
         "pages": [
+          33, 
+          35, 
+          40, 
+          42, 
+          43, 
+          54, 
+          58, 
+          59, 
+          60, 
+          65, 
+          102, 
+          103, 
+          115, 
+          118,
           137,
           141,
           157,
@@ -29605,11 +29202,9 @@
       }
     ]
   },
-  "FORGIONE": {
+  "FORGIONE, BENIAMINO": {
     "id": "forgione-anonimo",
-    "descriptions": [
-      "BENIAMINO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -29677,12 +29272,21 @@
       }
     ]
   },
-  "FOSCHIATTI COEN": {
-    "id": "foschiatti-anonimo",
-    "descriptions": [
-      "GABRIELLA"
-    ],
+  "FOSCHIATTI COEN, GABRIELLA": {
+    "id": "foschiatti-gabriella",
+    "descriptions": [],
     "occurrences": [
+            {
+        "volume": 12,
+        "pages": [
+          43, 
+          44, 
+          99, 
+          107, 
+          208,
+          263
+        ]
+      },
       {
         "volume": 13,
         "pages": [
@@ -29691,24 +29295,11 @@
       }
     ]
   },
-  "FOSCHIATTI COEN, GABRIELLA": {
-    "id": "foschiatti-gabriella",
-    "descriptions": [
-      "43, 44, 99, 107, 208;"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          263
-        ]
-      }
-    ]
-  },
   "FOSCOLO, UGO": {
     "id": "foscolo-ugo",
     "descriptions": [
       "poeta preferito di Garibaldi che spesso ne recitava i versi",
+      "(1778-1827)il poeta dei Sepolcri e delle Grazie, prediletto da Garibaldi, oltre che per i suoi versi, per la fierezza del carattere",
       "(1778-1827), poeta"
     ],
     "occurrences": [
@@ -29716,6 +29307,12 @@
         "volume": 6,
         "pages": [
           192
+        ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          107
         ]
       },
       {
@@ -29732,20 +29329,6 @@
           41,
           215,
           307
-        ]
-      }
-    ]
-  },
-  "FOSCOLO, UGO (1778-1827)": {
-    "id": "foscolo-ugo-2",
-    "descriptions": [
-      "il poeta dei Sepolcri e delle Grazie, prediletto da Garibaldi, oltre che per i suoi versi, per la fierezza del carattere"
-    ],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          107
         ]
       }
     ]
@@ -29808,11 +29391,9 @@
       }
     ]
   },
-  "FRACIOSI": {
-    "id": "fraciosi-anonimo",
-    "descriptions": [
-      "PIETRO"
-    ],
+  "FRACIOSI, PIETRO": {
+    "id": "fraciosi-pietro",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -29836,11 +29417,9 @@
       }
     ]
   },
-  "FRANCESCHINIS": {
+  "FRANCESCHINIS, GIACINTO": {
     "id": "franceschinis-anonimo",
-    "descriptions": [
-      "GIACINTO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -29850,10 +29429,10 @@
       }
     ]
   },
-  "FRANCESCO GIUSEPPE I, (1830-1916)": {
-    "id": "francesco-(1830-1916)",
+  "FRANCESCO GIUSEPPE I": {
+    "id": "francesco-giuseppe",
     "descriptions": [
-      "imperatore d'Austria"
+      "(1830-1916) imperatore d'Austria"
     ],
     "occurrences": [
       {
@@ -29864,10 +29443,13 @@
       }
     ]
   },
-  "FRANCESCO II (Napoli 1836-Arco 1894)": {
-    "id": "francesco-anonimo",
+  "FRANCESCO II": {
+    "id": "francesco-ii",
     "descriptions": [
-      "Re delle Due Sicilie dal 1"
+      "(Napoli 1836-Arco 1894), Re delle Due Sicilie dal 1859",
+      "ultimo re delle Due Sicilie, dopo la caduta del suo regno visse a Roma",
+      "(1836-1894) ultimo re delle Due Sicilie. Vive in esilio a Roma fino al 1870 (vedi i voli. V-VI)",
+      "(1836-1894) ultimo re delle Due Sicilie"
     ],
     "occurrences": [
       {
@@ -29878,16 +29460,13 @@
           204,
           254
         ]
-      }
-    ]
-  },
-  "FRANCESCO II, (1836-1894)": {
-    "id": "francesco-(1836-1894)",
-    "descriptions": [
-      "ultimo re delle Due Sicilie. Vive in esilio a Roma fino al 1870 (vedi i voli. V-VI)",
-      "ultimo re delle Due Sicilie"
-    ],
-    "occurrences": [
+      },
+      {
+        "volume": 6,
+        "pages": [
+          280
+        ]
+      },
       {
         "volume": 10,
         "pages": [
@@ -29915,25 +29494,9 @@
       }
     ]
   },
-  "FRANCESCO II, (1839-1894)": {
-    "id": "francesco-(1839-1894)",
-    "descriptions": [
-      "ultimo re delle Due Sicilie, dopo la caduta del suo regno visse a Roma"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          280
-        ]
-      }
-    ]
-  },
-  "FRANCHI": {
-    "id": "franchi-anonimo-2",
-    "descriptions": [
-      "AUSONIO"
-    ],
+  "FRANCHI, AUSONIO": {
+    "id": "franchi-ausonio",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -29945,20 +29508,6 @@
         "volume": 4,
         "pages": [
           4
-        ]
-      }
-    ]
-  },
-  "FRANCHI MARTINO": {
-    "id": "franchi-anonimo",
-    "descriptions": [
-      "ufficiale i a Leg. lt. Ferito nel combattimento del 30 aprile 1"
-    ],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          138
         ]
       }
     ]
@@ -29980,12 +29529,19 @@
   "FRANCHI, MARTINO": {
     "id": "franchi-martino",
     "descriptions": [
+      "ufficiale i a Leg. lt. Ferito nel combattimento del 30 aprile 1849",
       "(1819-1867), maggiore nell'E.M., passò poi nell'esercito regolare (cfr. voll. II, VI)",
-      "(1819-1867), di umili origmi, raggiunse il grado di maggiore nella campagna del 1860 passando poi nell'esercito regolare. Dimessosi dal grado e dal servizio nel 1862 si recò negli Stati Uniti ove combattè contro l'esercito dell'Unione (vedi vol. II)",
+      "(1819-1867), di umili origini, raggiunse il grado di maggiore nella campagna del 1860 passando poi nell'esercito regolare. Dimessosi dal grado e dal servizio nel 1862 si recò negli Stati Uniti ove combattè contro l'esercito dell'Unione (vedi vol. II)",
       "(1819-1867), già maggiore nell'Esercito Meridionale, poi nel C.V.I. con lo stesso grado",
       "(1819-1867), maggiore garibaldino, morto durante la campagna dell'Agro romano"
     ],
     "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          138
+        ]
+      },
       {
         "volume": 5,
         "pages": [
@@ -30034,10 +29590,10 @@
       }
     ]
   },
-  "FRANCIA, comandante della goletta da guerra Independencia": {
+  "FRANCIA": {
     "id": "francia-comandante",
     "descriptions": [
-      "dell'E.N."
+      "comandante della goletta da guerra Independencia dell'E.N."
     ],
     "occurrences": [
       {
@@ -30062,11 +29618,9 @@
       }
     ]
   },
-  "FRANCIOSI": {
-    "id": "franciosi-anonimo",
-    "descriptions": [
-      "PIETRO"
-    ],
+  "FRANCIOSI, PIETRO": {
+    "id": "franciosi-pietro",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -30100,11 +29654,9 @@
       }
     ]
   },
-  "FRANCUCCI": {
-    "id": "francucci-anonimo",
-    "descriptions": [
-      "GIUSEPPE"
-    ],
+  "FRANCUCCI, GIUSEPPE": {
+    "id": "francucci-giuseppe",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -30114,11 +29666,9 @@
       }
     ]
   },
-  "FRANGIPANE": {
-    "id": "frangipane-anonimo",
-    "descriptions": [
-      "ADOLFO"
-    ],
+  "FRANGIPANE, ADOLFO": {
+    "id": "frangipane-adolfo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -30142,11 +29692,9 @@
       }
     ]
   },
-  "FRANZI": {
+  "FRANZI, TULIA": {
     "id": "franzi-anonimo",
-    "descriptions": [
-      "TULIA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -30170,11 +29718,9 @@
       }
     ]
   },
-  "FRANZONI GAMBERINI": {
+  "FRANZONI GAMBERINI, LUCETTA": {
     "id": "franzoni-anonimo",
-    "descriptions": [
-      "LUCETTA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -30226,7 +29772,7 @@
   "FRASSI, GIOVANNI": {
     "id": "frassi-giovanni",
     "descriptions": [
-      ", (1804-1860), ufficiale garibaldino"
+      "(1804-1860), ufficiale garibaldino"
     ],
     "occurrences": [
       {
@@ -30279,11 +29825,9 @@
       }
     ]
   },
-  "FREDDI FRANCESCHINI": {
+  "FREDDI FRANCESCHINI, GIULIA": {
     "id": "freddi-anonimo-2",
-    "descriptions": [
-      "GIULIA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -30293,11 +29837,9 @@
       }
     ]
   },
-  "FRESCURA": {
+  "FRESCURA, ATTILIO": {
     "id": "frescura-anonimo",
-    "descriptions": [
-      "ATTILIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 10,
@@ -30350,12 +29892,54 @@
     ]
   },
   "FRIGYESI, GUSTAV": {
-    "id": "frigyesi-gustav",
+    "id": "frigyesi-gustavo",
     "descriptions": [
-      "(1834-1878), patriota ungherese"
+      "ungherese disertore dall'esercito austriaco, sottotenente dei C.d.A.",
+      "disertore dell'esercito austriaco aderì alla causa italiana. Nel 1860 combattè con Garibaldi col grado di maggiore e fu poi ancora garibaldino ad Aspromonte ove ebbe il grado di colonnello. Arrestato e poi amnistiato, continuò la sua amicizia con Garibaldi. Mori a Milano poverissimo e malato nel febbraio 1878",
+      "in quest'anno, sempre in collegamento con Garibaldi, svolse opera di contatto col movimento nazionale balcanico e polacco, vedi vol. VII",
+      "(in. 1878) ungherese, coopera alla preparazione di una politica orientale del Partito d'Azione (vedi anche i voll. IV, VII e VIII)",
+      "(1834-1878), garibaldino ungherese (su di lui vedi i voll. IV e VII-IX), il suo vero nome era Sutak; arruolato nel C.V.I. con il grado di maggiore comanda un battaglione del 9° reggimento (Menotti Garibaldi) che il 16 luglio occupa il Monte Giovo",
+      "(1834-1878), patriota ungherese",
+      "(1834-1878) patriota ungherese"
     ],
     "occurrences": [
+            {
+        "volume": 4,
+        "pages": [
+          61
+        ]
+      },
+            {
+        "volume": 7,
+        "pages": [
+          111,
+          122,
+          123,
+          154,
+          289
+        ]
+      },
       {
+        "volume": 8,
+        "pages": [
+          53,
+          123,
+          148
+        ]
+      },
+      {
+        "volume": 9,
+        "pages": [
+          56
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          112
+        ]
+      },
+            {
         "volume": 12,
         "pages": [
           151,
@@ -30363,15 +29947,7 @@
           196,
           236
         ]
-      }
-    ]
-  },
-  "FRIGYESI, GUSTAV (1834-1878)": {
-    "id": "frigyesi-gustav-2",
-    "descriptions": [
-      "patriota ungherese"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 13,
         "pages": [
@@ -30388,82 +29964,25 @@
       }
     ]
   },
-  "FRIGYESI, GUSTAVO": {
-    "id": "frigyesi-gustavo",
+  "FRISCIA, SAVERIO": {
+    "id": "friscia-saverio",
     "descriptions": [
-      "in quest'anno, sempre in collegamento con Garibaldi, svolse opera di contatto col movimento nazionale balcanico e polacco, vedi vol. VII",
-      "(1834-1878), garibaldino ungherese (su di lui vedi i voll. IV e VII-IX), il suo vero nome era Sutak; arruolato nel C.V.I. con il grado di maggiore comanda un battaglione del 9° reggimento (Menotti Garibaldi) che il 16 luglio occupa il Monte Giovo"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          53,
-          123,
-          148
-        ]
-      },
-      {
-        "volume": 11,
-        "pages": [
-          112
-        ]
-      }
-    ]
-  },
-  "FRIGYESI, GUSTAVO (in. 1878)": {
-    "id": "frigyesi-gustavo-2",
-    "descriptions": [
-      "ungherese, coopera alla preparazione di una politica orientale del Partito d'Azione (vedi anche i voll. IV, VII e VIII)"
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          56
-        ]
-      }
-    ]
-  },
-  "FRIGYESY, GUSTAVO": {
-    "id": "frigyesy-gustavo",
-    "descriptions": [
-      "ungherese disertore dall'esercito austriaco, sottotenente dei C.d.A."
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          61
-        ]
-      }
-    ]
-  },
-  "FRIGYESY, GUSTAVO disertore dell'esercito austriaco aderì alla causa italiana. Nel 1860 combattè con Garibaldi col grado di maggiore e fu poi ancora garibaldino ad Aspromonte": {
-    "id": "frigyesy-gustavo-2",
-    "descriptions": [
-      "ove ebbe il grado di colonnello. Arrestato e poi amnistiato, continuò la sua amicizia con Garibaldi. Mori a Milano poverissimo e malato nel febbraio 1"
+      "(Sciacca il novembre 1813-ivi 22 febbraio 1886) massone, deputato della sinistra, intervenne nella discussione sui fatti di Sarinco. Negli anni successivi ebbe rapporti di collaborazione politica col Bakounin, mentre in questo periodo è nel Consiglio Centrale del'Emancipatrice, sollecitandone, dopo lo scioglimento dell'agosto, la ricostituzione",
+      "(1813-1886), tra i firmatari dell'appello per la riorganizzazione dell'Emancipatrice (febbraio 1863), tra i fondatori e collaboratori del foglio palerrmitano Aspromonte, si dedicò in questo periodo alla organizzazione di volontari in Sicilia per l'eventualità di nuove imprese. Fu in rapporti politici con Mazzini e sempre in questo anno, alla Camera, propose di mettere sotto accusa il Ministero per illeciti amministrativi. Dimessosi da deputato per protesta contro le repressioni del generale Govone in Sicilia, fu però presto rieletto",
+      "(1813-1886), medico siciliano, esponente della. Sinistra estrema, è membro della Società Operaia di Sciacca (vedi il vol. VIII)"
     ],
     "occurrences": [
       {
         "volume": 7,
         "pages": [
-          111,
-          122,
-          123,
-          154,
-          289
+          26,
+          27,
+          75,
+          89,
+          105,
+          106
         ]
-      }
-    ]
-  },
-  "FRISCIA, SAVERIO": {
-    "id": "friscia-saverio-2",
-    "descriptions": [
-      "(1813-1886), tra i firmatari dell'appello per la riorganizzazione dell'Emancipatrice (febbraio 1863), tra i fondatori e collaboratori del foglio palerrmitano Aspromonte, si dedicò in questo periodo alla organizzazione di volontari in Sicilia per l'eventualità di nuove imprese. Fu in rapporti politici con Mazzini e sempre in questo anno, alla Camera, propose di mettere sotto accusa il Ministero per illeciti amministrativi. Dimessosi da deputato per protesta contro le repressioni del generale Govone in Sicilia, fu però presto rieletto",
-      "(1813-1886), medico siciliano, esponente della. Sinistra estrema, è membro della Società Operaia di Sciacca (vedi il vol. VIII)"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 8,
         "pages": [
@@ -30479,54 +29998,16 @@
       }
     ]
   },
-  "FRISCIA, SAVERIO (Sciacca il novembre 1813-ivi 22 febbraio 1886)": {
-    "id": "friscia-saverio",
-    "descriptions": [
-      "massone, deputato della sinistra, intervenne nella discussione sui fatti di Sarinco. Negli anni successivi ebbe rapporti di collaborazione politica col Bakounin, mentre in questo periodo è nel Consiglio Centrale del'Emancipatrice, sollecitandone, dopo lo scioglimento dell'agosto, la ricostituzione"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          26,
-          27,
-          75,
-          89,
-          105,
-          106
-        ]
-      }
-    ]
-  },
   "FROSCIANTI": {
     "id": "froscianti-anonimo",
     "descriptions": [
-      "RAFFAELE",
       "moglie di Giovanni"
     ],
     "occurrences": [
       {
-        "volume": 3,
-        "pages": [
-          128
-        ]
-      },
-      {
-        "volume": 6,
-        "pages": [
-          276
-        ]
-      },
-      {
         "volume": 7,
         "pages": [
           8
-        ]
-      },
-      {
-        "volume": 12,
-        "pages": [
-          64
         ]
       }
     ]
@@ -30601,6 +30082,30 @@
       }
     ]
   },
+  "FROSCIANTI, RAFFAELE": {
+    "id": "froscianti-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          128
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          276
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          64
+        ]
+      }
+    ]
+  },
   "FRUGONI, PASQUALE": {
     "id": "frugoni-pasquale",
     "descriptions": [
@@ -30629,10 +30134,10 @@
       }
     ]
   },
-  "FUMAGALLI": {
-    "id": "fumagalli-anonimo",
+  "FUMAGALLI, GUGLIELMO": {
+    "id": "fumagalli-guglielmo",
     "descriptions": [
-      "GUGLIELMO"
+      "garibaldino, fece parte nel 1860 della colonna Zambianchi"
     ],
     "occurrences": [
       {
@@ -30640,15 +30145,7 @@
         "pages": [
           108
         ]
-      }
-    ]
-  },
-  "FUMAGALLI, GUGLIELMO": {
-    "id": "fumagalli-guglielmo",
-    "descriptions": [
-      "garibaldino, fece parte nel 1860 della colonna Zambianchi"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 13,
         "pages": [
@@ -30657,11 +30154,9 @@
       }
     ]
   },
-  "FUNARO": {
+  "FUNARO, L. ELDA": {
     "id": "funaro-anonimo",
-    "descriptions": [
-      "L. ELDA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -30672,10 +30167,10 @@
       }
     ]
   },
-  "FUSINATO, CLEMENTE": {
-    "id": "fusinato-clemente",
+  "FUSINATO, ARNALDO": {
+    "id": "fusinato-àrnaldo",
     "descriptions": [
-      "(1820-1867), fratello di Arnaldo e come lui impegnato nell'emigrazione veneta, morirà in manicomio a Firenze nel 1"
+      "(1817-1888). Originario del Vicentino, divenne famoso sin dal 1848 per le sue liriche di contenuto patriottico e di forte impegno antiaustriaco. Esponente di spicco dell'emigrazione veneta in Piemonte"
     ],
     "occurrences": [
       {
@@ -30686,10 +30181,10 @@
       }
     ]
   },
-  "FUSINATO, ÀRNALDO": {
-    "id": "fusinato-àrnaldo",
+    "FUSINATO, CLEMENTE": {
+    "id": "fusinato-clemente",
     "descriptions": [
-      "(1817-1888). Originario del Vicentino, divenne famoso sin dal 1848 per le sue liriche di contenuto patriottico e di forte impegno antiaustriaco. Esponente di spicco dell'emigrazione veneta in Piemonte"
+      "(1820-1867), fratello di Arnaldo e come lui impegnato nell'emigrazione veneta, morirà in manicomio a Firenze nel 1"
     ],
     "occurrences": [
       {
@@ -30728,20 +30223,6 @@
       }
     ]
   },
-  "GABELLA": {
-    "id": "gabella-anonimo",
-    "descriptions": [
-      "MARIA"
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          227
-        ]
-      }
-    ]
-  },
   "GABELLA, CESARE": {
     "id": "gabella-cesare",
     "descriptions": [
@@ -30757,18 +30238,14 @@
       }
     ]
   },
-  "GABUSSI": {
-    "id": "gabussi-anonimo",
-    "descriptions": [
-      "GIUSEPPE (1791-1862) in questi anni esule a Genova"
-    ],
+    "GABELLA, MARIA": {
+    "id": "gabella-anonimo",
+    "descriptions": [],
     "occurrences": [
       {
-        "volume": 3,
+        "volume": 9,
         "pages": [
-          17,
-          18,
-          19
+          227
         ]
       }
     ]
@@ -30787,12 +30264,21 @@
       }
     ]
   },
-  "GABUSSI, GIUSEPPE (1791-1862)": {
+    "GABUSSI, GIUSEPPE": {
     "id": "gabussi-giuseppe",
     "descriptions": [
-      "acceso democratico bolognese, si segnalò nelle cospiraziom negli Stati pontifici, ma negli ultimi anni della sua vita non ebbe particolari ruoli politici"
+      "(1791-1862) in questi anni esule a Genova",
+      "(1791-1862) acceso democratico bolognese, si segnalò nelle cospiraziom negli Stati pontifici, ma negli ultimi anni della sua vita non ebbe particolari ruoli politici"
     ],
     "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          17,
+          18,
+          19
+        ]
+      },
       {
         "volume": 6,
         "pages": [
@@ -75670,6 +75156,20 @@
         "volume": 2,
         "pages": [
           139
+        ]
+      }
+    ]
+  },
+  "ULLOA CALÀ, GIROLAMO": {
+    "id": "dlloa-girolamo",
+    "descriptions": [
+      "(1810-1891) generale, scrittore militare"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          256
         ]
       }
     ]

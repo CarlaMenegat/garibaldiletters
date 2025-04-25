@@ -3639,7 +3639,9 @@
   },
   "BACCINI, GIUSEPPE": {
     "id": "baccini-giuseppe",
-    "descriptions": [],
+    "descriptions": [
+      "Garibaldi e Il Risorgimento Italiano, a cura di GIUSEPPE BACCINI e GUALTIERO GUATTERI, Firenze, La Rivista Juventus Editrice, Luglio 1907."
+    ],
     "occurrences": [
       {
         "volume": 4,
@@ -13463,10 +13465,7 @@
   "CANZIO GARIBALDI, TERESA": {
     "id": "canzio-teresa",
     "descriptions": [
-      "detta Teresita, (1845-1903), secondogenita di Giuseppe e di Anita Ribeiro, è la moglie di Stefano Canzio e nel corso del 1865 dà alla luce un figlio cui viene imposto il nome \"Lincoln\" (vedi i voli. I-IX)",
-      "(1845-1903), detta Teresita, su di lei vedi i voll. I-X, Ó",
-      "(1845-1903), secondogenita di Giuseppe e di Anita Ribeiro e moglie di Stefano Canzio",
-      "(1845-1903), figlia di Giuseppe e di Anita Ribeiro e moglie di Stefano Canzio"
+     "Vedi Garibaldi, Teresa (Teresita)"
     ],
     "occurrences": [
       {
@@ -19897,7 +19896,7 @@
     ]
   },
   "CORNWALIS, TERESA I": {
-    "id": "cornwalis-anonimo",
+    "id": "cornwalis-teresa",
     "descriptions": [],
     "occurrences": [
       {
@@ -30377,7 +30376,7 @@
   "GALBAN": {
     "id": "galban-anonimo",
     "descriptions": [
-      "generale dell'esercito uruguaiano"
+      "generale dell'esercito uruguaiano."
     ],
     "occurrences": [
       {
@@ -30388,10 +30387,10 @@
       }
     ]
   },
-  "GALBAN, figlio del precedente": {
+  "GALBAN, figlio": {
     "id": "galban-figlio",
     "descriptions": [
-      "capitano dell'esercito uruguaiano"
+      "capitano dell'esercito uruguaiano, figlio del generale Galban."
     ],
     "occurrences": [
       {
@@ -30405,8 +30404,8 @@
   "GALBIATI, GASPARE": {
     "id": "galbiati-gaspare",
     "descriptions": [
-      "vice presidente dell'Associazione generale di mutuo soccorso degli operai di Milano",
-      "vicepresidente dell'associazione fra gli operai di Milano"
+      "vice presidente dell'Associazione generale di mutuo soccorso degli operai di Milano.",
+      "vicepresidente dell'associazione fra gli operai di Milano."
     ],
     "occurrences": [
       {
@@ -30424,11 +30423,18 @@
     ]
   },
   "GALILEI, GALILEO": {
-    "id": "galilei-galileo-2",
+    "id": "galilei-galileo",
     "descriptions": [
+      "(Pisa 1564-Arcetri 1642) scienziato",
       "(1564-1642), fisico e filosofo"
     ],
     "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          216
+        ]
+      }, 
       {
         "volume": 12,
         "pages": [
@@ -30445,20 +30451,6 @@
           263,
           281,
           312
-        ]
-      }
-    ]
-  },
-  "GALILEI, GALILEO (Pisa 1564-Arcetri 1642)": {
-    "id": "galilei-galileo",
-    "descriptions": [
-      "scienziato"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          216
         ]
       }
     ]
@@ -30491,10 +30483,10 @@
       }
     ]
   },
-  "GALLEANO, difficile dire se trattasi di Galliani Giacomo noto amico e domestico di Garibaldi": {
+  "GALLEANO": {
     "id": "galleano-difficile",
     "descriptions": [
-      "vedi vol. VI, o di altra persona"
+      "difficile dire se trattasi di Galliani Giacomo noto amico e domestico di Garibaldi (vedi vol. VI), o di altra persona."
     ],
     "occurrences": [
       {
@@ -30538,7 +30530,8 @@
   "GALLETTI, BARTOLOMEO": {
     "id": "galletti-bartolomeo",
     "descriptions": [
-      "(1812-1887), comandava le truppe romane stanziate ai confini del regno di Napoli; durante la difesa di Roma partecipò ai combattimenti di villa Corsini e vi rimase ferito. Caduta la Repubblica, emigrò a Torino"
+      "(1812-1887), comandava le truppe romane stanziate ai confini del regno di Napoli; durante la difesa di Roma partecipò ai combattimenti di villa Corsini e vi rimase ferito. Caduta la Repubblica, emigrò a Torino",
+      "(Torre s. Patrizio 1812-Roma 1887) (vedi vol. II) tornò in Italia nel 1859 dalla Gran Bretagna entrando successivamente come tenente colonnello nell'esercito italiano"
     ],
     "occurrences": [
       {
@@ -30547,15 +30540,7 @@
           153,
           158
         ]
-      }
-    ]
-  },
-  "GALLETTI, BARTOLOMEO (Torre s. Patrizio 1812-Roma 1887) (vedi vol. II)": {
-    "id": "galletti-bartolomeo-2",
-    "descriptions": [
-      "tornò in Italia nel 1859 dalla Gran Bretagna entrando successivamente come tenente colonnello nell'esercito italiano"
-    ],
-    "occurrences": [
+      }, 
       {
         "volume": 4,
         "pages": [
@@ -30568,6 +30553,7 @@
     "id": "galletti-giuseppe",
     "descriptions": [
       "(1798-1873), bolognese, avvocato, fu più volte ministro durante il pontificato di Pio IX. Il 7 febbraio 1849 fu eletto presidente dell'Assemblea Costituente Romana e restò in carica fino allo scioglimento della stessa. Dopo l'entrata dei Francesi in Roma, esulò a Genova",
+      "(1798-1873) avvocato, ex ministro pontificio, esule a Genova (vedi vol. II)",
       "(Bologna 1798-ivi 1873), esule in Sardegna dopo il 1849 e tornato a Bologna dieci anni dopo vi coprì cariche pubbliche e fu anche deputato, sedendo tra le file della sinistra",
       "(1798-1873), deputato della Sinistra, presiede la Società Operaia di Bologna (vedi anche i voli. IIIII e VI)",
       "(1789-1873), deputato, presidente della Società operaia di Bologna"
@@ -30577,6 +30563,15 @@
         "volume": 2,
         "pages": [
           86
+        ]
+      },
+      {
+        "volume": 3,
+        "pages": [
+          86,
+          98,
+          178,
+          187
         ]
       },
       {
@@ -30599,31 +30594,11 @@
       }
     ]
   },
-  "GALLETTI, GIUSEPPE (1798-1873)": {
-    "id": "galletti-giuseppe-2",
-    "descriptions": [
-      "avvocato, ex ministro pontificio, esule a Genova (vedi vol. II)"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          86,
-          98,
-          178,
-          187
-        ]
-      }
-    ]
-  },
-  "GALLI": {
-    "id": "galli-anonimo",
+  "GALLI, famiglia": {
+    "id": "galli-famiglia",
     "descriptions": [
       "famiglia di Nizza",
-      "famiglia nizzarda (vedi vol. II)",
-      "ISABELLA",
-      "HILDA",
-      "LINA"
+      "famiglia nizzarda (vedi vol. II)"
     ],
     "occurrences": [
       {
@@ -30640,51 +30615,17 @@
         "pages": [
           4
         ]
-      },
+      }
+    ]
+  },
+  "GALLI, ISABELLA": {
+    "id": "galli-isabella",
+    "descriptions": [],
+    "occurrences": [
       {
         "volume": 7,
         "pages": [
           29
-        ]
-      },
-      {
-        "volume": 12,
-        "pages": [
-          98
-        ]
-      },
-      {
-        "volume": 12,
-        "pages": [
-          19
-        ]
-      }
-    ]
-  },
-  "GALLI CIATTI": {
-    "id": "galli-anonimo-3",
-    "descriptions": [
-      "CLARA"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          29
-        ]
-      }
-    ]
-  },
-  "GALLI E C.": {
-    "id": "galli-anonimo-5",
-    "descriptions": [
-      "fornitori militari"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          261
         ]
       }
     ]
@@ -30699,6 +30640,30 @@
         "volume": 11,
         "pages": [
           265
+        ]
+      }
+    ]
+  },
+  "GALLI, HILDA": {
+    "id": "galli-hilda",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          98
+        ]
+      }
+    ]
+  },
+  "GALLI, LINA": {
+    "id": "galli-lina",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          19
         ]
       }
     ]
@@ -30740,6 +30705,32 @@
       }
     ]
   },
+  "GALLI CIATTI, CLARA": {
+    "id": "galli-clara",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          29
+        ]
+      }
+    ]
+  },
+  "GALLI E C.": {
+    "id": "galli-compagnia",
+    "descriptions": [
+      "fornitori militari"
+    ],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          261
+        ]
+      }
+    ]
+  },
   "GALLIANI, GIACOMO": {
     "id": "galliani-giacomo",
     "descriptions": [
@@ -30762,11 +30753,9 @@
       }
     ]
   },
-  "GALLIANO": {
-    "id": "galliano-anonimo",
-    "descriptions": [
-      "EMANUELE"
-    ],
+  "GALLIANO, EMANUELE": {
+    "id": "galliano-emanuele",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -30809,20 +30798,6 @@
       }
     ]
   },
-  "GALLINO": {
-    "id": "gallino-anonimo",
-    "descriptions": [
-      "VALENTINO"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          157
-        ]
-      }
-    ]
-  },
   "GALLINO, GAETANO": {
     "id": "gallino-gaetano",
     "descriptions": [
@@ -30838,11 +30813,21 @@
       }
     ]
   },
-  "GALLO DI CARLO": {
+  "GALLINO, VALENTINO": {
+    "id": "gallino-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          157
+        ]
+      }
+    ]
+  },
+  "GALLO DI CARLO, GAETANO": {
     "id": "gallo-anonimo",
-    "descriptions": [
-      "GAETANO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 10,
@@ -30867,11 +30852,9 @@
       }
     ]
   },
-  "GAMBA": {
+  "GAMBA, ANNUNCIATA": {
     "id": "gamba-anonimo",
-    "descriptions": [
-      "ANNUNCIATA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -30978,19 +30961,22 @@
       }
     ]
   },
-  "GARAPACCHIO": {
-    "id": "garapacchio-anonimo",
-    "descriptions": [
-      "ANTONIO",
-      "LUIGI"
-    ],
+  "GARAPACCHIO, ANTONIO": {
+    "id": "garapacchio-antonio",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
         "pages": [
           101
         ]
-      },
+      }
+    ]
+  },
+  "GARAPACCHIO, LUIGI": {
+    "id": "garapacchio-luigi",
+    "descriptions": [],
+    "occurrences": [
       {
         "volume": 2,
         "pages": [
@@ -31055,10 +31041,10 @@
       }
     ]
   },
-  "GARIBALDI": {
+  "GARIBALDI, ANNITA ITALIA": {
     "id": "garibaldi-anonimo",
     "descriptions": [
-      "ANNITA ITALIA"
+      "ANNITA ITALIA GARIBALDI, Garibaldi in America, Roma, Edizionea spese dell'autrice, 1933."
     ],
     "occurrences": [
       {
@@ -31100,26 +31086,32 @@
     ]
   },
   "GARIBALDI RAIMONDI, ROSA": {
-    "id": "garibaldi-rosa-5",
+    "id": "garibaldi-raimondi",
     "descriptions": [
+      "nata RAIMONDI, madre di Giuseppe",
+      "nata RAIMONDI, (1776-1852), madre di Giuseppe",
+      "(1776-1852) madre di Giuseppe (vedi voll. I e II)",
+      "(1776-1852) o RAIMONDO, madre del Generale (vedi i voli. I-III)",
       "(1776-1852), madre di Giuseppe"
     ],
     "occurrences": [
       {
-        "volume": 12,
+        "volume": 1,
         "pages": [
-          137
+          5, 
+          258, 
+          260,
+          262
         ]
-      }
-    ]
-  },
-  "GARIBALDI RAIMONDI, ROSA (1776-1852)": {
-    "id": "garibaldi-rosa-3",
-    "descriptions": [
-      "madre di Giuseppe (vedi voll. I e II)",
-      "o RAIMONDO, madre del Generale (vedi i voli. I-III)"
-    ],
-    "occurrences": [
+      },
+      {
+        "volume": 2,
+        "pages": [
+          9,
+          198,
+          206
+        ]
+      },
       {
         "volume": 3,
         "pages": [
@@ -31133,74 +31125,25 @@
         "pages": [
           197
         ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          137
+        ]
       }
     ]
   },
   "GARIBALDI RIBEIRO, ANITA": {
-    "id": "garibaldi-anita-8",
+    "id": "garibaldi-anita-ribeiro",
     "descriptions": [
-      "(1821-1849), prima moglie di Garibaldi (vedi i voll. I, II e VIII)",
-      "prima moglie di Giuseppe"
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          9,
-          42,
-          64,
-          96,
-          126,
-          132,
-          158,
-          178,
-          182
-        ]
-      },
-      {
-        "volume": 13,
-        "pages": [
-          273
-        ]
-      }
-    ]
-  },
-  "GARIBALDI RIBEIRO, ÀNITA": {
-    "id": "garibaldi-ànita",
-    "descriptions": [
-      "(1821-1849), prima moglie del Generale (vedi i voli. I-II e VIII-IX)"
-    ],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          13,
-          31,
-          59,
-          122,
-          129,
-          131,
-          155,
-          159,
-          197,
-          198
-        ]
-      }
-    ]
-  },
-  "GARIBALDI, ANITA": {
-    "id": "garibaldi-anita",
-    "descriptions": [
-      "nata RIBEIRO, Conobbe Giuseppe nel corso della spedizione riograndense nella Provincia di Santa Catharina (1839); si unì a lui che la sposò con Il rito religioso in Montevideo il 26 marzo 1",
-      "Nata RIBEIRO (1821-1849), moglie di Giuseppe, negli anni 1848-1849 abitò quasi sempre a Nizza, tranne brevi periodi in cui fu insieme al marito. Il 26 giugno 1849 giunse a Roma, alla cui difesa contribui; caduta la città, segui il marito nella ritirata e mori il 4 agosto alle Mandriole",
-      ", (1821-1849), moglie di Giuseppe (vedi voli. I e II)",
-      "figlia di Garibaldi e Battistina Ravello",
-      "figlia di Giuseppe e Battistina Ravello vedi, anche vol. VI",
+      "nata RIBEIRO, Conobbe Giuseppe nel corso della spedizione riograndense nella Provincia di Santa Catharina (1839); si unì a lui che la sposò con Il rito religioso in Montevideo il 26 marzo 1842",
+      "nata RIBEIRO (1821-1849), moglie di Giuseppe, negli anni 1848-1849 abitò quasi sempre a Nizza, tranne brevi periodi in cui fu insieme al marito. Il 26 giugno 1849 giunse a Roma, alla cui difesa contribui; caduta la città, segui il marito nella ritirata e mori il 4 agosto alle Mandriole",
       "nata RIBEIRO, prima moglie di Garibaldi, vedi voll. I e II",
-      "nata dall'unione di Garibaldi con la Ravello, vedi voll. VI e VII",
-      "(1859-1875), figha del Generale e di Battistina Ravello. Malgrado l'ostINazione dei suoi tentativi, Speranza von Schwartz non riesce per ora a sottrarla alla madre e a portarla via da Caprera per darle un'educazione più acconcia (vedi i voli. VI-IX)",
-      "(1859-1875), figha di Giuseppe e di Battistma Ravello",
-      "(1859-1875), figlia di Giuseppe e di Battistina Ravello"
+      "(1821-1849), moglie di Giuseppe (vedi voli. I e II)",
+      "(1821-1849), prima moglie di Garibaldi (vedi i voll. I, II e VIII)",
+      "(1821-1849), prima moglie del Generale (vedi i voli. I-II e VIII-IX)",
+      "prima moglie di Giuseppe"
     ],
     "occurrences": [
       {
@@ -31242,6 +31185,61 @@
         ]
       },
       {
+        "volume": 8,
+        "pages": [
+          119,
+          120
+        ]
+      },
+      {
+        "volume": 9,
+        "pages": [
+          9,
+          42,
+          64,
+          96,
+          126,
+          132,
+          158,
+          178,
+          182
+        ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          13,
+          31,
+          59,
+          122,
+          129,
+          131,
+          155,
+          159,
+          197,
+          198
+        ]
+      },
+      {
+        "volume": 13,
+        "pages": [
+          273
+        ]
+      }
+    ]
+  },
+  "GARIBALDI, ANITA": {
+    "id": "garibaldi-anita",
+    "descriptions": [
+      "figlia di Garibaldi e Battistina Ravello",
+      "figlia di Giuseppe e Battistina Ravello vedi, anche vol. VI",
+      "nata dall'unione di Garibaldi con la Ravello, vedi voll. VI e VII",
+      "(1859-1875), figha del Generale e di Battistina Ravello. Malgrado l'ostinazione dei suoi tentativi, Speranza von Schwartz non riesce per ora a sottrarla alla madre e a portarla via da Caprera per darle un'educazione più acconcia (vedi i voli. VI-IX).",
+      "(1859-1875), figha di Giuseppe e di Battistma Ravello",
+      "(1859-1875), figlia di Giuseppe e di Battistina Ravello"
+    ],
+    "occurrences": [
+      {
         "volume": 6,
         "pages": [
           14,
@@ -31254,13 +31252,6 @@
         "pages": [
           55,
           262
-        ]
-      },
-      {
-        "volume": 8,
-        "pages": [
-          119,
-          120
         ]
       },
       {
@@ -31349,10 +31340,17 @@
   "GARIBALDI, CLELIA": {
     "id": "garibaldi-clelia",
     "descriptions": [
-      "(1867-1959), figha di Giuseppe e di Francesca Armosmo",
-      "(1867-1959), figlia di Giuseppe e di Francesca Armosmo"
+      "figlia di Giuseppe e di Francesca Armosino",
+      "(1867-1959), figha di Giuseppe e di Francesca Armosino",
+      "(1867-1959), figlia di Giuseppe e di Francesca Armosino"
     ],
     "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          158
+        ]
+      },
       {
         "volume": 13,
         "pages": [
@@ -31389,24 +31387,10 @@
       }
     ]
   },
-  "GARIBALDI, CLÈLIA": {
-    "id": "garibaldi-clèlia",
-    "descriptions": [
-      "figlia di Giuseppe e di Francesca Armosino"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          158
-        ]
-      }
-    ]
-  },
-  "GARIBALDI, DOMENICO (1766-1841)": {
+  "GARIBALDI, DOMENICO": {
     "id": "garibaldi-domenico",
     "descriptions": [
-      "padre del Generale, per tutta la vita si era dedicato al commercio marittimo"
+      "(1766-1841) padre del Generale, per tutta la vita si era dedicato al commercio marittimo"
     ],
     "occurrences": [
       {
@@ -31454,7 +31438,7 @@
   "GARIBALDI, FRANCESCA": {
     "id": "garibaldi-francesca",
     "descriptions": [
-      "nata ARMOSINO, Terza moglie di Giuseppe"
+      "nata ARMOSINO, terza moglie di Giuseppe"
     ],
     "occurrences": [
       {
@@ -31536,15 +31520,16 @@
       "è il primo figlio di Giuseppe e di Anita, nacque a San Simon, Provincia di Rio Grande del Sud, il 16 settembre 1",
       "(1840-1903), figlio primogenito di Giuseppe",
       "(1840-1903), figlio primogenito di Giuseppe (vedi voll. I e II)",
-      "(1840-1903), primogenito di Anita, partecipò alla guerra del 1",
+      "(1840-1903), primogenito di Anita, partecipò alla guerra del 1859",
+      "(Mustardo Brasile 1840-Roma 1903), primogenito di Giuseppe e Anita, uno dei Mille, ferito a Calatafimi",
       "vedi voll. I, II e IV, figlio primogenito di Giuseppe",
       "dal 1859 combatte al fianco del padre, che nell'aprile del 1862 pensò di affidargli il comando di due battaglioni di carabinieri mobili da inviarsi nel Mezzogiorno per combattere il brigantaggio. Fallita questa ipotesi, fu con il padre in Sicilia e ad Aspromonete dove, comandando il I battaglione di bersaglieri, fu ferito, vedi anche voll. precedenti",
-      "vedi voli. precedenti, 85, 88, 158, 161,",
+      "vedi voli. precedenti",
       "(1840-1903), figlio di Giuseppe e di Anita Ribeiro, (vedi tutti i voll. precedenti)",
       "(1840-1903), primogeruto di Giuseppe e di Anita Ribeiro. Tra il 1865 e il 1866 vive a Caprera e disbriga spesso la corrispondenza paterna (vedi i voli. I-II, IV, VIVII, IX)",
       "(1840-1903), su di lui vedi tutti i voll. precedenti; il padre gli affida con il grado di tenente colonnello il comando del 9° reggimento; a Bezzecca si guadagna una medaglia d'oro e alla fine della guerra è decorato con la croce dell'ordine militare di Savoia",
-      "(1840-1903), primogenito di Giuseppe e di Anita Ribeiro, diresse i preparativi per la spedizione nel Lazio che comandò fino all'arrivo del padre, poi fu a capo della colonna di centro, 14, 15, 16, 85, 123, 177, 182, 185, 188, 191, 193, 196, 197, 198, 202;",
-      "(DOMENICO) (1840-1903), primogemto di Giuseppe e di Amta Ribeiro",
+      "(1840-1903), primogenito di Giuseppe e di Anita Ribeiro, diresse i preparativi per la spedizione nel Lazio che comandò fino all'arrivo del padre, poi fu a capo della colonna di centro",
+      "(DOMENICO) (1840-1903), primogemto di Giuseppe e di Anita Ribeiro",
       "comandante della terza brigata dell'armata dei Vosgi"
     ],
     "occurrences": [
@@ -31593,6 +31578,20 @@
         ]
       },
       {
+        "volume": 5,
+        "pages": [
+          11,
+          80,
+          124,
+          128,
+          158,
+          159,
+          181,
+          235,
+          270
+        ]
+      },
+      {
         "volume": 6,
         "pages": [
           7,
@@ -31617,6 +31616,10 @@
       {
         "volume": 8,
         "pages": [
+          85, 
+          88, 
+          158, 
+          161,
           179
         ]
       },
@@ -31672,6 +31675,21 @@
       {
         "volume": 12,
         "pages": [
+          14, 
+          15, 
+          16, 
+          85, 
+          123, 
+          177, 
+          182, 
+          185, 
+          188, 
+          191, 
+          193, 
+          196, 
+          197, 
+          198, 
+          202,
           203,
           206,
           210,
@@ -31732,28 +31750,6 @@
       }
     ]
   },
-  "GARIBALDI, MENOTTI (Mustardo": {
-    "id": "garibaldi-menotti-5",
-    "descriptions": [
-      "Brasile 1840-Roma 1903), primogenito di Giuseppe e Anita, uno dei Mille, ferito a Calatafimi"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          11,
-          80,
-          124,
-          128,
-          158,
-          159,
-          181,
-          235,
-          270
-        ]
-      }
-    ]
-  },
   "GARIBALDI, MICHELE": {
     "id": "garibaldi-michele",
     "descriptions": [
@@ -31790,10 +31786,11 @@
   "GARIBALDI, RICCIOTTI": {
     "id": "garibaldi-ricciotti",
     "descriptions": [
-      "quarto figlio dI Giuseppe e di Anita, nacque a Montevideo il 24 febbraio 1",
+      "quarto figlio di Giuseppe e di Anita, nacque a Montevideo il 24 febbraio 1847",
       "(1847-1924) figlio di Giuseppe",
       "(1847-1924), quarto figlio di Giuseppe (vedi voll. I e II)",
       "(1847-1924), terzogenito di Anita",
+      "(Montevideo 1847-Roma 1924) terzogenito di Giuseppe e Anita",
       "vedi voll. I, Il, III e IV, figlio di Anita e Giuseppe",
       "secondogemto di Garibaldi, rimase a Caprera durante la spedizione di Aspromonte, per esplicita volontà del padre, vedi anche voll. precedenti",
       "(1847-1924), figlio di Giuseppe e di Anita Ribeiro (vedi anche i voll. I-VI)",
@@ -31847,6 +31844,13 @@
           107,
           111,
           205
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          235,
+          282
         ]
       },
       {
@@ -31953,49 +31957,12 @@
       }
     ]
   },
-  "GARIBALDI, RICCIOTTI (Montevideo 1847-Roma 1924)": {
-    "id": "garibaldi-ricciotti-5",
-    "descriptions": [
-      "terzogenito di Giuseppe e Anita"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          235,
-          282
-        ]
-      }
-    ]
-  },
+
   "GARIBALDI, ROSA": {
     "id": "garibaldi-rosa",
     "descriptions": [
-      "Nata RAIMONDI, madre di Giuseppe, 5, 258, 260,",
-      "nata RAIMONDI, (1776-1852), madre di Giuseppe"
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          262
-        ]
-      },
-      {
-        "volume": 2,
-        "pages": [
-          9,
-          198,
-          206
-        ]
-      }
-    ]
-  },
-  "GARIBALDI, ROSA (1869-1871)": {
-    "id": "garibaldi-rosa-6",
-    "descriptions": [
-      "figlia di Giuseppe e di Francesca Armosino",
-      "figlia di Giuseppe e di Francesca Armosmo"
+      "(1869-1871) figlia di Giuseppe e di Francesca Armosino",
+      "(1869-1871) figlia di Giuseppe e di Francesca Armosino"
     ],
     "occurrences": [
       {
@@ -32038,14 +32005,8 @@
   "GARIBALDI, TERESA": {
     "id": "garibaldi-teresa",
     "descriptions": [
-      "sorella di Giuseppe",
-      "detta Tita, nata nel 1845, figlia di Giuseppe",
-      "detta TERESITA, nata nel 1845, secondogenita di Anita",
-      "detta Teresita, nata nel 1845, secondogenita di Giuseppe e Anita (cfr. voll. I, II, III, IV, VI), 8, 38, 43, 46, 60, 64, 80, 12~",
-      "figlia di Giuseppe e Anita, vedi voll. I, II, III e IV, 6;",
-      "vedi voll. precedenti, detta Teresita, sposò Stefano Canzio",
-      "detta Teresita, sposò Stefano Canzio, vedi voli. precedenti",
-      "detta Teresita, moglie di Stefano Canzio (vedi anche i voll. I-VIII)"
+      "sorella di Giuseppe"
+      
     ],
     "occurrences": [
       {
@@ -32053,11 +32014,57 @@
         "pages": [
           258
         ]
+      }  
+    ]
+  },
+  "GARIBALDI, TERESA (TERESITA)": {
+    "id": "garibaldi-teresita",
+    "descriptions": [
+      "figlia di Giuseppe e di Anita, detta Tita, nacque a Montevideo nel novembre del 1845; sposerà Stefano Canzio",
+      "detta Tita, nata nel 1845, figlia di Giuseppe",
+      "detta Teresita, nata nel 1845, secondogenita di Anita",
+      "detta Teresita, nata nel 1845, secondogenita di Giuseppe e Anita (cfr. voll. I, II, III, IV, VI)",
+      "figlia di Giuseppe e Anita, vedi voll. I, II, III e IV.",
+      "vedi voll. precedenti, detta Teresita, sposò Stefano Canzio",
+      "detta Teresita, sposò Stefano Canzio, vedi voli. precedenti",
+      "detta Teresita, moglie di Stefano Canzio (vedi anche i voll. I-VIII)",
+      "(1845-1903), detta Tita, figlia di Giuseppe (vedi voll. I e II)",
+      "detta Teresita, (1845-1903), secondogenita di Giuseppe e di Anita Ribeiro, è la moglie di Stefano Canzio e nel corso del 1865 dà alla luce un figlio cui viene imposto il nome \"Lincoln\" (vedi i voli. I-IX)",
+      "(1845-1903), detta Teresita, su di lei vedi i voll. I-X",
+      "(1845-1903), secondogenita di Giuseppe e di Anita Ribeiro e moglie di Stefano Canzio",
+      "(1845-1903), figlia di Giuseppe e di Anita Ribeiro e moglie di Stefano Canzio"
+    ],
+    "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          258,
+          261
+        ]
       },
       {
         "volume": 2,
         "pages": [
           147
+        ]
+      },
+      {
+        "volume": 3,
+        "pages": [
+          48,
+          49,
+          146,
+          147,
+          149,
+          163,
+          167,
+          168,
+          170,
+          175,
+          184,
+          188,
+          190,
+          192
         ]
       },
       {
@@ -32081,6 +32088,14 @@
       {
         "volume": 5,
         "pages": [
+          8, 
+          38, 
+          43, 
+          46, 
+          60, 
+          64, 
+          80, 
+          124,
           158,
           235,
           282
@@ -32089,6 +32104,7 @@
       {
         "volume": 6,
         "pages": [
+          6,
           7,
           44,
           48,
@@ -32118,49 +32134,123 @@
           74,
           75
         ]
-      }
-    ]
-  },
-  "GARIBALDI, TERESITA": {
-    "id": "garibaldi-teresita",
-    "descriptions": [
-      "figlia di Giuseppe e di Anita, detta Tita, nacque a Montevideo nel novembre del 1845; sposerà Stefano Canzio",
-      "(1845-1903), detta Tita, figlia di Giuseppe (vedi voll. I e II)"
-    ],
-    "occurrences": [
+      },
       {
-        "volume": 1,
+        "volume": 10,
         "pages": [
-          258,
-          261
+          14,
+          38,
+          39,
+          60,
+          182,
+          184,
+          196
         ]
       },
       {
-        "volume": 3,
+        "volume": 11,
         "pages": [
-          48,
-          49,
-          146,
-          147,
-          149,
-          163,
-          167,
-          168,
+          4,
+          91,
+          92,
+          127,
+          137,
+          282
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          6,
+          97,
+          174,
+          177,
+          213,
+          227
+        ]
+      },
+      {
+        "volume": 13,
+        "pages": [
+          23,
+          35,
+          102,
+          107,
+          110,
+          118,
+          129,
+          145,
+          151,
+          152,
+          159,
           170,
+          171,
           175,
-          184,
-          188,
+          183,
           190,
-          192
+          195,
+          200,
+          213,
+          216,
+          221,
+          232,
+          233,
+          238,
+          240,
+          244,
+          248,
+          254,
+          257,
+          258,
+          266,
+          270,
+          276,
+          283,
+          285,
+          287,
+          294,
+          298,
+          303,
+          310,
+          314
+        ]
+      },
+      {
+        "volume": 14,
+        "pages": [
+          24,
+          28,
+          32,
+          44,
+          53,
+          56,
+          63,
+          82,
+          93,
+          98,
+          101,
+          102,
+          114,
+          122,
+          127,
+          129,
+          132,
+          133,
+          137,
+          140,
+          146,
+          198,
+          201,
+          231,
+          249,
+          259
         ]
       }
     ]
   },
-  "GAROSI": {
-    "id": "garosi-anonimo",
-    "descriptions": [
-      "GINO"
-    ],
+  "GAROSI, GINO": {
+    "id": "garosi-gino",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 10,
@@ -32170,11 +32260,9 @@
       }
     ]
   },
-  "GARRANO": {
-    "id": "garrano-anonimo",
-    "descriptions": [
-      "FRANCESCO"
-    ],
+  "GARRANO, FRANCESCO": {
+    "id": "garrano-francesco",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -32222,13 +32310,45 @@
       }
     ]
   },
-  "GASPARINI": {
-    "id": "gasparini-anonimo",
+  "GASPARINI, DORMANN": {
+    "id": "gasparini-dormann",
     "descriptions": [
-      "LUIZA",
-      "LUISA"
+      "esponente del movimento democratico ginevrino, nel 1863 aveva offerto a Garibaldi la presidenza dell'Associazione per i congressi democratici internazionali"
     ],
     "occurrences": [
+      {
+        "volume": 8,
+        "pages": [
+          208
+        ]
+      }
+    ]
+  },
+  "GASPARINI, LUISA": {
+    "id": "gasparini-luisa",
+    "descriptions": [
+      "LUISA GASPARINI, Un amore di Garibaldi. Corrispondenza con Speranza von Schwartz, Milano, Treves, 1932."
+    ],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          113,
+          163,
+          166,
+          167,
+          168,
+          170,
+          173,
+          176,
+          180,
+          181,
+          183,
+          187,
+          190,
+          197
+        ]
+      },
       {
         "volume": 4,
         "pages": [
@@ -32251,6 +32371,13 @@
         ]
       },
       {
+        "volume": 7,
+        "pages": [
+          97,
+          222
+        ]
+      },
+      {
         "volume": 9,
         "pages": [
           9,
@@ -32260,53 +32387,19 @@
           156,
           182
         ]
-      }
-    ]
-  },
-  "GASPARINI, DORMANN": {
-    "id": "gasparini-dormann",
-    "descriptions": [
-      "esponente del movimento democratico ginevrino, nel 1863 aveva offerto a Garibaldi la presidenza dell'Associazione per i congressi democratici internazionali"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          208
-        ]
-      }
-    ]
-  },
-  "GASPARINI, LUISA": {
-    "id": "gasparini-luisa",
-    "descriptions": [
-      "32, 59, 61, 7"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 10,
         "pages": [
-          4,
+          32, 
+          59, 
+          61, 
+          74,
           82,
           122,
           125,
           129,
           131
-        ]
-      }
-    ]
-  },
-  "GASPARMI": {
-    "id": "gasparmi-anonimo",
-    "descriptions": [
-      "LUISA"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          97,
-          222
         ]
       }
     ]
@@ -32325,11 +32418,9 @@
       }
     ]
   },
-  "GASPERI": {
-    "id": "gasperi-anonimo",
-    "descriptions": [
-      "RICCARDO"
-    ],
+  "GASPERI, RICCARDO": {
+    "id": "gasperi-riccardo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -32338,33 +32429,6 @@
           147,
           148,
           187
-        ]
-      }
-    ]
-  },
-  "GASPERIN": {
-    "id": "gasperin-anonimo",
-    "descriptions": [
-      "LUISA"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          113,
-          163,
-          166,
-          167,
-          168,
-          170,
-          173,
-          176,
-          180,
-          181,
-          183,
-          187,
-          190,
-          197
         ]
       }
     ]
@@ -32403,6 +32467,7 @@
       "banchiere di Genova amico di Garibaldi",
       "banchiere di Genova amico di Garibaldi (cr. vol. IV)",
       "banchiere di Genova, amico di Garibaldi, vedi vol. IV",
+      "banchiere di Genova e amico di Garibaldi, vedi anche voll. IV e VI",
       "vedi voli. VI e VII"
     ],
     "occurrences": [
@@ -32428,6 +32493,12 @@
           42
         ]
       },
+            {
+        "volume": 7,
+        "pages": [
+          162
+        ]
+      },
       {
         "volume": 8,
         "pages": [
@@ -32446,20 +32517,6 @@
         "volume": 9,
         "pages": [
           187
-        ]
-      }
-    ]
-  },
-  "GATALDI, LEONARDO": {
-    "id": "gataldi-leonardo",
-    "descriptions": [
-      "banchiere di Genova e amico di Garibaldi, vedi anche voll. IV e VI"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          162
         ]
       }
     ]
@@ -32520,10 +32577,10 @@
       }
     ]
   },
-  "GATTINONI, GIOVANNI (Bergamo 1836-Palermo 1860)": {
+  "GATTINONI, GIOVANNI": {
     "id": "gattinoni-giovanni",
     "descriptions": [
-      "uno dei Mille, medaglia d'argento alla memoria"
+      "(Bergamo 1836-Palermo 1860) uno dei Mille, medaglia d'argento alla memoria"
     ],
     "occurrences": [
       {
@@ -32537,30 +32594,23 @@
   "GAUTIER, GIOVANNI": {
     "id": "gautier-giovanni",
     "descriptions": [
+      "nizzardo, combattente nella 1a Leg. lt.",
       "nizzardo"
     ],
     "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          59,
-          192
-        ]
-      }
-    ]
-  },
-  "GAUTTIER, Nizzardo": {
-    "id": "gauttier-nizzardo",
-    "descriptions": [
-      "combattente nella 1a Leg. lt."
-    ],
-    "occurrences": [
-      {
+          {
         "volume": 2,
         "pages": [
           155,
           158,
           160
+        ]
+      },
+      {
+        "volume": 3,
+        "pages": [
+          59,
+          192
         ]
       }
     ]
@@ -32691,12 +32741,9 @@
       }
     ]
   },
-  "GAY": {
-    "id": "gay-anonimo",
-    "descriptions": [
-      "HARRY NELSON",
-      "HENRY NELSON"
-    ],
+  "GAY, HARRY NELSON": {
+    "id": "gay-harry",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -32762,7 +32809,8 @@
   "GAZZOLO, GIACOMO": {
     "id": "gazzolo-giacomo",
     "descriptions": [
-      "capitano della nave in servizio per La Maddalena e antico amico di Garibaldi"
+      "capitano della nave in servizio per La Maddalena e antico amico di Garibaldi",
+      "visitò Caprera nel febbraio-marzo del 1863, e dopo questa visita Garibaldi sentì la necessità di testimoniargli la sua riconoscenza"
     ],
     "occurrences": [
       {
@@ -32771,15 +32819,7 @@
           53,
           148
         ]
-      }
-    ]
-  },
-  "GAzzoLo, GIACOMO": {
-    "id": "gazzolo-giacomo-2",
-    "descriptions": [
-      "visitò Caprera nel febbraio-marzo del 1863, e dopo questa visita Garibaldi sentì la necessità di testimoniargli la sua riconoscenza"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 8,
         "pages": [
@@ -32788,7 +32828,7 @@
       }
     ]
   },
-  "GAËL, Signora": {
+  "GAËL, signora": {
     "id": "gaël-signora",
     "descriptions": [
       "pseudonimo di GIRAULT, AUGUSTINE, scrittrice, fu una delle rappresentanti del pensiero femminista nella. Francia dell'Ottocento"
@@ -32802,10 +32842,10 @@
       }
     ]
   },
-  "GEFFLOT, con lui aveva litigato il cap. Alazard comandante del golettino Legionario dell'E.N. Il suo nome appare nel processo sommario": {
+  "GEFFLOT": {
     "id": "gefflot-con",
     "descriptions": [
-      "istruito contro quest'ultimo, per insubordinazione"
+      "con lui aveva litigato il cap. Alazard comandante del golettino Legionario dell'E.N. Il suo nome appare nel processo sommario istruito contro quest'ultimo, per insubordinazione"
     ],
     "occurrences": [
       {
@@ -32846,11 +32886,9 @@
       }
     ]
   },
-  "GENTILI": {
-    "id": "gentili-anonimo",
-    "descriptions": [
-      "GIOVANNI"
-    ],
+  "GENTILI, GIOVANNI": {
+    "id": "gentili-giovanni",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -32875,10 +32913,10 @@
       }
     ]
   },
-  "GERBAIX DE SONNAZ, ETTORE (Thonon 1787-Tormo 1867)": {
+  "GERBAIX DE SONNAZ, ETTORE": {
     "id": "gerbaix-ettore",
     "descriptions": [
-      "generale d'armata dell'esercito piemontese, comandante la divisione di Torino"
+      "(Thonon 1787-Torino 1867) generale d'armata dell'esercito piemontese, comandante la divisione di Torino"
     ],
     "occurrences": [
       {
@@ -32919,11 +32957,9 @@
       }
     ]
   },
-  "GERSCENSON": {
+  "GERSCENSON, M.": {
     "id": "gerscenson-anonimo",
-    "descriptions": [
-      "M."
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -32961,10 +32997,10 @@
       }
     ]
   },
-  "GHELARDI, GUIDO (Firenze 1840-ivi 1907)": {
+  "GHELARDI, GUIDO": {
     "id": "ghelardi-guido",
     "descriptions": [
-      "sottotenente"
+      "(Firenze 1840-ivi 1907), sottotenente"
     ],
     "occurrences": [
       {
@@ -33033,20 +33069,6 @@
       }
     ]
   },
-  "GHERARDINI": {
-    "id": "gherardini-anonimo",
-    "descriptions": [
-      "GIOVANNI"
-    ],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          25
-        ]
-      }
-    ]
-  },
   "GHERARDINI, GIOVANNI": {
     "id": "gherardini-giovanni",
     "descriptions": [
@@ -33065,6 +33087,12 @@
         "pages": [
           7,
           101
+        ]
+      }, 
+      {
+        "volume": 14,
+        "pages": [
+          25
         ]
       }
     ]
@@ -33097,16 +33125,16 @@
       }
     ]
   },
-  "GHEZZA, amico di Foresti e di Garibaldi residente a Londra": {
+  "GHEZZA": {
     "id": "ghezza-amico",
     "descriptions": [
-      "ó"
+      "amico di Foresti e di Garibaldi residente a Londra"
     ],
     "occurrences": [
       {
         "volume": 3,
         "pages": [
-          5
+          65
         ]
       }
     ]
@@ -33259,10 +33287,10 @@
       }
     ]
   },
-  "GIACOMO Il (1633-1701)": {
+  "GIACOMO II": {
     "id": "giacomo-anonimo",
     "descriptions": [
-      "re d'Inghilterra"
+      "(1633-1701) re d'Inghilterra"
     ],
     "occurrences": [
       {
@@ -33276,7 +33304,7 @@
   "GIACONE, LEOPOLDO": {
     "id": "giacone-leopoldo",
     "descriptions": [
-      "viceconsole. dell'Uruguay a Firenze,_"
+      "viceconsole. dell'Uruguay a Firenze"
     ],
     "occurrences": [
       {
@@ -33287,11 +33315,9 @@
       }
     ]
   },
-  "GIAGNONI": {
-    "id": "giagnoni-anonimo",
-    "descriptions": [
-      "PAOLO"
-    ],
+  "GIAGNONI, PAOLO": {
+    "id": "giagnoni-paolo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -33301,8 +33327,8 @@
       }
     ]
   },
-  "GIALONE": {
-    "id": "gialone-anonimo",
+  "GIALONE, signora": {
+    "id": "gialone-signora",
     "descriptions": [
       "signora"
     ],
@@ -33315,11 +33341,9 @@
       }
     ]
   },
-  "GIAMPAOLO": {
+  "GIAMPAOLO, LEOPOLDO": {
     "id": "giampaolo-anonimo",
-    "descriptions": [
-      "LEOPOLDO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -33379,11 +33403,9 @@
       }
     ]
   },
-  "GIANGIACOMO": {
-    "id": "giangiacomo-anonimo",
-    "descriptions": [
-      "PALERMO"
-    ],
+  "GIANGIACOMO, PALERMO": {
+    "id": "giangiacomo-palermo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -33393,11 +33415,9 @@
       }
     ]
   },
-  "GIANI": {
+  "GIANI, ERNESTO": {
     "id": "giani-anonimo",
-    "descriptions": [
-      "ERNESTO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 13,
@@ -33407,10 +33427,11 @@
       }
     ]
   },
-  "GIANNELLI": {
-    "id": "giannelli-anonimo",
+  "GIANNELLI, ANDREA": {
+    "id": "giannelli-andrea-2",
     "descriptions": [
-      "ANDREA"
+      "(Firenze 30 novembre 1831-ivi 6 giugno 1914) di sentimenti mazziniani, ma in contatto anche con Garibaldi, fu attivo tra le file della emigrazione romana residente a Firenze ed in relazioni con gli elementi patriottici operanti in Roma, dove, tra il 1861 e il 1862, si recò più volte in missioni clandestine, onde ebbe a subire anche l'arresto da parte dei papalini. Sul suo ruolo nelle cospirazioni romane e sulla sua attività politica ci restano alcum suoi scritti",
+      "(1831-1914), mazziniano, rappresenta in questi anni l'anello di collegamento tra Garibaldi e i democratici romani (vedi anche il vol. VII)"
     ],
     "occurrences": [
       {
@@ -33418,15 +33439,14 @@
         "pages": [
           208
         ]
-      }
-    ]
-  },
-  "GIANNELLI, ANDREA": {
-    "id": "giannelli-andrea-2",
-    "descriptions": [
-      "(1831-1914), mazziniano, rappresenta in questi anni l'anello di collegamento tra Garibaldi e i democratici romani (vedi anche il vol. VII)"
-    ],
-    "occurrences": [
+      },
+      {
+        "volume": 7,
+        "pages": [
+          110,
+          236
+        ]
+      },
       {
         "volume": 11,
         "pages": [
@@ -33435,10 +33455,10 @@
       }
     ]
   },
-  "GIANNONE, PIETRO (1676-1848)": {
+  "GIANNONE, PIETRO": {
     "id": "giannone-pietro",
     "descriptions": [
-      "storico: formatosi a Napoli, nelle sue opere (tra le maggiori l'Istoria civile del Regno di Napoli e il Triregno) mise in luce l'invadenza della Chiesa di Roma negli affari secolari e rivendicò la piena autonomia dello Stato in materia civile. Arrestato proditoriamente in Piemonte nel 1736, fu costretto ad abiurare e a trascorrere in carcere gli ultimi dodici anni della sua vita"
+      "(1676-1748) storico: formatosi a Napoli, nelle sue opere (tra le maggiori l'Istoria civile del Regno di Napoli e il Triregno) mise in luce l'invadenza della Chiesa di Roma negli affari secolari e rivendicò la piena autonomia dello Stato in materia civile. Arrestato proditoriamente in Piemonte nel 1736, fu costretto ad abiurare e a trascorrere in carcere gli ultimi dodici anni della sua vita"
     ],
     "occurrences": [
       {
@@ -33452,9 +33472,16 @@
   "GIANNONE, PIETRO CELESTINO": {
     "id": "giannone-pietro-2",
     "descriptions": [
+      "(1792-1872) mazziniano, autore del poema L'esule",
       "(1791-1872), letterato e patriota"
     ],
     "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          192
+        ]
+      },
       {
         "volume": 12,
         "pages": [
@@ -33498,25 +33525,9 @@
       }
     ]
   },
-  "GIANONNE, PIETRO (1792-1872)": {
-    "id": "gianonne-pietro",
-    "descriptions": [
-      "mazziniano, autore del poema L'esule"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          192
-        ]
-      }
-    ]
-  },
-  "GIANTURCO": {
+  "GIANTURCO, MANO": {
     "id": "gianturco-anonimo",
-    "descriptions": [
-      "MANO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -33641,7 +33652,7 @@
   "GIGLI, RODOLFO": {
     "id": "gigli-rodolfo",
     "descriptions": [
-      "gonfaloniere di Cetona nel luglio 1"
+      "gonfaloniere di Cetona nel luglio 1849"
     ],
     "occurrences": [
       {
@@ -33669,26 +33680,19 @@
       }
     ]
   },
-  "GIOACCHINO MURAT, (1771-1815)": {
-    "id": "gioacchino-(1771-1815)",
-    "descriptions": [
-      "re di Napoli dal 1808 al 1"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          121
-        ]
-      }
-    ]
-  },
   "GIOAN, EUSTACHE": {
     "id": "gioan-eustache-2",
     "descriptions": [
+      "amico di Garibaldi",
       "armatore di Nizza (vedi vol. II)"
     ],
     "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          21
+        ]
+      },
       {
         "volume": 3,
         "pages": [
@@ -33697,38 +33701,11 @@
       }
     ]
   },
-  "GIOAN, EusTACHE": {
-    "id": "gioan-eustache",
-    "descriptions": [
-      "amico di Garibaldi"
-    ],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          21
-        ]
-      }
-    ]
-  },
   "GIOBERTI, VINCENZO": {
-    "id": "gioberti-vincenzo-2",
-    "descriptions": [
-      "(1801-1852), filosofo ed uomo politico divenuto celebre per il suo Primato morale e civile degli italiani (Bruxelles, 1843) con cui, abbandonata la giovanile passione repubblicana e unitaria, aveva teorizzato la necessità per i cattolici di impegnarsi a risolvere il problema nazionale tramite il raggiungimento dell'indipendenza sotto la guida del papa e la successiva creazione di una federazione (vedi il vol. Il)"
-    ],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          47
-        ]
-      }
-    ]
-  },
-  "GIOBERTI, VINCENZO DI": {
     "id": "gioberti-vincenzo",
     "descriptions": [
-      "(1801-1852)"
+      "(1801-1852)",
+      "(1801-1852), filosofo ed uomo politico divenuto celebre per il suo Primato morale e civile degli italiani (Bruxelles, 1843) con cui, abbandonata la giovanile passione repubblicana e unitaria, aveva teorizzato la necessità per i cattolici di impegnarsi a risolvere il problema nazionale tramite il raggiungimento dell'indipendenza sotto la guida del papa e la successiva creazione di una federazione (vedi il vol. Il)"
     ],
     "occurrences": [
       {
@@ -33736,6 +33713,12 @@
         "pages": [
           56,
           85
+        ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          47
         ]
       }
     ]
@@ -33796,20 +33779,6 @@
       }
     ]
   },
-  "GIORDANO": {
-    "id": "giordano-anonimo",
-    "descriptions": [
-      "GIANCARLO"
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          31
-        ]
-      }
-    ]
-  },
   "GIORDANO, ETTORE": {
     "id": "giordano-ettore",
     "descriptions": [
@@ -33820,6 +33789,18 @@
         "volume": 12,
         "pages": [
           266
+        ]
+      }
+    ]
+  },
+    "GIORDANO, GIANCARLO": {
+    "id": "giordano-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 9,
+        "pages": [
+          31
         ]
       }
     ]
@@ -33838,38 +33819,10 @@
       }
     ]
   },
-  "GIORGI": {
-    "id": "giorgi-anonimo",
-    "descriptions": [
-      "IDA"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          172
-        ]
-      }
-    ]
-  },
-  "GIORGI, IDA": {
-    "id": "giorgi-ida",
-    "descriptions": [
-      "nipote di Antonio Mordini (vedi il vol. VIII)"
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          7
-        ]
-      }
-    ]
-  },
-  "GIORGI, famiglia lucchese di orientamento liberale il cui esponente più noto fu Eugenio": {
+  "GIORGI, famiglia": {
     "id": "giorgi-famiglia",
     "descriptions": [
-      "giornalista, cospiratore, di tendenze liberali moderate e amico di Mordini"
+      "famiglia lucchese di orientamento liberale il cui esponente più noto fu Eugenio, giornalista, cospiratore, di tendenze liberali moderate e amico di Mordini"
     ],
     "occurrences": [
       {
@@ -33897,9 +33850,22 @@
   "GIORGIO, IDA": {
     "id": "giorgio-ida",
     "descriptions": [
+      "nipote di Antonio Mordini (vedi il vol. VIII)",
       "nipote di Antonio Mordini (vedi i voll. VIIIIX)"
     ],
     "occurrences": [
+      {
+        "volume": 8,
+        "pages": [
+          172
+        ]
+      },
+      {
+        "volume": 9,
+        "pages": [
+          7
+        ]
+      },
       {
         "volume": 10,
         "pages": [
@@ -33909,10 +33875,10 @@
       }
     ]
   },
-  "GIOTTO di BONDONE, pittore": {
+  "GIOTTO DI BONDONE": {
     "id": "giotto-pittore",
     "descriptions": [
-      "architetto, scultore (1266-1337), rinnovatore della pittura e iniziatore della maniera italiana"
+      "pittore architetto, scultore (1266-1337), rinnovatore della pittura e iniziatore della maniera italiana"
     ],
     "occurrences": [
       {
@@ -33923,12 +33889,9 @@
       }
     ]
   },
-  "GIOVANNELLI": {
-    "id": "giovannelli-anonimo",
+  "GIOVANNELLI, ANTONIO": {
+    "id": "giovannelli-antonio",
     "descriptions": [
-      "ANTONIO",
-      "BERARDINO",
-      "EMILIA"
     ],
     "occurrences": [
       {
@@ -33936,13 +33899,25 @@
         "pages": [
           100
         ]
-      },
+      }
+    ]
+  },
+  "GIOVANNELLI, BERNARDINO": {
+    "id": "giovannelli-bernardino",
+    "descriptions": [],
+    "occurrences": [
       {
         "volume": 2,
         "pages": [
           100
         ]
-      },
+      }
+    ]
+  },
+    "GIOVANNELLI, EMILIA": {
+    "id": "giovannelli-emilia",
+    "descriptions": [],
+    "occurrences": [
       {
         "volume": 7,
         "pages": [
@@ -33951,11 +33926,9 @@
       }
     ]
   },
-  "GIRALDI": {
-    "id": "giraldi-anonimo",
-    "descriptions": [
-      "P."
-    ],
+  "GIRALDI, P.": {
+    "id": "giraldi-p",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -33995,11 +33968,9 @@
       }
     ]
   },
-  "GIRONI": {
-    "id": "gironi-anonimo",
-    "descriptions": [
-      "PRIMO"
-    ],
+  "GIRONI, PRIMO": {
+    "id": "gironi-primo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 10,
@@ -34023,11 +33994,9 @@
       }
     ]
   },
-  "GIUFFINI": {
-    "id": "giuffini-anonimo",
-    "descriptions": [
-      "GIUSEPPE"
-    ],
+  "GIUFFINI, GIUSEPPE": {
+    "id": "giuffini-giuseppe",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -34037,11 +34006,9 @@
       }
     ]
   },
-  "GIULIANO": {
-    "id": "giuliano-anonimo",
-    "descriptions": [
-      "LUIGI"
-    ],
+  "GIULIANO, LUIGI": {
+    "id": "giuliano-luigi",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -34117,7 +34084,7 @@
   "GIUSTI, SALVATORE": {
     "id": "giusti-salvatore",
     "descriptions": [
-      "iutante di campo di Garibaldi in Lombardia, mori nell'ottobre 1848 in seguito a ferita riportata a Morazzone"
+      "aiutante di campo di Garibaldi in Lombardia, mori nell'ottobre 1848 in seguito a ferita riportata a Morazzone"
     ],
     "occurrences": [
       {
@@ -34131,17 +34098,10 @@
   "GIUSTINIANI": {
     "id": "giustiniani-anonimo",
     "descriptions": [
-      "ELISABETTA",
       "C.d.A.",
       "sottotenente del 5° Reggimento del e.V.I."
     ],
     "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          22
-        ]
-      },
       {
         "volume": 4,
         "pages": [
@@ -34156,11 +34116,21 @@
       }
     ]
   },
-  "GIZIO": {
+  "GIUSTINIANI, ELISABETTA": {
+    "id": "giustiniani-elisabeta",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          22
+        ]
+      }
+    ]
+  },
+  "GIZIO, DOMENICO": {
     "id": "gizio-anonimo",
-    "descriptions": [
-      "DOMENICO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -34217,7 +34187,7 @@
   "GLIVAIE, ROSALIE": {
     "id": "glivaie-rosalie",
     "descriptions": [
-      "moglie di Tobias, mglese"
+      "moglie di Tobias, inglese"
     ],
     "occurrences": [
       {
@@ -34231,7 +34201,7 @@
   "GLIVAIE, TOBIAS": {
     "id": "glivaie-tobias",
     "descriptions": [
-      "manto di Rosalie, mglese"
+      "marito di Rosalie, inglese"
     ],
     "occurrences": [
       {
@@ -34242,11 +34212,9 @@
       }
     ]
   },
-  "GOBBI CICOGNANI": {
-    "id": "gobbi-anonimo",
-    "descriptions": [
-      "MARIA GABRIELLA"
-    ],
+  "GOBBI CICOGNANI, MARIA GABRIELLA": {
+    "id": "gobbi-maria",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -34256,10 +34224,10 @@
       }
     ]
   },
-  "GOGG POUCHOLIN, MARIE (1826-1899)": {
+  "GOGG POUCHOLIN, MARIE": {
     "id": "gogg-marie",
     "descriptions": [
-      "moglie di Amand, attiva esponente della Ligue mternationale de la paix et de la liberté"
+      "(1826-1899) moglie di Amand, attiva esponente della Ligue mternationale de la paix et de la liberté"
     ],
     "occurrences": [
       {
@@ -34270,10 +34238,10 @@
       }
     ]
   },
-  "GOGG, AMAND (1820-1897)": {
+  "GOGG, AMAND": {
     "id": "gogg-amand",
     "descriptions": [
-      "democratico badese, dmgente della Ligue internationale de la paix et de la liberté"
+      "(1820-1897) democratico badese, dirigente della Ligue internationale de la paix et de la liberté"
     ],
     "occurrences": [
       {
@@ -34298,6 +34266,26 @@
       }
     ]
   },
+  "GOMEZ, SERVANDO": {
+    "id": "gómez-servando",
+    "descriptions": [
+      "comandante argentino di una Divisione che operava al Nord di Salto; impegnò a Sant'Antonio le forze di Garibaldi che resistettero eroicamente ad un nemico agguerrito e molto più numeroso"
+    ],
+    "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          135,
+          171,
+          172,
+          173,
+          179,
+          184,
+          218
+        ]
+      }
+    ]
+  },
   "GONFALONIERI, ANGELA": {
     "id": "gonfalonieri-angela",
     "descriptions": [
@@ -34315,11 +34303,18 @@
     ]
   },
   "GONIZZI, LUIGI": {
-    "id": "gonizzi-luigi-2",
+    "id": "gonizzi-luigi",
     "descriptions": [
+      "offre denaro per la causa garibaldina",
       "colonnello garibaldino"
     ],
     "occurrences": [
+      {
+        "volume": 11,
+        "pages": [
+          250
+        ]
+      },
       {
         "volume": 13,
         "pages": [
@@ -34328,11 +34323,9 @@
       }
     ]
   },
-  "GONNI": {
-    "id": "gonni-anonimo",
-    "descriptions": [
-      "GIUSEPPE"
-    ],
+  "GONNI, GIUSEPPE": {
+    "id": "gonni-giuseppe",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -34370,7 +34363,7 @@
       }
     ]
   },
-  "GONÇALVES DA CosTA SANTos, ANA JOAQUINA": {
+  "GONÇALVES DA COSTA SANTOS, ANA JOAQUINA": {
     "id": "gonçalves-ana",
     "descriptions": [
       "sorella del Presidente della Repubblica Riograndense"
@@ -34383,20 +34376,6 @@
           25,
           26,
           27
-        ]
-      }
-    ]
-  },
-  "GONÇALVES DA SILVA": {
-    "id": "gonçalves-anonimo",
-    "descriptions": [
-      "BENTO (vedi vol. I)"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          139
         ]
       }
     ]
@@ -34427,13 +34406,19 @@
         "pages": [
           23
         ]
+      },
+      {
+        "volume": 4,
+        "pages": [
+          139
+        ]
       }
     ]
   },
   "GONÇALVES DA SILVA, FRANCISCO": {
     "id": "gonçalves-francisco",
     "descriptions": [
-      "fratello del precedente, ricco proprietario terriero"
+      "fratello de Bento, ricco proprietario terriero"
     ],
     "occurrences": [
       {
@@ -34444,11 +34429,9 @@
       }
     ]
   },
-  "GORI": {
-    "id": "gori-anonimo",
-    "descriptions": [
-      "AGOSTINO"
-    ],
+  "GORI, AGOSTINO": {
+    "id": "gori-agostino",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -34473,10 +34456,10 @@
       }
     ]
   },
-  "GORINI PAOLO, promotore della Società Italiana d'Igiene e del giornale ad essa collegato": {
+  "GORINI, PAOLO": {
     "id": "gorini-promotore",
     "descriptions": [
-      "e della Società per la cremazione dei cadaveri medico"
+      "promotore della Società Italiana d'Igiene e del giornale ad essa collegato e della Società per la cremazione dei cadaveri medico"
     ],
     "occurrences": [
       {
@@ -34526,11 +34509,9 @@
       }
     ]
   },
-  "GOTTI": {
-    "id": "gotti-anonimo",
-    "descriptions": [
-      "AURELIO"
-    ],
+  "GOTTI, AURELIO": {
+    "id": "gotti-aurelio",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -34566,11 +34547,11 @@
       }
     ]
   },
-  "GOZZADINI, GIOVANNI (Bologna 1810-ivi 1887)": {
+  "GOZZADINI, GIOVANNI": {
     "id": "gozzadini-giovanni",
     "descriptions": [
-      "conte, archeologo e storico dilettante, membro dell'assemblea costituente delle Romagne",
-      "conte, archeologo e storico dilettante, membro dell'assemblea costituente delle Romagne (cfr. vol. IV)"
+      "(Bologna 1810-ivi 1887) conte, archeologo e storico dilettante, membro dell'assemblea costituente delle Romagne",
+      "(Bologna 1810-ivi 1887) conte, archeologo e storico dilettante, membro dell'assemblea costituente delle Romagne (cfr. vol. IV)"
     ],
     "occurrences": [
       {
@@ -34770,11 +34751,10 @@
       }
     ]
   },
-  "GRAZIANI": {
-    "id": "graziani-anonimo",
+  "GRAZIANI, GERUM": {
+    "id": "graziani-gerum",
     "descriptions": [
-      "GIOVANNI",
-      "GERUM"
+      "GERUM GRAZIANI, Giuseppe Mazzini e Pietro Sterbini. Lettere inedite sul Prestito Nazionale, Anagni, Tip. Oreste Natalia e figli, 1939."
     ],
     "occurrences": [
       {
@@ -34787,6 +34767,18 @@
         "volume": 8,
         "pages": [
           77
+        ]
+      }
+    ]
+  },
+  "GRAZIANI, GIOVANNI": {
+    "id": "graziani-giovanni",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          17
         ]
       }
     ]
@@ -34805,11 +34797,9 @@
       }
     ]
   },
-  "GRECO": {
-    "id": "greco-anonimo",
-    "descriptions": [
-      "GARIBALDI"
-    ],
+  "GRECO, GARIBALDI": {
+    "id": "greco-garibaldi",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -34848,7 +34838,7 @@
     ]
   },
   "GREDEV AL": {
-    "id": "gredev-anonimo",
+    "id": "gredev-al",
     "descriptions": [
       "ingegnere"
     ],
@@ -34889,11 +34879,9 @@
       }
     ]
   },
-  "GRESTI": {
+  "GRESTI, ANTONIO MADERNINO": {
     "id": "gresti-anonimo",
-    "descriptions": [
-      "ANTONIO MADERNINO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -34917,11 +34905,9 @@
       }
     ]
   },
-  "GRILENZONI": {
+  "GRILENZONI, BARTOLOMEO": {
     "id": "grilenzoni-anonimo",
-    "descriptions": [
-      "BARTOLOMEO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -34949,7 +34935,10 @@
     "id": "grilenzoni-giovanni",
     "descriptions": [
       "più vicino a Mazzini che a Garibaldi, visse lungamente in esilio in Svizzera. In questo periodo fu membro attivo del comitato di Reggio Emilia della Associazzone Unitaria Emancipatrice e della locale Società Operaza",
+      "(Reggio Emilia 6 aprile 1796-Viganello, 5 marzo 1868), in questo periodo fu soprattutto attivo nell'organizzazione del tiro nazionale e del movimento operaio della sua città, vedi anche vol. VI",
       "vedi voli. VI e VII",
+      "(1796-1868) uno dei più fedeli seguaci di Mazzini, fu sempre sconfitto nelle quattro occasioni in cui tra il 1860 e il 1865 si presentò alle elezioni nel collegio di Reggio Emilia",
+      "(1796-1868) conte. Originano di Reggio Emilia, cospiratore del 1821 e poi esule in Svizzera, vi conobbe Mazzini e si affiliò alla Giovine Italia. Restò repubblicano e mantenne la residenza a Lugano anche dopo l'unificazione, sicché nel 1865, alla vigilia delle elezioni cui si era candidato, gli avversari gli rinfacciarono il possesso della cittadinanza svizzera: perciò, dopo essersi imposto al ballottaggio, rinunziò al mandato e ne diede notizia con una lettera ai suoi elettori (vedi il vol. IX)",
       "(1796-1868), conte, repubblicano esule in Svizzera"
     ],
     "occurrences": [
@@ -34960,6 +34949,14 @@
         ]
       },
       {
+        "volume": 7,
+        "pages": [
+          12,
+          40,
+          139
+        ]
+      },
+      {
         "volume": 8,
         "pages": [
           21,
@@ -34967,22 +34964,7 @@
           160
         ]
       },
-      {
-        "volume": 12,
-        "pages": [
-          57
-        ]
-      }
-    ]
-  },
-  "GRILENZONI, GIOVANNI (1796-1868)": {
-    "id": "grilenzoni-giovanni-4",
-    "descriptions": [
-      "uno dei più fedeli seguaci di Mazzini, fu sempre sconfitto nelle quattro occasioni in cui tra il 1860 e il 1865 si presentò alle elezioni nel collegio di Reggio Emilia",
-      "conte. Originano di Reggio Emilia, cospiratore del 1821 e poi esule in Svizzera, vi conobbe Mazzini e si affiliò alla Giovine Italia. Restò repubblicano e mantenne la residenza a Lugano anche dopo l'unificazione, sicché nel 1865, alla vigilia delle elezioni cui si era candidato, gli avversari gli rinfacciarono il possesso della cittadinanza svizzera: perciò, dopo essersi imposto al ballottaggio, rinunziò al mandato e ne diede notizia con una lettera ai suoi elettori (vedi il vol. IX)"
-    ],
-    "occurrences": [
-      {
+            {
         "volume": 9,
         "pages": [
           100
@@ -34996,21 +34978,11 @@
           139,
           188
         ]
-      }
-    ]
-  },
-  "GRILENZONI, GIOVANNI (Reggio Emiha": {
-    "id": "grilenzoni-giovanni-2",
-    "descriptions": [
-      "6 aprile 1796-Viganello, 5 marzo 1868), in questo periodo fu soprattutto attivo nell'organizzazione del tiro nazionale e del movimento operaio della sua città, vedi anche vol. VI"
-    ],
-    "occurrences": [
+      },
       {
-        "volume": 7,
+        "volume": 12,
         "pages": [
-          12,
-          40,
-          139
+          57
         ]
       }
     ]
@@ -35073,10 +35045,10 @@
       }
     ]
   },
-  "GRIOLI, GIOVANNI (Mantova 1823-Belfiore 1851)": {
+  "GRIOLI, GIOVANNI": {
     "id": "grioli-giovanni",
     "descriptions": [
-      "sacerdote alllevo e amico di Enrico Tazzoli, come quest'ultimo fu tra i martiri di Belfiore"
+      "(Mantova 1823-Belfiore 1851) sacerdote alllevo e amico di Enrico Tazzoli, come quest'ultimo fu tra i martiri di Belfiore"
     ],
     "occurrences": [
       {
@@ -35222,11 +35194,9 @@
       }
     ]
   },
-  "GUADAGNI": {
+  "GUADAGNI, CAROLINA": {
     "id": "guadagni-anonimo",
-    "descriptions": [
-      "CAROLINA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -35236,26 +35206,22 @@
       }
     ]
   },
-  "GUADAMIOLI": {
+  "GUADAMIOLI, CARLO": {
     "id": "guadamioli-anonimo",
-    "descriptions": [
-      "CARLO",
-      "DOMENICO",
-      "FELICE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
         "pages": [
           101
         ]
-      },
-      {
-        "volume": 2,
-        "pages": [
-          100
-        ]
-      },
+      }
+    ]
+  },
+  "GUADAMIOLI, DOMENICO": {
+    "id": "guadamioli-anonimo",
+    "descriptions": [],
+    "occurrences": [
       {
         "volume": 2,
         "pages": [
@@ -35264,11 +35230,21 @@
       }
     ]
   },
-  "GUAITESI": {
+  "GUADAMIOLI, FELICE": {
+    "id": "guadamioli-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          100
+        ]
+      }
+    ]
+  },
+  "GUAITESI, GUALTIERO": {
     "id": "guaitesi-anonimo",
-    "descriptions": [
-      "GUALTIERO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -35313,11 +35289,9 @@
       }
     ]
   },
-  "GUALTIERI": {
+  "GUALTIERI, LUIGI": {
     "id": "gualtieri-anonimo",
-    "descriptions": [
-      "LUIGI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -35327,19 +35301,10 @@
       }
     ]
   },
-  "GUARAGNA": {
+  "GUARAGNA, CATERINA": {
     "id": "guaragna-anonimo",
-    "descriptions": [
-      "CATERINA",
-      "LUCIA"
-    ],
+    "descriptions": [],
     "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          203
-        ]
-      },
       {
         "volume": 7,
         "pages": [
@@ -35348,11 +35313,21 @@
       }
     ]
   },
-  "GUARDIARE": {
+  "GUARAGNA, LUCIA": {
+    "id": "guaragna-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          203
+        ]
+      }
+    ]
+  },
+  "GUARDIARE, FRANCESCO": {
     "id": "guardiare-anonimo",
-    "descriptions": [
-      "FRANCESCO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -35363,11 +35338,9 @@
       }
     ]
   },
-  "GUARDIONE": {
+  "GUARDIONE, FRANCESCO": {
     "id": "guardione-anonimo",
-    "descriptions": [
-      "FRANCESCO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -35384,11 +35357,9 @@
       }
     ]
   },
-  "GUARNERI": {
+  "GUARNERI, MARY": {
     "id": "guarneri-anonimo",
-    "descriptions": [
-      "MARY"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -35441,6 +35412,8 @@
     "id": "guastalla-enrico",
     "descriptions": [
       "(1826-1903), legionario a Roma, esule a Parigi",
+      "(Guastalla 1826-Milano 1903) capo di S.M. della spedizione Medici, tenente colonnello dell'E.M., ferito al Volturno. Fu poi ad Aspromonte ed a Mentana",
+      "(Guastalla 1826-Milano 1914) sottotenente nel 2° reggimento dei C.d.A., nel 1860 giunse in Sicilia con la spedizione Medici. Segui Garibaldi nell'impresa di Aspromonte e perciò fu imprigionato nel forte di Fenestrelle",
       "(1826-1914), la polizia, che lo tenne particolarmente d'occhio tra il 1863-'64, ritenendolo non a torto tra i più caldi settari, lo considera va un senza professione, e dunque un agitatore professionale, vedi voli. III, V, VII",
       "(1826-1903), molto in confidenza con Garibaldi, è tra i primi ad apprendere, facendogli visita ad Ischia, che Guerzoni è stato licenziato (vedi anche i voll. III, V, VII e VIII)",
       "(1826-1903), uomo politico democratico molto attivo nella cospirazione. In esilio a Parigi dopo aver partecipato alla difesa di Roma nel 1849, segui Garibaldi in tutte le sua campagne assumendo via via, grazie alle sue doti di organizzatore, mansioni sempre pia delicate. Eletto nel 1865 alla Camera in rappresentanza del collegio di Varese (vedi anche i voll. III, V e VII-IX)",
@@ -35453,6 +35426,22 @@
         "pages": [
           111,
           150
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          63
+        ]
+      },
+            {
+        "volume": 7,
+        "pages": [
+          232,
+          284,
+          285,
+          289,
+          292
         ]
       },
       {
@@ -35509,42 +35498,10 @@
       }
     ]
   },
-  "GUASTALLA, ENRICO (Guastalla 1826-Milano 1903)": {
-    "id": "guastalla-enrico-2",
+  "GUATTERI, GUALTIERO": {
+    "id": "guatterri-gualtiero",
     "descriptions": [
-      "capo di S.M. della spedizione Medici, tenente colonnello dell'E.M., ferito al Volturno. Fu poi ad Aspromonte ed a Mentana"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          63
-        ]
-      }
-    ]
-  },
-  "GUASTALLA, ENRICO (Guastalla 1826-Milano 1914)": {
-    "id": "guastalla-enrico-3",
-    "descriptions": [
-      "sottotenente nel 2° reggimento dei C.d.A., nel 1860 giunse in Sicilia con la spedizione Medici. Segui Garibaldi nell'impresa di Aspromonte e perciò fu imprigionato nel forte di Fenestrelle"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          232,
-          284,
-          285,
-          289,
-          292
-        ]
-      }
-    ]
-  },
-  "GUATERRI": {
-    "id": "guaterri-anonimo",
-    "descriptions": [
-      "GUALTIERO"
+    "Garibaldi e Il Risorgimento Italiano, a cura di GIUSEPPE BACCINI e GUALTIERO GUATTERI, Firenze, La Rivista Juventus Editrice, Luglio 1907."
     ],
     "occurrences": [
       {
@@ -35552,15 +35509,7 @@
         "pages": [
           229
         ]
-      }
-    ]
-  },
-  "GUATTERI": {
-    "id": "guatteri-anonimo",
-    "descriptions": [
-      "GUALTIERO"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 5,
         "pages": [
@@ -35569,23 +35518,15 @@
         ]
       },
       {
-        "volume": 10,
-        "pages": [
-          8
-        ]
-      }
-    ]
-  },
-  "GUATTESI": {
-    "id": "guattesi-anonimo",
-    "descriptions": [
-      "GUALTIERO"
-    ],
-    "occurrences": [
-      {
         "volume": 8,
         "pages": [
           175
+        ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          8
         ]
       }
     ]
@@ -35734,7 +35675,7 @@
       }
     ]
   },
-  "GUERRIERI GoNZAGA, CARLO": {
+  "GUERRIERI GONZAGA, CARLO": {
     "id": "guerrieri-carlo",
     "descriptions": [
       "(1827-1913), mantovano, costretto all'esilio in Francia per la parte avuta nelle vicende del 1848, nel 1859 entra nell'Esercito sardo, nel 1866 è capitano del i° battaglione bersaglieri del C.V.I.; nel 1883 sarà fatto senatore"
@@ -35748,12 +35689,22 @@
       }
     ]
   },
-  "GUERRIERO": {
-    "id": "guerriero-anonimo",
+  "GUERRIERO, ENRICO": {
+    "id": "guerriero-enrico",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          267
+        ]
+      }
+    ]
+  },
+  "GUERRIERO, madre": {
+    "id": "guerriero-ma",
     "descriptions": [
-      "ENRICO",
-      "madre di Enrico",
-      "padre di Enrico"
+      "madre di Enrico"
     ],
     "occurrences": [
       {
@@ -35761,13 +35712,15 @@
         "pages": [
           267
         ]
-      },
-      {
-        "volume": 13,
-        "pages": [
-          267
-        ]
-      },
+      }
+    ]
+  },
+  "GUERRIERO, padre": {
+    "id": "guerriero-anonimo",
+    "descriptions": [
+      "padre di Enrico"
+    ],
+    "occurrences": [
       {
         "volume": 13,
         "pages": [
@@ -35804,11 +35757,9 @@
       }
     ]
   },
-  "GUERRINI": {
+  "GUERRINI, DOMENICO": {
     "id": "guerrini-anonimo",
-    "descriptions": [
-      "DOMENICO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -35824,10 +35775,19 @@
       }
     ]
   },
-  "GUERZONI": {
-    "id": "guerzoni-anonimo",
+  "GUERZONI, GIUSEPPE": {
+    "id": "guerzoni-giuseppe",
     "descriptions": [
-      "GIUSEPPE"
+      "nato a Castel Goffredo nel 1835, sottotenente dei Cd.A., tenente nel III btg. bersaglieri delle Romagne",
+      "(Castel Goffredo Mantova 1835-Montichiari 1886), patriota e letterato, partecipò all'impresa di Sicilia; biografo di Garibaldi, fu poi deputato e docente universitario (cfr. voll. IV, VI)",
+      "(1835-1886), biografo di Garibaldi, gli fu vicino dal 1859 e ne guadagnò la più piena fiducia. Come intermediario tra Garibaldi e Rattazzi fu nella segreteria del ministro dei Lavori Pubblici Depretis nel 1862.",
+      "(1835-1886), dopo Sarnico abbandonò il suo posto presso il Depretis e raggiunse Garibaldi, col quale fu nel giugno in Lombardia, poi a Caprera ed Aspromonte, vedi vol. VI",
+      "(1835-1886), fu a Caprera segretario di Garibaldi nello scorcio del 1863, vedi voli. VI, VII",
+      "(1835-1886), cessa di essere il segretario di Garibaldi, nel luglio del 1864, perché ritenuto colpevole di collusioni coi mazziniani (vedi anche i voll. IV-VIII)",
+      "(1835-1886), licenziato da Garibaldi nel 1864, si riaccosta al Generale che lo sostiene nella candidatura alle politiche del 1865, quando Guerzoni viene eletto a Tricase e Manduria, optanto poi per quest'ultimo collegio (vedi anche i voll. IV-IX)",
+      "(1835-1886), vedi i voll. IV-X, Volontario nel 4° battaglione del 9° reggimento (Menotti Garibaldi)",
+      "(1835-1886), giornalista, deputato, partecipò alla campagna dell'Agro romano, 28, 31, 164, 173, i",
+      "(1835-1886), giornalista, deputato"
     ],
     "occurrences": [
       {
@@ -35845,38 +35805,17 @@
         ]
       },
       {
-        "volume": 5,
-        "pages": [
-          7,
-          239
-        ]
-      },
-      {
-        "volume": 14,
-        "pages": [
-          234
-        ]
-      }
-    ]
-  },
-  "GUERZONI, GIUSEPPE": {
-    "id": "guerzoni-giuseppe",
-    "descriptions": [
-      "nato a Castel Goffredo nel 1835, sottotenente dei Cd.A., tenente nel III btg. bersaglieri delle Romagne",
-      "(1835-1886), biografo di Garibaldi, gli fu vicino dal 1859 e ne guadagnò la più piena fiducia. Come intermediario tra Garibaldi e Rattazzi fu nella segreteria del ministro dei Lavori Pubblici Depretis nel 1",
-      "(1835-1886), dopo Sarnico abbandonò il suo posto presso il Depretis e raggiunse Garibaldi, col quale fu nel giugno in Lombardia, poi a Caprera ed Aspromonte, vedi vol. VI",
-      "(1835-1886), fu a Caprera segretario di Garibaldi nello scorcio del 1863, vedi voli. VI, VII",
-      "(1835-1886), cessa di essere il segretario di Garibaldi, nel luglio del 1864, perché ritenuto colpevole di collusioni coi mazziniani (vedi anche i voll. IV-VIII)",
-      "(1835-1886), licenziato da Garibaldi nel 1864, si riaccosta al Generale che lo sostiene nella candidatura alle politiche del 1865, quando Guerzoni viene eletto a Tricase e Manduria, optanto poi per quest'ultimo collegio (vedi anche i voll. IV-IX)",
-      "(1835-1886), vedi i voll. IV-X, Volontario nel 4° battaglione del 9° reggimento (Menotti Garibaldi)",
-      "(1835-1886), giornalista, deputato, partecipò alla campagna dell'Agro romano, 28, 31, 164, 173, i",
-      "(1835-1886), giornalista, deputato"
-    ],
-    "occurrences": [
-      {
         "volume": 4,
         "pages": [
           60
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          7,
+          53,
+          239
         ]
       },
       {
@@ -35971,19 +35910,11 @@
           113,
           210
         ]
-      }
-    ]
-  },
-  "GUERZONI, GIUSEPPE (Castel Goffredo": {
-    "id": "guerzoni-giuseppe-2",
-    "descriptions": [
-      "Mantova 1835-Montichiari 1886), patriota e letterato, partecipò all'impresa di Sicilia; biografo di Garibaldi, fu poi deputato e docente universitario (cfr. voll. IV, VI)"
-    ],
-    "occurrences": [
+      },
       {
-        "volume": 5,
+        "volume": 14,
         "pages": [
-          53
+          234
         ]
       }
     ]
@@ -36002,11 +35933,9 @@
       }
     ]
   },
-  "GUESMET": {
-    "id": "guesmet-anonimo",
-    "descriptions": [
-      "ENRICO"
-    ],
+  "GUESMET, ENRICO": {
+    "id": "guesmet-aenrico",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -36017,11 +35946,9 @@
       }
     ]
   },
-  "GUFFANTI PESENTI": {
+  "GUFFANTI PESENTI, GIACOMO": {
     "id": "guffanti-anonimo",
-    "descriptions": [
-      "GIACOMO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -36031,12 +35958,19 @@
       }
     ]
   },
-  "GUGLIELMO I, re di Prussia": {
+  "GUGLIELMO I": {
     "id": "guglielmo-re",
     "descriptions": [
-      "dal 18 gennaio 1871 imperatore di Germania"
+      "il Re di Prussia sali al trono nel 1861",
+      "re di Prussia, dal 18 gennaio 1871 imperatore di Germania"
     ],
     "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          63
+        ]
+      },
       {
         "volume": 14,
         "pages": [
@@ -36055,10 +35989,10 @@
       }
     ]
   },
-  "GUGLIELMO III, (1650-1702)": {
+  "GUGLIELMO III": {
     "id": "guglielmo-(1650-1702)",
     "descriptions": [
-      "re d'Inghilterra, Scozià e Irlanda"
+      "(1650-1702) re d'Inghilterra, Scozia e Irlanda"
     ],
     "occurrences": [
       {
@@ -36069,25 +36003,9 @@
       }
     ]
   },
-  "GUGLIELMU I, il Re di Prussia": {
-    "id": "guglielmu-il",
-    "descriptions": [
-      "sali al trono nel 1"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          63
-        ]
-      }
-    ]
-  },
   "GUGLIONI": {
     "id": "guglioni-anonimo",
-    "descriptions": [
-      "[?]"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -36163,11 +36081,9 @@
       }
     ]
   },
-  "GUIDICINI": {
+  "GUIDICINI, GIOVANNI": {
     "id": "guidicini-anonimo",
-    "descriptions": [
-      "GIOVANNI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 13,
@@ -36179,10 +36095,10 @@
       }
     ]
   },
-  "GUIDOTTI, ERNESTO (Firenze 1833-La Spezia 1918)": {
+  "GUIDOTTI, ERNESTO": {
     "id": "guidotti-ernesto",
     "descriptions": [
-      "capitano"
+      "(Firenze 1833-La Spezia 1918) capitano"
     ],
     "occurrences": [
       {
@@ -36221,11 +36137,9 @@
       }
     ]
   },
-  "GULINO": {
+  "GULINO, MICHELE": {
     "id": "gulino-anonimo",
-    "descriptions": [
-      "MICHELE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -36235,11 +36149,9 @@
       }
     ]
   },
-  "GULLEMOND": {
+  "GULLEMOND, MARCEL": {
     "id": "gullemond-anonimo",
-    "descriptions": [
-      "MARCEL"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 13,
@@ -36261,11 +36173,9 @@
       }
     ]
   },
-  "GUNNELLA": {
+  "GUNNELLA, NICOLA": {
     "id": "gunnella-anonimo",
-    "descriptions": [
-      "NICOLA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -36276,23 +36186,10 @@
     ]
   },
   "GUSMAROLI, LUIGI": {
-    "id": "gusmaroli-luigi-2",
-    "descriptions": [
-      "(1801-1872), abbandonò il sacerdozio per seguire Garibaldi in tutte le battaglie e poi si ritirò con lui a Caprera"
-    ],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          6
-        ]
-      }
-    ]
-  },
-  "GUSMAROLI, LUIGI (1801-1872)": {
     "id": "gusmaroli-luigi",
     "descriptions": [
-      "abbandonò il sacerdozio per seguire Garibaldi in tutte le battaglie e poi si ritirò con lui a Caprera"
+      "(1801-1872) abbandonò il sacerdozio per seguire Garibaldi in tutte le battaglie e poi si ritirò con lui a Caprera",
+      "(1801-1872), abbandonò il sacerdozio per seguire Garibaldi in tutte le battaglie e poi si ritirò con lui a Caprera"
     ],
     "occurrences": [
       {
@@ -36303,11 +36200,17 @@
           231,
           262
         ]
+      }, 
+      {
+        "volume": 14,
+        "pages": [
+          6
+        ]
       }
     ]
   },
-  "GUSTAVIN": {
-    "id": "gustavin-anonimo",
+  "GUSTAVIN, famiglia": {
+    "id": "gustavin-famiglia",
     "descriptions": [
       "famiglia imparentata coi Garibaldi",
       "cugini di Garibaldi residenti a Nizza",
@@ -36379,10 +36282,10 @@
       }
     ]
   },
-  "GUTEMBERG, JOHAN (Magonza 1400-ivi 1468)": {
+  "GUTEMBERG, JOHAN": {
     "id": "gutemberg-johan",
     "descriptions": [
-      "fu l'inventore della stampa a caratteri mobili"
+      "(Magonza 1400-ivi 1468) fu l'inventore della stampa a caratteri mobili"
     ],
     "occurrences": [
       {
@@ -36407,11 +36310,9 @@
       }
     ]
   },
-  "GUY": {
+  "GUY, ANTONIO": {
     "id": "guy-anonimo",
-    "descriptions": [
-      "ANTONIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -36444,55 +36345,6 @@
       }
     ]
   },
-  "GiANNELLI, ANDREA (Firenze 30 novembre 1831-ivi 6 giugno 1914)": {
-    "id": "giannelli-andrea",
-    "descriptions": [
-      "di sentimenti mazziniani, ma in contatto anche con Garibaldi, fu attivo tra le file della emigrazione romana residente a Firenze ed in relazioni con gli elementi patriottici operanti in Roma, dove, tra il 1861 e il 1862, si recò più volte in missioni clandestine, onde ebbe a subire anche l'arresto da parte dei papalini. Sul suo ruolo nelle cospirazioni romane e sulla sua attività politica ci restano alcum suoi scritti"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          110,
-          236
-        ]
-      }
-    ]
-  },
-  "GoNIZZI, LUIGI": {
-    "id": "gonizzi-luigi",
-    "descriptions": [
-      "offre denaro per la causa garibaldina"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          250
-        ]
-      }
-    ]
-  },
-  "GÓMEZ, SERVANDO": {
-    "id": "gómez-servando",
-    "descriptions": [
-      "comandante argentino di una Divisione che operava al Nord di Salto; impegnò a Sant'Antonio le forze di Garibaldi che resistettero eroicamente ad un nemico agguerrito e molto più numeroso"
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          135,
-          171,
-          172,
-          173,
-          179,
-          184,
-          218
-        ]
-      }
-    ]
-  },
   "HANTE, GUSTAVE DE LA": {
     "id": "hante-gustave",
     "descriptions": [
@@ -36507,12 +36359,26 @@
       }
     ]
   },
-  "HAUG, ERNESTO": {
-    "id": "haug-ernesto",
+  "HAUG, ERNST": {
+    "id": "haug-ernst",
     "descriptions": [
+      "(1818-1888), nel 1848 lasciò l'esercito austriaco, abbracciando la causa della hbertà dei popoli, e l'anno successivo, fu alla difesa di Roma",
+      "(1818-1888), durante i lavori del congresso di fondazione dell'Emancipatrice consegnò a Garibaldi un dono di una daga inviata dalle donne tedesche. Il congresso rispose con un indirizzo inneggiante all'amicizia italo-germanica, vedi anche vol. VI",
       "(1818-1888), già ufficiale dell'esercito austriaco, nel 1866 è posto con il grado di maggiore generale alla testa della brigata ed è impegnato nelle operazioni contro il Forte d'Ampola e a Bezzecca, ma con le sue incertezze e i suoi errori tattici non sembra meritare la stima che aveva per lui Garibaldi; terminata la guerra, chiese che la croce di ufficiale dell'ordine militare di Savoia assegnatagli in ricompensa fosse cambiata con quella di commendatore (vedi anche i voll. VI-VII)"
     ],
     "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          223
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          25
+        ]
+      },
       {
         "volume": 11,
         "pages": [
@@ -36543,27 +36409,6 @@
           318,
           319,
           325
-        ]
-      }
-    ]
-  },
-  "HAUG, ERNST": {
-    "id": "haug-ernst",
-    "descriptions": [
-      "(1818-1888), nel 1848 lasciò l'esercito austriaco, abbracciando la causa della hbertà dei popoli, e l'anno successivo, fu alla difesa di Roma",
-      "(1818-1888), durante i lavori del congresso di fondazione dell'Emancipatrice consegnò a Garibaldi un dono di una daga inviata dalle donne tedesche. Il congresso rispose con un indirizzo inneggiante all'amicizia italo-germanica, vedi anche vol. VI"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          223
-        ]
-      },
-      {
-        "volume": 7,
-        "pages": [
-          25
         ]
       }
     ]
@@ -50395,6 +50240,7 @@
   "MURAT, GIOACCHINO (1771-1815)": {
     "id": "murat-gioacchino",
     "descriptions": [
+      "(1771-1815) re di Napoli dal 1808 al 1815",
       "re di Napoli dal 1808, mori a Pizzo Calabro in uno sfortunato tentativo di riconquistare il suo regno"
     ],
     "occurrences": [
@@ -50402,6 +50248,12 @@
         "volume": 6,
         "pages": [
           3
+        ]
+      }, 
+            {
+        "volume": 12,
+        "pages": [
+          121
         ]
       }
     ]

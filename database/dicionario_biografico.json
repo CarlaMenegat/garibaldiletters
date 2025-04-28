@@ -45691,9 +45691,17 @@
     "id": "medici-giacomo",
     "descriptions": [
       "fu presentato ad Anzani con una lettera calda di elogi di Mazzini l'8 dicembre 1845; sperimentò nelle lotte della L. I.M. le virtù tattiche e guerriere che doveva confermare nel 1849 a Roma, portò primo in Italia la voce di Garibaldi e dei suoi compagni nel 1848.",
+      "(1817-1882), già combattente nella L.I.M, tornato in Italia si distinse nei fatti d'arme del 1848 in Lombardia, ove fu a capo di un corpo di volontari. Dopo Morazzone si ritirò a Firenze. Nel maggio 1849, a Roma, comandò una colonna di volontari con la quale difese Porta S Pancrazio. Per il valore dimostrato in tale occasione, il Triumvirato lo promosse tenente colonnello",
+      "(1817-1882), esule a Genova (vedi voli. I e II)",
+      "comandante di un reggimento dei C.d.A., medaglia d'argento al V.M., cavaliere ufficiale O.M.S. (vedi voll. II e III)",
+      "capeggiò il secondo contingente di garibaldini diretto in Sicilia; prese parte alle battaglie di Milazzo e del Volturno. Conservò nell'esercito regolare il grado di generale di divisione ottenuto nell'E.M. (cfr. voli. I, II, III, IV, VI)",
       "vedi voli. I, II, III e IV. dopo il 1860 entrò nell'esercito regolare. A lui Garibaldi si rivolge per i problemi relativi alla sorte dei suoi volontari",
       "vedi voll. precedenti. In questo periodo, per i suoi incarichi militari, si trova in Sicilia",
-      "(1817-1882), vedi voll. precedenti"
+      "(1817-1882), vedi voll. precedenti",
+      "(1817-1882), generale dell'Esercito italiano (vedi anche tutti i voll. precedenti)",
+      "(1819-1882), (vedi i voll. i-9), un ordine di E. Cialdini lo destina ad operare in Valsugana alla testa della 15ª divisione attiva: non incontra molti ostacoli e la tregua del 25 luglio lo ferma a pochi chilometri da Trento",
+      "marchese del Vascello, (1817-1882), generale, deputato",
+      "marchese del Vascello (1817-1882), generale, deputato"
     ],
     "occurrences": [
       {
@@ -45705,50 +45713,7 @@
           258
         ]
       },
-      {
-        "volume": 6,
-        "pages": [
-          14,
-          94,
-          95,
-          150,
-          163,
-          186,
-          187,
-          239,
-          246,
-          277,
-          288
-        ]
-      },
-      {
-        "volume": 7,
-        "pages": [
-          54,
-          73
-        ]
-      },
-      {
-        "volume": 8,
-        "pages": [
-          3,
-          56
-        ]
-      }
-    ]
-  },
-  "MEDICI, GIACOMO": {
-    "id": "medici-giacomo-2",
-    "descriptions": [
-      "(1817-1882), già combattente nella L.I.M, tornato in Italia si distinse nei fatti d'arme del 1848 in Lombardia, ove fu a capo di un corpo di volontari. Dopo Morazzone si ritirò a Firenze. Nel maggio 1849, a Roma, comandò una colonna di volontari con la quale difese Porta S Pancrazio. Per il valore dimostrato in tale occasione, il Triumvirato lo promosse tenente colonnello",
-      "(1817-1882), esule a Genova (vedi voli. I e II)",
-      "(1817-1882), generale dell'Esercito italiano (vedi anche tutti i voll. precedenti)",
-      "(1819-1882), (vedi i voll. i-9), un ordine di E. Cialdini lo destina ad operare in Valsugana alla testa della 15ª divisione attiva: non incontra molti ostacoli e la tregua del 25 luglio lo ferma a pochi chilometri da Trento",
-      "marchese del Vascello, (1817-1882), generale, deputato",
-      "marchese del Vascello (1817-1882), generale, deputato"
-    ],
-    "occurrences": [
-      {
+            {
         "volume": 2,
         "pages": [
           8,
@@ -45776,54 +45741,6 @@
           198
         ]
       },
-      {
-        "volume": 9,
-        "pages": [
-          16,
-          17,
-          209
-        ]
-      },
-      {
-        "volume": 11,
-        "pages": [
-          133,
-          148,
-          159,
-          163,
-          186,
-          187,
-          230,
-          330
-        ]
-      },
-      {
-        "volume": 12,
-        "pages": [
-          40
-        ]
-      },
-      {
-        "volume": 13,
-        "pages": [
-          232
-        ]
-      },
-      {
-        "volume": 14,
-        "pages": [
-          19
-        ]
-      }
-    ]
-  },
-  "MEDICI, GIACOMO (Milano 1817-Roma 1882)": {
-    "id": "medici-giacomo-4",
-    "descriptions": [
-      "comandante di un reggimento dei C.d.A., medaglia d'argento al V.M., cavaliere ufficiale O.M.S. (vedi voll. II e III)",
-      "capeggiò il secondo contingente di garibaldini diretto in Sicilia; prese parte alle battaglie di Milazzo e del Volturno. Conservò nell'esercito regolare il grado di generale di divisione ottenuto nell'E.M. (cfr. voli. I, II, III, IV, VI)"
-    ],
-    "occurrences": [
       {
         "volume": 4,
         "pages": [
@@ -45903,6 +45820,75 @@
           314,
           331
         ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          14,
+          94,
+          95,
+          150,
+          163,
+          186,
+          187,
+          239,
+          246,
+          277,
+          288
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          54,
+          73
+        ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          3,
+          56
+        ]
+      },
+            {
+        "volume": 9,
+        "pages": [
+          16,
+          17,
+          209
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          133,
+          148,
+          159,
+          163,
+          186,
+          187,
+          230,
+          330
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          40
+        ]
+      },
+      {
+        "volume": 13,
+        "pages": [
+          232
+        ]
+      },
+      {
+        "volume": 14,
+        "pages": [
+          19
+        ]
       }
     ]
   },
@@ -45935,11 +45921,9 @@
       }
     ]
   },
-  "MEDURI": {
+  "MEDURI, ANTONIETTA": {
     "id": "meduri-anonimo",
-    "descriptions": [
-      "ANTONIETTA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -45991,57 +45975,12 @@
       }
     ]
   },
-  "MELENA": {
-    "id": "melena-anonimo",
-    "descriptions": [
-      "ELPIS"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          32,
-          36,
-          150,
-          151,
-          152,
-          153,
-          155,
-          177,
-          183
-        ]
-      }
-    ]
-  },
-  "MELENA ELPIS, vedi SCHWARTZ": {
+  "MELENA ELPIS": {
     "id": "melena-vedi",
     "descriptions": [
-      "MARIA SPERANZA von"
+      "vedi SCHWARTZ MARIA SPERANZA VON"
     ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          157,
-          164,
-          176
-        ]
-      }
-    ]
-  },
-  "MELENA, ELPIS": {
-    "id": "melena-elpis",
-    "descriptions": [
-      "vedi SCHWARTZ, MARIA SPERANZA von"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          57
-        ]
-      }
-    ]
+    "occurrences": []
   },
   "MELENDEZ, NICOLA": {
     "id": "melendez-nicola",
@@ -46101,10 +46040,10 @@
       }
     ]
   },
-  "MELLANA, FILIPPO (Casale 1810-ivi 1874)": {
+  "MELLANA, FILIPPO": {
     "id": "mellana-filippo",
     "descriptions": [
-      "deputato di Casale fu del terzo partito rattazziano"
+      "(Casale 1810-ivi 1874) deputato di Casale fu del terzo partito rattazziano"
     ],
     "occurrences": [
       {
@@ -46115,10 +46054,10 @@
       }
     ]
   },
-  "MELLI": {
-    "id": "melli-anonimo",
+  "MELLI, GIOVANNI": {
+    "id": "melli-giovanni",
     "descriptions": [
-      "GIOVANNI"
+      ""
     ],
     "occurrences": [
       {
@@ -46129,31 +46068,23 @@
       }
     ]
   },
-  "MENABREA": {
-    "id": "menabrea-anonimo",
-    "descriptions": [
-      "LUIGIFEDERIC"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          0,
-          45
-        ]
-      }
-    ]
-  },
-  "MENABREA, LUIGI FEDERICO (Chambery 1809-ivi 1896)": {
+  "MENABREA, LUIGI FEDERICO": {
     "id": "menabrea-luigi",
     "descriptions": [
-      "proveniente dalle file dell'esercito ebbe vari incarichi di governo. Fu uno dei personaggi politici più invisi a Garibaldi e alla sinistra"
+      "(Chambery 1809-ivi 1896) proveniente dalle file dell'esercito ebbe vari incarichi di governo. Fu uno dei personaggi politici più invisi a Garibaldi e alla sinistra"
     ],
     "occurrences": [
       {
         "volume": 6,
         "pages": [
           268
+        ]
+      },
+            {
+        "volume": 11,
+        "pages": [
+          0,
+          45
         ]
       }
     ]
@@ -46172,11 +46103,9 @@
       }
     ]
   },
-  "MENGHINI": {
+  "MENGHINI, MARIO": {
     "id": "menghini-anonimo",
-    "descriptions": [
-      "MARIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 1,
@@ -46262,11 +46191,9 @@
       }
     ]
   },
-  "MENICONI": {
-    "id": "meniconi-anonimo",
-    "descriptions": [
-      "DOMENICO"
-    ],
+  "MENICONI, DOMENICO": {
+    "id": "meniconi-domenico",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -46293,7 +46220,7 @@
   "MERANTINI, LUIGI": {
     "id": "merantini-luigi",
     "descriptions": [
-      ", (1821-1872), poeta e patriota, nel 1864 pubblica la raccolta dei suoi Canti, (vedi anche i voll. IV-VI), 7"
+      "(1821-1872), poeta e patriota, nel 1864 pubblica la raccolta dei suoi Canti, (vedi anche i voll. IV-VI), 7"
     ],
     "occurrences": [
       {
@@ -46304,10 +46231,10 @@
       }
     ]
   },
-  "MERAVIGLIA, non sappiamo se Garibaldi alluda a Carlo o Cesare": {
+  "MERAVIGLIA": {
     "id": "meraviglia-non",
     "descriptions": [
-      "Ambedue attivi esponenti della democrazia calabrese e cugini tra loro"
+      "non sappiamo se Garibaldi alluda a Carlo o Cesare. Ambedue attivi esponenti della democrazia calabrese e cugini tra loro"
     ],
     "occurrences": [
       {
@@ -46321,7 +46248,7 @@
   "MERCANTINI DE FILIPPI, GIUSEPPINA": {
     "id": "mercantini-giuseppina",
     "descriptions": [
-      "sorella del precedente"
+      "sorella di Luigi Mercantini"
     ],
     "occurrences": [
       {
@@ -46333,32 +46260,10 @@
     ]
   },
   "MERCANTINI, LUIGI": {
-    "id": "mercantini-luigi-3",
-    "descriptions": [
-      "(1821-1872) poeta patriottico e autore del più famoso inno garibaldino, dopo il 1860 si dedicò all'insegnamento universitario",
-      "(1821-1872), poeta, scrittore e studioso della letteratura. Reso celebre dalla pubblicazione dell'Inno di Garibaldi, nel 1865 gli viene conferito l'insegnamento della letteratura italiana nell'Università di Palermo (vedi i voli. IV-VI e IX)"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          151,
-          153
-        ]
-      },
-      {
-        "volume": 10,
-        "pages": [
-          63
-        ]
-      }
-    ]
-  },
-  "MERCANTINI, LUIGI (Ripatransone 1821-Palermo 1872)": {
     "id": "mercantini-luigi",
     "descriptions": [
-      "poeta patriota, autore dell'Inno di Garibaldi",
-      "poeta, patriota, autore del famoso Inno di Garibaldi (cfr. voll. IV, VI)"
+      "(Ripatransone 1821-Palermo 1872) poeta patriota, autore dell'Inno di Garibaldi",
+      "(Ripatransone 1821-Palermo 1872) poeta, patriota, autore del famoso Inno di Garibaldi (cfr. voll. IV, VI)"
     ],
     "occurrences": [
       {
@@ -46372,6 +46277,19 @@
         "volume": 5,
         "pages": [
           164
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          151,
+          153
+        ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          63
         ]
       }
     ]
@@ -46392,11 +46310,9 @@
       }
     ]
   },
-  "MERLI": {
+  "MERLI, C.": {
     "id": "merli-anonimo",
-    "descriptions": [
-      "C."
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -46406,11 +46322,9 @@
       }
     ]
   },
-  "MESSADAGLIA": {
+  "MESSADAGLIA, LUIGI": {
     "id": "messadaglia-anonimo",
-    "descriptions": [
-      "LUIGI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -46483,7 +46397,7 @@
   "MEULLEN, EMILIO": {
     "id": "meullen-emilio",
     "descriptions": [
-      "già capitano dell'esercito meridionale, dimesso agli inizi del 1"
+      "già capitano dell'esercito meridionale, dimesso agli inizi del 1861"
     ],
     "occurrences": [
       {
@@ -46494,16 +46408,16 @@
       }
     ]
   },
-  "MEURICOFFE, forse in realtà Meuricoffre ( cfr. vol. VI)": {
+  "MEURICOFFE": {
     "id": "meuricoffe-forse",
     "descriptions": [
-      "244"
+      "forse in realtà Meuricoffre ( cfr. vol. VI)"
     ],
     "occurrences": [
       {
         "volume": 5,
         "pages": [
-          23
+          244
         ]
       }
     ]
@@ -46550,10 +46464,10 @@
       }
     ]
   },
-  "MEZZACAPO, CARLO (Capua 1817-1905)": {
+  "MEZZACAPO, CARLO": {
     "id": "mezzacapo-carlo",
     "descriptions": [
-      "già ufficiale con Pepe, esule, fondatore della Rivista Militare con il fratello Luigi, capo di S.M. dei volontari delle Romagne, partecipò all'assedio di Gaeta"
+      "(Capua 1817-1905) già ufficiale con Pepe, esule, fondatore della Rivista Militare con il fratello Luigi, capo di S.M. dei volontari delle Romagne, partecipò all'assedio di Gaeta"
     ],
     "occurrences": [
       {
@@ -46567,7 +46481,8 @@
   "MEZZACAPO, LUIGI": {
     "id": "mezzacapo-luigi",
     "descriptions": [
-      "(1814-1885), capo S.M. della Divisione Romana, dal 30 giugno 1849 generale di brigata. Caduta Roma, combattè a Venezia"
+      "(1814-1885), capo S.M. della Divisione Romana, dal 30 giugno 1849 generale di brigata. Caduta Roma, combattè a Venezia",
+      "(Trapani 1814-Roma 1885) già agli ordmi di Guglielmo Pepe nel 1848, comandò come maggior generale una divisione romagnola"
     ],
     "occurrences": [
       {
@@ -46575,16 +46490,8 @@
         "pages": [
           156
         ]
-      }
-    ]
-  },
-  "MEZZACAPO, LUIGI (Trapani 1814-Roma 1885)": {
-    "id": "mezzacapo-luigi-2",
-    "descriptions": [
-      "già agli ordmi di Guglielmo Pepe nel 1848, comandò come maggior generale una divisione romagnola"
-    ],
-    "occurrences": [
-      {
+      },
+            {
         "volume": 4,
         "pages": [
           128,
@@ -46607,11 +46514,9 @@
       }
     ]
   },
-  "MEZZANO": {
+  "MEZZANO, PIETRO": {
     "id": "mezzano-anonimo",
-    "descriptions": [
-      "PIETRO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -46632,10 +46537,10 @@
       }
     ]
   },
-  "MICALI, GIUSEPPE (1769-1844)": {
+  "MICALI, GIUSEPPE": {
     "id": "micali-giuseppe",
     "descriptions": [
-      "storico, autore di un'opera in 4 volumi su L'Italia avanti il dominio dei Romani (Firenze, 1810) e di una Storia degli antichi popoli italiani (Firenze, 1832) in 3 volumi"
+      "(1769-1844) storico, autore di un'opera in 4 volumi su L'Italia avanti il dominio dei Romani (Firenze, 1810) e di una Storia degli antichi popoli italiani (Firenze, 1832) in 3 volumi"
     ],
     "occurrences": [
       {
@@ -46646,10 +46551,10 @@
       }
     ]
   },
-  "MICCA, PIETRO (1677-1706)": {
+  "MICCA, PIETRO": {
     "id": "micca-pietro",
     "descriptions": [
-      "soldato piemontese, entrò nel martirologio nazionale sacrificando la vita nell'esplosione della carica da lui stessa collocata per impedire agli assedianti francesi di entrare nella piazzaforte di Torino"
+      "(1677-1706) soldato piemontese, entrò nel martirologio nazionale sacrificando la vita nell'esplosione della carica da lui stessa collocata per impedire agli assedianti francesi di entrare nella piazzaforte di Torino"
     ],
     "occurrences": [
       {
@@ -46730,8 +46635,26 @@
   "MICHEL": {
     "id": "michel-anonimo",
     "descriptions": [
-      "ERSILIO",
       "generale francese"
+    ],
+    "occurrences": [
+      {
+        "volume": 14,
+        "pages": [
+          178
+        ]
+      }
+    ]
+  },
+  "MICHEL, ERSILIO": {
+    "id": "michel-anonimo",
+    "descriptions": [
+      "ERSILIO MICHEL, Una lettera di Garibaldi agli studenti universitari di Pisa, in Il Risorgimento Italiano. a III, n 1-2, gennaio-aprtle 1910, pp. 189-190.",
+      "ERSILIO MICHEL, Una vzszta e un'amicizia di Garibaldi a Livorno, Como, Stab. Tip. della Società Editrice Roma, 1908, p. 9.",
+      "ERSILIO MICHEL, Il Museo garibaldino in Campidoglio, in Il Risorgimento Italiano, a. III (1910), n. 5",
+      "ERSILIO MICHEL, Garibaldi e Vincenzo Malenchini, in Garzbaldi nel cinquantenario della sua morte, Roma, Edizione di Camicia Rossa, 1932",
+      "ERSILIO MICHEL, Sacerdoti garibaldini. Don Federigo Riccioli, in Garibaldi e i Garibaldini, a. I, n. 1 (5 maggio 1910)",
+      "ERSILIO MICHEL, Francesco Domenico Guerrazzi e la dedica del suo Pasquale Paoli al generale Garibaldi (1864), in Archivio storico di Corsica, 1941"
     ],
     "occurrences": [
       {
@@ -46791,20 +46714,12 @@
         "pages": [
           256
         ]
-      },
-      {
-        "volume": 14,
-        "pages": [
-          178
-        ]
       }
     ]
   },
-  "MICHELANGELI": {
-    "id": "michelangeli-anonimo",
-    "descriptions": [
-      "SETTIMIO"
-    ],
+  "MICHELANGELI, SETTIMIO": {
+    "id": "michelangeli-settimio",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -46814,10 +46729,10 @@
       }
     ]
   },
-  "MICHELANGELO BUONARROTI (1475-1564), pittore": {
+  "MICHELANGELO BUONARROTI": {
     "id": "michelangelo-pittore",
     "descriptions": [
-      "scultore e architetto: per Garibaldi è esempio di artista che si impegna concretamente e in prima persona nella difesa delle libertà civiche minacciate dal tiranno"
+      "(1475-1564), pittore scultore e architetto: per Garibaldi è esempio di artista che si impegna concretamente e in prima persona nella difesa delle libertà civiche minacciate dal tiranno"
     ],
     "occurrences": [
       {
@@ -46828,10 +46743,10 @@
       }
     ]
   },
-  "MICHELE III OBRENOVIC, principe di Serbia": {
+  "MICHELE III OBRENOVIC": {
     "id": "michele-principe",
     "descriptions": [
-      "(1823-1868), la sua sovranità fu a lungo contestata dalla dinastia dei Karageorgevic, ad un esponente della quale dovette lasciare il trono -su cui era sahto nel 1839 dal 1842 al 1858. Nel 1868 sarà vittima di una congiura cui non sarà estraneo Alessandro Karageorgevic, da lui spodestato"
+      "principe di Serbia (1823-1868), la sua sovranità fu a lungo contestata dalla dinastia dei Karageorgevic, ad un esponente della quale dovette lasciare il trono -su cui era sahto nel 1839 dal 1842 al 1858. Nel 1868 sarà vittima di una congiura cui non sarà estraneo Alessandro Karageorgevic, da lui spodestato"
     ],
     "occurrences": [
       {
@@ -46842,11 +46757,9 @@
       }
     ]
   },
-  "MICHELI": {
+  "MICHELI, MICHELE": {
     "id": "micheli-anonimo",
-    "descriptions": [
-      "MICHELE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -46893,30 +46806,23 @@
       }
     ]
   },
-  "MICKIEWICZ, LADISLAO": {
-    "id": "mickiewicz-ladislao",
-    "descriptions": [
-      "(1838-1890), figlio del poeta nazionale polacco (vedi il vol. VIII)"
-    ],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          93
-        ]
-      }
-    ]
-  },
-  "MICKIEWICZ, WLADYSLAW (Parigi 1838-iVl 1926)": {
+  "MICKIEWICZ, WLADYSLAW": {
     "id": "mickiewicz-wladyslaw",
     "descriptions": [
-      "figlio del grande scrittore polacco Adam"
+      "(Parigi 1838-iVl 1926) figlio del grande scrittore polacco Adam",
+      "(1838-1890), figlio del poeta nazionale polacco (vedi il vol. VIII)"
     ],
     "occurrences": [
       {
         "volume": 4,
         "pages": [
           203
+        ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          93
         ]
       }
     ]
@@ -46942,10 +46848,17 @@
   "MIEROSLAWSKI, LUDWIG": {
     "id": "mieroslawski-ludwig",
     "descriptions": [
+      "(1814-1879), eminente personalità dell'emigrazione polacca in contatto con Garibaldi (cfr. vol. VI)",
       "(1814-1879), tra le plÙ eminenti personalità dell'emigrazione polacca fu in questi anni in stretto rapporto con Garibaldi sebbene non mancassero le contestazioni alla sua politica provenienti dagli stessi patrioti polacchi",
       "vedi vol. VI"
     ],
     "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          293
+        ]
+      },
       {
         "volume": 6,
         "pages": [
@@ -46970,20 +46883,6 @@
       }
     ]
   },
-  "MIEROSLAWSKI, LUDWIK": {
-    "id": "mieroslawski-ludwik",
-    "descriptions": [
-      "(1814-1879), eminente personalità dell'emigrazione polacca in contatto con Garibaldi (cfr. vol. VI)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          293
-        ]
-      }
-    ]
-  },
   "MIGLIACCIO, VITO": {
     "id": "migliaccio-vito",
     "descriptions": [
@@ -46998,10 +46897,10 @@
       }
     ]
   },
-  "MIGLIAVACCA, FILIPPO (Affori 1830-Milazzo 1860)": {
+  "MIGLIAVACCA, FILIPPO": {
     "id": "migliavacca-filippo",
     "descriptions": [
-      "tenente dei C.d.A., capitano nell'IIa divisione dell'esercito italiano"
+      "(Affori 1830-Milazzo 1860) tenente dei C.d.A., capitano nell'IIa divisione dell'esercito italiano"
     ],
     "occurrences": [
       {
@@ -47029,10 +46928,10 @@
       }
     ]
   },
-  "MIGLIETTI, VINCENZO (Torino 1809-ivi 1864)": {
+  "MIGLIETTI, VINCENZO": {
     "id": "miglietti-vincenzo",
     "descriptions": [
-      "illustre giureconsulto, ministro di grazia e giustizia nel gabinetto Lamarmora"
+      "(Torino 1809-ivi 1864) illustre giureconsulto, ministro di grazia e giustizia nel gabinetto Lamarmora"
     ],
     "occurrences": [
       {
@@ -47058,13 +46957,33 @@
     ]
   },
   "MIGNOGNA, NICOLA": {
-    "id": "mignogna-nicola-2",
+    "id": "mignogna-nicola",
     "descriptions": [
+      "(Taranto 1808-Giugliano 1870) si unì ai Mille fino a Palermo ritornando poi in Piemonte ad organizzare i rinforzi. Organizzò l'insurrezione nelle Puglie ed in Basihcata e fu pro-dittatore di Potenza combattendo poi sul Volturno ( cfr vol. VI, VII)",
+      "(Taranto 1808-Gingliano 1871) mazziniano, tornò a Napoli nel 1860 con i Mille, per poi contribuire all'insurrezione delle Puglie e della Lucania, assumendo a Potenza la prodittatura in nome di Garibaldi. Negli anni seguenti fu esponente attivo della democrazia meridionale e consigliere comunale di Napoli, rinunziando alla candidatura a deputato",
       "partecipò alla spedizione di Aspromente col grado di ufficiale a disposizione presso il Quartier Generale e ricevendo poi l'incarico da Garibaldi di preparargli la strada nella Basilicata, vedi anche vol. VI",
       "(1808-1870), vedi voll. V, VI e VII",
       "(1808-1870), democratico legato a Mazzim, era consigliere comunale a Napoli (vedi anche i voli. V-VIII),"
     ],
     "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          39,
+          68,
+          192,
+          226,
+          227
+        ]
+      },
+            {
+        "volume": 6,
+        "pages": [
+          33,
+          113,
+          207
+        ]
+      },
       {
         "volume": 7,
         "pages": [
@@ -47085,40 +47004,6 @@
       }
     ]
   },
-  "MIGNOGNA, NICOLA (Taranto 1808-Giugliano 1870)": {
-    "id": "mignogna-nicola",
-    "descriptions": [
-      "si unì ai Mille fino a Palermo ritornando poi in Piemonte ad organizzare i rinforzi. Organizzò l'insurrezione nelle Puglie ed in Basihcata e fu pro-dittatore di Potenza combattendo poi sul Volturno ( cfr vol. VI, VII)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          39,
-          68,
-          192,
-          226,
-          227
-        ]
-      }
-    ]
-  },
-  "MIGNOGNA., NICOLA (Taranto 1808-Gingliano 1871)": {
-    "id": "mignogna.-nicola",
-    "descriptions": [
-      "mazziniano, tornò a Napoli nel 1860 con i Mille, per poi contribuire all'insurrezione delle Puglie e della Lucania, assumendo a Potenza la prodittatura in nome di Garibaldi. Negli anni seguenti fu esponente attivo della democrazia meridionale e consigliere comunale di Napoli, rinunziando alla candidatura a deputato"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          33,
-          113,
-          207
-        ]
-      }
-    ]
-  },
   "MILANETTI, LUIGI": {
     "id": "milanetti-luigi",
     "descriptions": [
@@ -47133,12 +47018,9 @@
       }
     ]
   },
-  "MILANI": {
+  "MILANI, MINO": {
     "id": "milani-anonimo",
-    "descriptions": [
-      "MINA",
-      "MINO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -47185,7 +47067,8 @@
   "MILBITZ IZENSMID, ALESSANDRO": {
     "id": "milbitz-alessandro",
     "descriptions": [
-      "comandante di divisione garibaldina"
+      "comandante di divisione garibaldina",
+      "comandante di una divisione garibaldma nel 1860"
     ],
     "occurrences": [
       {
@@ -47193,16 +47076,8 @@
         "pages": [
           172
         ]
-      }
-    ]
-  },
-  "MILBITZ lZENSMID, ALEXANDER": {
-    "id": "milbitz-alexander",
-    "descriptions": [
-      "comandante di una divisione garibaldma nel 1"
-    ],
-    "occurrences": [
-      {
+      },
+            {
         "volume": 13,
         "pages": [
           77
@@ -47224,11 +47099,9 @@
       }
     ]
   },
-  "MILESI": {
+  "MILESI, ANTONIO": {
     "id": "milesi-anonimo",
-    "descriptions": [
-      "ANTONIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -47253,11 +47126,9 @@
       }
     ]
   },
-  "MILISCI": {
+  "MILISCI, GHERARDO": {
     "id": "milisci-anonimo",
-    "descriptions": [
-      "GHERARDO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -47281,11 +47152,9 @@
       }
     ]
   },
-  "MILLANTA": {
+  "MILLANTA, CORRADO": {
     "id": "millanta-anonimo",
-    "descriptions": [
-      "CORRADO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -47329,10 +47198,10 @@
       }
     ]
   },
-  "MILLI, GIANNINA (Teramo 1827-Firenze 1888)": {
+  "MILLI, GIANNINA": {
     "id": "milli-giannina",
     "descriptions": [
-      "poetessa improvvisatrice, raccolse ampi successi in tutte le città italiane. Su proposta del De Sanctis, nel 1860, essendo Garibaldi dittatore in Napoli, fu decretata a suo favore una pensione. Tra il 1862 e il 1863 pubblicò due volumi di poesie, mentre aveva già dato alle stampe nel 1854 la raccolta intitolata Qual è il più bel pregio della donna"
+      "(Teramo 1827-Firenze 1888) poetessa improvvisatrice, raccolse ampi successi in tutte le città italiane. Su proposta del De Sanctis, nel 1860, essendo Garibaldi dittatore in Napoli, fu decretata a suo favore una pensione. Tra il 1862 e il 1863 pubblicò due volumi di poesie, mentre aveva già dato alle stampe nel 1854 la raccolta intitolata Qual è il più bel pregio della donna"
     ],
     "occurrences": [
       {
@@ -47343,10 +47212,10 @@
       }
     ]
   },
-  "MILZIADE, (540-489 circa a.C.)": {
-    "id": "milziade-(540-489",
+  "MILZIADE": {
+    "id": "milziade",
     "descriptions": [
-      "generale e uomo politico ateniese"
+      "(540-489 circa a.C.) generale e uomo politico ateniese"
     ],
     "occurrences": [
       {
@@ -47388,10 +47257,10 @@
       }
     ]
   },
-  "MINGHETTI, MARCO (Bologna 1818-ivi 1886)": {
+  "MINGHETTI, MARCO": {
     "id": "minghetti-marco",
     "descriptions": [
-      "segretario generale del ministero degli affari esteri nel governo Cavour"
+      "(Bologna 1818-ivi 1886) segretario generale del ministero degli affari esteri nel governo Cavour"
     ],
     "occurrences": [
       {
@@ -47434,11 +47303,9 @@
       }
     ]
   },
-  "MINICONI": {
+  "MINICONI, FRANCESCO": {
     "id": "miniconi-anonimo",
-    "descriptions": [
-      "FRANCESCO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -47448,11 +47315,9 @@
       }
     ]
   },
-  "MINICUCCI": {
+  "MINICUCCI, CESARE": {
     "id": "minicucci-anonimo",
-    "descriptions": [
-      "CESARE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -47526,10 +47391,10 @@
       }
     ]
   },
-  "MIRABELLI, personaggio non identificato": {
+  "MIRABELLI": {
     "id": "mirabelli-personaggio",
     "descriptions": [
-      "appare in contatto con G. Dolfi"
+      "personaggio non identificato, appare in contatto con G. Dolfi"
     ],
     "occurrences": [
       {
@@ -47540,11 +47405,9 @@
       }
     ]
   },
-  "MIRAGLIA": {
+  "MIRAGLIA, ROCCO": {
     "id": "miraglia-anonimo",
-    "descriptions": [
-      "ROCCO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -47554,10 +47417,10 @@
       }
     ]
   },
-  "MIRAGLIA, BIAGIO (Strongoli": {
+  "MIRAGLIA, BIAGIO": {
     "id": "miraglia-biagio",
     "descriptions": [
-      "Catanzaro 1823-Roma 1885), esule dopo il 1848, fu inviato a Napoli da Cavour per far sollevare la città prima dell'arrivo di Garibaldi. Fu poi prefetto"
+      "(Strongoli Catanzaro 1823-Roma 1885), esule dopo il 1848, fu inviato a Napoli da Cavour per far sollevare la città prima dell'arrivo di Garibaldi. Fu poi prefetto"
     ],
     "occurrences": [
       {
@@ -47599,7 +47462,9 @@
   "MISSORI, GIUSEPPE": {
     "id": "missori-giuseppe-2",
     "descriptions": [
+    "(Mosca 1829-Milano 1911) comandante delle guide di Garibaldi, lo salvò a Milazzo (cfr. voll. IV, VI)",
       "(1829-1911), messosi in luce tra le gUIde di Garibaldi nelle campagne del 1859-60, si ritirò poi a vita privata a Milano, sempre pronto però a scendere in campo al richiamo del suo generale",
+      "(Mosca 1824-Milano 1911) dei Mille, fu a capo delle Guide di Garibaldi, mettendosi in luce in molte circostanze per il suo valore. Partecipò alla spedizione di Aspromonte, ricevendo l'incarico, prima dello scontro tra i volontari e le truppe, di raccogliere gente in Calabria. Per questo sfuggì all'arresto e, sotto il falso nome di Esposito, raggiunse Napoli",
       "(1829-1911), vedi voll. V, VI e VII, 44, 126, 127'",
       "(1829-1911), conduce vita privata ma è anche tra coloro che visitano il Generale ad Ischia al tempo della crisi Guerzoni (vedi anche i voli. V-VIII)",
       "(1829-1911), esponente di spicco della Sinistra garibaldina. Inattaccabile nella sua devozione a Garibaldi, lo era però altrettanto nella sua fermezza di repubblicano, cosa che ne faceva uno dei garibaldini più sensibili ai richiami mazzianiani: per questo motivo nel 1865 rifiuta il posto in Parlamento attribuitogli dal voto degli elettori napoletani (vedi i voll. V-IX)",
@@ -47610,11 +47475,34 @@
     ],
     "occurrences": [
       {
+        "volume": 5,
+        "pages": [
+          204,
+          205,
+          210,
+          211,
+          212,
+          245,
+          253,
+          273,
+          316
+        ]
+      },
+      {
         "volume": 6,
         "pages": [
           31,
           193,
           276
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          111,
+          232,
+          274,
+          289
         ]
       },
       {
@@ -47668,45 +47556,6 @@
       }
     ]
   },
-  "MISSORI, GIUSEPPE (Mosca 1824-Milano 1911)": {
-    "id": "missori-giuseppe-3",
-    "descriptions": [
-      "dei Mille, fu a capo delle Guide di Garibaldi, mettendosi in luce in molte circostanze per il suo valore. Partecipò alla spedizione di Aspromonte, ricevendo l'incarico, prima dello scontro tra i volontari e le truppe, di raccogliere gente in Calabria. Per questo sfuggì all'arresto e, sotto il falso nome di Esposito, raggiunse Napoli"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          111,
-          232,
-          274,
-          289
-        ]
-      }
-    ]
-  },
-  "MISSORI, GIUSEPPE (Mosca 1829-Milano 1911)": {
-    "id": "missori-giuseppe",
-    "descriptions": [
-      "comandante delle guide di Garibaldi, lo salvò a Milazzo (cfr. voll. IV, VI)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          204,
-          205,
-          210,
-          211,
-          212,
-          245,
-          253,
-          273,
-          316
-        ]
-      }
-    ]
-  },
   "MISTRETTA, ALBERTO MARIA": {
     "id": "mistretta-alberto",
     "descriptions": [
@@ -47752,10 +47601,10 @@
       }
     ]
   },
-  "MITRE, SEBASTIANO (Buenos Aires 1824-ivi 1905)": {
+  "MITRE, SEBASTIANO": {
     "id": "mitre-sebastiano",
     "descriptions": [
-      "statista argentino, poi presidente della repubblica, traduttore di Dante, amico di Garibaldi, soprannominato Il Gladstone dell'Argentina"
+      "(Buenos Aires 1824-ivi 1905) statista argentino, poi presidente della repubblica, traduttore di Dante, amico di Garibaldi, soprannominato Il Gladstone dell'Argentina"
     ],
     "occurrences": [
       {
@@ -47767,10 +47616,10 @@
       }
     ]
   },
-  "MOCENNI, STANISLAO (Siena 1837-ivi 1907)": {
+  "MOCENNI, STANISLAO": {
     "id": "mocenni-stanislao",
     "descriptions": [
-      "sottotenente di fanteria nell'esercito toscano"
+      "(Siena 1837-ivi 1907) sottotenente di fanteria nell'esercito toscano"
     ],
     "occurrences": [
       {
@@ -47824,13 +47673,9 @@
       }
     ]
   },
-  "MOLA": {
+  "MOLA, ALDO ALESSANDRO": {
     "id": "mola-anonimo",
-    "descriptions": [
-      "ALDO ALESSANDRO",
-      "ALADO A.",
-      "ALDO A"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -47913,10 +47758,12 @@
       }
     ]
   },
-  "MOLINARI": {
-    "id": "molinari-anonimo",
+  "MOLINARI, ANDREA": {
+    "id": "molinari-andrea-2",
     "descriptions": [
-      "ANDREA"
+      "(Bergamo 1817-ivi 1899) avvocato, già molto impegnato nel 1848 per sollevare le popolazioni delle valli bergamasche, nel 1859 si trasferì a Milano ove raccolse fondi e volontari per la guerra e poi per la spedizione dei Mille attraverso l'Associazione Unitaria Italiana. Successivamente fu tra i principali esponenti dell'associazionismo democratico milanese, dirigente della Società del Tiro nazionale e dei Carabinieri milanesi. Fu anche presidente della provincia e ricoprì in vane occasioni cariche amministrative a Milano",
+      "(1817-1899), deputato dall'VIII all'XI legislatura, in questo periodo profuse il suo impegno politico nell'organizzazione del tiro a segno e a favore dell'emigrazione veneta, vedi vol. VII",
+      "(1817-1895), di origme bergamasca, dopo aver preso parte alla lotte del 1848 si era stabilito a Trieste da dove nel 1859 era stato costretto a riparare a Milano; avvocato, era stato in Parlamento nel corso dell'VIII e della IX legislatura in rappresentanza del collegio di Zogno (vedi anche il vol. VII)"
     ],
     "occurrences": [
       {
@@ -47924,16 +47771,15 @@
         "pages": [
           286
         ]
-      }
-    ]
-  },
-  "MOLINARI, ANDREA": {
-    "id": "molinari-andrea-2",
-    "descriptions": [
-      "(1817-1899), deputato dall'VIII all'XI legislatura, in questo periodo profuse il suo impegno politico nell'organizzazione del tiro a segno e a favore dell'emigrazione veneta, vedi vol. VII",
-      "(1817-1895), di origme bergamasca, dopo aver preso parte alla lotte del 1848 si era stabilito a Trieste da dove nel 1859 era stato costretto a riparare a Milano; avvocato, era stato in Parlamento nel corso dell'VIII e della IX legislatura in rappresentanza del collegio di Zogno (vedi anche il vol. VII)"
-    ],
-    "occurrences": [
+      },
+      {
+        "volume": 7,
+        "pages": [
+          29,
+          31,
+          125
+        ]
+      },
       {
         "volume": 8,
         "pages": [
@@ -47945,22 +47791,6 @@
         "pages": [
           158,
           301
-        ]
-      }
-    ]
-  },
-  "MOLINARI, ANDREA (Bergamo 1817-ivi 1899)": {
-    "id": "molinari-andrea",
-    "descriptions": [
-      "avvocato, già molto impegnato nel 1848 per sollevare le popolazioni delle valli bergamasche, nel 1859 si trasferì a Milano ove raccolse fondi e volontari per la guerra e poi per la spedizione dei Mille attraverso l'Associazione Unitaria Italiana. Successivamente fu tra i principali esponenti dell'associazionismo democratico milanese, dirigente della Società del Tiro nazionale e dei Carabinieri milanesi. Fu anche presidente della provincia e ricoprì in vane occasioni cariche amministrative a Milano"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          29,
-          31,
-          125
         ]
       }
     ]
@@ -47980,10 +47810,10 @@
       }
     ]
   },
-  "MOMRMAND": {
-    "id": "momrmand-anonimo",
+  "MORMAND, FELIX": {
+    "id": "mormand-felix",
     "descriptions": [
-      "FELIX"
+      "FELIX MORMAND, Garibaldi, Pans, A. Faure, 1866,"
     ],
     "occurrences": [
       {
@@ -48044,11 +47874,9 @@
       }
     ]
   },
-  "MONDINI": {
+  "MONDINI, LUIGI": {
     "id": "mondini-anonimo",
-    "descriptions": [
-      "LUIGI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -48058,10 +47886,10 @@
       }
     ]
   },
-  "MONNIER, MARC (Firenze 1829-Ginevra 1885)": {
+  "MONNIER, MARC": {
     "id": "monnier-marc",
     "descriptions": [
-      "visse lungamente a Napoli, (1855-64) e molto scrisse su questa città e sull'Italia"
+      "(Firenze 1829-Ginevra 1885) visse lungamente a Napoli, (1855-64) e molto scrisse su questa città e sull'Italia"
     ],
     "occurrences": [
       {
@@ -48072,10 +47900,10 @@
       }
     ]
   },
-  "MONROE, JAMES (1758-1831)": {
+  "MONROE, JAMES": {
     "id": "monroe-james",
     "descriptions": [
-      "due volte presidente degli Stati Uniti d'America, (1816-1824), nel 1823 enunziò la dottrina -che da lui prese il nome -in base alla quale ogni tentativo di conquista di parti del continente americano ad opera di una potenza europea sarebbe stato considerato un atto d'aggressione verso gli Stati Uniti"
+      "(1758-1831) due volte presidente degli Stati Uniti d'America, (1816-1824), nel 1823 enunziò la dottrina -che da lui prese il nome -in base alla quale ogni tentativo di conquista di parti del continente americano ad opera di una potenza europea sarebbe stato considerato un atto d'aggressione verso gli Stati Uniti"
     ],
     "occurrences": [
       {
@@ -48272,10 +48100,18 @@
   "MONTANARI, FRANCESCO": {
     "id": "montanari-francesco-3",
     "descriptions": [
+      "(Mirandola 1822-Calatafimi 1860) tenente e poi capitano dei C.d.A.",
       "(1822-1860) aiutante di Garibaldi nel 1859, mori a Calatafimi (vedi val. IV)",
       "(Mirandola 1822-Calatafimi 1860), colonnello dei Mille, vedi anche voll. IV e VI"
     ],
     "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          63,
+          158
+        ]
+      },
       {
         "volume": 6,
         "pages": [
@@ -48291,27 +48127,13 @@
       }
     ]
   },
-  "MONTANARI, FRANCESCO (Mirandola 1822-Calatafimi 1860)": {
-    "id": "montanari-francesco-2",
-    "descriptions": [
-      "tenente e poi capitano dei C.d.A."
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          63,
-          158
-        ]
-      }
-    ]
-  },
   "MONTANELLI, GIUSEPPE": {
     "id": "montanelli-giuseppe",
     "descriptions": [
       "(1813-1862), primo ministro del Granducato di Toscana, dopo la fuga di Leopoldo II rimase al governo come triumviro",
       "(1813-1862), uomo politico toscano (vedi vol. Il)",
-      "(1813-1862), già esule in Francia, votò la caduta dei Lorena, ma non intervenne a votare per l'annessione della Toscana al Piemonte (vedi vol. II)"
+      "(1813-1862), già esule in Francia, votò la caduta dei Lorena, ma non intervenne a votare per l'annessione della Toscana al Piemonte (vedi vol. II)",
+      "(Fucecchio 1813-ivi 1862) vedi voll. III e IV, Nel 1861 falli l'elezione a deputato del collegio di San Miniato"
     ],
     "occurrences": [
       {
@@ -48342,16 +48164,8 @@
           102,
           121
         ]
-      }
-    ]
-  },
-  "MONTANELLI, GIUSEPPE (Fucecchio 1813-ivi 1862)": {
-    "id": "montanelli-giuseppe-4",
-    "descriptions": [
-      "vedi voll. III e IV, Nel 1861 falli l'elezione a deputato del collegio di San Miniato"
-    ],
-    "occurrences": [
-      {
+      },
+            {
         "volume": 6,
         "pages": [
           88,
@@ -48360,11 +48174,9 @@
       }
     ]
   },
-  "MONTECCHI": {
+  "MONTECCHI, ETTORE": {
     "id": "montecchi-anonimo",
-    "descriptions": [
-      "ETTORE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -48388,24 +48200,11 @@
       }
     ]
   },
-  "MONTECCHI, MATIA": {
-    "id": "montecchi-matia",
-    "descriptions": [
-      "(1816-1871), democratico romano, assai attivo prima del 1848, nel 1849 era stato triunviro della Repubblica romana; prima mazziniano, poi esponente della Sinistra moderata, durante l'VIII legislatura aveva rappresentato in Parlamento il collegio di Poggio Mirteto; per la X legislatura sarà eletto a Terni"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          298
-        ]
-      }
-    ]
-  },
   "MONTECCHI, MATTIA": {
     "id": "montecchi-mattia",
     "descriptions": [
       "(1816-1871), già tra i dirgenti della repubblica romana, si avvicmò alla Società Nazionale",
+      "(1816-1871), democratico romano, assai attivo prima del 1848, nel 1849 era stato triunviro della Repubblica romana; prima mazziniano, poi esponente della Sinistra moderata, durante l'VIII legislatura aveva rappresentato in Parlamento il collegio di Poggio Mirteto; per la X legislatura sarà eletto a Terni",
       "(1816-187i), deputato, componente del Centro dell'emigrazione romana"
     ],
     "occurrences": [
@@ -48413,6 +48212,12 @@
         "volume": 4,
         "pages": [
           117
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          298
         ]
       },
       {
@@ -48424,11 +48229,9 @@
       }
     ]
   },
-  "MONTEGGIA DE SIMONI": {
+  "MONTEGGIA DE SIMONI, ADELE": {
     "id": "monteggia-anonimo",
-    "descriptions": [
-      "ADELE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -48469,7 +48272,8 @@
   "MONTENEGRO, NICCOLÒ": {
     "id": "montenegro-niccolò",
     "descriptions": [
-      "(1839-1879), pugliese, esule a 18 anni, fu volontario con Garibaldi nel 1860 e nel 1866; traduttore in italiano delle Révolutions d'Italie di Edgar Quinet"
+      "(1839-1879), pugliese, esule a 18 anni, fu volontario con Garibaldi nel 1860 e nel 1866; traduttore in italiano delle Révolutions d'Italie di Edgar Quinet",
+      "(1839-1879) volontario con Garibaldi nel 1860 e nel 1866"
     ],
     "occurrences": [
       {
@@ -48477,15 +48281,7 @@
         "pages": [
           111
         ]
-      }
-    ]
-  },
-  "MONTENEGRO, NICCOLÒ (1839-1879)": {
-    "id": "montenegro-niccolò-2",
-    "descriptions": [
-      "volontario con Garibaldi nel 1860 e nel 1"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 13,
         "pages": [
@@ -48496,11 +48292,36 @@
   },
   "MONTI": {
     "id": "monti-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          221
+        ]
+      }
+    ]
+  },
+  "MONTI, ALESSANDRO": {
+    "id": "monti-alessandro",
     "descriptions": [
-      "ANTONIO",
-      "SANTO",
-      "VALENTINO",
-      "ANOTNIO"
+      "(1818-1854), bresciano, tenente colonnello, nel 1848 combatté nella divisione lombarda operante nel Trentino"
+    ],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          30
+        ]
+      }
+    ]
+  },
+  "MONTI, ANTONIO": {
+    "id": "monti-antonio",
+    "descriptions": [
+    "ALFREDO COMANDINI-ANTONIO MONTI, L'Italia nei cento anni del secolo XIX giorno per giorno illustrata, vol. IV (1861-1870),Milano, Vallardi, 1918.",
+    "ANTONIO MONTI, La vita di Garibaldi giorno per giorno narrata e illustrata, Milano, Vallardi, 1932.",
+    "ANTONIO MONTI, Figure e caratteri del Risorgimento, Torino, Paravia, 1939."
     ],
     "occurrences": [
       {
@@ -48508,19 +48329,6 @@
         "pages": [
           33,
           197
-        ]
-      },
-      {
-        "volume": 2,
-        "pages": [
-          11
-        ]
-      },
-      {
-        "volume": 2,
-        "pages": [
-          105,
-          106
         ]
       },
       {
@@ -48599,20 +48407,6 @@
       }
     ]
   },
-  "MONTI, ALESSANDRO": {
-    "id": "monti-alessandro",
-    "descriptions": [
-      "(1818-1854), bresciano, tenente colonnello, nel 1848 combatté nella divisione lombarda operante nel Trentino"
-    ],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          30
-        ]
-      }
-    ]
-  },
   "MONTI, GIUSEPPE": {
     "id": "monti-giuseppe",
     "descriptions": [
@@ -48625,6 +48419,31 @@
           122,
           124,
           141
+        ]
+      }
+    ]
+  },
+    "MONTI, SANTO": {
+    "id": "monti-santo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          11
+        ]
+      }
+    ]
+  },
+  "MONTI, VALENTINO": {
+    "id": "monti-valentino",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          105,
+          106
         ]
       }
     ]
@@ -48671,11 +48490,9 @@
       }
     ]
   },
-  "MONZANI": {
+  "MONZANI, FELICIANO": {
     "id": "monzani-anonimo",
-    "descriptions": [
-      "FELICIANO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -48699,11 +48516,9 @@
       }
     ]
   },
-  "MORABITO": {
+  "MORABITO, LEO": {
     "id": "morabito-anonimo",
-    "descriptions": [
-      "LEO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -48727,11 +48542,9 @@
       }
     ]
   },
-  "MORANDI": {
+  "MORANDI, ANTONIO": {
     "id": "morandi-anonimo",
-    "descriptions": [
-      "ANTONIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -48755,11 +48568,9 @@
       }
     ]
   },
-  "MORANDO": {
+  "MORANDO, F. ERNESTO": {
     "id": "morando-anonimo",
-    "descriptions": [
-      "F. ERNESTO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -48770,37 +48581,12 @@
       }
     ]
   },
-  "MORDINI": {
-    "id": "mordini-anonimo",
-    "descriptions": [
-      "LEONARDO"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          46,
-          141
-        ]
-      },
-      {
-        "volume": 7,
-        "pages": [
-          18,
-          199
-        ]
-      },
-      {
-        "volume": 13,
-        "pages": [
-          294
-        ]
-      }
-    ]
-  },
   "MORDINI, ANTONIO": {
-    "id": "mordini-antonio-4",
+    "id": "mordini-antonio",
     "descriptions": [
+      "(Barga 1819-Montecatmi 1902) di famiglia agiata e nobile, già mazziniano, perorò l'annessione della Toscana al Piemonte",
+      "(Barga 1819-Montecatini in Valdinievole 1902) in giugno raggiunse Garibaldi in Sicilia e in settembre successe a Depretis come prodittatore dell'isola (cfr. voll. IV, VI)",
+      "prodittatore in Sicilia dal settembre al dicembre del 1860, fu poi deputato di Palermo e di Lucca, sedendo alla sinistra tra la pattuglia di deputati ganbaldini, anche se ne rappresentò la componente più moderata",
       "(1819-1892), esponente di rilievo della sinistra parlamentare presente in tutte le miziative politiche, fu inviato in delegazione con Fabrizi, Calvino e Cadolini presso Garibaldi in Sicilia",
       "(1819-1892), fu in questo anno assai vicino alle iniziative politiche del Generale, a cominciare dalla missione, poi fallita, di inviarlo per contatti politici in Inghilterra, vedi voli. IV, V, VI, E VII",
       "(1819-1902), in questo periodo preme per la definitiva istituzionalizzazione del movimento garibaldino e sconsiglia a Garibaldi ogni tentativo nei Balcani (vedi anche i voli. IV-VIII), 7, 26, 56, 71, 74, 84, 92, 105, 113, 117, 133, 155, 217'",
@@ -48809,6 +48595,30 @@
       "(1819-1892), deputato"
     ],
     "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          102
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          262,
+          266,
+          272,
+          276,
+          280,
+          324
+        ]
+      },
+            {
+        "volume": 6,
+        "pages": [
+          253,
+          266
+        ]
+      },
       {
         "volume": 7,
         "pages": [
@@ -48882,50 +48692,28 @@
       }
     ]
   },
-  "MORDINI, ANTONIO (Barga 1819-Montecatini 1892)": {
-    "id": "mordini-antonio-3",
-    "descriptions": [
-      "prodittatore in Sicilia dal settembre al dicembre del 1860, fu poi deputato di Palermo e di Lucca, sedendo alla sinistra tra la pattuglia di deputati ganbaldini, anche se ne rappresentò la componente più moderata"
-    ],
+    "MORDINI, LEONARDO": {
+    "id": "mordini-leonardo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
         "pages": [
-          253,
-          266
+          46,
+          141
         ]
-      }
-    ]
-  },
-  "MORDINI, ANTONIO (Barga 1819-Montecatini in Valdinievole 1902)": {
-    "id": "mordini-antonio-2",
-    "descriptions": [
-      "in giugno raggiunse Garibaldi in Sicilia e in settembre successe a Depretis come prodittatore dell'isola (cfr. voll. IV, VI)"
-    ],
-    "occurrences": [
+      },
       {
-        "volume": 5,
+        "volume": 7,
         "pages": [
-          262,
-          266,
-          272,
-          276,
-          280,
-          324
+          18,
+          199
         ]
-      }
-    ]
-  },
-  "MORDINI, ANTONIO (Barga 1819-Montecatmi 1902)": {
-    "id": "mordini-antonio",
-    "descriptions": [
-      "di famiglia agiata e nobile, già mazziniano, perorò l'annessione della Toscana al Piemonte"
-    ],
-    "occurrences": [
+      },
       {
-        "volume": 4,
+        "volume": 13,
         "pages": [
-          102
+          294
         ]
       }
     ]
@@ -67695,11 +67483,32 @@
     ],
     "occurrences": [
       {
+        "volume": 4,
+        "pages": [
+          32,
+          36,
+          150,
+          151,
+          152,
+          153,
+          155,
+          177,
+          183
+        ]
+      },
+      {
         "volume": 6,
         "pages": [
+          157,
           164,
           176,
           208
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          57
         ]
       },
       {

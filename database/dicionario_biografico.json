@@ -48735,9 +48735,7 @@
   "MORELLI": {
     "id": "morelli-anonimo",
     "descriptions": [
-      "soldato 1a Leg. It.",
-      "EMILIA",
-      "PAOLO"
+      "soldato 1a Leg. It."
     ],
     "occurrences": [
       {
@@ -48745,7 +48743,25 @@
         "pages": [
           97
         ]
-      },
+      }
+    ]
+  },
+  "MORELLI, PAOLO": {
+    "id": "morelli-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          180
+        ]
+      }
+    ]
+  },
+  "MORELLI, EMILIA": {
+    "id": "morelli-anonimo",
+    "descriptions": [],
+    "occurrences": [
       {
         "volume": 2,
         "pages": [
@@ -48764,12 +48780,6 @@
         "pages": [
           98,
           169
-        ]
-      },
-      {
-        "volume": 5,
-        "pages": [
-          180
         ]
       },
       {
@@ -48792,24 +48802,11 @@
       }
     ]
   },
-  "MORELLI, DONATO (Ragliano 1824-ivi 1902) di famiglia cospicua era stato uno dei capi dell'insurrezione calabrese del 1847. In seguito fu tra quanti lavorarono per il passaggio di Garibaldi in Calabria nel 1860": {
-    "id": "morelli-donato-2",
-    "descriptions": [
-      "divenendo poi governatore di Cosenza. Deputato del collegio cosentino per molte legislature, ma sempre schierato su posizioni moderate"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          165
-        ]
-      }
-    ]
-  },
-  "MORELLI, DONATO (Rogliano": {
+  "MORELLI, DONATO": {
     "id": "morelli-donato",
     "descriptions": [
-      "Cosenza-ivi 1902), di famiglia agiata prese parte ai moti del 1848 e fu costretto ad espatriare. Contribuì a suscitare la rivoluzione nelle Calabrie"
+      "(Rogliano Cosenza-ivi 1902), di famiglia agiata prese parte ai moti del 1848 e fu costretto ad espatriare. Contribuì a suscitare la rivoluzione nelle Calabrie",
+      "(Ragliano 1824-ivi 1902) di famiglia cospicua era stato uno dei capi dell'insurrezione calabrese del 1847. In seguito fu tra quanti lavorarono per il passaggio di Garibaldi in Calabria nel 1860 divenendo poi governatore di Cosenza. Deputato del collegio cosentino per molte legislature, ma sempre schierato su posizioni moderate"
     ],
     "occurrences": [
       {
@@ -48818,6 +48815,12 @@
           219,
           225,
           227
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          165
         ]
       }
     ]
@@ -48867,10 +48870,10 @@
       }
     ]
   },
-  "MORELLI, VINCENZO (Rogliano 1822-Napoli 1871)": {
+  "MORELLI, VINCENZO": {
     "id": "morelli-vincenzo",
     "descriptions": [
-      "fratello di Donato, già condannato a morte, fu in carcere dal 1848 al 1859, contribuì a suscitare ia rivoluzione nelle Calabrie"
+      "(Rogliano 1822-Napoli 1871) fratello di Donato, già condannato a morte, fu in carcere dal 1848 al 1859, contribuì a suscitare ia rivoluzione nelle Calabrie"
     ],
     "occurrences": [
       {
@@ -48882,11 +48885,9 @@
       }
     ]
   },
-  "MORENI": {
-    "id": "moreni-anonimo",
-    "descriptions": [
-      "EUGENIO"
-    ],
+  "MORENI, EUGENIO": {
+    "id": "moreni-eugenio",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -48899,10 +48900,10 @@
       }
     ]
   },
-  "MORENO, colonnello argentino": {
+  "MORENO": {
     "id": "moreno-colonnello",
     "descriptions": [
-      "non meglio identificato"
+      "colonnello argentino non meglio identificato"
     ],
     "occurrences": [
       {
@@ -48913,10 +48914,10 @@
       }
     ]
   },
-  "MORI": {
-    "id": "mori-anonimo",
+  "MORI, ATTILIO": {
+    "id": "mori-attilio",
     "descriptions": [
-      "ATTILIO"
+      "ingegnere patriota di Gazzuolo, Mantova, condannato a morte per la congiura di Belfiore, fu liberato già nel 1856; suo figlio Temistocle fu ucciso nell'imboscata di Isernia (cfr. vol. IV)"
     ],
     "occurrences": [
       {
@@ -48924,15 +48925,7 @@
         "pages": [
           144
         ]
-      }
-    ]
-  },
-  "MORI, ATTILIO": {
-    "id": "mori-attilio",
-    "descriptions": [
-      "ingegnere patriota di Gazzuolo, Mantova, condannato a morte per la congiura di Belfiore, fu liberato già nel 1856; suo figlio Temistocle fu ucciso nell'imboscata di Isernia (cfr. vol. IV)"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 5,
         "pages": [
@@ -49015,10 +49008,10 @@
       }
     ]
   },
-  "MORNY, CHARLES duca di": {
+  "MORNY, CHARLES": {
     "id": "morny-charles",
     "descriptions": [
-      "(1811-1865) uomo politico francese, fu tra i protagonisti del colpo di stato del dicembre 1851 ed in seguito presidente del Corpo legislativo"
+      "duca di (1811-1865) uomo politico francese, fu tra i protagonisti del colpo di stato del dicembre 1851 ed in seguito presidente del Corpo legislativo"
     ],
     "occurrences": [
       {
@@ -49029,10 +49022,10 @@
       }
     ]
   },
-  "MORO": {
-    "id": "moro-anonimo",
+  "MORO, GIOVANNI": {
+    "id": "moro-giovanni",
     "descriptions": [
-      "GIOVANNI"
+      "avvocato, esponente dell'emigrazione veneta, nel 1862 fu fra i promotori di una società di mutuo soccorso tra emigrati politici"
     ],
     "occurrences": [
       {
@@ -49041,15 +49034,7 @@
           233,
           234
         ]
-      }
-    ]
-  },
-  "MORO, GIOVANNI": {
-    "id": "moro-giovanni",
-    "descriptions": [
-      "avvocato, esponente dell'emigrazione veneta, nel 1862 fu fra i promotori di una società di mutuo soccorso tra emigrati politici"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 7,
         "pages": [
@@ -49072,11 +49057,9 @@
       }
     ]
   },
-  "MORONTI": {
+  "MORONTI, BERNARDINO": {
     "id": "moronti-anonimo",
-    "descriptions": [
-      "BERARDINO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -49086,11 +49069,9 @@
       }
     ]
   },
-  "MOROSINI": {
+  "MOROSINI, GIOVANNI": {
     "id": "morosini-anonimo",
-    "descriptions": [
-      "GIOVANNI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -49114,10 +49095,10 @@
       }
     ]
   },
-  "MOROZZO DELLA ROCCA, ENRICO (Torino 1807-ivi 1897)": {
+  "MOROZZO DELLA ROCCA, ENRICO": {
     "id": "morozzo-enrico",
     "descriptions": [
-      "di antica nobiltà feudale, capo di S.M. del Re Vittorio Emanuele II, Collare dell'Annunziata"
+      "(Torino 1807-ivi 1897) di antica nobiltà feudale, capo di S.M. del Re Vittorio Emanuele II, Collare dell'Annunziata"
     ],
     "occurrences": [
       {
@@ -49131,11 +49112,18 @@
     ]
   },
   "MORRO, GIUSEPPE": {
-    "id": "morro-giuseppe-2",
+    "id": "morro-giuseppe",
     "descriptions": [
+      "(Genova 1806-ivi 1875), sindaco di Genova più volte",
       "(1806-1875), dipendente del Comune di Genova, negli anni '40 e '50 era stato figura di primo piano della democrazia e della vita culturale della sua città (vedi anche il vol. IV)"
     ],
     "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          199
+        ]
+      },
       {
         "volume": 11,
         "pages": [
@@ -49144,23 +49132,11 @@
       }
     ]
   },
-  "MORRO, GIUSEPPE (Genova": {
-    "id": "morro-giuseppe",
-    "descriptions": [
-      "1806-ivi 1875), sindaco di Genova più volte"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          199
-        ]
-      }
-    ]
-  },
   "MOSTO, ANTONIO": {
     "id": "mosto-antonio-3",
     "descriptions": [
+      "(Genova 1824-ivi 1890) mazziniano, comandante dei carabinieri genovesi",
+      "(Genova 1824-ivi 1890) promotore dei carabinieri genovesi, si distuise nella campagna del 1860. Fu membro del Comitato Centrale di Provvedimento di Genova e della Commissione Esecutiva della Società Emancipatrice, rappresentandovi però la componente mazziniana",
       "(1824-1898), da Genova fu uno dei principali coordinatori dei volontari e dei soccorsi da spedirsi a Garibaldi in Sicilia, mentre come membro dell'esecutivo dell'Emancipatrice, svolse in questo periodo un ruolo politico centrale, vedi anche vol. VI",
       "(1824-1890), vedi voli. 30, 31, 44, 117, 129,",
       "(1824-1890), maggiore, durante la campagna del 1866 ha il comando del 1° battaglione bersaglieri genovesi del C.V.I. (vedi anche i voll. V-VIII)",
@@ -49168,6 +49144,22 @@
       "(1824-1890), maggiore"
     ],
     "occurrences": [
+            {
+        "volume": 5,
+        "pages": [
+          89,
+          121
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          30,
+          35,
+          89,
+          127
+        ]
+      },
       {
         "volume": 7,
         "pages": [
@@ -49204,31 +49196,6 @@
       }
     ]
   },
-  "MOSTO, ANTONIO (Genova 1824-ivi 1890)": {
-    "id": "mosto-antonio",
-    "descriptions": [
-      "mazziniano, comandante dei carabinieri genovesi",
-      "promotore dei carabinieri genovesi, si distuise nella campagna del 1860. Fu membro del Comitato Centrale di Provvedimento di Genova e della Commissione Esecutiva della Società Emancipatrice, rappresentandovi però la componente mazziniana"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          89,
-          121
-        ]
-      },
-      {
-        "volume": 6,
-        "pages": [
-          30,
-          35,
-          89,
-          127
-        ]
-      }
-    ]
-  },
   "MOTRUF, DE": {
     "id": "motruf-de",
     "descriptions": [
@@ -49243,11 +49210,9 @@
       }
     ]
   },
-  "MOTRUF, EMILIE": {
+  "MOTRUF, EMILIE DE": {
     "id": "motruf-emilie",
-    "descriptions": [
-      "DE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 13,
@@ -49292,10 +49257,10 @@
       }
     ]
   },
-  "MOZZETTI, commissario di guerra della colonna Salomone nella campagria dell'Agro romano": {
+  "MOZZETTI": {
     "id": "mozzetti-commissario",
     "descriptions": [
-      "."
+      "commissario di guerra della colonna Salomone nella campagria dell'Agro romano."
     ],
     "occurrences": [
       {
@@ -49321,11 +49286,9 @@
       }
     ]
   },
-  "MULINACCI": {
+  "MULINACCI, MINO": {
     "id": "mulinacci-anonimo",
-    "descriptions": [
-      "MINO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 10,
@@ -49335,11 +49298,9 @@
       }
     ]
   },
-  "MULÉ BERTOLO": {
+  "MULÉ BERTOLO, LILLI": {
     "id": "mulé-anonimo",
-    "descriptions": [
-      "LILLI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 10,
@@ -49359,20 +49320,6 @@
         "volume": 8,
         "pages": [
           160
-        ]
-      }
-    ]
-  },
-  "MUNDELL": {
-    "id": "mundell-anonimo",
-    "descriptions": [
-      "JOSÉ (vedi vol. I)"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          37
         ]
       }
     ]
@@ -49407,10 +49354,16 @@
           217,
           218
         ]
+      },
+            {
+        "volume": 3,
+        "pages": [
+          37
+        ]
       }
     ]
   },
-  "MUNDY, SIR RonNEY": {
+  "MUNDY, SIR RONNEY": {
     "id": "mundy-sir",
     "descriptions": [
       "(1805-1884), vice-ammiraglio, comandante in seconda della flotta britannica del Mediterraneo, a bordo della sua nave ammiraglia, la Hannibal, si svolsero le trattative per l'armistizio e la capitolazione delle forze borboniche a Palermo"
@@ -49439,11 +49392,11 @@
       }
     ]
   },
-  "MURAT, GIOACCHINO (1771-1815)": {
+  "MURAT, GIOACCHINO": {
     "id": "murat-gioacchino",
     "descriptions": [
       "(1771-1815) re di Napoli dal 1808 al 1815",
-      "re di Napoli dal 1808, mori a Pizzo Calabro in uno sfortunato tentativo di riconquistare il suo regno"
+      "(1771-1815) re di Napoli dal 1808, mori a Pizzo Calabro in uno sfortunato tentativo di riconquistare il suo regno"
     ],
     "occurrences": [
       {
@@ -49475,40 +49428,11 @@
       }
     ]
   },
-  "MUSOLINO": {
-    "id": "musolino-anonimo",
-    "descriptions": [
-      "BENEDETTO"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          205,
-          206,
-          211
-        ]
-      }
-    ]
-  },
   "MUSOLINO, BENEDETTO": {
     "id": "musolino-benedetto-2",
     "descriptions": [
-      "(1809-1885), colonnello brigadiere nell'E.M., ebbe il riconoscimento del grado nell'esercito regolare, ma ritiratosi dalla carnera militare entrò in Parlamento ove sedette dal 1861 al 1"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          288
-        ]
-      }
-    ]
-  },
-  "MUSOLINO, BENEDETTO (Pizzo di Calabria 1809-ivi 1885)": {
-    "id": "musolino-benedetto",
-    "descriptions": [
-      "repubbhcano ma in polemica con Mazzini, fu deputato al parlamento napoletano nel 1848. Esule a Londra e Parigi, ebbe 11 grado di colonnello brigadiere nell'E.M. (cfr. vol. VI)"
+      "(Pizzo di Calabria 1809-ivi 1885) repubbhcano ma in polemica con Mazzini, fu deputato al parlamento napoletano nel 1848. Esule a Londra e Parigi, ebbe 11 grado di colonnello brigadiere nell'E.M. (cfr. vol. VI)",
+      "(1809-1885), colonnello brigadiere nell'E.M., ebbe il riconoscimento del grado nell'esercito regolare, ma ritiratosi dalla carnera militare entrò in Parlamento ove sedette dal 1861 al 1880"
     ],
     "occurrences": [
       {
@@ -49519,6 +49443,12 @@
           206,
           211,
           212
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          288
         ]
       }
     ]
@@ -49573,7 +49503,7 @@
       }
     ]
   },
-  "MuLLER, TEODORINA": {
+  "MULLER, TEODORINA": {
     "id": "muller-teodorina",
     "descriptions": [
       "amica napoletana di Garibaldi"
@@ -49588,11 +49518,9 @@
       }
     ]
   },
-  "NAGY": {
+  "NAGY, CHARLES": {
     "id": "nagy-anonimo",
-    "descriptions": [
-      "CHARLES"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -49644,11 +49572,9 @@
       }
     ]
   },
-  "NANE": {
+  "NANE, ANDREA": {
     "id": "nane-anonimo",
-    "descriptions": [
-      "ANDREA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -49701,10 +49627,10 @@
       }
     ]
   },
-  "NAPOLEON, marinaio uruguaiano": {
+  "NAPOLEON": {
     "id": "napoleon-marinaio",
     "descriptions": [
-      "indiziato di un delitto"
+      "marinaio uruguaiano, indiziato di un delitto"
     ],
     "occurrences": [
       {
@@ -49715,10 +49641,10 @@
       }
     ]
   },
-  "NAPOLEONE I (1769-1821)": {
+  "NAPOLEONE I": {
     "id": "napoleone-anonimo-2",
     "descriptions": [
-      "imperatore dei francesi"
+      "(1769-1821) imperatore dei francesi"
     ],
     "occurrences": [
       {
@@ -49733,9 +49659,41 @@
   "NAPOLEONE III": {
     "id": "napoleone-anonimo",
     "descriptions": [
-      "imperatore dei francesi dal 1852 al 1"
+      "(1808-1872) il Imperatore dei Francesi, (1852-1870)",
+      "(Parigi 1809-Chiselhurst 1873), il Imperatore dei francesi dal 1852, non si oppose all'invasione delle Marche e dell'Umbria",
+      "imperatore dei francesi dal 1852 al 1870",
+      "Imperatore dei Francesi (1852-1870) nato Luigi Bonaparte",
+      "imperatore dei francesi (1852-1870)",
+      "(1809-1873), al potere dal 1848 come presidente della repubblica, imperatore dal 1852 al 1870 (vedi anche i voli. V e VI)",
+      "(1809-1873), principale punto di rrferimento della politica estera italiana (vedi i voli. V-IX)",
+      "(1809-1873) imperatore dei Francesi, al termine della guerra ottiene dall'Austria la cessione del Veneto per consegnarlo all'Italia",
+      "(1809-1873) imperatore dei francesidal 1852 al 1870",
+      "(1809-1873) imperatore dei francesi dal 1852 al 1870",
+      "(1809-1873) imperatore dei francesi fino al 2 settembre 1870"
     ],
     "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          55,
+          107,
+          108
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          26,
+          61,
+          62,
+          131,
+          140,
+          230,
+          298,
+          299,
+          300
+        ]
+      },
       {
         "volume": 6,
         "pages": [
@@ -49744,16 +49702,64 @@
           95,
           283
         ]
-      }
-    ]
-  },
-  "NAPOLEONE III (1809-1873)": {
-    "id": "napoleone-anonimo-3",
-    "descriptions": [
-      "imperatore dei francesi dal 1852 al 1",
-      "imperatore dei francesi fino al 2 settembre 1"
-    ],
-    "occurrences": [
+      },
+      {
+        "volume": 7,
+        "pages": [
+          201,
+          202,
+          308,
+          309
+        ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          109,
+          135
+        ]
+      },
+      {
+        "volume": 9,
+        "pages": [
+          14,
+          33,
+          124,
+          144,
+          154,
+          156,
+          157,
+          161,
+          201
+        ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          181,
+          183
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          242,
+          271
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          120, 
+          139, 
+          141, 
+          149, 
+          158,
+          239,
+          244,
+          262
+        ]
+      },
       {
         "volume": 13,
         "pages": [
@@ -49810,130 +49816,6 @@
           190,
           224,
           236
-        ]
-      }
-    ]
-  },
-  "NAPOLEONE III (Parigi 1809-Chiselhurst 1873), il Imperatore dei francesi dal 1852": {
-    "id": "napoleone-il",
-    "descriptions": [
-      "non si oppose all'invasione delle Marche e dell'Umbria"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          26,
-          61,
-          62,
-          131,
-          140,
-          230,
-          298,
-          299,
-          300
-        ]
-      }
-    ]
-  },
-  "NAPOLEONE III, (1808-1872)": {
-    "id": "napoleone-(1808-1872)",
-    "descriptions": [
-      "il Imperatore dei Francesi, (1852-1870)"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          55,
-          107,
-          108
-        ]
-      }
-    ]
-  },
-  "NAPOLEONE III, (1809-1873)": {
-    "id": "napoleone-(1809-1873)",
-    "descriptions": [
-      "imperatore dei Francesi, al termine della guerra ottiene dall'Austria la cessione del Veneto per consegnarlo all'Italia",
-      "imperatore dei francesidal 1852 al 1870, 120, 139; 141, 149, 158;"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          242,
-          271
-        ]
-      },
-      {
-        "volume": 12,
-        "pages": [
-          239,
-          244,
-          262
-        ]
-      }
-    ]
-  },
-  "NAPOLEONE III, Imperatore dei Francesi": {
-    "id": "napoleone-imperatore",
-    "descriptions": [
-      "(1852-1870) nato Luigi Bonaparte"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          201,
-          202,
-          308,
-          309
-        ]
-      }
-    ]
-  },
-  "NAPOLEONE III, imperatore dei Francesi": {
-    "id": "napoleone-imperatore-3",
-    "descriptions": [
-      "(1809-1873), al potere dal 1848 come presidente della repubblica, imperatore dal 1852 al 1870 (vedi anche i voli. V e VI)",
-      "(1809-1873), principale punto di rrferimento della politica estera italiana (vedi i voli. V-IX)"
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          14,
-          33,
-          124,
-          144,
-          154,
-          156,
-          157,
-          161,
-          201
-        ]
-      },
-      {
-        "volume": 10,
-        "pages": [
-          181,
-          183
-        ]
-      }
-    ]
-  },
-  "NAPOLEONE III, imperatore dei francesi": {
-    "id": "napoleone-imperatore-2",
-    "descriptions": [
-      "(1852-1870)"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          109,
-          135
         ]
       }
     ]

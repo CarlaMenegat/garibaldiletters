@@ -11075,11 +11075,9 @@
       }
     ]
   },
-  "BURATTI": {
-    "id": "buratti-anonimo",
-    "descriptions": [
-      "GUSTAVO"
-    ],
+  "BURATTI, GUSTAVO": {
+    "id": "buratti-GUSTAVO",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -64052,7 +64050,7 @@
       }
     ]
   },
-  "SACCARELLo, N.": {
+  "SACCARELLO, N.": {
     "id": "saccarello-n.",
     "descriptions": [
       "disertò dalla Legione nel gingno del 1844, ma di li a poco tornò al suo reparto"
@@ -64066,7 +64064,7 @@
       }
     ]
   },
-  "SACCARELLo, STEFANO": {
+  "SACCARELLO, STEFANO": {
     "id": "saccarello-stefano",
     "descriptions": [
       "detto Il maggiore, tenente della 3a Compagnia della L.I M., risulta in servizio nella Batteria nella spedizione sul Rio Uruguay. Non partecipò, pertanto, alla battaglia di Sant'Antonio"
@@ -64125,10 +64123,33 @@
   "SACCHI, ACHILLE": {
     "id": "sacchi-achille-3",
     "descriptions": [
+      "(Mantova 1827-ivi 1890) medico, partecipò alla fase finale dell'impresa di Garibaldi",
+      "(Mantova 1827-ivi 1890) medico e combattente, dopo il 1860 fu membro autorevole del Comitato Centrale di Provvedimento di Genova In relazione con Mazzini, non fu sempre d'accordo con Garibaldi e col suo uomo di fiducia nel Comitato, il Bellazzi",
       "(1827-1890), medico mantovano coinvolto nella vicenda dei martiri di Belfiore",
       "(1827-1890), medico mantovano comvolto nella vicenda dei martin di Belfiore"
     ],
     "occurrences": [
+            {
+        "volume": 5,
+        "pages": [
+          315
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          10,
+          35,
+          49,
+          89,
+          127,
+          128,
+          144,
+          148,
+          165,
+          166
+        ]
+      },
       {
         "volume": 12,
         "pages": [
@@ -64139,35 +64160,6 @@
         "volume": 13,
         "pages": [
           73
-        ]
-      }
-    ]
-  },
-  "SACCHI, ACHILLE (Mantova 1827-ivi 1890)": {
-    "id": "sacchi-achille",
-    "descriptions": [
-      "medico, partecipò alla fase finale dell'impresa di Garibaldi",
-      "medico e combattente, dopo il 1860 fu membro autorevole del Comitato Centrale di Provvedimento di Genova In relazione con Mazzini, non fu sempre d'accordo con Garibaldi e col suo uomo di fiducia nel Comitato, il Bellazzi,10"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          315
-        ]
-      },
-      {
-        "volume": 6,
-        "pages": [
-          35,
-          49,
-          89,
-          127,
-          128,
-          144,
-          148,
-          165,
-          166
         ]
       }
     ]
@@ -64247,10 +64239,15 @@
     "id": "sacchi-gaetano",
     "descriptions": [
       "(1824-1886), combattè a Sant'Antonio da tenente della L.l.M.; ritornò in Italia con Garibaldi",
+      "(1824-1886) ufficiale 1a Leg. It. capitano aiutante di campo, poi colonnello comandante la Legione. Si distinse a Palestrina. Accompagnò Garibaldi nella ritirata da Roma",
       "(1824-1886), già tenente della Legione italiana (vedi voll. I e II)",
+      "(Pavia 1824-ivi 1886) maggiore dei C.d.A., poi comandante a Modena del IV rgt. di linea",
+      "(Pavia 1824-Roma 1886) comandò in luglio la quarta spedizione di volontari (cfr. I, II, III, IV, VI)",
+      "(Pavia 1824-Roma 1886) dopo il 1860 rientrò nell'esercito regolare (vedi voll. I, II, III e IV)",
       "(1824-1886), vedi voll. I, II, III, IV, V, VI",
       "(1824-1886), antico compagno d'armi di Garibaldi (vedi anche i voll. I-VI e VIII)",
-      "(1824-1886), uno dei più vecchi commilitoni di Garibaldi (vedi anche i voll. I-VI e VIII-IX)"
+      "(1824-1886), uno dei più vecchi commilitoni di Garibaldi (vedi anche i voll. I-VI e VIII-IX)",
+      "(1824-1886) generale"
     ],
     "occurrences": [
       {
@@ -64263,6 +64260,14 @@
         ]
       },
       {
+        "volume": 2,
+        "pages": [
+          82,
+          138,
+          196
+        ]
+      },
+      {
         "volume": 3,
         "pages": [
           110,
@@ -64270,6 +64275,43 @@
           144,
           169,
           176
+        ]
+      },
+      {
+        "volume": 4,
+        "pages": [
+          15, 
+          60, 
+          61, 
+          83,
+          102,
+          109,
+          118,
+          119,
+          120,
+          121,
+          145,
+          151,
+          180,
+          212
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          264
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          13,
+          147,
+          154,
+          163,
+          186,
+          251,
+          288
         ]
       },
       {
@@ -64290,78 +64332,11 @@
           51,
           92
         ]
-      }
-    ]
-  },
-  "SACCHI, GAETANO (1824-1886)": {
-    "id": "sacchi-gaetano-2",
-    "descriptions": [
-      "ufficiale 1a Leg. It. capitano aiutante di campo, poi colonnello comandante la Legione. Si distinse a Palestrina. Accompagnò Garibaldi nella ritirata da Roma",
-      "generale"
-    ],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          82,
-          138,
-          196
-        ]
       },
-      {
+            {
         "volume": 14,
         "pages": [
           65
-        ]
-      }
-    ]
-  },
-  "SACCHI, GAETANO (Pavia 1824-Roma 1886)": {
-    "id": "sacchi-gaetano-5",
-    "descriptions": [
-      "comandò in luglio la quarta spedizione di volontari (cfr. I, II, III, IV, VI)",
-      "dopo il 1860 rientrò nell'esercito regolare (vedi voll. I, II, III e IV)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          264
-        ]
-      },
-      {
-        "volume": 6,
-        "pages": [
-          13,
-          147,
-          154,
-          163,
-          186,
-          251,
-          288
-        ]
-      }
-    ]
-  },
-  "SACCHI, GAETANO (Pavia 1824-ivi 1886)": {
-    "id": "sacchi-gaetano-4",
-    "descriptions": [
-      "maggiore dei C.d.A., poi comandante a Modena del IV rgt. di linea, 15, 60, 61, 3q"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          102,
-          109,
-          118,
-          119,
-          120,
-          121,
-          145,
-          151,
-          180,
-          212
         ]
       }
     ]
@@ -64415,12 +64390,9 @@
       }
     ]
   },
-  "SACERDOTE": {
+  "SACERDOTE, GUSTAVO": {
     "id": "sacerdote-anonimo",
-    "descriptions": [
-      "GUSTAVO",
-      "GUSATAVO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -64466,26 +64438,13 @@
       }
     ]
   },
-  "SAFFI": {
-    "id": "saffi-anonimo",
-    "descriptions": [
-      "AURELIO"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          7
-        ]
-      }
-    ]
-  },
   "SAFFI, AURELIO": {
     "id": "saffi-aurelio",
     "descriptions": [
       "(1819-1890)",
-      "(1819-1890) (vedi vol. II), ó",
+      "(1819-1890) (vedi vol. II)",
       "fedele interprete del pensiero e dell'azione mazziniana, dal 1860 al 1863 fu deputato del collegio di Acerenza in Basilicata e massimo collaboratore del napoletano Il Popolo d'Italia;, nel 1863 rinunciò al mandato parlamentare per coerenza coi suoi principi repubblicani",
+      "(Forlì 1819-ivi 1890) deputato della sinistra, amico di Mazzini e a lui molto legato politicamente, fu nel Comitato Centrale dell'Emancipatrice e sempre attivo nelle vicende del partito d'azione, vedi anche vol. VI",
       "(1819-1890), deputato repubblicano. All'inizio del 1866 chiede a Garibaldi di sottoscrivere una petizione dei parlamentari della Sinistra per la guerra ali' Austria (vedi anche i voli. II-III, VII e IX)"
     ],
     "occurrences": [
@@ -64523,9 +64482,16 @@
       {
         "volume": 6,
         "pages": [
+          6,
           31,
           73,
           89
+        ]
+      },
+            {
+        "volume": 7,
+        "pages": [
+          165
         ]
       },
       {
@@ -64536,19 +64502,11 @@
           163,
           203
         ]
-      }
-    ]
-  },
-  "SAFFI, AURELIO (Forlì 1819-ivi 1890)": {
-    "id": "saffi-aurelio-4",
-    "descriptions": [
-      "deputato della sinistra, amico di Mazzini e a lui molto legato politicamente, fu nel Comitato Centrale dell'Emancipatrice e sempre attivo nelle vicende del partito d'azione, vedi anche vol. VI"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
+      },
+            {
+        "volume": 11,
         "pages": [
-          165
+          7
         ]
       }
     ]
@@ -64567,11 +64525,9 @@
       }
     ]
   },
-  "SAGGIORI": {
-    "id": "saggiori-anonimo",
-    "descriptions": [
-      "RENATO"
-    ],
+  "SAGGIORI, RENATO": {
+    "id": "saggiori-renato",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -64581,11 +64537,9 @@
       }
     ]
   },
-  "SAGLIA": {
-    "id": "saglia-anonimo",
-    "descriptions": [
-      "CARLO"
-    ],
+  "SAGLIA, CARLO": {
+    "id": "saglia-carlo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -64624,11 +64578,9 @@
       }
     ]
   },
-  "SALADINI PILASTRI": {
-    "id": "saladini-anonimo",
-    "descriptions": [
-      "ARDUO"
-    ],
+  "SALADINI PILASTRI, ARDUO": {
+    "id": "saladini-arduo",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 10,
@@ -64652,10 +64604,10 @@
       }
     ]
   },
-  "SALASCO, CARLO CANERA DI (Torino 1796-Vercelli 1866)": {
+  "SALASCO, CARLO CANERA DI": {
     "id": "salasco-carlo",
     "descriptions": [
-      "capo di S M. dell'esercito piemontese nel 1848, firmò il noto armistizio che porta il suo nome"
+      "(Torino 1796-Vercelli 1866) capo di S M. dell'esercito piemontese nel 1848, firmò il noto armistizio che porta il suo nome"
     ],
     "occurrences": [
       {
@@ -64666,11 +64618,9 @@
       }
     ]
   },
-  "SALATA": {
+  "SALATA, FRANCESCO": {
     "id": "salata-anonimo",
-    "descriptions": [
-      "FRANCESCO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -64724,11 +64674,9 @@
       }
     ]
   },
-  "SALERNO": {
+  "SALERNO, FRANCESCANTONIO": {
     "id": "salerno-anonimo",
-    "descriptions": [
-      "FRANCESCANTONIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -64738,20 +64686,7 @@
       }
     ]
   },
-  "SALIS SCHWABE, JULIE": {
-    "id": "salis-julie",
-    "descriptions": [
-      "educatrice e filantropa inglese di origine tedesca"
-    ],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          31
-        ]
-      }
-    ]
-  },
+
   "SALIS, FILIPPO": {
     "id": "salis-filippo",
     "descriptions": [
@@ -64783,27 +64718,20 @@
   "SALIS, ULISSE": {
     "id": "salis-ulisse-2",
     "descriptions": [
+      "(Tirano 1827-Esine 1896) fu fervente agitatore mazziniano nella Valtellina e nell'alta Lombardia subendo carcere e persecuzioni che ne fiaccarono il fisico, non lo spirito. Molto attivo nelle vicende del Tiro a segno",
       "(1827-1896), di famiglia nobile valtellinese, combattente nel 1848 a Milano e poi nella successiva guerra partigiana in alta Lombardia, era stato arrestato nel 1853 e condannato a sette anni di carcere per complicità con P.F. Calvi; amnistiato nel 1856, era consigliere della milanese Società per il tiro a segno; nel 1866 opera in Valtellina con il grado di capitano e comanda la 5.a compagnia del 4° battaglione della Guardia nazionale"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          48
-        ]
-      }
-    ]
-  },
-  "SALIS, ULISSE (Tirano 1827-Esine 1896) fu fervente agitatore mazziniano nella Valtellina e nell'alta Lombardia": {
-    "id": "salis-ulisse",
-    "descriptions": [
-      "subendo carcere e persecuzioni che ne fiaccarono il fisico, non lo spirito. Molto attivo nelle vicende del Tiro a segno"
     ],
     "occurrences": [
       {
         "volume": 7,
         "pages": [
           31
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          48
         ]
       }
     ]
@@ -64847,12 +64775,20 @@
       }
     ]
   },
-  "SALTERIO, NAZZARO (Annone 1824-Camerlata 1882)": {
+  "SALTERIO, NAZZARO": {
     "id": "salterio-nazzaro-2",
     "descriptions": [
-      "uno dei Mille, ferito a Calatafimi, passò con il grado di maggiore nell'esercito regolare, cavaliere O.M.S."
+      "(Pavia 1815-1882) patriota e cospiratore",
+      "(Annone 1824-Camerlata 1882) uno dei Mille, ferito a Calatafimi, passò con il grado di maggiore nell'esercito regolare, cavaliere O.M.S."
     ],
     "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          232,
+          234
+        ]
+      },
       {
         "volume": 5,
         "pages": [
@@ -64863,22 +64799,7 @@
       }
     ]
   },
-  "SALTERIO, NAZZARO (Pavia 1815-1882)": {
-    "id": "salterio-nazzaro",
-    "descriptions": [
-      "patriota e cospiratore"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          232,
-          234
-        ]
-      }
-    ]
-  },
-  "SALVADOR!, GIUSEPPE": {
+  "SALVADORI, GIUSEPPE": {
     "id": "salvador!-giuseppe",
     "descriptions": [
       "dei Mille"
@@ -64939,11 +64860,9 @@
       }
     ]
   },
-  "SALVONI SAVORINI": {
+  "SALVONI SAVORINI, GRAZIA": {
     "id": "salvoni-anonimo",
-    "descriptions": [
-      "GRAZIA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -64967,11 +64886,9 @@
       }
     ]
   },
-  "SAMARITANI": {
+  "SAMARITANI, FAUSTA": {
     "id": "samaritani-anonimo",
-    "descriptions": [
-      "FAUSTA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -64982,11 +64899,9 @@
       }
     ]
   },
-  "SAMPANNIERI": {
+  "SAMPANNIERI, ANTONIO": {
     "id": "sampannieri-anonimo",
-    "descriptions": [
-      "ANTONIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -64996,10 +64911,10 @@
       }
     ]
   },
-  "SAMPIERI, DOMENICO (1828-1896)": {
+  "SAMPIERI, DOMENICO": {
     "id": "sampieri-domenico",
     "descriptions": [
-      "combatté alla difesa di Venezia e nei Mille, poi entrò nell'esercito regolare dove raggmnse il grado di tenente generale"
+      "(1828-1896) combatté alla difesa di Venezia e nei Mille, poi entrò nell'esercito regolare dove raggmnse il grado di tenente generale"
     ],
     "occurrences": [
       {
@@ -65010,7 +64925,7 @@
       }
     ]
   },
-  "SAN CATALDO, NicoLAo GALLETTI DI": {
+  "SAN CATALDO, NICOLAO GALLETTI DI": {
     "id": "san-nicolao",
     "descriptions": [
       "principe di Fiume Salato, rappresentante a Londra del governo dittatoriale"
@@ -65110,11 +65025,9 @@
       }
     ]
   },
-  "SANESI": {
+  "SANESI, ELENA": {
     "id": "sanesi-anonimo",
-    "descriptions": [
-      "ELENA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -65150,11 +65063,9 @@
       }
     ]
   },
-  "SANNA": {
+  "SANNA, MARIA": {
     "id": "sanna-anonimo",
-    "descriptions": [
-      "MARIA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -65224,10 +65135,10 @@
       }
     ]
   },
-  "SANTANDER, colonnello dell'esercito uruguaiano": {
+  "SANTANDER": {
     "id": "santander-colonnello",
     "descriptions": [
-      "tornato in Patria nel gennaio 1846 dopo un periodo di emigrazione, cui lo avevano costretto le vicende belliche"
+      "colonnello dell'esercito uruguaiano, tornato in Patria nel gennaio 1846 dopo un periodo di emigrazione, cui lo avevano costretto le vicende belliche"
     ],
     "occurrences": [
       {
@@ -65322,7 +65233,7 @@
       }
     ]
   },
-  "SANTOS, ANTONIO JOAQUÍN de Los": {
+  "SANTOS, ANTONIO JOAQUÍN DE LOS": {
     "id": "santos-antonio",
     "descriptions": [
       "marinaio della E.N."
@@ -65337,11 +65248,9 @@
       }
     ]
   },
-  "SANVILO": {
+  "SANVILO, MARIO": {
     "id": "sanvilo-anonimo",
-    "descriptions": [
-      "MARIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -65382,14 +65291,12 @@
   },
   "SAPORITI, NATALINA": {
     "id": "saporiti-natalina",
-    "descriptions": [
-      "Ó"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
         "pages": [
-          6
+          66
         ]
       }
     ]
@@ -65410,11 +65317,9 @@
       }
     ]
   },
-  "SARAGAT": {
+  "SARAGAT, GIUSEPPE": {
     "id": "saragat-anonimo",
-    "descriptions": [
-      "GIUSEPPE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -65445,12 +65350,20 @@
       }
     ]
   },
-  "SARFATTI": {
-    "id": "sarfatti-anonimo",
-    "descriptions": [
-      "MICHELE"
-    ],
+  "SARFATTI, MICHELE": {
+    "id": "sarfatti-michele",
+    "descriptions": [],
     "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          162, 
+          168, 
+          170,
+          172,
+          242
+        ]
+      },
       {
         "volume": 13,
         "pages": [
@@ -65458,21 +65371,6 @@
           49,
           246,
           300
-        ]
-      }
-    ]
-  },
-  "SARFATTI, MICHELE": {
-    "id": "sarfatti-michele",
-    "descriptions": [
-      "162, 168, 170, l"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          72,
-          242
         ]
       }
     ]
@@ -65628,29 +65526,16 @@
       }
     ]
   },
-  "SAVI": {
-    "id": "savi-anonimo",
+    "SAVI": {
+    "id": "savi-personaggio",
     "descriptions": [
-      "SANTO",
-      "FRANCO"
+      "personaggio non identificato probabilmente un esponente minore della democrazia bolognese"
     ],
     "occurrences": [
       {
-        "volume": 2,
+        "volume": 10,
         "pages": [
-          100
-        ]
-      },
-      {
-        "volume": 9,
-        "pages": [
-          69
-        ]
-      },
-      {
-        "volume": 12,
-        "pages": [
-          110
+          15
         ]
       }
     ]
@@ -65670,16 +65555,34 @@
       }
     ]
   },
-  "SAVI, FRANCESCO BARTOLOMEO (Genova 18210-ivi 1865)": {
+  "SAVI, FRANCESCO BARTOLOMEO": {
     "id": "savi-francesco",
     "descriptions": [
-      "partì da Quarto con i Mille. Proveniente dalle fila mazziniane fu elemento di spicco della democrazia e del movimento operaio genovese"
+      "(Genova 18210-ivi 1865) partì da Quarto con i Mille. Proveniente dalle fila mazziniane fu elemento di spicco della democrazia e del movimento operaio genovese"
     ],
     "occurrences": [
       {
         "volume": 6,
         "pages": [
           209
+        ]
+      }
+    ]
+  },
+  "SAVI, FRANCO": {
+    "id": "savi-franco",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 9,
+        "pages": [
+          69
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          110
         ]
       }
     ]
@@ -65712,16 +65615,14 @@
       }
     ]
   },
-  "SAVI, personaggio non identificato": {
-    "id": "savi-personaggio",
-    "descriptions": [
-      "probabilmente un esponente minore della democrazia bolognese"
-    ],
+  "SAVI, SANTO": {
+    "id": "savi-santo",
+    "descriptions": [],
     "occurrences": [
       {
-        "volume": 10,
+        "volume": 2,
         "pages": [
-          15
+          100
         ]
       }
     ]
@@ -65783,10 +65684,10 @@
       }
     ]
   },
-  "SAVIO, OLIMPIA (Tonno 1815-ivi 1889)": {
+  "SAVIO, OLIMPIA": {
     "id": "savio-olimpia",
     "descriptions": [
-      "oltre che donna patriottica e madre di due martiri della causa nazionale fu squisita scrittrice e poetessa. Negli anni di Torino capitale la sua casa fu frequentata dalle più importanti personalità della vita pubblica e il suo salotto acquistò un carattere spiccatamente politico"
+      "(Tonno 1815-ivi 1889) oltre che donna patriottica e madre di due martiri della causa nazionale fu squisita scrittrice e poetessa. Negli anni di Torino capitale la sua casa fu frequentata dalle più importanti personalità della vita pubblica e il suo salotto acquistò un carattere spiccatamente politico"
     ],
     "occurrences": [
       {
@@ -65854,20 +65755,6 @@
       }
     ]
   },
-  "SAVOIA, UMBERTO": {
-    "id": "savoia-umberto-2",
-    "descriptions": [
-      "pincipe di Piemonte"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          257
-        ]
-      }
-    ]
-  },
   "SAVOIA, UMBERTO DI": {
     "id": "savoia-umberto",
     "descriptions": [
@@ -65879,13 +65766,19 @@
         "pages": [
           32
         ]
+      },
+            {
+        "volume": 13,
+        "pages": [
+          257
+        ]
       }
     ]
   },
-  "SAVONAROLA, GEROLAMO (1452-1498)": {
+  "SAVONAROLA, GEROLAMO": {
     "id": "savonarola-gerolamo",
     "descriptions": [
-      "frate; riformatore della Chiesa e fustigatore della politica e dei costumi della Firenze repubblicana, fu giudicato da un tribunale civile, impiccato e poi bruciato"
+      "(1452-1498) frate; riformatore della Chiesa e fustigatore della politica e dei costumi della Firenze repubblicana, fu giudicato da un tribunale civile, impiccato e poi bruciato"
     ],
     "occurrences": [
       {
@@ -65897,11 +65790,19 @@
     ]
   },
   "SAVONAROLA, GIROLAMO": {
-    "id": "savonarola-girolamo-2",
+    "id": "savonarola-girolamo",
     "descriptions": [
+      "(1452-1498) frate domenicano, riformatore della Chiesa",
       "(1452-1498), frate domenicano, riformatore della Chiesa"
     ],
     "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          56,
+          139
+        ]
+      },
       {
         "volume": 13,
         "pages": [
@@ -65913,26 +65814,9 @@
       }
     ]
   },
-  "SAVONAROLA, GIROLAMO (1452-1498)": {
-    "id": "savonarola-girolamo",
-    "descriptions": [
-      "frate domenicano, riformatore della Chiesa"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          56,
-          139
-        ]
-      }
-    ]
-  },
-  "SAVORELLI": {
+  "SAVORELLI, ANTONIO": {
     "id": "savorelli-anonimo",
-    "descriptions": [
-      "ANTONIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -66292,7 +66176,8 @@
       "assai devota al Generale, non approvò, tuttavia, che accettasse in regalo dagli amici inglesi una goletta (vedi anche i voll. VI-VIII)",
       "educatrice e filantropa inglese d'origine tedesca, promuove la sottoscrizione per l'acquisto e il dono di parte dell'isola di Caprera a Garibaldi (vedi i voll. VI-IX)",
       "(1819-1896), su di lei, che nel 1866 si adopera per l'assistenza ai feriti, vedi i voll. VI-X",
-      "(1819-1896), educatrice e filantropa inglese di origine tedesca"
+      "(1819-1896), educatrice e filantropa inglese di origine tedesca",
+      "educatrice e filantropa inglese di origine tedesca"
     ],
     "occurrences": [
       {
@@ -66378,6 +66263,12 @@
         "volume": 12,
         "pages": [
           92
+        ]
+      }, 
+      {
+        "volume": 14,
+        "pages": [
+          31
         ]
       }
     ]

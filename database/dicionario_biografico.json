@@ -72426,10 +72426,10 @@
       }
     ]
   },
-  "UGDULENA, FRANCESCO (Termini Imerese 1818-ivi 1893)": {
+  "UGDULENA, FRANCESCO": {
     "id": "ugdulena-francesco",
     "descriptions": [
-      "medico e cultore di studi antiquari, fu attivo nel 1848 a Palermo insieme al fratello. Nel 1860 si mise agli ordini di Garibaldi come medico ed entrò con lui in rapporti di amicizia. Negli anni successivi svolse varie attività in istituzioni culturali e nell'amministrazione palermitana"
+      "(Termini Imerese 1818-ivi 1893) medico e cultore di studi antiquari, fu attivo nel 1848 a Palermo insieme al fratello. Nel 1860 si mise agli ordini di Garibaldi come medico ed entrò con lui in rapporti di amicizia. Negli anni successivi svolse varie attività in istituzioni culturali e nell'amministrazione palermitana"
     ],
     "occurrences": [
       {
@@ -72441,10 +72441,10 @@
       }
     ]
   },
-  "UGDULENA, GREGORIO (Termmi Imerese 1815-Roma 1872)": {
+  "UGDULENA, GREGORIO": {
     "id": "ugdulena-gregorio",
     "descriptions": [
-      "sacerdote, docente universitario di ebraico, destituito e confinato a Favignana fino al 1856, ministro della pubblica istruzione nel governo provvisorio nel 1860 e poi deputato"
+      "(Termmi Imerese 1815-Roma 1872) sacerdote, docente universitario di ebraico, destituito e confinato a Favignana fino al 1856, ministro della pubblica istruzione nel governo provvisorio nel 1860 e poi deputato"
     ],
     "occurrences": [
       {
@@ -72500,21 +72500,11 @@
   "ULLOA CALÀ, GIROLAMO": {
     "id": "dlloa-girolamo",
     "descriptions": [
-      "(1810-1891) generale, scrittore militare"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          256
-        ]
-      }
-    ]
-  },
-  "ULLOA, GEROLAMO": {
-    "id": "ulloa-gerolamo",
-    "descriptions": [
-      "(1810-1891), napoletano, esule a Parigi col Manin"
+      "(1810-1891), napoletano, esule a Parigi col Manin",
+      "(Napoli 1810-ivi 1891) maggior generale comandante dei Cacciatori degli Appennini. Dimesso da comandante della divisione toscana perché inviso a Ricasoli e Farmi e sospettato murattiano",
+      "(1810-1891), dopo aver servito fino al 1848 i Borboni di Napoli raggiungendo il grado di generale andò esule prima in Piemonte, poi a Parigi; amico di D. Manin, aderì alla Società Nazionale Italiana e nel 1859 ebbe il comando dei Cacciatori dell'Appennino (vedi su di lui il vol. IV); essendosi riavvicinato ai Borboni dopo il crollo del Regno delle Due Sicilie, dovette attendere il 1866 per ottenere dal Governo italiano la pensione di maggiore generale",
+      "(1810-1891) generale, scrittore militare",
+      "(1810-1891), generale"
     ],
     "occurrences": [
       {
@@ -72522,43 +72512,25 @@
         "pages": [
           157
         ]
-      }
-    ]
-  },
-  "ULLOA, GEROLAMO (Napoli 1810-ivi 1891)": {
-    "id": "ulloa-gerolamo-2",
-    "descriptions": [
-      "maggior generale comandante dei Cacciatori degli Appennini. Dimesso da comandante della divisione toscana perché inviso a Ricasoli e Farmi e sospettato murattiano"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 4,
         "pages": [
           132
         ]
-      }
-    ]
-  },
-  "ULLOA, GIROLAMO": {
-    "id": "ulloa-girolamo",
-    "descriptions": [
-      "(1810-1891), dopo aver servito fino al 1848 i Borboni di Napoli raggiungendo il grado di generale andò esule prima in Piemonte, poi a Parigi; amico di D. Manin, aderì alla Società Nazionale Italiana e nel 1859 ebbe il comando dei Cacciatori dell'Appennino (vedi su di lui il vol. IV); essendosi riavvicinato ai Borboni dopo il crollo del Regno delle Due Sicilie, dovette attendere il 1866 per ottenere dal Governo italiano la pensione di maggiore generale"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 11,
         "pages": [
           329
         ]
-      }
-    ]
-  },
-  "ULLOA-CALÀ, GEROLAMO": {
-    "id": "ulloa-calà-gerolamo",
-    "descriptions": [
-      "(1810-1891), generale"
-    ],
-    "occurrences": [
+      },
+      {
+        "volume": 13,
+        "pages": [
+          256
+        ]
+      },
       {
         "volume": 14,
         "pages": [
@@ -72568,7 +72540,7 @@
       }
     ]
   },
-  "UMBERTO Il": {
+  "UMBERTO II": {
     "id": "umberto-anonimo",
     "descriptions": [
       "re d'Italia"
@@ -72582,11 +72554,9 @@
       }
     ]
   },
-  "UNGARELLI": {
+  "UNGARELLI, CARLO": {
     "id": "ungarelli-anonimo",
-    "descriptions": [
-      "CARLO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -72596,10 +72566,10 @@
       }
     ]
   },
-  "URBAN, CARLO barone di": {
+  "URBAN, CARLO": {
     "id": "urban-carlo",
     "descriptions": [
-      "(1802-1877), tenente maresciallo comandante la divisione austriaca di riserva; anche alla sua inazione si dodovette la sconfitta austriaca di Magenta"
+      "barone di (1802-1877), tenente maresciallo comandante la divisione austriaca di riserva; anche alla sua inazione si dodovette la sconfitta austriaca di Magenta"
     ],
     "occurrences": [
       {
@@ -72612,12 +72582,19 @@
       }
     ]
   },
-  "URBAN, KARL": {
-    "id": "urban-karl-2",
+  "URBAN, KARL VON": {
+    "id": "urban-karl",
     "descriptions": [
+      "(Cracovia 1802-Brunn 1877) barone, tenente maresciallo dell'esercito austriaco, nel quale era molto popolare; nel 1860 comandava la divisione militare di Brunn in Moravia (cfr. vol. IV)",
       "barone von (1802-1877), generale austriaco"
     ],
     "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          26
+        ]
+      },
       {
         "volume": 13,
         "pages": [
@@ -72626,25 +72603,9 @@
       }
     ]
   },
-  "URBAN, KARL VON (Cracovia 1802-Brunn 1877)": {
-    "id": "urban-karl",
-    "descriptions": [
-      "barone, tenente maresciallo dell'esercito austriaco, nel quale era molto popolare; nel 1860 comandava la divisione militare di Brunn in Moravia (cfr. vol. IV)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          26
-        ]
-      }
-    ]
-  },
-  "URBANI": {
+  "URBANI, URBANO": {
     "id": "urbani-anonimo",
-    "descriptions": [
-      "URBANO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -72657,6 +72618,7 @@
   "URQUIZA, JUSTO JOSÉ DE": {
     "id": "urquiza-justo",
     "descriptions": [
+      "(1800-1870), generale e uomo politico argentino (cfr. vol. I)",
       "famoso generale e politico argentino (1800-1870) collaborò con Rosas contro il Governo di Montevideo dall'inizio della Guerra Grande ma, alla fine di essa, si volse contro il Dittatore di Buenos Aires che sconfisse a Caseros il 3 febbraio 1852. Fu Presidente della Confederazione argentina"
     ],
     "occurrences": [
@@ -72671,15 +72633,7 @@
           176,
           188
         ]
-      }
-    ]
-  },
-  "URQUIZA, JUSTo JOSÉ DE": {
-    "id": "urquiza-justo-2",
-    "descriptions": [
-      "(1800-1870), generale e uomo politico argentino (cfr. vol. I)"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 5,
         "pages": [
@@ -72716,10 +72670,10 @@
       }
     ]
   },
-  "USHER Y COELHO, ditta commerciale operante in Montevideo": {
+  "USHER Y COELHO": {
     "id": "usher-ditta",
     "descriptions": [
-      "fornitrice della E N."
+      "ditta commerciale operante in Montevideo fornitrice della E N."
     ],
     "occurrences": [
       {
@@ -72744,7 +72698,7 @@
       }
     ]
   },
-  "UsBERTI": {
+  "USBERTI": {
     "id": "usberti-anonimo",
     "descriptions": [
       "caporale C.d.A."

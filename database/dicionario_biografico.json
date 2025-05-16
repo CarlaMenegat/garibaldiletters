@@ -3549,7 +3549,7 @@
   "AZEGLIO, MASSIMO TAPARELLI D'": {
     "id": "azeglio-massimo",
     "descriptions": [
-      "(1798-1866) presidente del Consiglio sardo, senatore dal 1",
+      "(1798-1866) presidente del Consiglio sardo, senatore dal 1853",
       "(Torino 1798-ivi 1866) governatore di Milano si dimise, non approvando la politica di Cavour, specialmente nel mezzogiorno, da lui giudicata poco leale. disapprovò l'annessione del mezzogiorno e la debolezza verso i rivoluzionari, auspicando una unione personale dei due Stati ed un governo basato su una forte tradizione monarchica"
     ],
     "occurrences": [
@@ -10738,7 +10738,7 @@
   "BRUTI, RAFFAELE": {
     "id": "bruti-raffaele",
     "descriptions": [
-      "(1806-1874), vecchio cospiratore originario di San Ginesio, era sulla breccia sin dal 1"
+      "(1806-1874), vecchio cospiratore originario di San Ginesio, era sulla breccia sin dal 1831"
     ],
     "occurrences": [
       {
@@ -23307,7 +23307,7 @@
   "DE LUCA, FRANCESCO": {
     "id": "de-francesco-6",
     "descriptions": [
-      "deputato, gran maestro della massoneria dal 1865 al 1"
+      "deputato, gran maestro della massoneria dal 1865 al 1867"
     ],
     "occurrences": [
       {
@@ -35186,10 +35186,10 @@
       }
     ]
   },
-  "GRÉVY, JULES (1807-1891)": {
+  "GRÉVY, JULES": {
     "id": "grévy-jules",
     "descriptions": [
-      "presidente dell'Assemblea nazionale francese dal 1871 al 1"
+      "(1807-1891) presidente dell'Assemblea nazionale francese dal 1871 al 1873"
     ],
     "occurrences": [
       {
@@ -37608,9 +37608,9 @@
   "JOHNSON, ANDREW": {
     "id": "johnson-andrew",
     "descriptions": [
-      "(1808-1875), chiamato alla presidenza degli Stati Uniti d'America dopo l'assassinio di Lincoln, restò al potere fino al 1",
+      "(1808-1875), chiamato alla presidenza degli Stati Uniti d'America dopo l'assassinio di Lincoln, restò al potere fino al 1869",
       "(1898-1875), XVII presidente U.S.A.; repubblicano, originario della Carolina del Nord, succede nella presidenza ad A. Lincoln; in carica dal 1865 al 1869, nel 1868 sarà messo in stato d'accusa ed assolto per un solo voto",
-      "(1808-1875), presidente degli Stati Uniti dal 1865 al 1"
+      "(1808-1875), presidente degli Stati Uniti dal 1865 al 1869"
     ],
     "occurrences": [
       {
@@ -38235,6 +38235,12 @@
         "pages": [
           51,
           132
+        ]
+      },
+            {
+        "volume": 7,
+        "pages": [
+          261
         ]
       },
       {
@@ -40122,7 +40128,7 @@
     "descriptions": [
       "(1809-1865), presidente degli Stati Uniti sotto la cui presidenza ebbe inizio la guerra di secessione degli stati del sud. In questa circostanza offrì un comando a Garibaldi",
       "(1809-1865), presidente degli Stati Uniti d'America. Eletto per la prima volta nel 1861, e confermato l'8 novembre 1864, avviò la ricostruzione del paese dopo la capitolazione del sud che aveva posto fine alla guerra civile, ma il 15 aprile 1865, un mese dopo l'inizio ufficiale della sua seconda presidenza, fu ucciso mentre assisteva ad uno spettacolo teatrale da John Wilkes Booth (vedi anche i voli. VI e VIII)",
-      "(1809-1865), presidente degli Stati Umti dal 1861 al 1"
+      "(1809-1865), presidente degli Stati Umti dal 1861 al 1865"
     ],
     "occurrences": [
       {
@@ -44275,7 +44281,7 @@
   "MARSH, GEORGE PERKINS": {
     "id": "marsh-george",
     "descriptions": [
-      "ambasciatore degli Stati Uniti a Torino tra il 1861 e il 1",
+      "ambasciatore degli Stati Uniti a Torino tra il 1861 e il 1862",
       "(1801-1882), discendente di un'antica famiglia del Vermont, fu educato sui principi puritani e sin da giovane si immerse nello studio della cultura classica. Conseguita la laurea in legge, esercitò l'avvocatura a Burlington; poi, eletto al Congresso nel 1834, entrò nel gruppo whig, e con la sua oratoria asciutta polemizzò contro lo schiavismo e la guerra messicana. Nel 1849 fu inviato in Turchia a rappresentare gli U.S.A. e risultò decisivo nella liberazione di Kossuth; nel 1852 passò ad Atene per poi tornare in patria dovenel 1856 aderì al partito repubblicano. Nominato da Lincoln primo ambasciatore statunitense in Italia, vi rimase per 21 anni: morì a Vallombrosa (Firenze) e fu sepolto nel cimitero acattolico di Roma. Nella sua versatilità che lo portava a spaziare dalla filologia agli studi naturalistici Marsh fu anche un pioniere dell'ambientalismo che orientò in senso decisamente conservazionista",
       "(1801-1882), ministro plenipotenziario degli Stati Uniti a Firenze"
     ],
@@ -45528,6 +45534,7 @@
     "id": "mazzoni-giuseppe",
     "descriptions": [
       "negli anni '50, esule a Parigi, entrò in rapporti con elementi mazziniani. Dopo il 1859 fu attivo nel movimento democratico e operaio fiorentino, tra i fondatori de La Nuova Europa, presidente del congresso delle Società operaie tenutosi a Firenze (settembre 1861), dirigente della Fratellanza Artigiana. Fu anche membro del Consiglio Centrale dell'Emancipatrice",
+      "(Prato, 16 dicembre 1808 - ivi, 10 maggio 1880), deputato dalla XI alla XIII legislatura, massone, di persistenti sentimenti repubbhcani, ottenne tuttavia il laticlavio senatorio nel 1879, vedi vol. VII,",
       "prese parte alle campagne dal 1849 al 1867 e fu gravemente ferito a Mentana"
     ],
     "occurrences": [
@@ -45541,6 +45548,13 @@
         ]
       },
       {
+        "volume": 8,
+        "pages": [
+          23,
+          122
+        ]
+      },
+      {
         "volume": 12,
         "pages": [
           107
@@ -45551,7 +45565,7 @@
   "MAZZONNI, PIO SPERANZA": {
     "id": "mazzonni-pio",
     "descriptions": [
-      "presidente dell'Associazione giovanile abbruzzese costituita in Napoli nel 1862 tra studenti, nacque intorno al 1830 a Notaresco in provincia di Teramo. Costretto all'esilio per la sua opera di cospiratore, tornò a Napoli dopo il 1"
+      "presidente dell'Associazione giovanile abbruzzese costituita in Napoli nel 1862 tra studenti, nacque intorno al 1830 a Notaresco in provincia di Teramo. Costretto all'esilio per la sua opera di cospiratore, tornò a Napoli dopo il 1862"
     ],
     "occurrences": [
       {
@@ -47468,10 +47482,10 @@
     ]
   },
   "MISSORI, GIUSEPPE": {
-    "id": "missori-giuseppe-2",
+    "id": "missori-giuseppe",
     "descriptions": [
     "(Mosca 1829-Milano 1911) comandante delle guide di Garibaldi, lo salvò a Milazzo (cfr. voll. IV, VI)",
-      "(1829-1911), messosi in luce tra le gUIde di Garibaldi nelle campagne del 1859-60, si ritirò poi a vita privata a Milano, sempre pronto però a scendere in campo al richiamo del suo generale",
+      "(1829-1911), messosi in luce tra le guide di Garibaldi nelle campagne del 1859-60, si ritirò poi a vita privata a Milano, sempre pronto però a scendere in campo al richiamo del suo generale",
       "(Mosca 1824-Milano 1911) dei Mille, fu a capo delle Guide di Garibaldi, mettendosi in luce in molte circostanze per il suo valore. Partecipò alla spedizione di Aspromonte, ricevendo l'incarico, prima dello scontro tra i volontari e le truppe, di raccogliere gente in Calabria. Per questo sfuggì all'arresto e, sotto il falso nome di Esposito, raggiunse Napoli",
       "(1829-1911), vedi voll. V, VI e VII, 44, 126, 127'",
       "(1829-1911), conduce vita privata ma è anche tra coloro che visitano il Generale ad Ischia al tempo della crisi Guerzoni (vedi anche i voli. V-VIII)",
@@ -47479,7 +47493,7 @@
       "(1828-1911), tenente colonnello, Garibaldi gli affida il comando dei due squadroni delle guide (vedi anche i voll. V-X)",
       "(1829-1911), tenente colonnello, combatté valorosamente a Monterotondo e Mentana a capo di due battaglioni formatisi a Terni",
       "(1829-1911), tenente colonnello",
-      "(1829-1911), combatté con Garibaldi dal 1860 al 1"
+      "(1829-1911), combatté con Garibaldi dal 1860 al 1867"
     ],
     "occurrences": [
       {
@@ -47582,7 +47596,7 @@
     "id": "mitre-bartolomé",
     "descriptions": [
       "(1824-1906), uomo politico argentino, amico di Garibaldi sin dai tempi della difesa di Montevideo, era dal 1862 presidente della repubblica argentina, da lui guidata con un'azione risolutamente innovatrice. Nel 1865-1870 fu impegnato, a fianco del Brasile e dell'Uruguay, nella guerra contro il Paraguay (vedi il vol. V)",
-      "(1821-1906), generale, presidente della Repubblica argentma dal 1862 al 1",
+      "(1821-1906), generale, presidente della Repubblica argentma dal 1862 al 1868",
       "(1821-1906), generale e uomo politico argentino"
     ],
     "occurrences": [
@@ -51058,7 +51072,7 @@
       "nato a La Maddalena intorno al 1820, emigrò a Mantova nel 1848, prendendo da allora parte a tutte le battaglie e cospiraziom. Fu tra gli intimi di Garibaldi, col quale trascorse lunghi periodi a Caprera prima e dopo aver partecipato, sotto la di lui guida, all'impresa di Aspromonte, vedi anche il vol. VI. Mori a Mantova nel 1897.",
       "(1820-1897), possidente della Maddalena, trascorso l'inverno a Caprera, all'inizio del 1864 si reca a Genova chiamatovi dal Comitato Centrale Unitario (vedi anche i voll. V-VII)",
       "(1820-1897), su di lui vedi i voll. V-VII e IX; capitano dei Volontari, nei primi giorni della campagna raccoglie informazioni sui movimenti del nemico; finita la guerra, rifiuta la nomina a colonnello della Guardia Nazionale",
-      "(1820-1897), seguì Garibaldi nelle campagne dal 1859 al 1"
+      "(1820-1897), seguì Garibaldi nelle campagne dal 1859 al 1867"
     ],
     "occurrences": [
       {
@@ -55364,7 +55378,7 @@
   "PEPE, GUGLIELMO": {
     "id": "pepe-guglielmo",
     "descriptions": [
-      "(Squillace 1783-Torino 1855) sagace scrittore di cose militari, fu al centro delle vicende politiche del regno napoletano del 1799 al 1"
+      "(Squillace 1783-Torino 1855) sagace scrittore di cose militari, fu al centro delle vicende politiche del regno napoletano del 1799 al 1848"
     ],
     "occurrences": [
       {
@@ -56405,7 +56419,7 @@
   "PEYRAT, ALPHONSE": {
     "id": "peyrat-alphonse",
     "descriptions": [
-      "(1812-1891), pubblicista francese. Studioso della storia delle religioni, nel 1864, inserendosi nel filone aperto da Ernest Renan, pubblicò a Parigi una Histoire elementaire de Jesus; nel 1865 fonda il quotidiano L'Avenir National, che dirige fino al 1"
+      "(1812-1891), pubblicista francese. Studioso della storia delle religioni, nel 1864, inserendosi nel filone aperto da Ernest Renan, pubblicò a Parigi una Histoire elementaire de Jesus; nel 1865 fonda il quotidiano L'Avenir National, che dirige fino al 1872"
     ],
     "occurrences": [
       {
@@ -60869,6 +60883,7 @@
     "id": "ricasoli-bettino-4",
     "descriptions": [
       "(Firenze 1809-Ivi 1880) ministro dell'Interno e poi Dittatore della Toscana, si adoperò per l'annessione al Piemonte",
+      "(Firenze 1809-Brolio 1880), Si adoperò per mandare aiuti in Sicilia, ma fu contrario ad attaccare Il Papa. Fu fautore di una politica di aperta contrapposizione tra Piemonte e Due Sicilie, scavalcando Garibaldi",
       "(Firenze 1809-Brolio 1880) succeduto a Cavour alla direzione del governo non ebbe il sostegno e la simpatia del sovrano mentre i suoi rapporti col partito democratico, malgrado i suoi riconoscimenti dei menti dei volontari garibaldini, furono sempre tesi. Ciò lo spinse alle dimissiom ai primi di marzo del 1862",
       "(Firenze 1809-Brolio 1880) vedi vol. VI. Nel 1862 fu appartato dalla lotta politica, ma il suo nome ricorse nei dibattiti parlamentari, tentandosi, da parte rattazziana, di addebitargli la chiamata di Garibaldi a Torino per incaricarlo della promozione del Tiro nazionale, una tesi che lo stesso generale avallò",
       "(1809-1880), presidente del Consiglio dall'inizio della guerra, si dimetterà l'11 febbraio 1867; riottenuto l'incarico il 17 febbraio, lascerà definitivamente nel successivo mese di marzo",
@@ -60885,6 +60900,13 @@
           182,
           190,
           210
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          136,
+          189
         ]
       },
       {
@@ -61147,7 +61169,7 @@
       "vedi voll. V e VII",
       "(1808-1882), deputato della Sinistra, massone e anticlencale (vedi anche i voli. III, V, VII e VIII)",
       "(1808-1872), conte e deputato della Sinistra, è eletto a Foggia (vedi anche i voli. III, V e VII-IX)",
-      "conte di Camaldoli (1808-1882), deputato dal 1861 al 1",
+      "conte di Camaldoli (1808-1882), deputato dal 1861 al 1870",
       "conte di Camaldoli (1808-1882), deputato"
     ],
     "occurrences": [
@@ -62630,7 +62652,7 @@
   "ROMANO-MANEBRINI, AURELIO": {
     "id": "romano-manebrini-aurelio",
     "descriptions": [
-      "autore di un volume sul 1"
+      "autore di un volume sul 1860"
     ],
     "occurrences": [
       {
@@ -66660,8 +66682,8 @@
     "descriptions": [
       "deputato inglese, ospita Garibaldi alla Brook House, nell'isola di Wight",
       "(1803-1887), membro del Parlamento britannico dal 1861 al 1885. Residente a Brooke House nell'isola di Wight, dopo avervi ospitato Garibaldi nel corso del viaggio del 1864 aderisce alla sottoscrizione per l'acquisto di Caprera (vedi il vol. IX)",
-      "(1803-Hl87), membro del Parlamento britannico dal 1861 al 1",
-      "(1803-1887), membro del Parlamento britannico dal 1861 al 1"
+      "(1803-Hl87), membro del Parlamento britannico dal 1861 al 1885.",
+      "(1803-1887), membro del Parlamento britannico dal 1861 al 1885."
     ],
     "occurrences": [
       {
@@ -67257,7 +67279,7 @@
   "SEWARD, WILLIAM HENRY": {
     "id": "seward-william",
     "descriptions": [
-      "(1801-1872) segretario di Stato degli Stati Uniti dal 1861 al 1"
+      "(1801-1872) segretario di Stato degli Stati Uniti dal 1861 al 1869"
     ],
     "occurrences": [
       {
@@ -67285,7 +67307,7 @@
     "id": "sgarallino-andrea",
     "descriptions": [
       "(1819-1887), navicellaio livornese. Combattente del 1848-'49, aveva conosciuto Garibaldi negli Stati Uniti e nel 1859 lo aveva seguito arruolandosi nei Cacciatori delle Alpi. Conclusasi la diversione dello Zambianchi nello Stato Pontificio, aveva raggiunto il Generale in Sicilia, e risalita con lui la penisola, aveva combattuto ed era rimasto ferito a Caserta. Nel 1866 comanderà una cannoniera operante sul lago di Garda",
-      "(1819-1887), combatté con Garibaldi dal 1859 al 1"
+      "(1819-1887), combatté con Garibaldi dal 1859 al 1867"
     ],
     "occurrences": [
       {
@@ -67865,7 +67887,7 @@
   "SIMONETTI, RINALDO": {
     "id": "simonetti-rinaldo",
     "descriptions": [
-      "(Osimo 1821-Bagni di Porretta 1870) deputato all'assemblea emiliana e presidente del comitato d'emigrazione umbro-marchigiano, aiutò la spedizione garibaldina. Senatore dal 1"
+      "(Osimo 1821-Bagni di Porretta 1870) deputato all'assemblea emiliana e presidente del comitato d'emigrazione umbro-marchigiano, aiutò la spedizione garibaldina. Senatore dal 1861"
     ],
     "occurrences": [
       {
@@ -67922,8 +67944,8 @@
   "SINEO, RICCARDO": {
     "id": "sineo-riccardo",
     "descriptions": [
-      "(1805-1876), piemontese, avvocato, fu tra i fondatori ed i collaboratori del giornale La Concordia. Fu ministro dell'Interno dal dicembre 1848 al febbraio 1849; passò poi al ministero di Grazia e Giustizia, ove restò fino al marzo 1",
-      "(Sale 1805-Torino 1876) deputato nel parlamento subalpino e poi del collegio di Parma, fu tra i fondatori e collaboratori del giornale La Concordia. Senatore dal 1",
+      "(1805-1876), piemontese, avvocato, fu tra i fondatori ed i collaboratori del giornale La Concordia. Fu ministro dell'Interno dal dicembre 1848 al febbraio 1849; passò poi al ministero di Grazia e Giustizia, ove restò fino al marzo 1849",
+      "(Sale 1805-Torino 1876) deputato nel parlamento subalpino e poi del collegio di Parma, fu tra i fondatori e collaboratori del giornale La Concordia. Senatore dal 1873",
       "vedi voll. VI e VII",
       "(1805-1876), già personaggio di rilievo della Sinistra subalpina e oppositore di Cavour, alla fine del 1864 aveva votato contro la Convenzione di Settembre (vedi anche i voll. VI-VIII)",
       "(1805-1876), esponente della Sinistra prima subalpina e poi italiana, sempre eletto dalla I all'XI legislatura (nel corso della IX rappresenta il II collegio di Parma), svolge compiti di mediazione tra Garibaldi e il potere politico (vedi anche i voll. VI-VIII e X)",
@@ -72659,7 +72681,7 @@
   "USEDOM, contessa": {
     "id": "usedom-contessa",
     "descriptions": [
-      "moglie di Karl, ministro plenipotenziario di Prussia in Italia dal 1863 al 1"
+      "moglie di Karl, ministro plenipotenziario di Prussia in Italia dal 1863 al 1869"
     ],
     "occurrences": [
       {
@@ -72729,11 +72751,18 @@
   "VACHIERI, ANGELO": {
     "id": "vachieri-angelo",
     "descriptions": [
-      "nizzardo, colonnello dell'E.M., combattè a Caiazzo"
+      "nizzardo, colonnello dell'E.M., combattè a Caiazzo",
+      "ufficiale nizzardo. Raggiunto il grado di colonnello nell'Esercito regio comandò per dieci anni il distretto e la piazza militare di Benevento; nel 1874 andó ariposo col grado di maggiore generale della riserva (vedi il vol. V)"
     ],
     "occurrences": [
       {
         "volume": 5,
+        "pages": [
+          9
+        ]
+      },
+      {
+        "volume": 10,
         "pages": [
           9
         ]
@@ -72754,11 +72783,9 @@
       }
     ]
   },
-  "VAGLIA": {
+  "VAGLIA, UGO": {
     "id": "vaglia-anonimo",
-    "descriptions": [
-      "UGO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -72774,11 +72801,9 @@
       }
     ]
   },
-  "VAI": {
+  "VAI, UGO": {
     "id": "vai-anonimo",
-    "descriptions": [
-      "FORTUNATO FELICE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -72816,11 +72841,9 @@
       }
     ]
   },
-  "VALANIA": {
+  "VALANIA, GIOVANNI": {
     "id": "valania-anonimo",
-    "descriptions": [
-      "GIOVANNI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -72859,10 +72882,10 @@
       }
     ]
   },
-  "VALENTI, CARLO GIUSEPPE (Bergamo 1840-Palermo 1860) fu uno dei componenti": {
+  "VALENTI, CARLO GIUSEPPE": {
     "id": "valenti-carlo",
     "descriptions": [
-      "tutti bergamaschi, l'VIII compagnia dei Mille"
+      "(Bergamo 1840-Palermo 1860) fu uno dei componenti tutti bergamaschi, l'VIII compagnia dei Mille"
     ],
     "occurrences": [
       {
@@ -72876,7 +72899,7 @@
   "VALERIO, GIUSEPPE": {
     "id": "valerio-giuseppe",
     "descriptions": [
-      "Console generale sardo negli Stati Umti, fratello di Lorenzo"
+      "Console generale sardo negli Stati Uniti, fratello di Lorenzo"
     ],
     "occurrences": [
       {
@@ -72894,7 +72917,9 @@
     "descriptions": [
       "(1810-1863), deputato di sinistra, dirigeva allora a Torino La Concordia",
       "(1810-1865), torinese, fondatore e direttore del giornale La Concordia, fu deputato dell'Estrema dal 1848 al 1859, poi senatore",
-      "(1810-1865), deputato al Parlamento subalpino, direttore de Il Diritto (vedi voll. I e II)"
+      "(1810-1865), deputato al Parlamento subalpino, direttore de Il Diritto (vedi voll. I e II)",
+      "(Torino 1810-ivi 1865) deputato al parlamento subalpino, prefetto di Como",
+      "(Torino 1810-Messina 1865) cominissario regio nelle Marche dopo l'invasione piemontese (cfr. vol. IV)"
     ],
     "occurrences": [
       {
@@ -72950,36 +72975,7 @@
           157,
           183
         ]
-      }
-    ]
-  },
-  "VALERIO, LORENZO (Tonno 1810-Messina 1865)": {
-    "id": "valerio-lorenzo-5",
-    "descriptions": [
-      "cominissario regio nelle Marche dopo l'invasione piemontese (cfr. vol. IV)"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          16,
-          22,
-          34,
-          35,
-          43,
-          44,
-          52,
-          166
-        ]
-      }
-    ]
-  },
-  "VALERIO, LORENZO (Torino 1810-ivi 1865)": {
-    "id": "valerio-lorenzo-4",
-    "descriptions": [
-      "deputato al parlamento subalpino, prefetto di Como"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 4,
         "pages": [
@@ -72998,6 +72994,19 @@
           183,
           222,
           235
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          16,
+          22,
+          34,
+          35,
+          43,
+          44,
+          52,
+          166
         ]
       }
     ]
@@ -73172,11 +73181,9 @@
       }
     ]
   },
-  "VARZEA": {
+  "VARZEA, VIRGILIO": {
     "id": "varzea-anonimo",
-    "descriptions": [
-      "VIRGILIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 1,
@@ -73187,10 +73194,10 @@
       }
     ]
   },
-  "VARÈ, GIOVANNI BATTISTA (Venezia 1818-Roma 1884)": {
+  "VARÈ, GIOVANNI BATTISTA": {
     "id": "varè-giovanni",
     "descriptions": [
-      "esule in Svizzera per essersi compromesso nella rivoluzione veneta del '48, entrò in rapporti con gli ambienti mazziniani e collaborò alla stampa repubblicana. Passato a Genova fu coinvolto nel moto del 1857. Dopo il 1859 si trasferì a Milano ove fu presidente della locale società del tiro e dei carabinieri milanesi, svolgendo con pari intensità la sua opera di avvocato a favore dei perseguitati del partito democratico. Famosa fu la sua difesa di Carlo Antongini. Dopo la liberazione del Veneto fu deputato"
+      "(Venezia 1818-Roma 1884) esule in Svizzera per essersi compromesso nella rivoluzione veneta del '48, entrò in rapporti con gli ambienti mazziniani e collaborò alla stampa repubblicana. Passato a Genova fu coinvolto nel moto del 1857. Dopo il 1859 si trasferì a Milano ove fu presidente della locale società del tiro e dei carabinieri milanesi, svolgendo con pari intensità la sua opera di avvocato a favore dei perseguitati del partito democratico. Famosa fu la sua difesa di Carlo Antongini. Dopo la liberazione del Veneto fu deputato"
     ],
     "occurrences": [
       {
@@ -73201,11 +73208,9 @@
       }
     ]
   },
-  "VASCONI": {
+  "VASCONI, FERDINANDO": {
     "id": "vasconi-anonimo",
-    "descriptions": [
-      "FERDINANDO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -73249,23 +73254,15 @@
       }
     ]
   },
-  "VECCHI": {
+  "VECCHI, ANGELO": {
     "id": "vecchi-anonimo",
     "descriptions": [
-      "ANGELO",
-      "AUGUSTO VITTORIO (Jack La Bolina)"
     ],
     "occurrences": [
       {
         "volume": 6,
         "pages": [
           247
-        ]
-      },
-      {
-        "volume": 7,
-        "pages": [
-          261
         ]
       }
     ]
@@ -73288,6 +73285,9 @@
     "id": "vecchi-candido",
     "descriptions": [
       "(1814-1869), letterato e patriota marchigiano (vedi vol. II)",
+      "(Fermo 1814-ivi 1869)poeta e scrittore, (vedi vol. II)",
+      "(Fermo 1814-Ascoli 1869) scrittore e patriota; nella sua villa di Quarto fu organizzata l'impresa dei Mille; raggiunse Garibaldi a Palermo ed entrò con lui a Napoli; poi deputato",
+      "(Fermo 1814-Ascoli 1869) visse a Caprera dal 24 gennaio al marzo e dal io luglio al 18 agosto 1861. In questi anni fu sempre molto vicino a Garibaldi, ospitandolo anche nella sua dimora di Villa Spinola",
       "(1814-1869), vedi vol. VI. dopo Sarnico aveva avuto incarico da Garibaldi di raccogliere armi in Inghilterra. Alla notizia di Aspromonte accorse in Italia, ma potè raggiungere il suo generale soltanto al Varignano, facendogli da segretario",
       "(1814-1869), vedi voll. V, VI e VII",
       "(1814-1869), scrittore e patriota (vedi anche i voll. II e IV-VIII)",
@@ -73309,6 +73309,45 @@
           102,
           123,
           139
+        ]
+      },
+      {
+        "volume": 4,
+        "pages": [
+          11
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          69
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          3,
+          21,
+          24,
+          25,
+          26,
+          44,
+          55,
+          76,
+          77,
+          84,
+          85,
+          90,
+          134,
+          135,
+          139,
+          143,
+          145,
+          182,
+          183,
+          198,
+          232,
+          284
         ]
       },
       {
@@ -73365,62 +73404,6 @@
         "volume": 13,
         "pages": [
           27
-        ]
-      }
-    ]
-  },
-  "VECCHI, CANDIDO AUGUSTO (Fermo 1814-Ascoli 1869)": {
-    "id": "vecchi-candido-3",
-    "descriptions": [
-      "scrittore e patriota; nella sua villa di Quarto fu organizzata l'impresa dei Mille; raggiunse Garibaldi a Palermo ed entrò con lui a Napoli; poi deputato",
-      "visse a Caprera dal 24 gennaio al marzo e dal io luglio al 18 agosto 1861. In questi anni fu sempre molto vicino a Garibaldi, ospitandolo anche nella sua dimora di Villa Spinola"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          69
-        ]
-      },
-      {
-        "volume": 6,
-        "pages": [
-          3,
-          21,
-          24,
-          25,
-          26,
-          44,
-          55,
-          76,
-          77,
-          84,
-          85,
-          90,
-          134,
-          135,
-          139,
-          143,
-          145,
-          182,
-          183,
-          198,
-          232,
-          284
-        ]
-      }
-    ]
-  },
-  "VECCHI, CANDIDO AUGUSTO (Fermo 1814-ivi 1869)": {
-    "id": "vecchi-candido-2",
-    "descriptions": [
-      "poeta e scrittore, (vedi vol. II)"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          11
         ]
       }
     ]
@@ -73525,10 +73508,10 @@
       }
     ]
   },
-  "VENOSIA": {
-    "id": "venosia-anonimo",
+  "VENOSTA, FELICE": {
+    "id": "venosta-felice",
     "descriptions": [
-      "FELICE"
+      "scrittore ed editore di fortunate opere popolari e illustrate sulle imprese dei garibaldini"
     ],
     "occurrences": [
       {
@@ -73536,29 +73519,13 @@
         "pages": [
           53
         ]
-      }
-    ]
-  },
-  "VENOSTA": {
-    "id": "venosta-anonimo",
-    "descriptions": [
-      "FELICE"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 6,
         "pages": [
           50
         ]
-      }
-    ]
-  },
-  "VENOSTA, FELICE": {
-    "id": "venosta-felice",
-    "descriptions": [
-      "scrittore ed editore di fortunate opere popolari e illustrate sulle imprese dei garibaldini"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 8,
         "pages": [
@@ -73567,11 +73534,9 @@
       }
     ]
   },
-  "VENTURI": {
+  "VENTURI, ALFREDO": {
     "id": "venturi-anonimo",
-    "descriptions": [
-      "ALAFREDO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -73581,10 +73546,10 @@
       }
     ]
   },
-  "VENTURI, CARLO (Avio 1829-Londra 1866)": {
+  "VENTURI, CARLO": {
     "id": "venturi-carlo",
     "descriptions": [
-      "volontario con Garibaldi fin dal 1848, fu poi esule in America e a Londra, ove entrò in relazione con Mazzini. Tornò in Italia nel 1859 partecipando ai fatti d'arme della seconda guerra d'indipendenza e alla spedizione dei Mille. Sposò poi Emilia Ashurst, con la quale, nel 1862, soggiornò in Toscana per appoggiare eventuali movimenti insurrezionali a Roma, ma venne arrestato con la moglie, scambiata per la Sara Nathan. Dopo la scarcerazione tornò a Londra"
+      "(Avio 1829-Londra 1866) volontario con Garibaldi fin dal 1848, fu poi esule in America e a Londra, ove entrò in relazione con Mazzini. Tornò in Italia nel 1859 partecipando ai fatti d'arme della seconda guerra d'indipendenza e alla spedizione dei Mille. Sposò poi Emilia Ashurst, con la quale, nel 1862, soggiornò in Toscana per appoggiare eventuali movimenti insurrezionali a Roma, ma venne arrestato con la moglie, scambiata per la Sara Nathan. Dopo la scarcerazione tornò a Londra"
     ],
     "occurrences": [
       {
@@ -73595,11 +73560,9 @@
       }
     ]
   },
-  "VEO": {
+  "VEO, ETTORE": {
     "id": "veo-anonimo",
-    "descriptions": [
-      "ETTORE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -73668,11 +73631,9 @@
       }
     ]
   },
-  "VERDA": {
+  "VERDA, TOMMASO": {
     "id": "verda-anonimo",
-    "descriptions": [
-      "TOMMASO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -73733,6 +73694,9 @@
     "id": "verità-giovanni",
     "descriptions": [
       "(1807-1885), di Modigliana, parroco, nel 1849 guidò Garibaldi nella fuga attraverso gli Appennini",
+      "(Modigliana 1807-ivi 1885) deputato all'assemblea costituente toscana, cappellano maggiore di Garibaldi a Rimini (vedi vol. II)",
+      "(Modigllana 1807-ivi 1885) sacerdote, amico di Garibaldi, cercò di mediare tra Garibaldi e Cavour nella questione di Nizza; aiutò la spedizione dei Mille",
+      "(Modigliana 1807-ivi 1885) sacerdote mediò il conflitto che oppose Cavour e Garibaldi in occasione della cessione di Nizza, fu sempre tenuto da quest'ultimo in particolare considerazione (vedi voll. II e IV)",
       "(1807-1885), sacerdote, cappellano di Garibaldi e poi dell'esercito regio"
     ],
     "occurrences": [
@@ -73744,54 +73708,30 @@
         ]
       },
       {
-        "volume": 12,
-        "pages": [
-          169
-        ]
-      }
-    ]
-  },
-  "VERITÀ, GIOVANNI (Modigliana 1807-ivi 1885)": {
-    "id": "verità-giovanni-2",
-    "descriptions": [
-      "deputato all'assemblea costituente toscana, cappellano maggiore di Garibaldi a Rimini (vedi vol. II)"
-    ],
-    "occurrences": [
-      {
         "volume": 4,
         "pages": [
           202,
           210
         ]
-      }
-    ]
-  },
-  "VERITÀ, GIOVANNI (Modigliana 1807-ivi 1885) sacerdote": {
-    "id": "verità-giovanni-4",
-    "descriptions": [
-      "mediò il conflitto che oppose Cavour e Garibaldi in occasione della cessione di Nizza, fu sempre tenuto da quest'ultimo in particolare considerazione (vedi voll. II e IV)"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          228
-        ]
-      }
-    ]
-  },
-  "VERITÀ, GIOVANNI (Modigllana 1807-ivi 1885)": {
-    "id": "verità-giovanni-3",
-    "descriptions": [
-      "sacerdote, amico di Garibaldi, cercò di mediare tra Garibaldi e Cavour nella questione di Nizza; aiutò la spedizione dei Mille"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 5,
         "pages": [
           83,
           84,
           87
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          228
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          169
         ]
       }
     ]
@@ -73810,11 +73750,9 @@
       }
     ]
   },
-  "VERNATI": {
+  "VERNATI, PIETRO": {
     "id": "vernati-anonimo",
-    "descriptions": [
-      "PIETRO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -73845,11 +73783,9 @@
       }
     ]
   },
-  "VERONESE": {
+  "VERONESE, LEONE": {
     "id": "veronese-anonimo",
-    "descriptions": [
-      "LEONE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 13,
@@ -73887,12 +73823,9 @@
       }
     ]
   },
-  "VESENTINI": {
+  "VESENTINI, ANGELO": {
     "id": "vesentini-anonimo",
-    "descriptions": [
-      "AANGELO",
-      "ANGELO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 5,
@@ -73980,11 +73913,9 @@
       }
     ]
   },
-  "VIARA": {
+  "VIARA, GIACOMO": {
     "id": "viara-anonimo",
-    "descriptions": [
-      "GIACOMO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 8,
@@ -73994,10 +73925,10 @@
       }
     ]
   },
-  "VICO, GIAMBATTISTA (1668-1744)": {
+  "VICO, GIAMBATTISTA": {
     "id": "vico-giambattista",
     "descriptions": [
-      "filosofo napoletano, con la Scienza nuova, apparsa nel 1725, gettò le basi per il rinnovamento degli studi storici"
+      "(1668-1744) filosofo napoletano, con la Scienza nuova, apparsa nel 1725, gettò le basi per il rinnovamento degli studi storici"
     ],
     "occurrences": [
       {
@@ -74008,10 +73939,10 @@
       }
     ]
   },
-  "VIDAL, FRANCISCO ANTONINO (1797-1851)": {
+  "VIDAL, FRANCISCO ANTONINO": {
     "id": "vidal-francisco",
     "descriptions": [
-      "nel primo periodo del Governo della Difesa assommò in sè le più alte cariche sotto la presidenza del gen. F. Rivera, con il titolo di Ministro generale della Repubblica Orientale dell'Uruguay. Fu infatti ministro di Governo (1839-1843), degli Affari Esteri (idem), della Guerra e Marina (1842-1843), Finanze (idem). Garibaldi nelle Memorie ha parole di viva deplorazione per il suo operato e lo ritiene, fra l'altro, responsabile di aver voluto distruggere o rendere inoperante la flotta da guerra uruguaiana"
+      "(1797-1851) nel primo periodo del Governo della Difesa assommò in sè le più alte cariche sotto la presidenza del gen. F. Rivera, con il titolo di Ministro generale della Repubblica Orientale dell'Uruguay. Fu infatti ministro di Governo (1839-1843), degli Affari Esteri (idem), della Guerra e Marina (1842-1843), Finanze (idem). Garibaldi nelle Memorie ha parole di viva deplorazione per il suo operato e lo ritiene, fra l'altro, responsabile di aver voluto distruggere o rendere inoperante la flotta da guerra uruguaiana"
     ],
     "occurrences": [
       {
@@ -74055,11 +73986,9 @@
       }
     ]
   },
-  "VIEL": {
+  "VIEL, LUIGI": {
     "id": "viel-anonimo",
-    "descriptions": [
-      "LUIGI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -74118,10 +74047,10 @@
       }
     ]
   },
-  "VIGLIANI, PAOLO ONORATO (Pomaro di Alessandria 1814-Firenze 1900)": {
+  "VIGLIANI, PAOLO ONORATO": {
     "id": "vigliani-paolo",
     "descriptions": [
-      "eletto deputato di Valenza per la IV legislatura ebbe l'elezione annullata perché da 36 anni avvocato fiscale generale; governatore generale della Lombardia"
+      "(Pomaro di Alessandria 1814-Firenze 1900) eletto deputato di Valenza per la IV legislatura ebbe l'elezione annullata perché da 36 anni avvocato fiscale generale; governatore generale della Lombardia"
     ],
     "occurrences": [
       {
@@ -74176,31 +74105,24 @@
       }
     ]
   },
-  "VILLAGRAN": {
-    "id": "villagran-anonimo",
-    "descriptions": [
-      "JOSÉ (vedi vol. I)"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          24,
-          38
-        ]
-      }
-    ]
-  },
   "VILLAGRAN, JOSÉ": {
     "id": "villagran-josé",
     "descriptions": [
-      "colonnello uruguaiano sostituì Garibaldi nel comando militare della piazzaforte di Montevideo, nel luglio 1847."
+      "colonnello uruguaiano sostituì Garibaldi nel comando militare della piazzaforte di Montevideo, nel luglio 1847.",
+      "(vedi vol. I)"
     ],
     "occurrences": [
       {
         "volume": 1,
         "pages": [
           242
+        ]
+      },
+      {
+        "volume": 3,
+        "pages": [
+          24,
+          38
         ]
       }
     ]
@@ -74272,10 +74194,10 @@
       }
     ]
   },
-  "VILLANUEVA, maggiore dell'esercito": {
+  "VILLANUEVA": {
     "id": "villanueva-maggiore",
     "descriptions": [
-      "argentino, operante nella zona di Fray Bentos"
+      " maggiore dell'esercito argentino, operante nella zona di Fray Bentos"
     ],
     "occurrences": [
       {
@@ -74360,11 +74282,9 @@
       }
     ]
   },
-  "VISALLI": {
+  "VISALLI, VITTORIO": {
     "id": "visalli-anonimo",
-    "descriptions": [
-      "VITTORIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -74408,10 +74328,10 @@
       }
     ]
   },
-  "VISCONTI VENOSTA, GIOVANNI (Milano 1831-ivi 1906)": {
+  "VISCONTI VENOSTA, GIOVANNI": {
     "id": "visconti-giovanni",
     "descriptions": [
-      "fratello di Emilio come lui fuggi in Piemonte in febbraio, ritornando in Valtellina come Commissario Regio"
+      "(Milano 1831-ivi 1906) fratello di Emilio come lui fuggi in Piemonte in febbraio, ritornando in Valtellina come Commissario Regio"
     ],
     "occurrences": [
       {
@@ -74437,24 +74357,11 @@
     ]
   },
   "VITTORIA": {
-    "id": "vittoria-anonimo",
-    "descriptions": [
-      "la Regina d'Inghilterra"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          95
-        ]
-      }
-    ]
-  },
-  "VITTORIA, (1819-1901)": {
     "id": "vittoria-(1819-1901)",
     "descriptions": [
-      "la Regina d'Inghilterra dal 1837, non condivise la linea filo-italiana del suo governo",
-      "regina di Gran Bretagna e Irlanda"
+      "(1819-1901) la Regina d'Inghilterra dal 1837, non condivise la linea filo-italiana del suo governo",
+      "Regina d'Inghilterra",
+      "(1819-1901) regina di Gran Bretagna e Irlanda"
     ],
     "occurrences": [
       {
@@ -74462,6 +74369,12 @@
         "pages": [
           131,
           137
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          95
         ]
       },
       {
@@ -74473,25 +74386,65 @@
     ]
   },
   "VITTORIO EMANUELE II": {
-    "id": "vittorio-anonimo-2",
+    "id": "vittorio-(1820-1878)",
     "descriptions": [
+      "re di Sardegna",
+      "(1820-1878) Re di Sardegna",
+      "(Torino 1820-Roma 1878), il Re di Sardegna dal 1849 assecondò la spedizione di Garibaldi",
+      "Re d'Italia, continuò a mantenere relazioni particolari con Garibaldi che da parte sua continuò ad agitare, malgrado i timori dei moderati, il programma « Italia e Vittorio Emanuele» (vedi vol. IV), 8, 9,10",
+      "Re d'Italia, vedi voll. IV e VI",
+      "re d'Italia, (1820-1878), conduce una sua politica personale tendente ad attrarre definitivamente Garibaldi nell'orbita della monarchia utilizzandolo fuori del territorio italiano (vedi anche i voli. IV e VI-VII)",
+      "Re d'Italia, (1820-1878), la Convenzione di Settembre riduce notevolmente gli spazi di una sua politica personale, peraltro già colpita a metà del 1864 dalla protesta del Partito d'Azione contro ogni ipotesi di coinvolgimento di Garibaldi nelle eventuali sollevazioni balcaniche (vedi i voli. IV e VI-IX)",
+      "Re. d'Italia (1820-1878), su di lui vedi i voll. IV e VI-X",
+      "(1820-1878) re d'Italia",
       "re d'Italia"
     ],
     "occurrences": [
       {
-        "volume": 14,
+        "volume": 3,
         "pages": [
-          51
+          96,
+          197
         ]
-      }
-    ]
-  },
-  "VITTORIO EMANUELE II (Torino 1820-Roma 1878), il Re di Sardegna dal 1849": {
-    "id": "vittorio-il",
-    "descriptions": [
-      "assecondò la spedizione di Garibaldi"
-    ],
-    "occurrences": [
+      },
+      {
+        "volume": 4,
+        "pages": [
+          55,
+          59,
+          60,
+          63,
+          64,
+          65,
+          68,
+          69,
+          73,
+          76,
+          79,
+          89,
+          90,
+          97,
+          100,
+          102,
+          106,
+          107,
+          119,
+          121,
+          122,
+          131,
+          136,
+          141,
+          142,
+          159,
+          180,
+          181,
+          189,
+          195,
+          203,
+          213,
+          219
+        ]
+      },
       {
         "volume": 5,
         "pages": [
@@ -74560,101 +74513,7 @@
           315,
           317
         ]
-      }
-    ]
-  },
-  "VITTORIO EMANUELE II, (1820-1878)": {
-    "id": "vittorio-(1820-1878)",
-    "descriptions": [
-      "il Re di Sardegna",
-      "re d'Italia"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          55,
-          59,
-          60,
-          63,
-          64,
-          65,
-          68,
-          69,
-          73,
-          76,
-          79,
-          89,
-          90,
-          97,
-          100,
-          102,
-          106,
-          107,
-          119,
-          121,
-          122,
-          131,
-          136,
-          141,
-          142,
-          159,
-          180,
-          181,
-          189,
-          195,
-          203,
-          213,
-          219
-        ]
       },
-      {
-        "volume": 12,
-        "pages": [
-          91
-        ]
-      }
-    ]
-  },
-  "VITTORIO EMANUELE II, Re. d'Italia": {
-    "id": "vittorio-re.",
-    "descriptions": [
-      "(1820-1878), su di lui vedi i voll. IV e VI-X"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          4,
-          29,
-          53,
-          54,
-          55,
-          68,
-          76,
-          86,
-          101,
-          105,
-          158,
-          159,
-          160,
-          161,
-          164,
-          212,
-          309,
-          313
-        ]
-      }
-    ]
-  },
-  "VITTORIO EMANUELE II, il Re d'Italia": {
-    "id": "vittorio-il-2",
-    "descriptions": [
-      "continuò a mantenere relazioni particolari con Garibaldi che da parte sua continuò ad agitare, malgrado i timori dei moderati, il programma « Italia e Vittorio Emanuele» (vedi vol. IV), 8, 9,10",
-      "vedi voll. IV e VI",
-      "(1820-1878), la Convenzione di Settembre riduce notevolmente gli spazi di una sua politica personale, peraltro già colpita a metà del 1864 dalla protesta del Partito d'Azione contro ogni ipotesi di coinvolgimento di Garibaldi nelle eventuali sollevazioni balcaniche (vedi i voli. IV e VI-IX)"
-    ],
-    "occurrences": [
       {
         "volume": 6,
         "pages": [
@@ -74694,24 +74553,6 @@
         ]
       },
       {
-        "volume": 10,
-        "pages": [
-          10,
-          62,
-          67,
-          172,
-          181
-        ]
-      }
-    ]
-  },
-  "VITTORIO EMANUELE II, re d'Italia": {
-    "id": "vittorio-re",
-    "descriptions": [
-      "(1820-1878), conduce una sua politica personale tendente ad attrarre definitivamente Garibaldi nell'orbita della monarchia utilizzandolo fuori del territorio italiano (vedi anche i voli. IV e VI-VII)"
-    ],
-    "occurrences": [
-      {
         "volume": 9,
         "pages": [
           108,
@@ -74723,20 +74564,50 @@
           216,
           224
         ]
-      }
-    ]
-  },
-  "VITTORIO EMANUELE II.": {
-    "id": "vittorio-anonimo",
-    "descriptions": [
-      "re di Sardegna"
-    ],
-    "occurrences": [
+      },
       {
-        "volume": 3,
+        "volume": 10,
         "pages": [
-          96,
-          197
+          10,
+          62,
+          67,
+          172,
+          181
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          4,
+          29,
+          53,
+          54,
+          55,
+          68,
+          76,
+          86,
+          101,
+          105,
+          158,
+          159,
+          160,
+          161,
+          164,
+          212,
+          309,
+          313
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          91
+        ]
+      },
+      {
+        "volume": 14,
+        "pages": [
+          51
         ]
       }
     ]
@@ -74762,11 +74633,9 @@
       }
     ]
   },
-  "VIVIANI": {
+  "VIVIANI, AMBROGIO": {
     "id": "viviani-anonimo",
-    "descriptions": [
-      "AMBROGIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 14,
@@ -74791,11 +74660,9 @@
       }
     ]
   },
-  "VOLLO": {
+  "VOLLO, HÉCTOR": {
     "id": "vollo-anonimo",
-    "descriptions": [
-      "HÉCTOR"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -74806,11 +74673,9 @@
       }
     ]
   },
-  "VOLPATI": {
+  "VOLPATI, CARLO": {
     "id": "volpati-anonimo",
-    "descriptions": [
-      "CARLO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -74823,19 +74688,24 @@
       }
     ]
   },
-  "VOLPI": {
+  "VOLPI, ARACIBANO": {
     "id": "volpi-anonimo",
-    "descriptions": [
-      "ARACIBANO",
-      "capitano"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
         "pages": [
           101
         ]
-      },
+      }
+    ]
+  },
+    "VOLPI": {
+    "id": "volpi-anonimo",
+    "descriptions": [
+      "capitano"
+    ],
+    "occurrences": [
       {
         "volume": 14,
         "pages": [
@@ -74844,10 +74714,12 @@
       }
     ]
   },
-  "VOLTAIRE, FRANCOIS-MARIE AROUET de": {
+  "VOLTAIRE, FRANCOIS-MARIE AROUET DE": {
     "id": "voltaire-francois-marie",
     "descriptions": [
-      "(1694-1778) letterato e filosofo illuminista"
+      "(1694-1778) letterato e filosofo illuminista",
+      "detto (1694-1778), letterato e filosofo francese",
+      "detto (1694-1778), letterato e filosofo francese"
     ],
     "occurrences": [
       {
@@ -74855,29 +74727,13 @@
         "pages": [
           24
         ]
-      }
-    ]
-  },
-  "VOLTAIRE, FRANQOIS-MARIE AROUET": {
-    "id": "voltaire-franqois-marie",
-    "descriptions": [
-      "detto (1694-1778), letterato e filosofo francese;"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 12,
         "pages": [
           26
         ]
-      }
-    ]
-  },
-  "VOLTAIRE, FRANÇOIS-MARIE AROUET": {
-    "id": "voltaire-françois-marie",
-    "descriptions": [
-      "detto (1694-1778), letterato e filosofo francese"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 13,
         "pages": [
@@ -74907,10 +74763,10 @@
       }
     ]
   },
-  "VUILLEUMIER": {
+  "VUILLEUMIER, MARE": {
     "id": "vuilleumier-anonimo",
     "descriptions": [
-      "MARE"
+      ""
     ],
     "occurrences": [
       {
@@ -74924,35 +74780,9 @@
   "WALLACE, SIR WILLIAM": {
     "id": "wallace-sir",
     "descriptions": [
-      "(1270-1305), eroe nazionale scozzese"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          228
-        ]
-      }
-    ]
-  },
-  "WALLACE, SIR WILLIAM (1270-1305)": {
-    "id": "wallace-sir-2",
-    "descriptions": [
-      "eroe nazionale scozzese"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          41
-        ]
-      }
-    ]
-  },
-  "WALLACE, WILLIAM": {
-    "id": "wallace-william",
-    "descriptions": [
-      "(1270-1305), eroe nazionale scozzese. Capeggiò la rivolta contro gli Inglesi"
+      "(1270-1305), eroe nazionale scozzese. Capeggiò la rivolta contro gli Inglesi",
+      "(1270-1305), eroe nazionale scozzese",
+      "(1270-1305) eroe nazionale scozzese"
     ],
     "occurrences": [
       {
@@ -74961,6 +74791,18 @@
           133,
           196,
           197
+        ]
+      },
+      {
+        "volume": 12,
+        "pages": [
+          228
+        ]
+      },
+      {
+        "volume": 13,
+        "pages": [
+          41
         ]
       }
     ]
@@ -74979,11 +74821,11 @@
       }
     ]
   },
-  "WASHINGTON, GEORGE (1732-1799)": {
+  "WASHINGTON, GEORGE": {
     "id": "washington-george",
     "descriptions": [
-      "primo presidente degli Stati Uniti d'America",
-      "primo presidente degli Stati Uniti"
+      "(1732-1799) primo presidente degli Stati Uniti d'America",
+      "(1732-1799) primo presidente degli Stati Uniti"
     ],
     "occurrences": [
       {
@@ -75048,10 +74890,10 @@
       }
     ]
   },
-  "WEST, sono noti un WILLIAM": {
+  "WEST": {
     "id": "west-sono",
     "descriptions": [
-      "(1796-1888), attore e autore di commedie musicali, e un CHARLES, (Londra, 1816 - Parigi, 1898) fisico e medico di fama, specie come ginecologo, che frequentava Nizza, e infine un CHARLES RICHARD, (18151873), ufficiale e scrittore di argomenti militari"
+      "sono noti un WILLIAM (1796-1888), attore e autore di commedie musicali, e un CHARLES, (Londra, 1816 - Parigi, 1898) fisico e medico di fama, specie come ginecologo, che frequentava Nizza, e infine un CHARLES RICHARD, (18151873), ufficiale e scrittore di argomenti militari"
     ],
     "occurrences": [
       {
@@ -75062,10 +74904,10 @@
       }
     ]
   },
-  "WESTE, nelle cronache inglesi la signora West (recte) di cui si serba memoria è moglie di un attore": {
+  "WESTE": {
     "id": "weste-nelle",
     "descriptions": [
-      "William West, nata nel 1790 a Bath e morta a Glasgow nel 1876. Anch'essa attrice di successo recitò fin verso il 1847, quando abbandonò le scene"
+      "nelle cronache inglesi la signora West (recte) di cui si serba memoria è moglie di un attore William West, nata nel 1790 a Bath e morta a Glasgow nel 1876. Anch'essa attrice di successo recitò fin verso il 1847, quando abbandonò le scene"
     ],
     "occurrences": [
       {
@@ -75148,7 +74990,7 @@
       }
     ]
   },
-  "WIGGERS di MECKLENBURG, MAURICE": {
+  "WIGGERS DI MECKLENBURG, MAURICE": {
     "id": "wiggers-maurice",
     "descriptions": [
       "pubblicista tedesco (vedi il vol. VIII)"
@@ -75164,10 +75006,10 @@
       }
     ]
   },
-  "WIGGERS, potrebbe trattarsi di JULES OTTO AUGUSTE": {
+  "WIGGERS": {
     "id": "wiggers-potrebbe",
     "descriptions": [
-      "nato a Rostock nel 1811, teologo e patriota, deputato alla Dieta di Francoforte e nel 1867 rappresentante al Reichstag della Germania del nord, ove aderì al gruppo liberale nazionale, ovvero del fratello MAURIZIO, nato a Rostock nel 1816 scrittore di economia e finanza e diffusore in Germania della lingua e della cultura italiana"
+      "potrebbe trattarsi di JULES OTTO AUGUSTE nato a Rostock nel 1811, teologo e patriota, deputato alla Dieta di Francoforte e nel 1867 rappresentante al Reichstag della Germania del nord, ove aderì al gruppo liberale nazionale, ovvero del fratello MAURIZIO, nato a Rostock nel 1816 scrittore di economia e finanza e diffusore in Germania della lingua e della cultura italiana"
     ],
     "occurrences": [
       {
@@ -75193,11 +75035,9 @@
       }
     ]
   },
-  "WILKINS": {
+  "WILKINS, H. ERNEST": {
     "id": "wilkins-anonimo",
-    "descriptions": [
-      "H. ERNEST"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -75207,7 +75047,7 @@
       }
     ]
   },
-  "WINTER Woon, THOMAS": {
+  "WINTER WOON, THOMAS": {
     "id": "winter-thomas",
     "descriptions": [
       "ccrittore"
@@ -75292,18 +75132,54 @@
       }
     ]
   },
-  "XIMENES": {
+  "XIMENES, ENRICO EMILIO": {
     "id": "ximenes-anonimo",
-    "descriptions": [
-      "ENERICO EMILIO",
-      "ENRICO EMILIO",
-      "ERICO EMILIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 1,
         "pages": [
           253
+        ]
+      },
+      {
+        "volume": 2,
+        "pages": [
+          7,
+          9,
+          34,
+          200
+        ]
+      },
+      {
+        "volume": 3,
+        "pages": [
+          25, 
+          37, 
+          38,
+          65,
+          81,
+          90,
+          92,
+          93,
+          99,
+          103,
+          120,
+          121,
+          122,
+          127,
+          128,
+          130,
+          132,
+          137,
+          150,
+          175,
+          186,
+          188,
+          189,
+          194,
+          195,
+          196
         ]
       },
       {
@@ -75327,6 +75203,67 @@
           209,
           229,
           230
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          8, 
+          15, 
+          22, 
+          29, 
+          43, 
+          48, 
+          53, 
+          55, 
+          71, 
+          75, 
+          80, 
+          84, 
+          85, 
+          86, 
+          89,
+          95, 
+          96, 
+          99, 
+          102, 
+          104, 
+          110, 
+          111, 
+          112, 
+          117, 
+          119,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          134,
+          135,
+          141,
+          166,
+          178,
+          190,
+          205,
+          227,
+          232,
+          242,
+          255,
+          265,
+          268,
+          269,
+          272,
+          274,
+          278,
+          283,
+          291,
+          305,
+          318,
+          320,
+          323,
+          328,
+          332
         ]
       },
       {
@@ -75586,6 +75523,56 @@
         ]
       },
       {
+        "volume": 12,
+        "pages": [
+          20, 
+          21, 
+          27, 
+          28, 
+          36, 
+          38, 
+          39, 
+          43,
+          46,
+          52,
+          77,
+          100,
+          107,
+          123,
+          139,
+          147,
+          152,
+          154,
+          173,
+          176,
+          177,
+          180,
+          181,
+          185,
+          189,
+          190,
+          191,
+          194,
+          195,
+          196,
+          198,
+          200,
+          201,
+          202,
+          207,
+          209,
+          211,
+          212,
+          213,
+          216,
+          232,
+          250,
+          251,
+          252,
+          262
+        ]
+      },
+      {
         "volume": 13,
         "pages": [
           12,
@@ -75650,155 +75637,7 @@
           305,
           314
         ]
-      }
-    ]
-  },
-  "XIMENES, ENBRICO EMILIO": {
-    "id": "ximenes-enbrico",
-    "descriptions": [
-      "20, 21, 27, 28, 36, 38, 39, 43,."
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          46,
-          52,
-          77,
-          100,
-          107,
-          123,
-          139,
-          147,
-          152,
-          154,
-          173,
-          176,
-          177,
-          180,
-          181,
-          185,
-          189,
-          190,
-          191,
-          194,
-          195,
-          196,
-          198,
-          200,
-          201,
-          202,
-          207,
-          209,
-          211,
-          212,
-          213,
-          216,
-          232,
-          250,
-          251,
-          252,
-          262
-        ]
-      }
-    ]
-  },
-  "XIMENES, ENRICO EMILIO": {
-    "id": "ximenes-enrico",
-    "descriptions": [
-      "25, 37, 38, ó",
-      "8, 15, 22, 29, 43, 48, 53, 55, 71, 75, 80, 84, 85, 86, 8~ 95, 96, 99, 102, 104, 110, 111, 112, 11~ 11~"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          5,
-          81,
-          90,
-          92,
-          93,
-          99,
-          103,
-          120,
-          121,
-          122,
-          127,
-          128,
-          130,
-          132,
-          137,
-          150,
-          175,
-          186,
-          188,
-          189,
-          194,
-          195,
-          196
-        ]
       },
-      {
-        "volume": 5,
-        "pages": [
-          125,
-          126,
-          127,
-          128,
-          129,
-          130,
-          134,
-          135,
-          141,
-          166,
-          178,
-          190,
-          205,
-          227,
-          232,
-          242,
-          255,
-          265,
-          268,
-          269,
-          272,
-          274,
-          278,
-          283,
-          291,
-          305,
-          318,
-          320,
-          323,
-          328,
-          332
-        ]
-      }
-    ]
-  },
-  "XIMENEZ": {
-    "id": "ximenez-anonimo",
-    "descriptions": [
-      "ENRICO EMILIO"
-    ],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          7,
-          9,
-          34,
-          200
-        ]
-      }
-    ]
-  },
-  "XIMNENES": {
-    "id": "ximnenes-anonimo",
-    "descriptions": [
-      "ENRICO EMILIO"
-    ],
-    "occurrences": [
       {
         "volume": 14,
         "pages": [
@@ -75899,11 +75738,9 @@
       }
     ]
   },
-  "ZAGARIA": {
+  "ZAGARIA, RICCARDO": {
     "id": "zagaria-anonimo",
-    "descriptions": [
-      "RICCARDO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -75928,11 +75765,9 @@
       }
     ]
   },
-  "ZAMA": {
+  "ZAMA, PIERO": {
     "id": "zama-anonimo",
-    "descriptions": [
-      "PIERO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 4,
@@ -75948,10 +75783,12 @@
       }
     ]
   },
-  "ZAMBECCARI, Livio": {
+  "ZAMBECCARI, TITO LIVIO": {
     "id": "zambeccari-livio",
     "descriptions": [
-      "patriota bolognese (1802-1862), carbonaro ed esule dopo i moti del 1821, operò in Argentina contro Rosas e successivamente (1835-36) in difesa della Repubbhca di Riogrande del Sud in lotta contro l'Impero del Brasile. Si ritiene che abbia ispirato le idee rivoluzionarie di quel Governo. Fatto prigiomero nella battaglia di Fanfa (4 ottobre 1836) dagli Imperiali fu liberato nel 1839 ed imbarcato per l'Europa. dove entrò in contatto con Nicola Fabrizi"
+      "patriota bolognese (1802-1862), carbonaro ed esule dopo i moti del 1821, operò in Argentina contro Rosas e successivamente (1835-36) in difesa della Repubbhca di Riogrande del Sud in lotta contro l'Impero del Brasile. Si ritiene che abbia ispirato le idee rivoluzionarie di quel Governo. Fatto prigiomero nella battaglia di Fanfa (4 ottobre 1836) dagli Imperiali fu liberato nel 1839 ed imbarcato per l'Europa. dove entrò in contatto con Nicola Fabrizi",
+      "(1802-1862), carbonaro, esule dopo i moti del '21 (vedi vol. I)",
+      "(Bologna 1802-1862) dopo il 1860 entrò nelle file dell'esercito regolare per dimettersi in segno di protesta per i fatti di Sarnico (vedi voll. I e III)"
     ],
     "occurrences": [
       {
@@ -75959,29 +75796,13 @@
         "pages": [
           14
         ]
-      }
-    ]
-  },
-  "ZAMBECCARI, TITO LIVIO": {
-    "id": "zambeccari-tito",
-    "descriptions": [
-      "(1802-1862), carbonaro, esule dopo i moti del '21 (vedi vol. I)"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 3,
         "pages": [
           104
         ]
-      }
-    ]
-  },
-  "ZAMBECCARI, TITO LIVIO (Bologna 1802-1862)": {
-    "id": "zambeccari-tito-2",
-    "descriptions": [
-      "dopo il 1860 entrò nelle file dell'esercito regolare per dimettersi in segno di protesta per i fatti di Sarnico (vedi voll. I e III)"
-    ],
-    "occurrences": [
+      },
       {
         "volume": 6,
         "pages": [
@@ -75991,13 +75812,27 @@
     ]
   },
   "ZAMBIANCHI, CALLIMACO": {
-    "id": "zambianchi-callimaco-2",
+    "id": "zambianchi-callimaco",
     "descriptions": [
+      "(Forlì 1811-Buenos Aires 1860) sbarcò a Talamone per attaccare lo Stato Pontificio; scontratosi il 19 maggio con Pimodan, sciolse la sua colonna facendo ritorno in Toscana, dove fu arrestato. Accettò da Cavour 20.000 franchi con l'obbligo di emigrare e mori in vista della capitale argentina",
       "nato a Forli nel 1811, guidò la colonna sbarcata a Talamone, ma non dette buona prova in questo incarico. Fatto arrestare da Cavour nel 1860 si ammalò, ma ebbe il sostegno e la solidarietà di Garibaldi. Non è certa la data della sua morte (vedi vol. II)",
       "vedi voli. II, V e VI",
       "(1811-1860), gUIdò nel 1860 la colonna garibaldina sbarcata a Talamone"
     ],
     "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          2,
+          3,
+          22,
+          42,
+          99,
+          100,
+          102,
+          304
+        ]
+      },
       {
         "volume": 6,
         "pages": [
@@ -76021,32 +75856,9 @@
       }
     ]
   },
-  "ZAMBIANCHI, CALLIMACO (Forlì 1811-Buenos Aires 1860)": {
-    "id": "zambianchi-callimaco",
-    "descriptions": [
-      "sbarcò a Talamone per attaccare lo Stato Pontificio; scontratosi il 19 maggio con Pimodan, sciolse la sua colonna facendo ritorno in Toscana, dove fu arrestato. Accettò da Cavour 20.000 franchi con l'obbligo di emigrare e mori in vista della capitale argentina"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          2,
-          3,
-          22,
-          42,
-          99,
-          100,
-          102,
-          304
-        ]
-      }
-    ]
-  },
-  "ZAMBONI": {
+  "ZAMBONI, ALBERTO": {
     "id": "zamboni-anonimo",
-    "descriptions": [
-      "ALBERTO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -76098,11 +75910,9 @@
       }
     ]
   },
-  "ZAMBRA": {
+  "ZAMBRA, LUIGI": {
     "id": "zambra-anonimo",
-    "descriptions": [
-      "LUIGI"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 8,
@@ -76140,11 +75950,9 @@
       }
     ]
   },
-  "ZANARDELLI": {
+  "ZANARDELLI, VITTORIO": {
     "id": "zanardelli-anonimo",
-    "descriptions": [
-      "VITTORIO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 10,
@@ -76206,7 +76014,6 @@
       }
     ]
   },
-
   "ZANCHI, DIONIGI": {
     "id": "zanchi-dionigi",
     "descriptions": [
@@ -76256,7 +76063,7 @@
       }
     ]
   },
-  "ZANETTI LUIGI": {
+  "ZANETTI, LUIGI": {
     "id": "zanetti-anonimo",
     "descriptions": [
       "capitano"
@@ -76288,21 +76095,8 @@
   "ZANETTI, FERDINANDO o ZANNETTI": {
     "id": "zanetti-ferdinando-2",
     "descriptions": [
+      "(Monte San Savino 1802-Firenze 1881) professore di chimica e chirurgia presso l'ospedale di Santa Maria Nuova in Firenze, fu maestro dell'Albanese che propose di consultarlo per la ferita di Garibaldi. Sostenne tra i primi la presenza della palla nel piede dell'eroe e fu poi lui ad estrargliela",
       "(1802-1881), vedi vol. VII,"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          85
-        ]
-      }
-    ]
-  },
-  "ZANETTI, FERDINANDO o ZANNETTI (Monte San Savino 1802-Firenze 1881)": {
-    "id": "zanetti-ferdinando",
-    "descriptions": [
-      "professore di chimica e chirurgia presso l'ospedale di Santa Maria Nuova in Firenze, fu maestro dell'Albanese che propose di consultarlo per la ferita di Garibaldi. Sostenne tra i primi la presenza della palla nel piede dell'eroe e fu poi lui ad estrargliela"
     ],
     "occurrences": [
       {
@@ -76313,14 +76107,18 @@
           241,
           244
         ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          85
+        ]
       }
     ]
   },
-  "ZANGHERI": {
+  "ZANGHERI, RENATO": {
     "id": "zangheri-anonimo",
-    "descriptions": [
-      "RENATO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -76376,11 +76174,9 @@
       }
     ]
   },
-  "ZANIBONI FERINO": {
+  "ZANIBONI FERINO, UGO": {
     "id": "zaniboni-anonimo",
-    "descriptions": [
-      "UGO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 11,
@@ -76395,11 +76191,9 @@
       }
     ]
   },
-  "ZANINI": {
+  "ZANINI, FELICE": {
     "id": "zanini-anonimo",
-    "descriptions": [
-      "FELICE"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -76423,10 +76217,21 @@
       }
     ]
   },
+  "ZANNINI, ANTONIO": {
+    "id": "zannini-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          40
+        ]
+      }
+    ]
+  },
   "ZANNINI": {
     "id": "zannini-anonimo",
     "descriptions": [
-      "ANTONIO",
       "maestra"
     ],
     "occurrences": [
@@ -76434,12 +76239,6 @@
         "volume": 6,
         "pages": [
           40
-        ]
-      },
-      {
-        "volume": 13,
-        "pages": [
-          211
         ]
       }
     ]
@@ -76463,11 +76262,9 @@
       }
     ]
   },
-  "ZANNONI": {
+  "ZANNONI, FRANCESCO": {
     "id": "zannoni-anonimo",
-    "descriptions": [
-      "FRANCESCO"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -76585,10 +76382,10 @@
       }
     ]
   },
-  "ZAVOTA, aveva offerto ospitalità a Garibaldi nella sua casa di Casamicciola": {
+  "ZAVOTA": {
     "id": "zavota-aveva",
     "descriptions": [
-      "nell'isola di Ischia"
+      "aveva offerto ospitalità a Garibaldi nella sua casa di Casamicciola, nell'isola di Ischia"
     ],
     "occurrences": [
       {
@@ -76655,11 +76452,9 @@
       }
     ]
   },
-  "ZITTI": {
+  "ZITTI, GIOVANNI BATTISTA": {
     "id": "zitti-anonimo",
-    "descriptions": [
-      "GIOVANNI BATTISTA"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 12,
@@ -76742,10 +76537,10 @@
       }
     ]
   },
-  "ZUCCHI, CARLO (1777-1863)": {
+  "ZUCCHI, CARLO": {
     "id": "zucchi-carlo",
     "descriptions": [
-      "generale, fu ministro della Guerra nel gabinetto di Pellegrino Rossi a Roma"
+      "(1777-1863) generale, fu ministro della Guerra nel gabinetto di Pellegrino Rossi a Roma"
     ],
     "occurrences": [
       {
@@ -76791,10 +76586,10 @@
       }
     ]
   },
-  "agli ordini di Garibaldi. Chiamato dal Bellazzi presso il generale il 12 maggio 1862, fu incancato di una missione di cui poco sappiamo. Continuò ad avere rapporti col movimento democratico fino a che": {
+  "WOLF, ADOLPH": {
     "id": "agli-fu",
     "descriptions": [
-      "caduto Napoleone III, Si ebbero le prove che da oltre, 20 anni era una spia stipendiata dalla Francia"
+      "bavarese, disertò l'esercito pontificio e aderi al movimento rivoluzionario. Nel 1860 fece parte della Leg10ne estera agli ordini di Garibaldi. Chiamato dal Bellazzi presso il generale il 12 maggio 1862, fu incancato di una missione di cui poco sappiamo. Continuò ad avere rapporti col movimento democratico fino a che caduto Napoleone III, Si ebbero le prove che da oltre, 20 anni era una spia stipendiata dalla Francia"
     ],
     "occurrences": [
       {
@@ -76805,39 +76600,10 @@
       }
     ]
   },
-  "colonnello nell'Esercito regio": {
-    "id": "colonnello-anonimo",
-    "descriptions": [
-      "comandò per dieci anni il distretto e la piazza militare di Benevento; nel 1874 andó ariposo col grado di maggiore generale della riserva (vedi il vol. V)"
-    ],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          9
-        ]
-      }
-    ]
-  },
-  "e Due Sicilie": {
-    "id": "e-anonimo",
-    "descriptions": [
-      "scavalcando Garibaldi"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          136,
-          189
-        ]
-      }
-    ]
-  },
-  "parte cospicua nella rivoluzione del 1860. Nel 1862, da Palermo": {
+  "DELLA VERDURA, CAMILLO BENSO": {
     "id": "parte-da",
     "descriptions": [
-      "operò in appoggio all'azione insurrezionale, incontrandosi con Garibaldi a Mezzoiuso il 5 agosto. Malgrado ciò nel novembre del 1862 fu nommato senatore del Regno. Molto legato a Crispi, ebbe un ruolo assai importante nella vicenda amministrativa del capoluogo siciliano, del quale fu più volte sindaco"
+      "duca (Palermo 1816-ivi 1904), discendente di una delle più illustri famighe palermitane, ebbe parte cospicua nella rivoluzione del 1860. Nel 1862, da Palermo operò in appoggio all'azione insurrezionale, incontrandosi con Garibaldi a Mezzoiuso il 5 agosto. Malgrado ciò nel novembre del 1862 fu nommato senatore del Regno. Molto legato a Crispi, ebbe un ruolo assai importante nella vicenda amministrativa del capoluogo siciliano, del quale fu più volte sindaco"
     ],
     "occurrences": [
       {
@@ -76845,21 +76611,6 @@
         "pages": [
           175,
           179
-        ]
-      }
-    ]
-  },
-  "persistenti sentimenti repubblicani, ottenne tuttavia il laticlavio senatorio nel 1879": {
-    "id": "persistenti-ottenne",
-    "descriptions": [
-      "vedi vol. VII"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          23,
-          122
         ]
       }
     ]

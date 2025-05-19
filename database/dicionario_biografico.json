@@ -53869,7 +53869,7 @@
   "PANNI, ULISSE": {
     "id": "panni-ulisse",
     "descriptions": [
-      "presidente del Comitato italiano di Marsiglia fino al gennaio 1"
+      "presidente del Comitato italiano di Marsiglia fino al gennaio 1871"
     ],
     "occurrences": [
       {
@@ -54290,7 +54290,7 @@
   "PARODI, LORENZO": {
     "id": "paro-lorenzo",
     "descriptions": [
-      "ufficiale 1a Leg. It. Tenente, poi capitano. Accompagnò Garibaldi nella ritirata da Roma. Arrestato dagli Austriaci, fu fucilato il io agosto 1",
+      "ufficiale 1a Leg. It. Tenente, poi capitano. Accompagnò Garibaldi nella ritirata da Roma. Arrestato dagli Austriaci, fu fucilato il io agosto 1849",
       "legionario, fucilato dagli austriaci nel 1849 (vedi vol. II)"
     ],
     "occurrences": [
@@ -54950,20 +54950,6 @@
         "pages": [
           332,
           333
-        ]
-      }
-    ]
-  },
-  "PE DI VILLAMARINA., SALVATORE": {
-    "id": "pe-salvatore",
-    "descriptions": [
-      "prefetto di Milano dal 31 marzo 1862 al 13 febbraio 1"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          226
         ]
       }
     ]
@@ -55747,13 +55733,20 @@
   "PES DI VILLAMARINA, SALVATORE": {
     "id": "pes-salvatore",
     "descriptions": [
-      "(Cagliari 1808-Torino 1877) marchese, ministro plenipotenziario sardo a Napoli"
+      "(Cagliari 1808-Torino 1877) marchese, ministro plenipotenziario sardo a Napoli",
+      "prefetto di Milano dal 31 marzo 1862 al 13 febbraio 1868"
     ],
     "occurrences": [
       {
         "volume": 5,
         "pages": [
           236
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          226
         ]
       }
     ]
@@ -58606,7 +58599,7 @@
   "POTENZIANI, BASILIO": {
     "id": "potenziani-basilio",
     "descriptions": [
-      "marchese reatino, gonfaloniere di Rieti neli' aprile 1"
+      "marchese reatino, gonfaloniere di Rieti neli' aprile 1849"
     ],
     "occurrences": [
       {
@@ -59002,7 +58995,7 @@
   "PRIVAT DESCHANEL, AUGUSTINI": {
     "id": "privat-augustin'",
     "descriptions": [
-      "professore di fisica e medicina, nato ad Aliene (Lozère) il 22 agosto 1821 e morto a Vanvera il 15 ottobre 1"
+      "professore di fisica e medicina, nato ad Aliene (Lozère) il 22 agosto 1821 e morto a Vanvera il 15 ottobre 1883"
     ],
     "occurrences": [
       {
@@ -59188,7 +59181,7 @@
   "PULINI, ILARIO": {
     "id": "pulini-ilario",
     "descriptions": [
-      "(1799-1849) di Ancona, già combattente in Cile ed in Bolivia, colonnello aiutante eh campo 1a Leg. It., morì in seguito a ferita ricevuta in combattimento il 3 giugno 1"
+      "(1799-1849) di Ancona, già combattente in Cile ed in Bolivia, colonnello aiutante eh campo 1a Leg. It., morì in seguito a ferita ricevuta in combattimento il 3 giugno 1849"
     ],
     "occurrences": [
       {
@@ -60887,7 +60880,7 @@
       "(Firenze 1809-Brolio 1880) succeduto a Cavour alla direzione del governo non ebbe il sostegno e la simpatia del sovrano mentre i suoi rapporti col partito democratico, malgrado i suoi riconoscimenti dei menti dei volontari garibaldini, furono sempre tesi. Ciò lo spinse alle dimissiom ai primi di marzo del 1862",
       "(Firenze 1809-Brolio 1880) vedi vol. VI. Nel 1862 fu appartato dalla lotta politica, ma il suo nome ricorse nei dibattiti parlamentari, tentandosi, da parte rattazziana, di addebitargli la chiamata di Garibaldi a Torino per incaricarlo della promozione del Tiro nazionale, una tesi che lo stesso generale avallò",
       "(1809-1880), presidente del Consiglio dall'inizio della guerra, si dimetterà l'11 febbraio 1867; riottenuto l'incarico il 17 febbraio, lascerà definitivamente nel successivo mese di marzo",
-      "(1809-1880), barone, presidente del Consiglio e ministro dell'Interno dal 20 giugno 1866 al 10 aprile 1"
+      "(1809-1880), barone, presidente del Consiglio e ministro dell'Interno dal 20 giugno 1866 al 10 aprile 1867."
     ],
     "occurrences": [
       {
@@ -61579,7 +61572,7 @@
   "RIGHI, ANTONIO": {
     "id": "righi-antonio",
     "descriptions": [
-      "ufficiale 1a Leg. It., mori in combattimento il 30 aprile 1"
+      "ufficiale 1a Leg. It., mori in combattimento il 30 aprile 1849"
     ],
     "occurrences": [
       {
@@ -62887,7 +62880,7 @@
   "ROSATI, FILIPPO": {
     "id": "rosati-filippo",
     "descriptions": [
-      "gonfaloniere di Rieti nel febbraio-marzo 1"
+      "gonfaloniere di Rieti nel febbraio-marzo 1849"
     ],
     "occurrences": [
       {
@@ -63114,7 +63107,7 @@
   "ROSSETTI, LUIGI": {
     "id": "rossetti-luigi",
     "descriptions": [
-      "genovese, affiliato alla Congrega di Rio de Janeiro della Giovine Italia con il nome di Olgiati. Nel 1836 partecipa alla prima fase della spedizione corsara di Garibaldi, da Rio de Janeiro a Maldonado. Al servizio della Repubblica Riograndense dirige dal 1° settembre 1838 il giornale O povo e poi diviene Segretario interino del Governo di Santa Catharina. Muore in combattimento nei pressi di Viamao (Villa Setembrina) il 24 settembre 1"
+      "genovese, affiliato alla Congrega di Rio de Janeiro della Giovine Italia con il nome di Olgiati. Nel 1836 partecipa alla prima fase della spedizione corsara di Garibaldi, da Rio de Janeiro a Maldonado. Al servizio della Repubblica Riograndense dirige dal 1° settembre 1838 il giornale O povo e poi diviene Segretario interino del Governo di Santa Catharina. Muore in combattimento nei pressi di Viamao (Villa Setembrina) il 24 settembre 1840."
     ],
     "occurrences": [
       {
@@ -63151,20 +63144,6 @@
   "ROSSI, DOMENICO": {
     "id": "rossi-anonimo",
     "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          92,
-          143
-        ]
-      }
-    ]
-  },"ROSSI, PELLEGRINO": {
-    "id": "rossi-anonimo",
-    "descriptions": [
-      "(1787-1848) presidente del Consiglio dei Ministri dello Stato Pontificio assassinato a Roma il 15 novembre 1"
-    ],
     "occurrences": [
       {
         "volume": 14,
@@ -63789,7 +63768,7 @@
   "RUSCA, FELICE": {
     "id": "rusca-felice",
     "descriptions": [
-      "Garibaldi attesta di essere stato ospite nella sua casa durante il suo breve soggiorno locarnese del giugno 1"
+      "Garibaldi attesta di essere stato ospite nella sua casa durante il suo breve soggiorno locarnese del giugno 1862"
     ],
     "occurrences": [
       {
@@ -63834,7 +63813,7 @@
       "(1792-1878) ministro degli esteri britannico dal giugno nel governo whig-liberale di Lord Palmerston",
       "(1792-1878) uomo politico inglese (vedi vol. IV)",
       "(1792-1878) discendente di una delle grandi famiglie dell'aristocrazia whig, ministro degli esteri nel governo di Lord Palmerston. Sostenitore della causa italiana, con la sua circolare diplomatica del 27 ottobre giustificò l'impresa di Garibaldi",
-      "(1792-1878), uomo politico inglese di orientamento liberal-democratico, dal 1865 al 1866 è nuovamente primo ministro (vedi anche il vol. V), 271, 285 SACCHI, ACHILLE, (1827-1890), medico mantovano coinvolto a suo tempo nella vicenda dei martiri di Belfiore; appena liberata Mantova pubblica e dedica a Garibaldi un lavoro su Cenni biografici e scritti vari di Anna Filippini Poma e del dottore Carlo Poma, Mantova 1"
+      "(1792-1878), uomo politico inglese di orientamento liberal-democratico, dal 1865 al 1866 è nuovamente primo ministro (vedi anche il vol. V)"
     ],
     "occurrences": [
       {
@@ -63859,7 +63838,8 @@
       {
         "volume": 11,
         "pages": [
-          276
+          271, 
+          285
         ]
       }
     ]
@@ -63902,10 +63882,10 @@
       }
     ]
   },
-  "RUSTOIO, WILLIAM": {
+  "RUSTOW, WILLIAM": {
     "id": "rustoio-william",
     "descriptions": [
-      "(1821-1878), soldato e teorico della guerra, fu nello stato maggiore di Garibaldi nell'E.M. e lasciò importanti scritti sulle campagne del 1859-60 e 1"
+      "(1821-1878), soldato e teorico della guerra, fu nello stato maggiore di Garibaldi nell'E.M. e lasciò importanti scritti sulle campagne del 1859-60 e 1866"
     ],
     "occurrences": [
       {
@@ -64147,11 +64127,12 @@
     "descriptions": [
       "(Mantova 1827-ivi 1890) medico, partecipò alla fase finale dell'impresa di Garibaldi",
       "(Mantova 1827-ivi 1890) medico e combattente, dopo il 1860 fu membro autorevole del Comitato Centrale di Provvedimento di Genova In relazione con Mazzini, non fu sempre d'accordo con Garibaldi e col suo uomo di fiducia nel Comitato, il Bellazzi",
+      "(1827-1890), medico mantovano coinvolto a suo tempo nella vicenda dei martiri di Belfiore; appena liberata Mantova pubblica e dedica a Garibaldi un lavoro su Cenni biografici e scritti vari di Anna Filippini Poma e del dottore Carlo Poma, Mantova 1867",
       "(1827-1890), medico mantovano coinvolto nella vicenda dei martiri di Belfiore",
       "(1827-1890), medico mantovano comvolto nella vicenda dei martin di Belfiore"
     ],
     "occurrences": [
-            {
+      {
         "volume": 5,
         "pages": [
           315
@@ -64170,6 +64151,12 @@
           148,
           165,
           166
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          276
         ]
       },
       {
@@ -64589,7 +64576,7 @@
   "SALA, LUIGI": {
     "id": "sala-luigi",
     "descriptions": [
-      "era stato sottotenente nei C.d.A. e fu eletto assessore nella municipalità milanese il i febbraio 1"
+      "era stato sottotenente nei C.d.A. e fu eletto assessore nella municipalità milanese il i febbraio 1861"
     ],
     "occurrences": [
       {
@@ -65695,7 +65682,7 @@
   "SAVIO, EMILIO": {
     "id": "savio-emilio",
     "descriptions": [
-      "figlio di Olimpia, nacque il 6 maggio 1837 e mori sotto Gaeta il 22 gennaio 1"
+      "figlio di Olimpia, nacque il 6 maggio 1837 e mori sotto Gaeta il 22 gennaio 1861"
     ],
     "occurrences": [
       {
@@ -66639,7 +66626,7 @@
   "SCULTHEIS, SAVERIO": {
     "id": "scultheis-saverio",
     "descriptions": [
-      "maggiore comandante il battaglione di linea in Terni nell'aprile 1"
+      "maggiore comandante il battaglione di linea in Terni nell'aprile 1849"
     ],
     "occurrences": [
       {
@@ -67148,7 +67135,7 @@
   "SERRA, FRANCESCO": {
     "id": "serra-francesco",
     "descriptions": [
-      "(Genova 1801-Firenze 1877) vice-ammiraglio, intendente generale della marina sarda, nommato senatore nel gennaio 1"
+      "(Genova 1801-Firenze 1877) vice-ammiraglio, intendente generale della marina sarda, nommato senatore nel gennaio 1861"
     ],
     "occurrences": [
       {
@@ -68260,7 +68247,7 @@
   "SOARES, BERNARDINO": {
     "id": "soares-bernardino",
     "descriptions": [
-      "ex pilota di marina, nominato 1° tenente della L.I M. nel settembre 1"
+      "ex pilota di marina, nominato 1° tenente della L.I M. nel settembre 1844"
     ],
     "occurrences": [
       {
@@ -69191,7 +69178,7 @@
   "STATELLA, VINCENZO": {
     "id": "statella-vincenzo",
     "descriptions": [
-      "(1825-1866), conte, ufficiale 1a Leg. It., fece parte dei lancieri, poi capitano nello S.M. di Garibaldi. Ferito il 30 aprile 1",
+      "(1825-1866), conte, ufficiale 1a Leg. It., fece parte dei lancieri, poi capitano nello S.M. di Garibaldi. Ferito il 30 aprile 1849",
       "(1825-1866), conte, combattè con Garibaldi a Roma (vedi vol. II)"
     ],
     "occurrences": [
@@ -70026,7 +70013,7 @@
     "descriptions": [
       "figlio di Francesco, divenne amico di Garibaldi durante l'esilio di questi alla Maddalena",
       "fratello di Antonio (vedi vol. II)",
-      "aiutò Ganbaldi nella fuga da Caprera dell'ottobre 1"
+      "aiutò Ganbaldi nella fuga da Caprera dell'ottobre 1867"
     ],
     "occurrences": [
       {
@@ -70987,7 +70974,7 @@
   "TENNENT, HUGH": {
     "id": "tennent-hugh",
     "descriptions": [
-      "scozzese, muore il 15 luglio 1"
+      "scozzese, muore il 15 luglio 1864"
     ],
     "occurrences": [
       {
@@ -72259,7 +72246,7 @@
   "TURPIN DE SANSAY, LOUIS-ADOLPHE": {
     "id": "turpin-louis-adolphe",
     "descriptions": [
-      "pubblicista francese, invia a Garibaldi un proprio volume intitolato Indépendance italienne. Mémoires sur Garibaldi (souvenir de l'Italie), Paris, L. Roudiez, 1"
+      "pubblicista francese, invia a Garibaldi un proprio volume intitolato Indépendance italienne. Mémoires sur Garibaldi (souvenir de l'Italie), Paris, L. Roudiez, 1866"
     ],
     "occurrences": [
       {
@@ -72856,7 +72843,7 @@
   "VALCARENGHI, DAVIDE": {
     "id": "valcarenghi-davide",
     "descriptions": [
-      "così è scritto nel Copialettere. In realtà trattasi di Carlo, nato a Piadena e, giovanissimo, partito con i Mille. Morì il 27 maggio 1"
+      "così è scritto nel Copialettere. In realtà trattasi di Carlo, nato a Piadena e, giovanissimo, partito con i Mille. Morì il 27 maggio 1860"
     ],
     "occurrences": [
       {
@@ -73453,7 +73440,7 @@
   "VEGEZZI, SAVERIO": {
     "id": "vegezzi-saverio",
     "descriptions": [
-      "(1805-1888), giurista e deputato. Su incarico del capo del Governo, La Marmora, nella tarda primavera del 1865 effettuò una missione a Roma volta a trovare un accordo con il papato sulla questione delle sedi vescovili vacanti. Non ottenne grandi risultati, ma fu fatto ugualmente senatore il 30 giugno 1"
+      "(1805-1888), giurista e deputato. Su incarico del capo del Governo, La Marmora, nella tarda primavera del 1865 effettuò una missione a Roma volta a trovare un accordo con il papato sulla questione delle sedi vescovili vacanti. Non ottenne grandi risultati, ma fu fatto ugualmente senatore il 30 giugno 1867"
     ],
     "occurrences": [
       {
@@ -76246,7 +76233,7 @@
   "ZANNINI, DIONISIO": {
     "id": "zannini-dionisio",
     "descriptions": [
-      "avvocato, fu preside di Macerata dal 25 gennaio 1"
+      "avvocato, fu preside di Macerata dal 25 gennaio 1849"
     ],
     "occurrences": [
       {
@@ -76371,7 +76358,7 @@
   "ZATTINI GORI, LUIGI": {
     "id": "zattini-luigi",
     "descriptions": [
-      "ospitò nella sua casa Garibaldi la notte del 15 agosto 1"
+      "ospitò nella sua casa Garibaldi la notte del 15 agosto 1849"
     ],
     "occurrences": [
       {

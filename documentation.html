@@ -182,15 +182,15 @@
             </section>
 
             <section id="biographical-dictionary">
-              <h2>9. Biographical Dictionary Module</h2>
-              <p>The digital edition integrates a <strong>Biographical Dictionary</strong> module that consolidates all name entries present in the printed indexes of the <a href="https://www.risorgimento.it/edizioni-scritti-di-garibaldi/" target="_blank">Epistolario di Giuseppe Garibaldi</a>, volumes 1 through 14. These entries were manually extracted, normalized, and cleaned from the PDFs of the original publications, resulting in a set of structured plain-text files, one for each volume.</p>
+              <h2>13. Biographical Dictionary Module</h2>
+              <p>The digital edition integrates a <strong>Biographical Dictionary</strong> module that consolidates all name entries present in the printed indexes of the <a href="https://www.risorgimento.it/edizioni-scritti-di-garibaldi/" target="_blank">Epistolario di Giuseppe Garibaldi</a>, volumes 1 through 14. These entries were automatically extracted, and they were normalized and partially cleaned, both automatically and manually from the PDFs of the original publications, resulting in a set of structured plain-text files, one for each volume. The impossibility of carrying out the entire process automatically was due to the age of the earliest editions, some of which were produced on old presses, making the OCR (Optical Character Recognition) process less accurate.</p>
               <p>A Python script processes the extracted data into a single <code>.json</code> file that serves as the data source for a searchable and paginated web interface. The application dynamically aggregates repeated names across volumes, merges their descriptions, and organizes page references by volume. Unique identifiers for each person are automatically generated using a combination of name components and numerical suffixes to resolve homonyms.</p>
               <p>The frontend provides a browsable list of all individuals, with support for searching by name or volume. Clicking on a name opens a dedicated entry page displaying associated biographical descriptions and all occurrences in the correspondence volumes.</p>
               <p>To enhance accessibility, a translation feature has been integrated into each entry page using the DeepL API. When activated, this feature sends the original Italian descriptions to a local Flask backend, which securely relays the request to DeepL's translation service and returns an English version of the text. Both original and translated content are presented side by side for clarity and comparative analysis.</p>
             </section>
         
             <section id="conclusion">
-                <h2>13. Conclusion</h2>
+                <h2>14. Conclusion</h2>
                 <p>This prototype of the <em>Garibaldi Letters</em> digital edition represents an initial effort to approach nineteenth-century correspondence through semantically aware, technically structured encoding. While several layers of annotation and metadata have been implemented, a fully semantic web integration—particularly through the conversion of entities into RDF aligned with relevant ontologies—remains a goal for future development.</p>
                 <p>The editorial model adopted here is grounded in international standards for digital scholarship and has been structured with attention to long-term sustainability and scholarly reuse. However, it must be emphasized that this edition was developed as part of a learning process, and reflects both the possibilities and limitations of an academic prototype at this stage of study.</p>
             </section>

@@ -1,4 +1,19 @@
 {
+  "ANGELINA, domestica": {
+    "id": "angelina-anonimo",
+    "descriptions": [
+      "domestica della Schwartz"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          60,
+          64
+        ]
+      }
+    ]
+  },
   "ABBA, GIUSEPPE CESARE": {
     "id": "abba-giuseppe",
     "descriptions": [
@@ -327,32 +342,6 @@
       }
     ]
   },
-  "ADAMOLI, GIULIO": {
-    "id": "adamoli-giulio",
-    "descriptions": [
-      "(1840-1926), figlio di Domenico, nel 1860 si era dimesso dall'Esercito per prender parte alla liberazione del Mezzogiorno; presente sull'Aspromonte nel 1862, combatté ancora coi garibaldini nel 1859."
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          233
-        ]
-      },
-      {
-        "volume": 7,
-        "pages": [
-          195
-        ]
-      },
-      {
-        "volume": 9,
-        "pages": [
-          170
-        ]
-      }
-    ]
-  },
   "ADAMOLI PRINELLI, LUCIA": {
     "id": "adamoli-lucia",
     "descriptions": [
@@ -378,6 +367,32 @@
         "volume": 4,
         "pages": [
           233
+        ]
+      },
+      {
+        "volume": 9,
+        "pages": [
+          170
+        ]
+      }
+    ]
+  },
+  "ADAMOLI, GIULIO": {
+    "id": "adamoli-giulio",
+    "descriptions": [
+      "(1840-1926), figlio di Domenico, nel 1860 si era dimesso dall'Esercito per prender parte alla liberazione del Mezzogiorno; presente sull'Aspromonte nel 1862, combatté ancora coi garibaldini nel 1859."
+    ],
+    "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          233
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          195
         ]
       },
       {
@@ -617,6 +632,20 @@
       }
     ]
   },
+  "AGUIAR": {
+    "id": "aguiar-ordinanza",
+    "descriptions": [
+      "ordinanza di Garibaldi"
+    ],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          37
+        ]
+      }
+    ]
+  },
   "AGUIAR, FELIX EDUARDO": {
     "id": "aguiar-felix",
     "descriptions": [
@@ -629,20 +658,6 @@
           47,
           48,
           49
-        ]
-      }
-    ]
-  },
-  "AGUIAR": {
-    "id": "aguiar-ordinanza",
-    "descriptions": [
-      "ordinanza di Garibaldi"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          37
         ]
       }
     ]
@@ -1015,6 +1030,20 @@
       }
     ]
   },
+  "ALDISIO SAMMITO": {
+    "id": "aldisio-anonimo",
+    "descriptions": [
+      "madre di Mario"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          207
+        ]
+      }
+    ]
+  },
   "ALDISIO SAMMITO, MARIO": {
     "id": "aldisio-mario",
     "descriptions": [
@@ -1086,20 +1115,6 @@
           59,
           74,
           87
-        ]
-      }
-    ]
-  },
-  "ALDISIO SAMMITO": {
-    "id": "aldisio-anonimo",
-    "descriptions": [
-      "madre di Mario"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          207
         ]
       }
     ]
@@ -1533,8 +1548,7 @@
   },
   "ANCONO, AMILCARE": {
     "id": "ancono-anonimo",
-    "descriptions": [
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -1694,20 +1708,6 @@
       }
     ]
   },
-  "ANFOSSI, CHIARINA": {
-    "id": "anfossi-donna",
-    "descriptions": [
-      " donna ligure che ebbe un suo parente tal Alessandro del quale non si specifica il cognome, tra i caduti garibaldini nella campagna del 1860"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          223
-        ]
-      }
-    ]
-  },
   "ANFOSSI, AUGUSTO": {
     "id": "anfossi-augusto",
     "descriptions": [
@@ -1718,6 +1718,20 @@
         "volume": 5,
         "pages": [
           69
+        ]
+      }
+    ]
+  },
+  "ANFOSSI, CHIARINA": {
+    "id": "anfossi-donna",
+    "descriptions": [
+      " donna ligure che ebbe un suo parente tal Alessandro del quale non si specifica il cognome, tra i caduti garibaldini nella campagna del 1860"
+    ],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          223
         ]
       }
     ]
@@ -1772,21 +1786,6 @@
           5
         ]
       },
-      {
-        "volume": 13,
-        "pages": [
-          60,
-          64
-        ]
-      }
-    ]
-  },
-  "AANGELINA, domestica": {
-    "id": "angelina-anonimo",
-    "descriptions": [
-      "domestica della Schwartz"
-    ],
-    "occurrences": [
       {
         "volume": 13,
         "pages": [
@@ -2029,6 +2028,31 @@
       }
     ]
   },
+  "ANTONINI": {
+    "id": "antonini-fratelli",
+    "descriptions": [
+      "Fratelli GIACOMO, PAOLO, STEFANO, titolari della Ditta commerciale intitolata a loro nome a Montevideo",
+      "famiglia di commercianti di Montevideo, trasferitasi poi a Genova."
+    ],
+    "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          79,
+          195
+        ]
+      },
+      {
+        "volume": 3,
+        "pages": [
+          6,
+          10,
+          25,
+          41
+        ]
+      }
+    ]
+  },
   "ANTONINI, EMANUELE": {
     "id": "antonini-emanuele",
     "descriptions": [],
@@ -2056,31 +2080,6 @@
       }
     ]
   },
-  "ANTONINI": {
-    "id": "antonini-fratelli",
-    "descriptions": [
-      "Fratelli GIACOMO, PAOLO, STEFANO, titolari della Ditta commerciale intitolata a loro nome a Montevideo",
-      "famiglia di commercianti di Montevideo, trasferitasi poi a Genova."
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          79,
-          195
-        ]
-      },
-      {
-        "volume": 3,
-        "pages": [
-          6,
-          10,
-          25,
-          41
-        ]
-      }
-    ]
-  },
   "ANTONINI, GIACOMO (MATTEO)": {
     "id": "antonini-giacomo",
     "descriptions": [
@@ -2094,7 +2093,7 @@
           18,
           20
         ]
-      }, 
+      },
       {
         "volume": 4,
         "pages": [
@@ -2788,7 +2787,7 @@
         "pages": [
           145
         ]
-      }, 
+      },
       {
         "volume": 12,
         "pages": [
@@ -2906,18 +2905,6 @@
       }
     ]
   },
-  "ARRIGONI, GIUSEPPE": {
-    "id": "arrigoni-giuseppe",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          83
-        ]
-      }
-    ]
-  },
   "ARRIGONI, FRANCESCO": {
     "id": "arrigoni-francesco",
     "descriptions": [
@@ -2932,26 +2919,14 @@
       }
     ]
   },
-  "ARRIVABENE, LEORNARDO": {
-    "id": "arrivabene-leonardo",
+  "ARRIGONI, GIUSEPPE": {
+    "id": "arrigoni-giuseppe",
     "descriptions": [],
     "occurrences": [
       {
-        "volume": 7,
+        "volume": 4,
         "pages": [
-          274
-        ]
-      },
-      {
-        "volume": 8,
-        "pages": [
-          8
-        ]
-      },
-      {
-        "volume": 11,
-        "pages": [
-          42
+          83
         ]
       }
     ]
@@ -2968,6 +2943,30 @@
         "pages": [
           274,
           310
+        ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          8
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          42
+        ]
+      }
+    ]
+  },
+  "ARRIVABENE, LEORNARDO": {
+    "id": "arrivabene-leonardo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          274
         ]
       },
       {
@@ -3132,8 +3131,7 @@
   },
   "ASPESI, NATALIA": {
     "id": "aspesi-natalia",
-    "descriptions": [
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 13,
@@ -3309,8 +3307,7 @@
   },
   "AUBIN, GIUSEPPE": {
     "id": "aubin-giuseppe",
-    "descriptions": [
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 3,
@@ -3386,7 +3383,7 @@
       "conte, agronomo"
     ],
     "occurrences": [
-    {
+      {
         "volume": 5,
         "pages": [
           78
@@ -4278,6 +4275,20 @@
       }
     ]
   },
+  "BANDINI": {
+    "id": "bandini",
+    "descriptions": [
+      "emigrato ad Alessandria d'Egitto, promotore di una colletta tra gli esuli italiani per il finanziamento del movimento garibaldino"
+    ],
+    "occurrences": [
+      {
+        "volume": 10,
+        "pages": [
+          63
+        ]
+      }
+    ]
+  },
   "BANDINI, GINO": {
     "id": "bandini-gino",
     "descriptions": [],
@@ -4300,20 +4311,6 @@
         "volume": 12,
         "pages": [
           165
-        ]
-      }
-    ]
-  },
-  "BANDINI": {
-    "id": "bandini",
-    "descriptions": [
-      "emigrato ad Alessandria d'Egitto, promotore di una colletta tra gli esuli italiani per il finanziamento del movimento garibaldino"
-    ],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          63
         ]
       }
     ]
@@ -4542,7 +4539,7 @@
         "pages": [
           51
         ]
-      }, 
+      },
       {
         "volume": 8,
         "pages": [
@@ -4644,25 +4641,6 @@
       }
     ]
   },
-  "BARGONI, ATTILIO": {
-    "id": "bargoni-attilio",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          241,
-          263
-        ]
-      },
-      {
-        "volume": 11,
-        "pages": [
-          209
-        ]
-      }
-    ]
-  },
   "BARGONI, ANDREA": {
     "id": "bargoni-andrea",
     "descriptions": [
@@ -4682,94 +4660,113 @@
       }
     ]
   },
-    "BARGONI, ANGELO (padre di Andrea)": {
-      "id": "bargoni-angelo",
-      "descriptions": [
-        "padre di Andrea"
-      ],
-      "occurrences": [
-        {
-          "volume": 14,
-          "pages": [
-            76,
-            82
-          ]
-        }
-      ]
-    },
-
-    "BARGONI, ANGELO": {
-      "id": "bargoni-angelo-1",
-      "descriptions": [
-        "(1829–1901), avvocato e giornalista cremonese, segretario della Commissione dell'Emigrazione Italiana",
-        "(Cremona 1829 – Roma 1901) in rapporto con Bertani ed amici di Cavour, inviò aiuti alla spedizione garibaldina; segretario generale di Depretis e Mordini pro-dittatori. Dal 1861 al 1863 direttore de *Il Diritto*, poi prefetto, deputato, ministro e senatore",
-        "(Cremona 1829 – Roma 1901) stabilitosi a Genova nel 1853 dopo esser fuggito da Milano, sospettato di aver partecipato ai fatti del 6 febbraio di quell'anno, entrò in rapporti con ambienti repubblicani, evolvendo però presto verso posizioni più moderate. Fu direttore de *Il Diritto* dal marzo del 1861 al giugno 1863, dando in questo periodo al foglio torinese il carattere di organo del partito garibaldino",
-        "(Cremona 1829 – Roma 1901), vedi voll. III, V, VII",
-        "(1829–1901), ex-direttore de *Il Diritto*, era vicino a Mordini ed al suo progetto di definitiva istituzionalizzazione della Sinistra (vedi anche i voll. III, V, VII e VIII)",
-        "(1829–1901), su di lui vedi i voll. VII–IX"
-      ],
-      "occurrences": [
-        {
-          "volume": 3,
-          "pages": [
-            83
-          ]
-        },
-        {
-          "volume": 5,
-          "pages": [
-            324
-          ]
-        },
-        {
-          "volume": 7,
-          "pages": [
-            22, 
-            115, 
-            116, 
-            201, 
-            230, 
-            231, 
-            232, 
-            241, 
-            250,
-            263]
-        },
-        {
-          "volume": 8,
-          "pages": [
-            23, 
-            29
-          ]
-        },
-        {
-          "volume": 9,
-          "pages": [
-            26
-          ]
-        },
-        {
-          "volume": 11,
-          "pages": [
-            236, 
-            237
-          ]
-        }
-      ]
-    },
-    "BARILLI, ARNALDO": {
-      "id": "barilli-arnaldo",
-      "descriptions": [],
-      "occurrences": [
-        {
-          "volume": 11,
-          "pages": [
-            31
-          ]
-        }
-      ]
-    },
-    "BARKER, JOHN SALE": {
+  "BARGONI, ANGELO": {
+    "id": "bargoni-angelo-1",
+    "descriptions": [
+      "(1829–1901), avvocato e giornalista cremonese, segretario della Commissione dell'Emigrazione Italiana",
+      "(Cremona 1829 – Roma 1901) in rapporto con Bertani ed amici di Cavour, inviò aiuti alla spedizione garibaldina; segretario generale di Depretis e Mordini pro-dittatori. Dal 1861 al 1863 direttore de *Il Diritto*, poi prefetto, deputato, ministro e senatore",
+      "(Cremona 1829 – Roma 1901) stabilitosi a Genova nel 1853 dopo esser fuggito da Milano, sospettato di aver partecipato ai fatti del 6 febbraio di quell'anno, entrò in rapporti con ambienti repubblicani, evolvendo però presto verso posizioni più moderate. Fu direttore de *Il Diritto* dal marzo del 1861 al giugno 1863, dando in questo periodo al foglio torinese il carattere di organo del partito garibaldino",
+      "(Cremona 1829 – Roma 1901), vedi voll. III, V, VII",
+      "(1829–1901), ex-direttore de *Il Diritto*, era vicino a Mordini ed al suo progetto di definitiva istituzionalizzazione della Sinistra (vedi anche i voll. III, V, VII e VIII)",
+      "(1829–1901), su di lui vedi i voll. VII–IX"
+    ],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          83
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          324
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          22,
+          115,
+          116,
+          201,
+          230,
+          231,
+          232,
+          241,
+          250,
+          263
+        ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          23,
+          29
+        ]
+      },
+      {
+        "volume": 9,
+        "pages": [
+          26
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          236,
+          237
+        ]
+      }
+    ]
+  },
+  "BARGONI, ANGELO (padre di Andrea)": {
+    "id": "bargoni-angelo",
+    "descriptions": [
+      "padre di Andrea"
+    ],
+    "occurrences": [
+      {
+        "volume": 14,
+        "pages": [
+          76,
+          82
+        ]
+      }
+    ]
+  },
+  "BARGONI, ATTILIO": {
+    "id": "bargoni-attilio",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          241,
+          263
+        ]
+      },
+      {
+        "volume": 11,
+        "pages": [
+          209
+        ]
+      }
+    ]
+  },
+  "BARILLI, ARNALDO": {
+    "id": "barilli-arnaldo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 11,
+        "pages": [
+          31
+        ]
+      }
+    ]
+  },
+  "BARKER, JOHN SALE": {
     "id": "barker-john",
     "descriptions": [
       "membro dell'esecutivo del Garibaldi Italian Unity Commitee"
@@ -4949,20 +4946,6 @@
       }
     ]
   },
-  "BARSANTI, famiglia": {
-    "id": "barsanti-anonimo",
-    "descriptions": [
-      "famiglia"
-    ],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          136
-        ]
-      }
-    ]
-  },
   "BARSANTI, PIETRO": {
     "id": "barsanti-pietro",
     "descriptions": [
@@ -4974,6 +4957,20 @@
         "pages": [
           98,
           134
+        ]
+      }
+    ]
+  },
+  "BARSANTI, famiglia": {
+    "id": "barsanti-anonimo",
+    "descriptions": [
+      "famiglia"
+    ],
+    "occurrences": [
+      {
+        "volume": 14,
+        "pages": [
+          136
         ]
       }
     ]
@@ -7316,18 +7313,6 @@
       }
     ]
   },
-  "BEZZI, QUIRINO": {
-    "id": "bezzi-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          191
-        ]
-      }
-    ]
-  },
   "BEZZI, ERGISTO": {
     "id": "bezzi-ergisto",
     "descriptions": [
@@ -7390,7 +7375,18 @@
       }
     ]
   },
-
+  "BEZZI, QUIRINO": {
+    "id": "bezzi-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 9,
+        "pages": [
+          191
+        ]
+      }
+    ]
+  },
   "BIANCA": {
     "id": "bianca-maggiore",
     "descriptions": [
@@ -8262,19 +8258,6 @@
       }
     ]
   },
-  "BLENGINI, MARIO": {
-    "id": "blengini-mario",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          22,
-          34
-        ]
-      }
-    ]
-  },
   "BLENGINI, CESARE ALBERTO": {
     "id": "blengini-cesare",
     "descriptions": [
@@ -8300,6 +8283,19 @@
         "volume": 14,
         "pages": [
           129
+        ]
+      }
+    ]
+  },
+  "BLENGINI, MARIO": {
+    "id": "blengini-mario",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 8,
+        "pages": [
+          22,
+          34
         ]
       }
     ]
@@ -8492,7 +8488,7 @@
       "(Torino 1826-Acque di Lissa 1866) fu a lungo in esilio in Svizzera e Parigi per segmre il padre, compromessosi con la rivoluzione. A Parigi iniziò la sua attività giornalistica che proseguì con successo quando nentrò in Piemonte, divenendo stretto collaboratore di Cavour e direttore di importanti testate. Era professore di diritto all'Ateneo torinese e deputato dal 1858. Nel 1862 fu strenuo avversario di Garibaldi"
     ],
     "occurrences": [
-    {
+      {
         "volume": 3,
         "pages": [
           138
@@ -8678,18 +8674,6 @@
       }
     ]
   },
-  "BONAFEDE, GIACOMO ODDO": {
-    "id": "bonafede-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          122
-        ]
-      }
-    ]
-  },
   "BONAFEDE, FRANCESCO": {
     "id": "bonafede-francesco",
     "descriptions": [
@@ -8714,6 +8698,18 @@
         "volume": 7,
         "pages": [
           295
+        ]
+      }
+    ]
+  },
+  "BONAFEDE, GIACOMO ODDO": {
+    "id": "bonafede-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          122
         ]
       }
     ]
@@ -8868,20 +8864,6 @@
       }
     ]
   },
-  "BONDURI, famiglia": {
-    "id": "bonduri-famiglia",
-    "descriptions": [
-      "famiglia"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          33
-        ]
-      }
-    ]
-  },
   "BONDURI": {
     "id": "bonduri-anonimo",
     "descriptions": [
@@ -8892,6 +8874,20 @@
         "volume": 4,
         "pages": [
           15
+        ]
+      }
+    ]
+  },
+  "BONDURI, famiglia": {
+    "id": "bonduri-famiglia",
+    "descriptions": [
+      "famiglia"
+    ],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          33
         ]
       }
     ]
@@ -9090,18 +9086,6 @@
       }
     ]
   },
-  "BONNET, MICHELE": {
-    "id": "bonnet-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          329
-        ]
-      }
-    ]
-  },
   "BONNET, GIOACCHINO": {
     "id": "bonnet-gioacchino",
     "descriptions": [
@@ -9115,7 +9099,7 @@
       {
         "volume": 4,
         "pages": [
-          111, 
+          111,
           112
         ]
       },
@@ -9145,6 +9129,18 @@
         "volume": 12,
         "pages": [
           50
+        ]
+      }
+    ]
+  },
+  "BONNET, MICHELE": {
+    "id": "bonnet-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          329
         ]
       }
     ]
@@ -9219,7 +9215,7 @@
           86,
           254
         ]
-      }, 
+      },
       {
         "volume": 14,
         "pages": [
@@ -9354,18 +9350,6 @@
       }
     ]
   },
-  "BORELLA, VALERIO": {
-    "id": "borella-valerio",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          188
-        ]
-      }
-    ]
-  },
   "BORELLA, ALESSANDRO": {
     "id": "borella-alessandro",
     "descriptions": [
@@ -9386,6 +9370,18 @@
       }
     ]
   },
+  "BORELLA, VALERIO": {
+    "id": "borella-valerio",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          188
+        ]
+      }
+    ]
+  },
   "BORELLI, ADELE": {
     "id": "borelli-adele",
     "descriptions": [
@@ -9396,20 +9392,6 @@
         "volume": 7,
         "pages": [
           59
-        ]
-      }
-    ]
-  },
-  "BORELLI, famiglia": {
-    "id": "borelli-famiglia",
-    "descriptions": [
-      "famiglia amica di Garibaldi"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          87
         ]
       }
     ]
@@ -9439,6 +9421,20 @@
         "volume": 4,
         "pages": [
           160
+        ]
+      }
+    ]
+  },
+  "BORELLI, famiglia": {
+    "id": "borelli-famiglia",
+    "descriptions": [
+      "famiglia amica di Garibaldi"
+    ],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          87
         ]
       }
     ]
@@ -9519,18 +9515,6 @@
       }
     ]
   },
-  "BORROMEO, RENATO": {
-    "id": "borromeo-renato",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          35
-        ]
-      }
-    ]
-  },
   "BORROMEO, GIUSEPPINA": {
     "id": "borromeo-giuseppina",
     "descriptions": [
@@ -9541,6 +9525,18 @@
         "volume": 11,
         "pages": [
           187
+        ]
+      }
+    ]
+  },
+  "BORROMEO, RENATO": {
+    "id": "borromeo-renato",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          35
         ]
       }
     ]
@@ -9976,7 +9972,7 @@
   "BRAMBILLA, GIUSEPPE": {
     "id": "brambilla-giuseppe",
     "descriptions": [
-      "avvocato di Como, membro del Comitato centrale di soccorso a Garibaldi in Genova", 
+      "avvocato di Como, membro del Comitato centrale di soccorso a Garibaldi in Genova",
       "(Como 1803-Capiago 1866) sacerdote, insegnò nel collegio Sant'Agostino in Como. Amico di Cattaneo, nel 1848 fu attivo giornahsta nella sua città e poi costretto all'esilio. Tornato nel 1859 riprese l'insegnamento, dando alle stampe molte e dotte opere, tra le quali ebbe fama un'ardente cantica patriottica intitolata Italia"
     ],
     "occurrences": [
@@ -10771,46 +10767,6 @@
       }
     ]
   },
-  "BRUZZESI, GIUNIO": {
-    "id": "bruzzesi-GIUNIO",
-    "descriptions": [
-      "GIUNIO BRUZZESI, Dallo scoglio di Quarto, numero straordinariode la rivista Vita, Milano, 15 aprile 1910."
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          27
-        ]
-      },
-      {
-        "volume": 5,
-        "pages": [
-          91
-        ]
-      },
-      {
-        "volume": 6,
-        "pages": [
-          53
-        ]
-      },
-      {
-        "volume": 7,
-        "pages": [
-          119,
-          305
-        ]
-      },
-      {
-        "volume": 8,
-        "pages": [
-          42,
-          193
-        ]
-      }
-    ]
-  },
   "BRUZZESI NOÈ, NOERINA": {
     "id": "bruzzesi-noerina",
     "descriptions": [
@@ -10931,6 +10887,46 @@
         "volume": 14,
         "pages": [
           246
+        ]
+      }
+    ]
+  },
+  "BRUZZESI, GIUNIO": {
+    "id": "bruzzesi-GIUNIO",
+    "descriptions": [
+      "GIUNIO BRUZZESI, Dallo scoglio di Quarto, numero straordinariode la rivista Vita, Milano, 15 aprile 1910."
+    ],
+    "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          27
+        ]
+      },
+      {
+        "volume": 5,
+        "pages": [
+          91
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          53
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          119,
+          305
+        ]
+      },
+      {
+        "volume": 8,
+        "pages": [
+          42,
+          193
         ]
       }
     ]
@@ -12542,7 +12538,7 @@
   "CALZIA, LUIGI": {
     "id": "calzia-luigi",
     "descriptions": [
-      "in un elenco dei partecipanti alla spedizione sul Rio Uruguay è indicato come capitano e commissario della L.I.M.. Garibaldi lo definisce un cattivo soggetto", 
+      "in un elenco dei partecipanti alla spedizione sul Rio Uruguay è indicato come capitano e commissario della L.I.M.. Garibaldi lo definisce un cattivo soggetto",
       "(vedi vol. I)"
     ],
     "occurrences": [
@@ -12634,7 +12630,7 @@
   "CAMERANI, SERGIO": {
     "id": "camerani-sergio",
     "descriptions": [
-      "MARIO NOBILI e SERGIO CAMERANI, Vol. tredicesimo (1 aprile 1860 - 30 giugno 1860), Roma, Istituto storico per l'Età moderna e contemporanea, 1961", 
+      "MARIO NOBILI e SERGIO CAMERANI, Vol. tredicesimo (1 aprile 1860 - 30 giugno 1860), Roma, Istituto storico per l'Età moderna e contemporanea, 1961",
       "Carteggi di Bettino Ricasoli, a cura di SERGIO CAMERANI e GAETANO ARFÉ, voi. XXII, Roma, Istituto storico italiano per l'età moderna e contemporanea, 1968"
     ],
     "occurrences": [
@@ -12648,7 +12644,7 @@
       {
         "volume": 11,
         "pages": [
-          24, 
+          24,
           118
         ]
       }
@@ -13463,7 +13459,7 @@
   "CANZIO GARIBALDI, TERESA": {
     "id": "canzio-teresa",
     "descriptions": [
-     "Vedi Garibaldi, Teresa (Teresita)"
+      "Vedi Garibaldi, Teresa (Teresita)"
     ],
     "occurrences": [
       {
@@ -14277,19 +14273,6 @@
       }
     ]
   },
-  "CARACCIOLO, ENRICHETTA": {
-    "id": "caracciolo-enrichetta",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          62,
-          63
-        ]
-      }
-    ]
-  },
   "CARACCIOLO DI BELLA, CAMILLO": {
     "id": "caracciolo-camillo",
     "descriptions": [
@@ -14300,6 +14283,19 @@
         "volume": 5,
         "pages": [
           231
+        ]
+      }
+    ]
+  },
+  "CARACCIOLO, ENRICHETTA": {
+    "id": "caracciolo-enrichetta",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 11,
+        "pages": [
+          62,
+          63
         ]
       }
     ]
@@ -15126,18 +15122,6 @@
       }
     ]
   },
-  "CARRARA, FAUSTO": {
-    "id": "carrara-fausto",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          200
-        ]
-      }
-    ]
-  },
   "CARRARA, DIONISIO": {
     "id": "carrara-dionisio",
     "descriptions": [
@@ -15148,6 +15132,18 @@
         "volume": 7,
         "pages": [
           236
+        ]
+      }
+    ]
+  },
+  "CARRARA, FAUSTO": {
+    "id": "carrara-fausto",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          200
         ]
       }
     ]
@@ -15643,18 +15639,6 @@
       }
     ]
   },
-  "CASTELLANI, GIOVANNI ALBERTO": {
-    "id": "castellani-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          227
-        ]
-      }
-    ]
-  },
   "CASTELLANI FANTONI, LUIGI": {
     "id": "castellani-luigi",
     "descriptions": [
@@ -15665,6 +15649,18 @@
         "volume": 6,
         "pages": [
           113
+        ]
+      }
+    ]
+  },
+  "CASTELLANI, GIOVANNI ALBERTO": {
+    "id": "castellani-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          227
         ]
       }
     ]
@@ -15720,10 +15716,32 @@
       }
     ]
   },
+  "CASTELLI SORMANI, ISMENIA": {
+    "id": "castelli-ismenia",
+    "descriptions": [
+      "(Milano 1813-ivi 1903) da tempo in relazioni con il Mazzini, la sua casa era sede di un vivace salotto politico. Amica e collaboratrice della Mantegazza, con questa promosse l'Associazione generale delle operaie e l'Associazione Filantropica Femminile",
+      "(1811-1903), patriota, educatrice e filantropa, era amica di Laura Solera Mantegazza che con lei compilò lo \"Statuto dell'Associazione generale delle Operaie\"; nel 1880 fondò a Milano il ricovero dei lattanti (vedi anche il vol. VII)"
+    ],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          67,
+          207
+        ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          54
+        ]
+      }
+    ]
+  },
   "CASTELLI, GIUSEPPE": {
     "id": "castelli-anonimo",
     "descriptions": [
-      "GIUSEPPE CASTELLI, Figure del Risorgimento Lombardo - Enrico Besana - Il suo diario sull'assedio di Parigi, Milano, Ceschina, 1949.", 
+      "GIUSEPPE CASTELLI, Figure del Risorgimento Lombardo - Enrico Besana - Il suo diario sull'assedio di Parigi, Milano, Ceschina, 1949.",
       "GUALTIERO"
     ],
     "occurrences": [
@@ -15755,32 +15773,9 @@
       }
     ]
   },
-  "CASTELLI SORMANI, ISMENIA": {
-    "id": "castelli-ismenia",
-    "descriptions": [
-      "(Milano 1813-ivi 1903) da tempo in relazioni con il Mazzini, la sua casa era sede di un vivace salotto politico. Amica e collaboratrice della Mantegazza, con questa promosse l'Associazione generale delle operaie e l'Associazione Filantropica Femminile",
-      "(1811-1903), patriota, educatrice e filantropa, era amica di Laura Solera Mantegazza che con lei compilò lo \"Statuto dell'Associazione generale delle Operaie\"; nel 1880 fondò a Milano il ricovero dei lattanti (vedi anche il vol. VII)"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          67,
-          207
-        ]
-      },
-      {
-        "volume": 10,
-        "pages": [
-          54
-        ]
-      }
-    ]
-  },
   "CASTELLINI, ANTONIO": {
     "id": "castellini-antonio",
-    "descriptions": [
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 9,
@@ -15789,16 +15784,15 @@
         ]
       }
     ]
-  },  
+  },
   "CASTELLINI, CLOTILDE": {
     "id": "castellini-clotilde",
-    "descriptions": [
-    ],
+    "descriptions": [],
     "occurrences": [
       {
-      "volume": 11,
-      "pages": [
-        233
+        "volume": 11,
+        "pages": [
+          233
         ]
       }
     ]
@@ -15849,7 +15843,7 @@
         "pages": [
           21
         ]
-      }, 
+      },
       {
         "volume": 11,
         "pages": [
@@ -16241,18 +16235,6 @@
       }
     ]
   },
-  "CATTANI, MARIA": {
-    "id": "cattani-maria",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          22
-        ]
-      }
-    ]
-  },
   "CATTANI CAVALCANTI, LEOPOLDO": {
     "id": "cattani-leopoldo",
     "descriptions": [
@@ -16272,6 +16254,18 @@
           71,
           77,
           158
+        ]
+      }
+    ]
+  },
+  "CATTANI, MARIA": {
+    "id": "cattani-maria",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 11,
+        "pages": [
+          22
         ]
       }
     ]
@@ -16458,7 +16452,7 @@
   "CAVOUR, CAMILLO BENSO": {
     "id": "cavour-camillo",
     "descriptions": [
-      "(1910-1861) presidente del Consiglio del Regno di Sardegna", 
+      "(1910-1861) presidente del Consiglio del Regno di Sardegna",
       "presidente del consiglio dei ministri del Regno di Sardegna, si dimise l'11 luglio per protesta contro l'armistizio di Villafranca",
       "conte di (Tonno 1810-ivi 1861), presidente del consiglio dei ministri del Regno di Sardegna dal gennaio, riusci a ricondurre l'impresa dei Mille nell'alveo della sua politica e con l'invasione di Marche ed Umbria rese possibile l'annessione senza ritardi del Meridione al Piemonte",
       "(vedi voli. III e IV) conte di, in questo periodo i rapporti con Garibaldi sono guastati dal problema dello scioglimento dell'E.M.",
@@ -16907,7 +16901,7 @@
           67,
           84
         ]
-      }, 
+      },
       {
         "volume": 5,
         "pages": [
@@ -17031,7 +17025,7 @@
   "CEVASCO, GIOVANNI BATTISTA": {
     "id": "cevasco-anonimo",
     "descriptions": [
-      "giornalista", 
+      "giornalista",
       "(vedi vol. III)",
       "Giornalista (cfr. voll. III, IV)"
     ],
@@ -17079,20 +17073,6 @@
         "pages": [
           157,
           189
-        ]
-      }
-    ]
-  },
-  "CHAMBERS, WILLIAM SAMUEL": {
-    "id": "chambers-william",
-    "descriptions": [
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          14,
-          106
         ]
       }
     ]
@@ -17327,6 +17307,19 @@
           129,
           206,
           216
+        ]
+      }
+    ]
+  },
+  "CHAMBERS, WILLIAM SAMUEL": {
+    "id": "chambers-william",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 8,
+        "pages": [
+          14,
+          106
         ]
       }
     ]
@@ -17655,7 +17648,7 @@
           63
         ]
       },
-            {
+      {
         "volume": 13,
         "pages": [
           51,
@@ -17800,7 +17793,7 @@
   "CIAMPOLI, DOMENICO": {
     "id": "ciampoli-anonimo",
     "descriptions": [
-    "G. GARIBALDI, Scritti politici e militari. Ricordi e pensieri inediti raccolti su autografi, stampe e manoscritti da DOMENICO CIAMPOLI, Roma, Enrico Voghera, [1907]"
+      "G. GARIBALDI, Scritti politici e militari. Ricordi e pensieri inediti raccolti su autografi, stampe e manoscritti da DOMENICO CIAMPOLI, Roma, Enrico Voghera, [1907]"
     ],
     "occurrences": [
       {
@@ -17835,31 +17828,31 @@
       {
         "volume": 5,
         "pages": [
-          1, 
-          2, 
-          23, 
-          32, 
-          36, 
-          40, 
-          53, 
-          59, 
-          67, 
-          81, 
-          89, 
-          91, 
-          100, 
-          108, 
-          117, 
-          129, 
-          135, 
-          138, 
-          140, 
-          145, 
-          149, 
-          159, 
-          174, 
-          188, 
-          211, 
+          1,
+          2,
+          23,
+          32,
+          36,
+          40,
+          53,
+          59,
+          67,
+          81,
+          89,
+          91,
+          100,
+          108,
+          117,
+          129,
+          135,
+          138,
+          140,
+          145,
+          149,
+          159,
+          174,
+          188,
+          211,
           227,
           232,
           255,
@@ -18042,18 +18035,6 @@
       }
     ]
   },
-  "CICOGNANI, GIACOMO": {
-    "id": "cicognani-giacomo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          72
-        ]
-      }
-    ]
-  },
   "CICOGNANI, ALESSANDRO": {
     "id": "cicognani-alessandro",
     "descriptions": [
@@ -18064,6 +18045,18 @@
         "volume": 7,
         "pages": [
           236
+        ]
+      }
+    ]
+  },
+  "CICOGNANI, GIACOMO": {
+    "id": "cicognani-giacomo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 8,
+        "pages": [
+          72
         ]
       }
     ]
@@ -18402,18 +18395,6 @@
       }
     ]
   },
-  "CIVININI, FILIPPO": {
-    "id": "civinini-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          69
-        ]
-      }
-    ]
-  },
   "CIVININI, ENRICO": {
     "id": "civinini-enrico",
     "descriptions": [
@@ -18432,6 +18413,18 @@
         "pages": [
           196,
           236
+        ]
+      }
+    ]
+  },
+  "CIVININI, FILIPPO": {
+    "id": "civinini-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 9,
+        "pages": [
+          69
         ]
       }
     ]
@@ -18505,6 +18498,20 @@
       }
     ]
   },
+  "CLERICI FELOLO, TERESA": {
+    "id": "clerici-teresa",
+    "descriptions": [
+      "signore di Como"
+    ],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          29
+        ]
+      }
+    ]
+  },
   "CLERICI, CARLO": {
     "id": "clerici-anonimo",
     "descriptions": [],
@@ -18513,20 +18520,6 @@
         "volume": 4,
         "pages": [
           175
-        ]
-      }
-    ]
-  },
-  "CLERICI FELOLO, TERESA": {
-    "id": "clerici-teresa",
-    "descriptions": [
-    "signore di Como"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          29
         ]
       }
     ]
@@ -18720,8 +18713,8 @@
         "pages": [
           256
         ]
-      }, 
-            {
+      },
+      {
         "volume": 12,
         "pages": [
           56
@@ -18780,7 +18773,7 @@
           43
         ]
       },
-            {
+      {
         "volume": 12,
         "pages": [
           83
@@ -18969,7 +18962,7 @@
       }
     ]
   },
-    "COLOMBO, ADOLFO": {
+  "COLOMBO, ADOLFO": {
     "id": "colombo-adolfo",
     "descriptions": [
       "ADOLFO CoLOMBo, Contributo alla storia della Prodittatura di A. Depretis in Sicilia nel 1860, Saluzzo, Tip. G. Richard già Rovera e C , 1911."
@@ -19416,6 +19409,26 @@
       }
     ]
   },
+  "COMELLO DI MONTALBANO, BATTISTA": {
+    "id": "comello-battista",
+    "descriptions": [
+      "BATTISTA CoMELLO di MONTALBANO, Nozze Santalena-Oomello, Treviso, 1906."
+    ],
+    "occurrences": [
+      {
+        "volume": 9,
+        "pages": [
+          167
+        ]
+      },
+      {
+        "volume": 10,
+        "pages": [
+          79
+        ]
+      }
+    ]
+  },
   "COMELLO DI MONTALBANO, MADDALENA": {
     "id": "comello-maddalena",
     "descriptions": [
@@ -19450,26 +19463,6 @@
         "pages": [
           215,
           216
-        ]
-      }
-    ]
-  },
-  "COMELLO DI MONTALBANO, BATTISTA": {
-    "id": "comello-battista",
-    "descriptions": [
-      "BATTISTA CoMELLO di MONTALBANO, Nozze Santalena-Oomello, Treviso, 1906."
-    ],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          167
-        ]
-      },
-      {
-        "volume": 10,
-        "pages": [
-          79
         ]
       }
     ]
@@ -19687,20 +19680,6 @@
       }
     ]
   },
-  "CONTI, famiglia": {
-    "id": "conti-anonimo",
-    "descriptions": [
-      "famiglia"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          250
-        ]
-      }
-    ]
-  },
   "CONTI, AGOSTINO": {
     "id": "conti-agostino",
     "descriptions": [
@@ -19743,13 +19722,13 @@
       }
     ]
   },
-    "CONTI, ELIO": {
+  "CONTI, ELIO": {
     "id": "conti-elio",
     "descriptions": [
       "ELIO CONTI, Alcuni documenti relativi al soggiorno fiorentino di M. Bakunin (1864-1865), in Movimento operaio, a II (1950)."
     ],
     "occurrences": [
-            {
+      {
         "volume": 9,
         "pages": [
           15
@@ -19771,7 +19750,7 @@
       }
     ]
   },
-    "CONTI, LUDOVICO": {
+  "CONTI, LUDOVICO": {
     "id": "conti-ludovico",
     "descriptions": [
       "Ludovicoco CONTI, In occasione del centenarzo della nascita di Alessandro Gavazzi, Roma, Editrice Metodista, 1909.",
@@ -19782,6 +19761,20 @@
         "volume": 6,
         "pages": [
           108
+        ]
+      }
+    ]
+  },
+  "CONTI, famiglia": {
+    "id": "conti-anonimo",
+    "descriptions": [
+      "famiglia"
+    ],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          250
         ]
       }
     ]
@@ -19877,25 +19870,6 @@
       }
     ]
   },
-  "CÓRDOVA, JOAQUIN JOSÉ DE": {
-    "id": "córdova-joaquin",
-    "descriptions": [
-      "civile uruguaiano che esercitò funzioni di giudice in un processo sommario istruito contro un ufficiale dell'E.N."
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          107,
-          108,
-          109,
-          110,
-          111,
-          112
-        ]
-      }
-    ]
-  },
   "CORNIBERT": {
     "id": "cornibert-capitano",
     "descriptions": [
@@ -19985,7 +19959,7 @@
       "tra i volontari nel 1860, era poi passato nell'esercito col grado di colonnello, dimettendosi nel luglio del 1862 per fiera protesta verso il criterio e i modi con i quali la commissione di scrutinio dei volontari aveva operato e operava. Comandante del primo reggimento dei volontari ad Aspromonte, successivamente a quei fatti e fino alla sua morte lavorò alla riorganizzazione del partito d'azione della Sicilia, ma nella sua azione antigovernativa raccolse intorno a sè elementi disparati, espressione dello scontento politico antiunitario e antipiemontese, e si trovò per questo in contrasto con altri elementi del partito democratico come il Perroni Paladini. Morì per un attentato di oscura matrice il 13 agosto 1863, vedi anche vol. VII"
     ],
     "occurrences": [
-          {
+      {
         "volume": 5,
         "pages": [
           113,
@@ -20243,18 +20217,6 @@
       }
     ]
   },
-  "CORTI, FERDINANDO": {
-    "id": "corti-ferdinando",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          85
-        ]
-      }
-    ]
-  },
   "CORTI, ARMENO": {
     "id": "corti-armeno",
     "descriptions": [
@@ -20279,6 +20241,18 @@
         "volume": 8,
         "pages": [
           91
+        ]
+      }
+    ]
+  },
+  "CORTI, FERDINANDO": {
+    "id": "corti-ferdinando",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 10,
+        "pages": [
+          85
         ]
       }
     ]
@@ -20399,8 +20373,8 @@
           316,
           325
         ]
-      }, 
-            {
+      },
+      {
         "volume": 6,
         "pages": [
           14,
@@ -20457,18 +20431,6 @@
       }
     ]
   },
-  "COSTA, BRANLIO": {
-    "id": "costa-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          95
-        ]
-      }
-    ]
-  },
   "COSTA, ALESSANDRO": {
     "id": "costa-alessandro",
     "descriptions": [
@@ -20479,6 +20441,18 @@
         "volume": 4,
         "pages": [
           80
+        ]
+      }
+    ]
+  },
+  "COSTA, BRANLIO": {
+    "id": "costa-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          95
         ]
       }
     ]
@@ -20912,7 +20886,7 @@
       "(1819-1901), deputato"
     ],
     "occurrences": [
-    {
+      {
         "volume": 5,
         "pages": [
           67,
@@ -21072,7 +21046,7 @@
       }
     ]
   },
-    "CRISPI, FRANCESCO, documenti": {
+  "CRISPI, FRANCESCO, documenti": {
     "id": "crispi-francesco",
     "descriptions": [
       "FRANCESCO CRISPI, I Mille, da documenti dell'Archivio Crispi ordinati da TOMMASO PALAMENGHI-CRISPI, Milano, Treves, 1927."
@@ -21257,24 +21231,10 @@
       }
     ]
   },
-  "CUCCHI, famiglia": {
-    "id": "cucchi-famiglia",
-    "descriptions": [
-      "famiglia"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          271
-        ]
-      }
-    ]
-  },
   "CUCCHI, FRANCESCO": {
     "id": "cucchi-francesco",
     "descriptions": [
-    "(Bergamo 1834-Roma 1913)fu con i Mille e godette sempre della piena fiducia di Garibaldi, per cui si trovò incaricato di delicate missioni (in particolare intermediario tra i rappresentanti del re, Garibaldi e lo stesso sovrano), l'ultima delle quali avvenne poco prima che in Sicilia fosse inalberato il vessillo della rivolta",
+      "(Bergamo 1834-Roma 1913)fu con i Mille e godette sempre della piena fiducia di Garibaldi, per cui si trovò incaricato di delicate missioni (in particolare intermediario tra i rappresentanti del re, Garibaldi e lo stesso sovrano), l'ultima delle quali avvenne poco prima che in Sicilia fosse inalberato il vessillo della rivolta",
       "vedi vol. VII",
       "(1834-1913), bergamasco dei Mille, fu tra i collaboratori più fidati di Garibaldi che lo impiegò soprattutto in vista di una pohtica balcanica (vedi anche i voli. VII e VIII)",
       "(1834-1913), maggiore del C.V.I., aiutante di campo di Garibaldi, al termine della guerra, tornato il Generale a Caprera, ha l'incarico di seguire la liquidazione delle sue competenze, vedi anche i voll. VII-X",
@@ -21357,6 +21317,20 @@
         "pages": [
           112,
           123
+        ]
+      }
+    ]
+  },
+  "CUCCHI, famiglia": {
+    "id": "cucchi-famiglia",
+    "descriptions": [
+      "famiglia"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          271
         ]
       }
     ]
@@ -21979,6 +21953,25 @@
       }
     ]
   },
+  "CÓRDOVA, JOAQUIN JOSÉ DE": {
+    "id": "córdova-joaquin",
+    "descriptions": [
+      "civile uruguaiano che esercitò funzioni di giudice in un processo sommario istruito contro un ufficiale dell'E.N."
+    ],
+    "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          107,
+          108,
+          109,
+          110,
+          111,
+          112
+        ]
+      }
+    ]
+  },
   "D'AGOSTINI, ERNESTO": {
     "id": "d'agostini-ernesto",
     "descriptions": [],
@@ -22086,7 +22079,7 @@
           87,
           88
         ]
-      }, 
+      },
       {
         "volume": 4,
         "pages": [
@@ -22223,7 +22216,6 @@
       }
     ]
   },
-
   "DA FORIO, GIUSEPPE": {
     "id": "da-giuseppe",
     "descriptions": [
@@ -22747,6 +22739,20 @@
       }
     ]
   },
+  "DAVERIO FERRETTI, ANTONIETTA": {
+    "id": "daverio-antonietta",
+    "descriptions": [
+      "sorella di Francesco"
+    ],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          108
+        ]
+      }
+    ]
+  },
   "DAVERIO, AMELIA": {
     "id": "daverio-amelia",
     "descriptions": [],
@@ -22767,20 +22773,6 @@
         "volume": 7,
         "pages": [
           132
-        ]
-      }
-    ]
-  },
-  "DAVERIO FERRETTI, ANTONIETTA": {
-    "id": "daverio-antonietta",
-    "descriptions": [
-      "sorella di Francesco"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          108
         ]
       }
     ]
@@ -22833,7 +22825,7 @@
   "DE AGOSTINI, LUIGI": {
     "id": "de-luigi",
     "descriptions": [
-      "sottotenente di marina nell'E.N. partecipò alla spedizione sul Rio Paraná (1842); segui Garibaldi nel ritorno in Italia", 
+      "sottotenente di marina nell'E.N. partecipò alla spedizione sul Rio Paraná (1842); segui Garibaldi nel ritorno in Italia",
       "(vedi vol. I)"
     ],
     "occurrences": [
@@ -22842,7 +22834,7 @@
         "pages": [
           32
         ]
-      }, 
+      },
       {
         "volume": 3,
         "pages": [
@@ -22934,20 +22926,6 @@
       }
     ]
   },
-  "DE BENEDETTO, famiglia": {
-    "id": "de-benedetto",
-    "descriptions": [
-      "famiglia"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          20
-        ]
-      }
-    ]
-  },
   "DE BENEDETTO, PASQUALE": {
     "id": "de-benedetto-pasquale",
     "descriptions": [
@@ -22974,6 +22952,20 @@
         "pages": [
           20,
           21
+        ]
+      }
+    ]
+  },
+  "DE BENEDETTO, famiglia": {
+    "id": "de-benedetto",
+    "descriptions": [
+      "famiglia"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          20
         ]
       }
     ]
@@ -23059,6 +23051,20 @@
       }
     ]
   },
+  "DE CESARE": {
+    "id": "de-ufficiale",
+    "descriptions": [
+      "ufficiale dell'E M. inviato con altri commilitoni, presso la Scuola Militare di Ivrea, da dove, in occasione dell'onomastico di Garibaldi, mandò al suo generale un saluto e un augurio per le sorti della patria firmato anche dagli ufficiali dell'esercito regolare"
+    ],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          19
+        ]
+      }
+    ]
+  },
   "DE CESARE, RAFFAELE": {
     "id": "de-cesare-raffaele",
     "descriptions": [],
@@ -23071,20 +23077,6 @@
           226,
           228,
           231
-        ]
-      }
-    ]
-  },
-  "DE CESARE": {
-    "id": "de-ufficiale",
-    "descriptions": [
-      "ufficiale dell'E M. inviato con altri commilitoni, presso la Scuola Militare di Ivrea, da dove, in occasione dell'onomastico di Garibaldi, mandò al suo generale un saluto e un augurio per le sorti della patria firmato anche dagli ufficiali dell'esercito regolare"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          19
         ]
       }
     ]
@@ -23287,7 +23279,7 @@
     "id": "de-salvatore",
     "descriptions": [
       "sottotenente piemontese, comandante il forte di Talamone, processato per aver consegnato armi e munizioni a Garibaldi (cfr. vol. VII)",
-    "sofferse persecuzioni perché, ufficiale a Talamone nel 1860, accolse nella sua casa il Nullo, cedendo alla sua richiesta di armi per i Mille"
+      "sofferse persecuzioni perché, ufficiale a Talamone nel 1860, accolse nella sua casa il Nullo, cedendo alla sua richiesta di armi per i Mille"
     ],
     "occurrences": [
       {
@@ -23487,18 +23479,6 @@
       }
     ]
   },
-  "DE NEGRI, PIETRO": {
-    "id": "de-anonimo-9",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          42
-        ]
-      }
-    ]
-  },
   "DE NEGRI, FRANCESCO": {
     "id": "de-francesco-3",
     "descriptions": [
@@ -23538,6 +23518,18 @@
         "volume": 3,
         "pages": [
           48
+        ]
+      }
+    ]
+  },
+  "DE NEGRI, PIETRO": {
+    "id": "de-anonimo-9",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          42
         ]
       }
     ]
@@ -23786,7 +23778,7 @@
       "(1817-1883), critico letterario, esponente della Sinistra giovane"
     ],
     "occurrences": [
-    {
+      {
         "volume": 5,
         "pages": [
           279
@@ -23826,7 +23818,7 @@
       }
     ]
   },
-    "DE STEFANI, GIUSEPPE": {
+  "DE STEFANI, GIUSEPPE": {
     "id": "de-stefani",
     "descriptions": [],
     "occurrences": [
@@ -23947,24 +23939,10 @@
       }
     ]
   },
-  "DEIDERI, famiglia": {
-    "id": "deideri-famiglia",
-    "descriptions": [
-      "famiglia"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          158
-        ]
-      }
-    ]
-  },
   "DEIDERI, GIUSEPPE (GIOVANNI)": {
     "id": "deideri-giuseppe",
     "descriptions": [
-    "comandante della guardia nazionale a Nizza (vedi vol. II)",
+      "comandante della guardia nazionale a Nizza (vedi vol. II)",
       "nizzardo amico di Garibaldi (vedi voll. II e III), 12, 27, 81, 91, 111, 113, 120, 126, 138, 140, 162, 206, 219, 222 DEIDERI, VINCENZA, moglie di Giuseppe",
       "nizzardo amico di Garibaldi (cfr. voll. II, III, IV, VI)",
       "amico di antica data di Garibaldi, nizzardo (vedi voli. II, III e IV)",
@@ -24047,7 +24025,7 @@
         "pages": [
           224
         ]
-      }, 
+      },
       {
         "volume": 10,
         "pages": [
@@ -24147,6 +24125,20 @@
       }
     ]
   },
+  "DEIDERI, famiglia": {
+    "id": "deideri-famiglia",
+    "descriptions": [
+      "famiglia"
+    ],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          158
+        ]
+      }
+    ]
+  },
   "DEIDERI, signori": {
     "id": "deideri-signori",
     "descriptions": [
@@ -24223,6 +24215,20 @@
       }
     ]
   },
+  "DEL GIUDICE, GIOVANNINA": {
+    "id": "del-giovannina",
+    "descriptions": [
+      "napoletana"
+    ],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          209
+        ]
+      }
+    ]
+  },
   "DEL GIUDICE, PIETRO": {
     "id": "del-giudice",
     "descriptions": [],
@@ -24250,20 +24256,6 @@
         "volume": 13,
         "pages": [
           26
-        ]
-      }
-    ]
-  },
-  "DEL GIUDICE, GIOVANNINA": {
-    "id": "del-giovannina",
-    "descriptions": [
-      "napoletana"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          209
         ]
       }
     ]
@@ -24358,18 +24350,6 @@
       }
     ]
   },
-  "DELFINO, LUCA": {
-    "id": "delfino-luca",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          231
-        ]
-      }
-    ]
-  },
   "DELFINO, AUGUSTÍN": {
     "id": "delfino-augustín",
     "descriptions": [
@@ -24382,6 +24362,18 @@
           102,
           103,
           219
+        ]
+      }
+    ]
+  },
+  "DELFINO, LUCA": {
+    "id": "delfino-luca",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          231
         ]
       }
     ]
@@ -24524,6 +24516,21 @@
       }
     ]
   },
+  "DELLA VERDURA, CAMILLO BENSO": {
+    "id": "parte-da",
+    "descriptions": [
+      "duca (Palermo 1816-ivi 1904), discendente di una delle più illustri famighe palermitane, ebbe parte cospicua nella rivoluzione del 1860. Nel 1862, da Palermo operò in appoggio all'azione insurrezionale, incontrandosi con Garibaldi a Mezzoiuso il 5 agosto. Malgrado ciò nel novembre del 1862 fu nommato senatore del Regno. Molto legato a Crispi, ebbe un ruolo assai importante nella vicenda amministrativa del capoluogo siciliano, del quale fu più volte sindaco"
+    ],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          175,
+          179
+        ]
+      }
+    ]
+  },
   "DELLA VERDURA, GIULIO BENSO SAMMARTINO": {
     "id": "della-giulio",
     "descriptions": [
@@ -24639,7 +24646,6 @@
       }
     ]
   },
-
   "DENNIE, MARY": {
     "id": "dennie-anonimo",
     "descriptions": [],
@@ -24816,7 +24822,7 @@
       "dottore, amico di Anna Pallavicino"
     ],
     "occurrences": [
-    {
+      {
         "volume": 9,
         "pages": [
           175
@@ -25840,7 +25846,7 @@
         "pages": [
           264
         ]
-      }, 
+      },
       {
         "volume": 13,
         "pages": [
@@ -27292,7 +27298,7 @@
           65,
           79
         ]
-      }, 
+      },
       {
         "volume": 10,
         "pages": [
@@ -27374,6 +27380,20 @@
       }
     ]
   },
+  "FAVAZZI, ANITA": {
+    "id": "favazzi-anita",
+    "descriptions": [
+      "figlia di Vito"
+    ],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          20
+        ]
+      }
+    ]
+  },
   "FAVAZZI, VITO": {
     "id": "favazzi-anonimo",
     "descriptions": [],
@@ -27384,20 +27404,6 @@
           160
         ]
       },
-      {
-        "volume": 12,
-        "pages": [
-          20
-        ]
-      }
-    ]
-  },
-  "FAVAZZI, ANITA": {
-    "id": "favazzi-anita",
-    "descriptions": [
-      "figlia di Vito"
-    ],
-    "occurrences": [
       {
         "volume": 12,
         "pages": [
@@ -27962,10 +27968,9 @@
       }
     ]
   },
-    "FERRARI, NAZARENO": {
+  "FERRARI, NAZARENO": {
     "id": "ferrari-nazareno",
-    "descriptions": [
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 7,
@@ -28039,7 +28044,7 @@
           281
         ]
       },
-            {
+      {
         "volume": 10,
         "pages": [
           161,
@@ -28142,7 +28147,7 @@
       "responsabile del Comitato d'azione per Roma e Venezia del Grossetano"
     ],
     "occurrences": [
-            {
+      {
         "volume": 2,
         "pages": [
           100
@@ -28555,7 +28560,7 @@
           247
         ]
       },
-            {
+      {
         "volume": 14,
         "pages": [
           90
@@ -29173,19 +29178,19 @@
       {
         "volume": 3,
         "pages": [
-          33, 
-          35, 
-          40, 
-          42, 
-          43, 
-          54, 
-          58, 
-          59, 
-          60, 
-          65, 
-          102, 
-          103, 
-          115, 
+          33,
+          35,
+          40,
+          42,
+          43,
+          54,
+          58,
+          59,
+          60,
+          65,
+          102,
+          103,
+          115,
           118,
           137,
           141,
@@ -29283,13 +29288,13 @@
     "id": "foschiatti-gabriella",
     "descriptions": [],
     "occurrences": [
-            {
+      {
         "volume": 12,
         "pages": [
-          43, 
-          44, 
-          99, 
-          107, 
+          43,
+          44,
+          99,
+          107,
           208,
           263
         ]
@@ -29910,13 +29915,13 @@
       "(1834-1878) patriota ungherese"
     ],
     "occurrences": [
-            {
+      {
         "volume": 4,
         "pages": [
           61
         ]
       },
-            {
+      {
         "volume": 7,
         "pages": [
           111,
@@ -29946,7 +29951,7 @@
           112
         ]
       },
-            {
+      {
         "volume": 12,
         "pages": [
           151,
@@ -30188,7 +30193,7 @@
       }
     ]
   },
-    "FUSINATO, CLEMENTE": {
+  "FUSINATO, CLEMENTE": {
     "id": "fusinato-clemente",
     "descriptions": [
       "(1820-1867), fratello di Arnaldo e come lui impegnato nell'emigrazione veneta, morirà in manicomio a Firenze nel 1867."
@@ -30245,7 +30250,7 @@
       }
     ]
   },
-    "GABELLA, MARIA": {
+  "GABELLA, MARIA": {
     "id": "gabella-anonimo",
     "descriptions": [],
     "occurrences": [
@@ -30271,7 +30276,7 @@
       }
     ]
   },
-    "GABUSSI, GIUSEPPE": {
+  "GABUSSI, GIUSEPPE": {
     "id": "gabussi-giuseppe",
     "descriptions": [
       "(1791-1862) in questi anni esule a Genova",
@@ -30442,7 +30447,7 @@
         "pages": [
           216
         ]
-      }, 
+      },
       {
         "volume": 12,
         "pages": [
@@ -30548,7 +30553,7 @@
           153,
           158
         ]
-      }, 
+      },
       {
         "volume": 4,
         "pages": [
@@ -30602,38 +30607,28 @@
       }
     ]
   },
-  "GALLI, famiglia": {
-    "id": "galli-famiglia",
-    "descriptions": [
-      "famiglia di Nizza",
-      "famiglia nizzarda (vedi vol. II)"
-    ],
+  "GALLI CIATTI, CLARA": {
+    "id": "galli-clara",
+    "descriptions": [],
     "occurrences": [
       {
-        "volume": 2,
+        "volume": 6,
         "pages": [
-          9,
-          145,
-          155,
-          198
-        ]
-      },
-      {
-        "volume": 3,
-        "pages": [
-          4
+          29
         ]
       }
     ]
   },
-  "GALLI, ISABELLA": {
-    "id": "galli-isabella",
-    "descriptions": [],
+  "GALLI E C.": {
+    "id": "galli-compagnia",
+    "descriptions": [
+      "fornitori militari"
+    ],
     "occurrences": [
       {
-        "volume": 7,
+        "volume": 12,
         "pages": [
-          29
+          261
         ]
       }
     ]
@@ -30660,6 +30655,18 @@
         "volume": 12,
         "pages": [
           98
+        ]
+      }
+    ]
+  },
+  "GALLI, ISABELLA": {
+    "id": "galli-isabella",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          29
         ]
       }
     ]
@@ -30713,28 +30720,26 @@
       }
     ]
   },
-  "GALLI CIATTI, CLARA": {
-    "id": "galli-clara",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          29
-        ]
-      }
-    ]
-  },
-  "GALLI E C.": {
-    "id": "galli-compagnia",
+  "GALLI, famiglia": {
+    "id": "galli-famiglia",
     "descriptions": [
-      "fornitori militari"
+      "famiglia di Nizza",
+      "famiglia nizzarda (vedi vol. II)"
     ],
     "occurrences": [
       {
-        "volume": 12,
+        "volume": 2,
         "pages": [
-          261
+          9,
+          145,
+          155,
+          198
+        ]
+      },
+      {
+        "volume": 3,
+        "pages": [
+          4
         ]
       }
     ]
@@ -30761,18 +30766,6 @@
       }
     ]
   },
-  "GALLIANO, EMANUELE": {
-    "id": "galliano-emanuele",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          146
-        ]
-      }
-    ]
-  },
   "GALLIANO (altrove GALLIANI), GIACOMO": {
     "id": "galliano-giacomo-2",
     "descriptions": [
@@ -30787,6 +30780,18 @@
           118,
           136,
           198
+        ]
+      }
+    ]
+  },
+  "GALLIANO, EMANUELE": {
+    "id": "galliano-emanuele",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          146
         ]
       }
     ]
@@ -31049,20 +31054,6 @@
       }
     ]
   },
-  "GARIBALDI, ANNITA ITALIA": {
-    "id": "garibaldi-anonimo",
-    "descriptions": [
-      "ANNITA ITALIA GARIBALDI, Garibaldi in America, Roma, Edizionea spese dell'autrice, 1933."
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          58
-        ]
-      }
-    ]
-  },
   "GARIBALDI BIDISCHINI, ITALIA": {
     "id": "garibaldi-italia",
     "descriptions": [
@@ -31106,8 +31097,8 @@
       {
         "volume": 1,
         "pages": [
-          5, 
-          258, 
+          5,
+          258,
           260,
           262
         ]
@@ -31299,6 +31290,20 @@
           110,
           128,
           259
+        ]
+      }
+    ]
+  },
+  "GARIBALDI, ANNITA ITALIA": {
+    "id": "garibaldi-anonimo",
+    "descriptions": [
+      "ANNITA ITALIA GARIBALDI, Garibaldi in America, Roma, Edizionea spese dell'autrice, 1933."
+    ],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          58
         ]
       }
     ]
@@ -31624,9 +31629,9 @@
       {
         "volume": 8,
         "pages": [
-          85, 
-          88, 
-          158, 
+          85,
+          88,
+          158,
           161,
           179
         ]
@@ -31683,20 +31688,20 @@
       {
         "volume": 12,
         "pages": [
-          14, 
-          15, 
-          16, 
-          85, 
-          123, 
-          177, 
-          182, 
-          185, 
-          188, 
-          191, 
-          193, 
-          196, 
-          197, 
-          198, 
+          14,
+          15,
+          16,
+          85,
+          123,
+          177,
+          182,
+          185,
+          188,
+          191,
+          193,
+          196,
+          197,
+          198,
           202,
           203,
           206,
@@ -31965,7 +31970,6 @@
       }
     ]
   },
-
   "GARIBALDI, ROSA": {
     "id": "garibaldi-rosa",
     "descriptions": [
@@ -32014,7 +32018,6 @@
     "id": "garibaldi-teresa",
     "descriptions": [
       "sorella di Giuseppe"
-      
     ],
     "occurrences": [
       {
@@ -32022,7 +32025,7 @@
         "pages": [
           258
         ]
-      }  
+      }
     ]
   },
   "GARIBALDI, TERESA (TERESITA)": {
@@ -32096,13 +32099,13 @@
       {
         "volume": 5,
         "pages": [
-          8, 
-          38, 
-          43, 
-          46, 
-          60, 
-          64, 
-          80, 
+          8,
+          38,
+          43,
+          46,
+          60,
+          64,
+          80,
           124,
           158,
           235,
@@ -32399,9 +32402,9 @@
       {
         "volume": 10,
         "pages": [
-          32, 
-          59, 
-          61, 
+          32,
+          59,
+          61,
           74,
           82,
           122,
@@ -32501,7 +32504,7 @@
           42
         ]
       },
-            {
+      {
         "volume": 7,
         "pages": [
           162
@@ -32606,7 +32609,7 @@
       "nizzardo"
     ],
     "occurrences": [
-          {
+      {
         "volume": 2,
         "pages": [
           155,
@@ -33096,7 +33099,7 @@
           7,
           101
         ]
-      }, 
+      },
       {
         "volume": 14,
         "pages": [
@@ -33801,7 +33804,7 @@
       }
     ]
   },
-    "GIORDANO, GIANCARLO": {
+  "GIORDANO, GIANCARLO": {
     "id": "giordano-anonimo",
     "descriptions": [],
     "occurrences": [
@@ -33899,8 +33902,7 @@
   },
   "GIOVANNELLI, ANTONIO": {
     "id": "giovannelli-antonio",
-    "descriptions": [
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 2,
@@ -33922,7 +33924,7 @@
       }
     ]
   },
-    "GIOVANNELLI, EMILIA": {
+  "GIOVANNELLI, EMILIA": {
     "id": "giovannelli-emilia",
     "descriptions": [],
     "occurrences": [
@@ -34464,20 +34466,6 @@
       }
     ]
   },
-  "GORINI, PAOLO": {
-    "id": "gorini-promotore",
-    "descriptions": [
-      "promotore della Società Italiana d'Igiene e del giornale ad essa collegato e della Società per la cremazione dei cadaveri medico"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          171
-        ]
-      }
-    ]
-  },
   "GORINI, CARLO": {
     "id": "gorini-carlo",
     "descriptions": [
@@ -34499,6 +34487,20 @@
         "volume": 5,
         "pages": [
           157
+        ]
+      }
+    ]
+  },
+  "GORINI, PAOLO": {
+    "id": "gorini-promotore",
+    "descriptions": [
+      "promotore della Società Italiana d'Igiene e del giornale ad essa collegato e della Società per la cremazione dei cadaveri medico"
+    ],
+    "occurrences": [
+      {
+        "volume": 8,
+        "pages": [
+          171
         ]
       }
     ]
@@ -34805,18 +34807,6 @@
       }
     ]
   },
-  "GRECO, GARIBALDI": {
-    "id": "greco-garibaldi",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          255
-        ]
-      }
-    ]
-  },
   "GRECO, ANTONIO": {
     "id": "greco-antonio",
     "descriptions": [
@@ -34841,6 +34831,18 @@
         "volume": 14,
         "pages": [
           57
+        ]
+      }
+    ]
+  },
+  "GRECO, GARIBALDI": {
+    "id": "greco-garibaldi",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          255
         ]
       }
     ]
@@ -34972,7 +34974,7 @@
           160
         ]
       },
-            {
+      {
         "volume": 9,
         "pages": [
           100
@@ -35365,18 +35367,6 @@
       }
     ]
   },
-  "GUARNERI, MARY": {
-    "id": "guarneri-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          213
-        ]
-      }
-    ]
-  },
   "GUARNERI, GIUSEPPE": {
     "id": "guarneri-giuseppe",
     "descriptions": [
@@ -35416,6 +35406,18 @@
       }
     ]
   },
+  "GUARNERI, MARY": {
+    "id": "guarneri-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 11,
+        "pages": [
+          213
+        ]
+      }
+    ]
+  },
   "GUASTALLA, ENRICO": {
     "id": "guastalla-enrico",
     "descriptions": [
@@ -35442,7 +35444,7 @@
           63
         ]
       },
-            {
+      {
         "volume": 7,
         "pages": [
           232,
@@ -35509,7 +35511,7 @@
   "GUATTERI, GUALTIERO": {
     "id": "guatterri-gualtiero",
     "descriptions": [
-    "Garibaldi e Il Risorgimento Italiano, a cura di GIUSEPPE BACCINI e GUALTIERO GUATTERI, Firenze, La Rivista Juventus Editrice, Luglio 1907."
+      "Garibaldi e Il Risorgimento Italiano, a cura di GIUSEPPE BACCINI e GUALTIERO GUATTERI, Firenze, La Rivista Juventus Editrice, Luglio 1907."
     ],
     "occurrences": [
       {
@@ -35709,34 +35711,6 @@
       }
     ]
   },
-  "GUERRIERO, madre": {
-    "id": "guerriero-ma",
-    "descriptions": [
-      "madre di Enrico"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          267
-        ]
-      }
-    ]
-  },
-  "GUERRIERO, padre": {
-    "id": "guerriero-anonimo",
-    "descriptions": [
-      "padre di Enrico"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          267
-        ]
-      }
-    ]
-  },
   "GUERRIERO, RAFFAELLA": {
     "id": "guerriero-raffaella",
     "descriptions": [
@@ -35761,6 +35735,34 @@
         "volume": 7,
         "pages": [
           196
+        ]
+      }
+    ]
+  },
+  "GUERRIERO, madre": {
+    "id": "guerriero-ma",
+    "descriptions": [
+      "madre di Enrico"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          267
+        ]
+      }
+    ]
+  },
+  "GUERRIERO, padre": {
+    "id": "guerriero-anonimo",
+    "descriptions": [
+      "padre di Enrico"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          267
         ]
       }
     ]
@@ -36208,11 +36210,39 @@
           231,
           262
         ]
-      }, 
+      },
       {
         "volume": 14,
         "pages": [
           6
+        ]
+      }
+    ]
+  },
+  "GUSTAVIN, ANGELO": {
+    "id": "gustavin-angelo",
+    "descriptions": [
+      "(1800-1867), cugino di Garibaldi"
+    ],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          129
+        ]
+      }
+    ]
+  },
+  "GUSTAVIN, DOMENICO": {
+    "id": "gustavin-domenico",
+    "descriptions": [
+      "cugino di Garibaldi"
+    ],
+    "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          113
         ]
       }
     ]
@@ -36244,34 +36274,6 @@
         "volume": 3,
         "pages": [
           4
-        ]
-      }
-    ]
-  },
-  "GUSTAVIN, ANGELO": {
-    "id": "gustavin-angelo",
-    "descriptions": [
-      "(1800-1867), cugino di Garibaldi"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          129
-        ]
-      }
-    ]
-  },
-  "GUSTAVIN, DOMENICO": {
-    "id": "gustavin-domenico",
-    "descriptions": [
-      "cugino di Garibaldi"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          113
         ]
       }
     ]
@@ -37577,20 +37579,6 @@
       }
     ]
   },
-  "JÁSZAY": {
-    "id": "jászay-anonimo",
-    "descriptions": [
-      "MAGDA"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          264
-        ]
-      }
-    ]
-  },
   "JOANNES, AUGUSTO": {
     "id": "joannes-augusto",
     "descriptions": [
@@ -37707,6 +37695,20 @@
       }
     ]
   },
+  "JÁSZAY": {
+    "id": "jászay-anonimo",
+    "descriptions": [
+      "MAGDA"
+    ],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          264
+        ]
+      }
+    ]
+  },
   "KAMIENSKI, MIESCISLAV": {
     "id": "kamienski-miescislav",
     "descriptions": [
@@ -37760,46 +37762,6 @@
         "pages": [
           217,
           226
-        ]
-      }
-    ]
-  },
-  "KELLER, figli": {
-    "id": "keller-figli",
-    "descriptions": [
-      "figli di Karl"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          17
-        ]
-      },
-      {
-        "volume": 13,
-        "pages": [
-          52
-        ]
-      }
-    ]
-  },
-  "KELLER, moglie": {
-    "id": "keller-anonimo",
-    "descriptions": [
-      "moglie di Karl"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          17
-        ]
-      },
-      {
-        "volume": 13,
-        "pages": [
-          52
         ]
       }
     ]
@@ -37862,6 +37824,46 @@
           82,
           83,
           115
+        ]
+      }
+    ]
+  },
+  "KELLER, figli": {
+    "id": "keller-figli",
+    "descriptions": [
+      "figli di Karl"
+    ],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          17
+        ]
+      },
+      {
+        "volume": 13,
+        "pages": [
+          52
+        ]
+      }
+    ]
+  },
+  "KELLER, moglie": {
+    "id": "keller-anonimo",
+    "descriptions": [
+      "moglie di Karl"
+    ],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          17
+        ]
+      },
+      {
+        "volume": 13,
+        "pages": [
+          52
         ]
       }
     ]
@@ -38237,7 +38239,7 @@
           132
         ]
       },
-            {
+      {
         "volume": 7,
         "pages": [
           261
@@ -38432,7 +38434,7 @@
         "pages": [
           121
         ]
-      }, 
+      },
       {
         "volume": 5,
         "pages": [
@@ -38487,7 +38489,7 @@
         "pages": [
           272
         ]
-      }, 
+      },
       {
         "volume": 8,
         "pages": [
@@ -39200,7 +39202,7 @@
     "id": "laurenti-carlo-3",
     "descriptions": [
       "(Nizza 1817ivi 1876) deputato di Nizza si oppose alla cessione alla Francia dimettendosi con Garibaldi dalla Camera (cfr. vol. VI)",
-      "(Nizza 1817-ivi 1876) rappresentante nizzardo al parlamento subalpino si oppose strenuamente alla cessione di Nizza. Con l'appoggio di Garibaldi fu poi rieletto al parlamento nazionale, ove sedette sino al 1863.", 
+      "(Nizza 1817-ivi 1876) rappresentante nizzardo al parlamento subalpino si oppose strenuamente alla cessione di Nizza. Con l'appoggio di Garibaldi fu poi rieletto al parlamento nazionale, ove sedette sino al 1863.",
       "vedi vol. VI",
       "(1817-1876), conte, nizzardo",
       "(1817-1876), conte, nizzardo"
@@ -39211,7 +39213,7 @@
         "pages": [
           72
         ]
-      }, 
+      },
       {
         "volume": 6,
         "pages": [
@@ -39408,18 +39410,6 @@
       }
     ]
   },
-  "LAZZARO, ISABELLA": {
-    "id": "lazzaro-isabella",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          209
-        ]
-      }
-    ]
-  },
   "LAZZARO, GIUSEPPE": {
     "id": "lazzaro-giuseppe-2",
     "descriptions": [
@@ -39438,6 +39428,18 @@
         "pages": [
           149,
           165
+        ]
+      }
+    ]
+  },
+  "LAZZARO, ISABELLA": {
+    "id": "lazzaro-isabella",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          209
         ]
       }
     ]
@@ -39623,7 +39625,7 @@
     "id": "lemmi-adriano",
     "descriptions": [
       "(Livorno 1822-Firenze 1906) costitui con Adami la Società Italica Meridionale per la costruzione delle ferrovie nel Meridione. Nel 1885 fu eletto Gran Maestro della massoneria (cfr. vol. VI)",
-      "(Livorno 1822-Firenze 1906) banchiere e commerciante operante nell'area medio orientale si unì poi con Adami, col quale nel 1860 costituì la Società Italica Meridionale per la costruzione delle ferrovie meridionali. Garibaldi continuò a servirsi di lui per il movimento di fondi di varie sottoscrizioni", 
+      "(Livorno 1822-Firenze 1906) banchiere e commerciante operante nell'area medio orientale si unì poi con Adami, col quale nel 1860 costituì la Società Italica Meridionale per la costruzione delle ferrovie meridionali. Garibaldi continuò a servirsi di lui per il movimento di fondi di varie sottoscrizioni",
       "(1822-1906) vedi vol. VI",
       "(1822-1906), Garibaldi lo indica come cassiere prima della sottoscrizione per il milione di fucili e poi del Comitato Centrale Unitario, vedi anche voli. V, VI, VII",
       "(1822-1906), in questo periodo è il cassiere del Comitato Centrale Unitario (vedi anche i voll. V-VIII)",
@@ -39742,6 +39744,18 @@
       }
     ]
   },
+  "LEONARDI COLENNA, CLEOBULINA": {
+    "id": "leonardi-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          75
+        ]
+      }
+    ]
+  },
   "LEONARDI, CAROLINA": {
     "id": "leonardi-anonimo-2",
     "descriptions": [],
@@ -39752,18 +39766,6 @@
           191,
           192,
           193
-        ]
-      }
-    ]
-  },
-  "LEONARDI COLENNA, CLEOBULINA": {
-    "id": "leonardi-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          75
         ]
       }
     ]
@@ -39864,20 +39866,6 @@
       }
     ]
   },
-  "LEVI, PRIMO ": {
-    "id": "levi-primo",
-    "descriptions": [
-      "(L'Italico)"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          107
-        ]
-      }
-    ]
-  },
   "LEVI, DAVIDE": {
     "id": "levi-davide",
     "descriptions": [
@@ -39888,6 +39876,20 @@
         "volume": 14,
         "pages": [
           42
+        ]
+      }
+    ]
+  },
+  "LEVI, PRIMO ": {
+    "id": "levi-primo",
+    "descriptions": [
+      "(L'Italico)"
+    ],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          107
         ]
       }
     ]
@@ -40027,7 +40029,7 @@
   },
   "LIAKOS, ANTONIO": {
     "id": "liakos-antonio",
-    "descriptions": [ ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 8,
@@ -40069,7 +40071,7 @@
         "pages": [
           230
         ]
-      }, 
+      },
       {
         "volume": 11,
         "pages": [
@@ -40344,18 +40346,6 @@
       }
     ]
   },
-  "LOCATELLI, GIORGIO": {
-    "id": "locatelli-anonimo-8",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          232
-        ]
-      }
-    ]
-  },
   "LOCATELLI MILESE, GIUSEPPE": {
     "id": "locatelli-anonimo-6",
     "descriptions": [],
@@ -40442,6 +40432,18 @@
       }
     ]
   },
+  "LOCATELLI, GIORGIO": {
+    "id": "locatelli-anonimo-8",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          232
+        ]
+      }
+    ]
+  },
   "LOCATELLI-MILESE, GIUSEPPE": {
     "id": "locatelli-milese-anonimo",
     "descriptions": [],
@@ -40511,74 +40513,74 @@
       {
         "volume": 2,
         "pages": [
-          47, 
-          48, 
-          49, 
-          51, 
-          53, 
-          54, 
-          55, 
-          56, 
-          59, 
-          60, 
-          61, 
-          63, 
-          66, 
-          67, 
-          68, 
-          70, 
-          72, 
-          75, 
-          76, 
-          77, 
-          78, 
-          79, 
-          80, 
-          81, 
-          87, 
-          88, 
-          91, 
-          92, 
-          95, 
-          97, 
-          99, 
-          104, 
-          105, 
-          106, 
-          108, 
-          109, 
-          110, 
-          111, 
-          112, 
-          115, 
-          117, 
-          121, 
-          122, 
-          124, 
-          127, 
-          128, 
-          130, 
-          131, 
-          132, 
-          133, 
-          135, 
-          136, 
-          141, 
-          142, 
-          143, 
-          145, 
-          148, 
-          149, 
-          151, 
-          154, 
-          162, 
-          177, 
-          179, 
-          180, 
-          181, 
-          183, 
-          187, 
-          191, 
+          47,
+          48,
+          49,
+          51,
+          53,
+          54,
+          55,
+          56,
+          59,
+          60,
+          61,
+          63,
+          66,
+          67,
+          68,
+          70,
+          72,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          87,
+          88,
+          91,
+          92,
+          95,
+          97,
+          99,
+          104,
+          105,
+          106,
+          108,
+          109,
+          110,
+          111,
+          112,
+          115,
+          117,
+          121,
+          122,
+          124,
+          127,
+          128,
+          130,
+          131,
+          132,
+          133,
+          135,
+          136,
+          141,
+          142,
+          143,
+          145,
+          148,
+          149,
+          151,
+          154,
+          162,
+          177,
+          179,
+          180,
+          181,
+          183,
+          187,
+          191,
           192,
           215
         ]
@@ -40677,25 +40679,11 @@
         "pages": [
           76
         ]
-      }, 
+      },
       {
         "volume": 14,
         "pages": [
           46
-        ]
-      }
-    ]
-  },
-  "LOMBARDI, famiglia": {
-    "id": "lombardi-famiglia",
-    "descriptions": [
-      "famiglia amica"
-    ],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          142
         ]
       }
     ]
@@ -40825,6 +40813,20 @@
       }
     ]
   },
+  "LOMBARDI, famiglia": {
+    "id": "lombardi-famiglia",
+    "descriptions": [
+      "famiglia amica"
+    ],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          142
+        ]
+      }
+    ]
+  },
   "LOMBARDINI RANDA": {
     "id": "lombardini-anonimo",
     "descriptions": [
@@ -40924,20 +40926,6 @@
       }
     ]
   },
-  "LÓPEZ, JUAN PABLO": {
-    "id": "lópez-juan",
-    "descriptions": [
-      "brigadiere, Governatore e capitano generale della Provmcia di Santa Fé, in quel tempo alleata con il Governo di Montevideo"
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          30
-        ]
-      }
-    ]
-  }, 
   "LOPEZ-CELLY": {
     "id": "lopez-celly-anonimo",
     "descriptions": [
@@ -41378,6 +41366,20 @@
       }
     ]
   },
+  "LÓPEZ, JUAN PABLO": {
+    "id": "lópez-juan",
+    "descriptions": [
+      "brigadiere, Governatore e capitano generale della Provmcia di Santa Fé, in quel tempo alleata con il Governo di Montevideo"
+    ],
+    "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          30
+        ]
+      }
+    ]
+  },
   "MAC ADAM, ALEXANDER": {
     "id": "mac-anonimo",
     "descriptions": [],
@@ -41775,7 +41777,7 @@
         "pages": [
           103
         ]
-      }, 
+      },
       {
         "volume": 8,
         "pages": [
@@ -42799,18 +42801,6 @@
       }
     ]
   },
-  "MANCINI, LUIGI": {
-    "id": "mancini-luigi",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          100
-        ]
-      }
-    ]
-  },
   "MANCINI OLIVA, LAURA BEATRICE": {
     "id": "mancini-laura",
     "descriptions": [
@@ -42858,6 +42848,18 @@
         "pages": [
           15,
           228
+        ]
+      }
+    ]
+  },
+  "MANCINI, LUIGI": {
+    "id": "mancini-luigi",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          100
         ]
       }
     ]
@@ -43036,7 +43038,7 @@
         "pages": [
           175
         ]
-      }, 
+      },
       {
         "volume": 7,
         "pages": [
@@ -43241,18 +43243,6 @@
       }
     ]
   },
-  "MANTEGAZZA, PAOLO": {
-    "id": "mantegazza-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          26
-        ]
-      }
-    ]
-  },
   "MANTEGAZZA GIBELLI, COSTANZA": {
     "id": "mantegazza-costanza",
     "descriptions": [
@@ -43294,6 +43284,18 @@
       }
     ]
   },
+  "MANTEGAZZA, PAOLO": {
+    "id": "mantegazza-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          26
+        ]
+      }
+    ]
+  },
   "MANUEL, ANTONIO": {
     "id": "manuel-antonio",
     "descriptions": [
@@ -43308,18 +43310,6 @@
       }
     ]
   },
-  "MANZONI, LUIGI": {
-    "id": "manzoni-Luigi",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          116
-        ]
-      }
-    ]
-  },
   "MANZONI, FRANCESCO": {
     "id": "manzoni-francesco",
     "descriptions": [
@@ -43330,6 +43320,18 @@
         "volume": 2,
         "pages": [
           47
+        ]
+      }
+    ]
+  },
+  "MANZONI, LUIGI": {
+    "id": "manzoni-Luigi",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          116
         ]
       }
     ]
@@ -43671,7 +43673,7 @@
     "descriptions": [
       "(1841-1927), dopo aver combattuto con Garibaldi nel 1859 e nel 1860 si accostò al mazzinianesimo impegnandosi in particolar modo nella promozione delle società di mutuo soccorso. Scomparso Mazzini, si orientò gradualmente verso il radicalismo di cui nella Camera, dove fu presente dal 1876 al 1890 e dal 1892 al 1921, sostenne le posizioni più avanzate. Studioso di diritto, fu per due volte, con l'appoggio di Giolitti, presidente della Camera",
       "(1841-1927), giovane studioso di diritto, lavorava nel 1865 ad un saggio sulla storia delle antiche popolazioni italiche che non avrebbe mai visto la luce (vedi il vol. IX)",
-      "(1841-1927), vedi i voll. IX-X", 
+      "(1841-1927), vedi i voll. IX-X",
       "(1841-1927), studioso di diritto"
     ],
     "occurrences": [
@@ -43981,7 +43983,7 @@
           109
         ]
       },
-            {
+      {
         "volume": 9,
         "pages": [
           53,
@@ -44367,7 +44369,7 @@
   "MARTELLINI, JACOPO": {
     "id": "martellini-jacopo",
     "descriptions": [
-      "Aretino, sottocancelliere comunicativo a Prato e comproprietario della tipografia Aldina. Dal 1852 in esilio a Genova", 
+      "Aretino, sottocancelliere comunicativo a Prato e comproprietario della tipografia Aldina. Dal 1852 in esilio a Genova",
       "(vedi vol. III)"
     ],
     "occurrences": [
@@ -44583,7 +44585,7 @@
         "pages": [
           70
         ]
-      }, 
+      },
       {
         "volume": 10,
         "pages": [
@@ -44736,7 +44738,7 @@
           57
         ]
       },
-            {
+      {
         "volume": 13,
         "pages": [
           282
@@ -44981,7 +44983,7 @@
           203
         ]
       },
-            {
+      {
         "volume": 12,
         "pages": [
           89,
@@ -45403,25 +45405,25 @@
       {
         "volume": 2,
         "pages": [
-          10, 
-          85, 
-          124, 
-          140, 
-          142, 
-          156, 
-          162, 
-          163, 
-          167, 
-          168, 
-          169, 
-          170, 
-          172, 
-          173, 
-          175, 
-          176, 
+          10,
+          85,
+          124,
+          140,
+          142,
+          156,
+          162,
+          163,
+          167,
+          168,
+          169,
+          170,
+          172,
+          173,
+          175,
+          176,
           177,
-          179, 
-          182, 
+          179,
+          182,
           188,
           189
         ]
@@ -45499,11 +45501,11 @@
       {
         "volume": 10,
         "pages": [
-          29, 
-          43, 
-          49, 
-          64, 
-          67, 
+          29,
+          43,
+          49,
+          64,
+          67,
           97,
           130,
           158,
@@ -45635,7 +45637,6 @@
     "descriptions": [
       "scozzese, autore di un volume di Notes of a Continental Tour and a Visit to Caprera, (1865)",
       "scozzese, pubblicò a Glasgow nel 1865 le sue Notes of a Continental Tour and a Visit to Caprera; era anche colleziornsta di quadri italiani di soggetto patriottico (vedi il vol. IX)"
-
     ],
     "occurrences": [
       {
@@ -45697,18 +45698,6 @@
       }
     ]
   },
-  "MEDICI, PIETRO": {
-    "id": "medici-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          29
-        ]
-      }
-    ]
-  },
   "MEDICI DEL VASCELLO, GIACOMO": {
     "id": "medici-giacomo",
     "descriptions": [
@@ -45735,7 +45724,7 @@
           258
         ]
       },
-            {
+      {
         "volume": 2,
         "pages": [
           8,
@@ -45873,7 +45862,7 @@
           56
         ]
       },
-            {
+      {
         "volume": 9,
         "pages": [
           16,
@@ -45910,6 +45899,18 @@
         "volume": 14,
         "pages": [
           19
+        ]
+      }
+    ]
+  },
+  "MEDICI, PIETRO": {
+    "id": "medici-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          29
         ]
       }
     ]
@@ -46102,7 +46103,7 @@
           268
         ]
       },
-            {
+      {
         "volume": 11,
         "pages": [
           0,
@@ -46513,7 +46514,7 @@
           156
         ]
       },
-            {
+      {
         "volume": 4,
         "pages": [
           128,
@@ -46998,7 +46999,7 @@
           227
         ]
       },
-            {
+      {
         "volume": 6,
         "pages": [
           33,
@@ -47099,7 +47100,7 @@
           172
         ]
       },
-            {
+      {
         "volume": 13,
         "pages": [
           77
@@ -47427,18 +47428,6 @@
       }
     ]
   },
-  "MIRAGLIA, ROCCO": {
-    "id": "miraglia-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          165
-        ]
-      }
-    ]
-  },
   "MIRAGLIA, BIAGIO": {
     "id": "miraglia-biagio",
     "descriptions": [
@@ -47449,6 +47438,18 @@
         "volume": 5,
         "pages": [
           256
+        ]
+      }
+    ]
+  },
+  "MIRAGLIA, ROCCO": {
+    "id": "miraglia-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          165
         ]
       }
     ]
@@ -47484,7 +47485,7 @@
   "MISSORI, GIUSEPPE": {
     "id": "missori-giuseppe",
     "descriptions": [
-    "(Mosca 1829-Milano 1911) comandante delle guide di Garibaldi, lo salvò a Milazzo (cfr. voll. IV, VI)",
+      "(Mosca 1829-Milano 1911) comandante delle guide di Garibaldi, lo salvò a Milazzo (cfr. voll. IV, VI)",
       "(1829-1911), messosi in luce tra le guide di Garibaldi nelle campagne del 1859-60, si ritirò poi a vita privata a Milano, sempre pronto però a scendere in campo al richiamo del suo generale",
       "(Mosca 1824-Milano 1911) dei Mille, fu a capo delle Guide di Garibaldi, mettendosi in luce in molte circostanze per il suo valore. Partecipò alla spedizione di Aspromonte, ricevendo l'incarico, prima dello scontro tra i volontari e le truppe, di raccogliere gente in Calabria. Per questo sfuggì all'arresto e, sotto il falso nome di Esposito, raggiunse Napoli",
       "(1829-1911), vedi voll. V, VI e VII, 44, 126, 127'",
@@ -47832,20 +47833,6 @@
       }
     ]
   },
-  "MORMAND, FELIX": {
-    "id": "mormand-felix",
-    "descriptions": [
-      "FELIX MORMAND, Garibaldi, Pans, A. Faure, 1866,"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          20
-        ]
-      }
-    ]
-  },
   "MONACO, CAMILLO": {
     "id": "monaco-camillo",
     "descriptions": [
@@ -48187,23 +48174,11 @@
           121
         ]
       },
-            {
+      {
         "volume": 6,
         "pages": [
           88,
           288
-        ]
-      }
-    ]
-  },
-  "MONTECCHI, ETTORE": {
-    "id": "montecchi-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          298
         ]
       }
     ]
@@ -48218,6 +48193,18 @@
         "volume": 7,
         "pages": [
           59
+        ]
+      }
+    ]
+  },
+  "MONTECCHI, ETTORE": {
+    "id": "montecchi-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 11,
+        "pages": [
+          298
         ]
       }
     ]
@@ -48341,9 +48328,9 @@
   "MONTI, ANTONIO": {
     "id": "monti-antonio",
     "descriptions": [
-    "ALFREDO COMANDINI-ANTONIO MONTI, L'Italia nei cento anni del secolo XIX giorno per giorno illustrata, vol. IV (1861-1870),Milano, Vallardi, 1918.",
-    "ANTONIO MONTI, La vita di Garibaldi giorno per giorno narrata e illustrata, Milano, Vallardi, 1932.",
-    "ANTONIO MONTI, Figure e caratteri del Risorgimento, Torino, Paravia, 1939."
+      "ALFREDO COMANDINI-ANTONIO MONTI, L'Italia nei cento anni del secolo XIX giorno per giorno illustrata, vol. IV (1861-1870),Milano, Vallardi, 1918.",
+      "ANTONIO MONTI, La vita di Garibaldi giorno per giorno narrata e illustrata, Milano, Vallardi, 1932.",
+      "ANTONIO MONTI, Figure e caratteri del Risorgimento, Torino, Paravia, 1939."
     ],
     "occurrences": [
       {
@@ -48445,7 +48432,7 @@
       }
     ]
   },
-    "MONTI, SANTO": {
+  "MONTI, SANTO": {
     "id": "monti-santo",
     "descriptions": [],
     "occurrences": [
@@ -48512,18 +48499,6 @@
       }
     ]
   },
-  "MONZANI, FELICIANO": {
-    "id": "monzani-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          101
-        ]
-      }
-    ]
-  },
   "MONZANI, CIRILLO": {
     "id": "monzani-cirillo",
     "descriptions": [
@@ -48534,6 +48509,18 @@
         "volume": 12,
         "pages": [
           78
+        ]
+      }
+    ]
+  },
+  "MONZANI, FELICIANO": {
+    "id": "monzani-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          101
         ]
       }
     ]
@@ -48634,7 +48621,7 @@
           324
         ]
       },
-            {
+      {
         "volume": 6,
         "pages": [
           253,
@@ -48714,7 +48701,7 @@
       }
     ]
   },
-    "MORDINI, LEONARDO": {
+  "MORDINI, LEONARDO": {
     "id": "mordini-leonardo",
     "descriptions": [],
     "occurrences": [
@@ -48768,14 +48755,25 @@
       }
     ]
   },
-  "MORELLI, PAOLO": {
-    "id": "morelli-anonimo",
-    "descriptions": [],
+  "MORELLI, DONATO": {
+    "id": "morelli-donato",
+    "descriptions": [
+      "(Rogliano Cosenza-ivi 1902), di famiglia agiata prese parte ai moti del 1848 e fu costretto ad espatriare. Contribuì a suscitare la rivoluzione nelle Calabrie",
+      "(Ragliano 1824-ivi 1902) di famiglia cospicua era stato uno dei capi dell'insurrezione calabrese del 1847. In seguito fu tra quanti lavorarono per il passaggio di Garibaldi in Calabria nel 1860 divenendo poi governatore di Cosenza. Deputato del collegio cosentino per molte legislature, ma sempre schierato su posizioni moderate"
+    ],
     "occurrences": [
       {
         "volume": 5,
         "pages": [
-          180
+          219,
+          225,
+          227
+        ]
+      },
+      {
+        "volume": 7,
+        "pages": [
+          165
         ]
       }
     ]
@@ -48824,29 +48822,6 @@
       }
     ]
   },
-  "MORELLI, DONATO": {
-    "id": "morelli-donato",
-    "descriptions": [
-      "(Rogliano Cosenza-ivi 1902), di famiglia agiata prese parte ai moti del 1848 e fu costretto ad espatriare. Contribuì a suscitare la rivoluzione nelle Calabrie",
-      "(Ragliano 1824-ivi 1902) di famiglia cospicua era stato uno dei capi dell'insurrezione calabrese del 1847. In seguito fu tra quanti lavorarono per il passaggio di Garibaldi in Calabria nel 1860 divenendo poi governatore di Cosenza. Deputato del collegio cosentino per molte legislature, ma sempre schierato su posizioni moderate"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          219,
-          225,
-          227
-        ]
-      },
-      {
-        "volume": 7,
-        "pages": [
-          165
-        ]
-      }
-    ]
-  },
   "MORELLI, ERCOLE": {
     "id": "morelli-ercole",
     "descriptions": [
@@ -48857,6 +48832,18 @@
         "volume": 2,
         "pages": [
           153
+        ]
+      }
+    ]
+  },
+  "MORELLI, PAOLO": {
+    "id": "morelli-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          180
         ]
       }
     ]
@@ -49016,6 +49003,20 @@
       }
     ]
   },
+  "MORMAND, FELIX": {
+    "id": "mormand-felix",
+    "descriptions": [
+      "FELIX MORMAND, Garibaldi, Pans, A. Faure, 1866,"
+    ],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          20
+        ]
+      }
+    ]
+  },
   "MORNAND, FÉLIX": {
     "id": "mornand-félix",
     "descriptions": [
@@ -49166,7 +49167,7 @@
       "(1824-1890), maggiore"
     ],
     "occurrences": [
-            {
+      {
         "volume": 5,
         "pages": [
           89,
@@ -49320,6 +49321,21 @@
       }
     ]
   },
+  "MULLER, TEODORINA": {
+    "id": "muller-teodorina",
+    "descriptions": [
+      "amica napoletana di Garibaldi"
+    ],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          214,
+          220
+        ]
+      }
+    ]
+  },
   "MULÉ BERTOLO, LILLI": {
     "id": "mulé-anonimo",
     "descriptions": [],
@@ -49377,7 +49393,7 @@
           218
         ]
       },
-            {
+      {
         "volume": 3,
         "pages": [
           37
@@ -49426,8 +49442,8 @@
         "pages": [
           3
         ]
-      }, 
-            {
+      },
+      {
         "volume": 12,
         "pages": [
           121
@@ -49521,21 +49537,6 @@
           191,
           194,
           235
-        ]
-      }
-    ]
-  },
-  "MULLER, TEODORINA": {
-    "id": "muller-teodorina",
-    "descriptions": [
-      "amica napoletana di Garibaldi"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          214,
-          220
         ]
       }
     ]
@@ -49634,6 +49635,20 @@
       }
     ]
   },
+  "NAPOLEON": {
+    "id": "napoleon-marinaio",
+    "descriptions": [
+      "marinaio uruguaiano, indiziato di un delitto"
+    ],
+    "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          224
+        ]
+      }
+    ]
+  },
   "NAPOLEON, JOSÉ": {
     "id": "napoleon-josé",
     "descriptions": [
@@ -49645,20 +49660,6 @@
         "pages": [
           32,
           71
-        ]
-      }
-    ]
-  },
-  "NAPOLEON": {
-    "id": "napoleon-marinaio",
-    "descriptions": [
-      "marinaio uruguaiano, indiziato di un delitto"
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          224
         ]
       }
     ]
@@ -49772,10 +49773,10 @@
       {
         "volume": 12,
         "pages": [
-          120, 
-          139, 
-          141, 
-          149, 
+          120,
+          139,
+          141,
+          149,
           158,
           239,
           244,
@@ -49884,6 +49885,18 @@
       }
     ]
   },
+  "NASCIBENE, MARIA LUIGIA": {
+    "id": "nascibene-maria",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          75
+        ]
+      }
+    ]
+  },
   "NASCIMBENE, LUIGI": {
     "id": "nascimbene-luigi",
     "descriptions": [
@@ -49894,18 +49907,6 @@
         "volume": 6,
         "pages": [
           74
-        ]
-      }
-    ]
-  },
-  "NASCIBENE, MARIA LUIGIA": {
-    "id": "nascibene-maria",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          75
         ]
       }
     ]
@@ -49970,7 +49971,7 @@
           197,
           251
         ]
-      }, 
+      },
       {
         "volume": 8,
         "pages": [
@@ -50564,20 +50565,6 @@
       }
     ]
   },
-  "NIEVO, famiglia": {
-    "id": "nievo-famiglia",
-    "descriptions": [
-      "famiglia"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          164
-        ]
-      }
-    ]
-  },
   "NIEVO, IPPOLITO": {
     "id": "nievo-ippolito",
     "descriptions": [
@@ -50595,6 +50582,20 @@
         "volume": 13,
         "pages": [
           92
+        ]
+      }
+    ]
+  },
+  "NIEVO, famiglia": {
+    "id": "nievo-famiglia",
+    "descriptions": [
+      "famiglia"
+    ],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          164
         ]
       }
     ]
@@ -50627,6 +50628,20 @@
       }
     ]
   },
+  "NOBILI, ANTONIO MARIA": {
+    "id": "nobili-antonio",
+    "descriptions": [
+      "parroco di S. Giovanni Reatino"
+    ],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          117
+        ]
+      }
+    ]
+  },
   "NOBILI, MARIO": {
     "id": "nobili-anonimo",
     "descriptions": [],
@@ -50643,20 +50658,6 @@
         "pages": [
           136,
           189
-        ]
-      }
-    ]
-  },
-  "NOBILI, ANTONIO MARIA": {
-    "id": "nobili-antonio",
-    "descriptions": [
-      "parroco di S. Giovanni Reatino"
-    ],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          117
         ]
       }
     ]
@@ -51305,7 +51306,7 @@
   "ODORICI, FEDERICO": {
     "id": "odorici-federico",
     "descriptions": [
-      "(Brescia 1815-Salò 1884) storico della sua città, sulla quale scrisse numerosi saggi, manifestò i suoi sentimenti patriottici in una biografia su Camillo Ugoni, del 1855, e in un lavoro su Arnaldo da Brescia, pubblicato sul fimre del 1861", 
+      "(Brescia 1815-Salò 1884) storico della sua città, sulla quale scrisse numerosi saggi, manifestò i suoi sentimenti patriottici in una biografia su Camillo Ugoni, del 1855, e in un lavoro su Arnaldo da Brescia, pubblicato sul fimre del 1861",
       "(1815-1884), storico e poligrafo, fu prefetto della Braidense, vedi anche vol. VII"
     ],
     "occurrences": [
@@ -51363,18 +51364,6 @@
       }
     ]
   },
-  "OLIVA, DOMENICO": {
-    "id": "oliva-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          302
-        ]
-      }
-    ]
-  },
   "OLIVA, ANTONIO": {
     "id": "oliva-antonio",
     "descriptions": [
@@ -51389,14 +51378,28 @@
       }
     ]
   },
-  "OLIVIERI, SILVINA": {
-    "id": "olivieri-anonimo",
+  "OLIVA, DOMENICO": {
+    "id": "oliva-anonimo",
     "descriptions": [],
     "occurrences": [
       {
-        "volume": 3,
+        "volume": 13,
         "pages": [
-          54
+          302
+        ]
+      }
+    ]
+  },
+  "OLIVIERI": {
+    "id": "olivieri-pittore",
+    "descriptions": [
+      "pittore, morto nella guerra del 1866"
+    ],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          49
         ]
       }
     ]
@@ -51446,6 +51449,18 @@
       }
     ]
   },
+  "OLIVIERI, SILVINA": {
+    "id": "olivieri-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          54
+        ]
+      }
+    ]
+  },
   "OLIVIERI, SILVINO": {
     "id": "olivieri-silvino",
     "descriptions": [
@@ -51460,20 +51475,6 @@
           85,
           131,
           136
-        ]
-      }
-    ]
-  },
-  "OLIVIERI": {
-    "id": "olivieri-pittore",
-    "descriptions": [
-      "pittore, morto nella guerra del 1866"
-    ],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          49
         ]
       }
     ]
@@ -51792,6 +51793,20 @@
       }
     ]
   },
+  "ORLANDO": {
+    "id": "orlando-è",
+    "descriptions": [
+      " è difficile dire a quale dei fratelli Giuseppe, Luigi, Paolo, Salvatore, si faccia riferimento; industriali e patrioti di Palermo, tutti furono impegnati a favore della spedizione di Garibaldi"
+    ],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          67
+        ]
+      }
+    ]
+  },
   "ORLANDO ALBANESE, MARIA PIA": {
     "id": "orlando-maria-pia",
     "descriptions": [],
@@ -51941,20 +51956,6 @@
         "volume": 6,
         "pages": [
           107
-        ]
-      }
-    ]
-  },
-  "ORLANDO": {
-    "id": "orlando-è",
-    "descriptions": [
-      " è difficile dire a quale dei fratelli Giuseppe, Luigi, Paolo, Salvatore, si faccia riferimento; industriali e patrioti di Palermo, tutti furono impegnati a favore della spedizione di Garibaldi"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          67
         ]
       }
     ]
@@ -53387,16 +53388,16 @@
       {
         "volume": 8,
         "pages": [
-          10, 
-          11, 
-          25, 
-          28, 
-          36, 
-          55, 
-          63, 
-          79, 
-          88, 
-          110, 
+          10,
+          11,
+          25,
+          28,
+          36,
+          55,
+          63,
+          79,
+          88,
+          110,
           117,
           125,
           140,
@@ -54105,18 +54106,6 @@
       }
     ]
   },
-  "PARACCA, famiglia": {
-    "id": "paracca-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          64
-        ]
-      }
-    ]
-  },
   "PARACCA, FRANCESCO": {
     "id": "paracca-anonimo",
     "descriptions": [],
@@ -54126,6 +54115,18 @@
         "pages": [
           0,
           237
+        ]
+      }
+    ]
+  },
+  "PARACCA, famiglia": {
+    "id": "paracca-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          64
         ]
       }
     ]
@@ -54158,19 +54159,6 @@
       }
     ]
   },
-  "PARENTI, PIETRO": {
-    "id": "parenti-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          244,
-          248
-        ]
-      }
-    ]
-  },
   "PARENTI GUIDI, FRANCESCO": {
     "id": "parenti-francesco",
     "descriptions": [
@@ -54181,6 +54169,19 @@
         "volume": 9,
         "pages": [
           92
+        ]
+      }
+    ]
+  },
+  "PARENTI, PIETRO": {
+    "id": "parenti-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          244,
+          248
         ]
       }
     ]
@@ -54407,19 +54408,6 @@
       }
     ]
   },
-  "PASINI, GIOVANNI": {
-    "id": "pasini-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          8,
-          18
-        ]
-      }
-    ]
-  },
   "PASINI D'IMOLA, LUCIO": {
     "id": "pasini-lucro",
     "descriptions": [
@@ -54430,6 +54418,19 @@
         "volume": 4,
         "pages": [
           214
+        ]
+      }
+    ]
+  },
+  "PASINI, GIOVANNI": {
+    "id": "pasini-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          8,
+          18
         ]
       }
     ]
@@ -55137,7 +55138,6 @@
     "id": "pelegatti-carolina",
     "descriptions": [],
     "occurrences": [
-
       {
         "volume": 7,
         "pages": [
@@ -55186,18 +55186,6 @@
       }
     ]
   },
-  "PELLEGRINI, CARLO": {
-    "id": "pellegrini-carlo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 9,
-        "pages": [
-          111
-        ]
-      }
-    ]
-  },
   "PELLEGRINI, ANGELO": {
     "id": "pellegrini-angelo",
     "descriptions": [
@@ -55213,17 +55201,14 @@
       }
     ]
   },
-  "PELLEGRINO, GIOVANNI": {
-    "id": "pellegrino-giovanni",
-    "descriptions": [
-      "(1821-1879), tenente dei C.d.A., medaglia d'argento al V.M."
-    ],
+  "PELLEGRINI, CARLO": {
+    "id": "pellegrini-carlo",
+    "descriptions": [],
     "occurrences": [
       {
-        "volume": 4,
+        "volume": 9,
         "pages": [
-          61,
-          62
+          111
         ]
       }
     ]
@@ -55238,6 +55223,21 @@
         "volume": 5,
         "pages": [
           68
+        ]
+      }
+    ]
+  },
+  "PELLEGRINO, GIOVANNI": {
+    "id": "pellegrino-giovanni",
+    "descriptions": [
+      "(1821-1879), tenente dei C.d.A., medaglia d'argento al V.M."
+    ],
+    "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          61,
+          62
         ]
       }
     ]
@@ -55468,43 +55468,8 @@
       {
         "volume": 12,
         "pages": [
-          92, 
+          92,
           96
-        ]
-      }
-    ]
-  },
-  "PÉREZ, ANTONIO": {
-    "id": "pérez-antonio",
-    "descriptions": [
-      "guardiamarina e poi sottotenente nella E.N.",
-      "uruguaiano, in prigione per un delitto colposo, è richiesto al Governo dalla E N."
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          71
-        ]
-      },
-      {
-        "volume": 1,
-        "pages": [
-          253
-        ]
-      }
-    ]
-  },
-  "PÉREZ, JUAN MARIA": {
-    "id": "pérez-juan",
-    "descriptions": [
-      "al suo nome è dedicata una località fuori delle mura di Montevideo"
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          82
         ]
       }
     ]
@@ -55949,7 +55914,7 @@
   "PESSINA, ENRICO ": {
     "id": "pessina-enrico",
     "descriptions": [
-      "(Como 1828-ivi 1909) membro della giunta provvisoria di governo di Como e comandante della guardia nazionale", 
+      "(Como 1828-ivi 1909) membro della giunta provvisoria di governo di Como e comandante della guardia nazionale",
       "(1828-1909), patriota comasco, protagonista dell'insurrezione della sua città nel 1848, era stato arrestato nel 1852; nel 1860 fu in Sicilia con la spedizione Cosenz passando dal grado di tenente del genio a quello di maggiore; nel 1866 è maggiore del C.V.I., comanda il i° battaglione e dirige l'organizzazione del 5° reggimento (Chiassi); ferito il 21 luglio a Locca, in Val di Conzei, è promosso tenente colonnello ed ottiene l'Ordine Militare di Savoia"
     ],
     "occurrences": [
@@ -56031,18 +55996,6 @@
       }
     ]
   },
-  "PETRACCHI, GIORGIO": {
-    "id": "petracchi-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          110
-        ]
-      }
-    ]
-  },
   "PETRACCHI, ATTILIO R.": {
     "id": "petracchi-attilio",
     "descriptions": [
@@ -56053,6 +56006,18 @@
         "volume": 9,
         "pages": [
           187
+        ]
+      }
+    ]
+  },
+  "PETRACCHI, GIORGIO": {
+    "id": "petracchi-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          110
         ]
       }
     ]
@@ -56173,20 +56138,6 @@
       }
     ]
   },
-  "PETTA, famiglia": {
-    "id": "petta-anonimo",
-    "descriptions": [
-      "famiglia"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          243
-        ]
-      }
-    ]
-  },
   "PETTA, FERDINANDO": {
     "id": "petta-ferdinando",
     "descriptions": [
@@ -56297,6 +56248,20 @@
         "volume": 9,
         "pages": [
           4
+        ]
+      }
+    ]
+  },
+  "PETTA, famiglia": {
+    "id": "petta-anonimo",
+    "descriptions": [
+      "famiglia"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          243
         ]
       }
     ]
@@ -56532,7 +56497,7 @@
       {
         "volume": 12,
         "pages": [
-          21, 
+          21,
           51,
           64,
           81,
@@ -57363,7 +57328,7 @@
           109,
           111
         ]
-      }, 
+      },
       {
         "volume": 8,
         "pages": [
@@ -57756,18 +57721,6 @@
       }
     ]
   },
-  "PITTALUGA, MANO": {
-    "id": "pittaluga-mano",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          211
-        ]
-      }
-    ]
-  },
   "PITTALUGA, AGOSTINO": {
     "id": "pittaluga-agostino",
     "descriptions": [
@@ -57787,6 +57740,18 @@
     "descriptions": [
       "dei Mille, entrò poi nell'esercito regolare e raggiunse il grado di generale"
     ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          211
+        ]
+      }
+    ]
+  },
+  "PITTALUGA, MANO": {
+    "id": "pittaluga-mano",
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 13,
@@ -57850,20 +57815,12 @@
       }
     ]
   },
-  "PLANAT DE LA FAYE, NICOLAS-LOUIS": {
-    "id": "planat-anonimo",
+  "PLANAT DE LA FAYE, FREDERICA": {
+    "id": "planat-frederica",
     "descriptions": [
-      "già ufficiale d'ordinanza di Napoleone I",
-      "(vedi anche i voll. IV e V)",
-      "(vedi i voli. IV-V e IX)"
+      "mogli di Nicolas-Louis, antico ufficiale napoleonico con grandi simpatie per la causa italiana, resta vedova nel corso del 1865"
     ],
     "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          30
-        ]
-      },
       {
         "volume": 9,
         "pages": [
@@ -57878,12 +57835,20 @@
       }
     ]
   },
-  "PLANAT DE LA FAYE, FREDERICA": {
-    "id": "planat-frederica",
+  "PLANAT DE LA FAYE, NICOLAS-LOUIS": {
+    "id": "planat-anonimo",
     "descriptions": [
-      "mogli di Nicolas-Louis, antico ufficiale napoleonico con grandi simpatie per la causa italiana, resta vedova nel corso del 1865"
+      "già ufficiale d'ordinanza di Napoleone I",
+      "(vedi anche i voll. IV e V)",
+      "(vedi i voli. IV-V e IX)"
     ],
     "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          30
+        ]
+      },
       {
         "volume": 9,
         "pages": [
@@ -58088,7 +58053,7 @@
           226
         ]
       },
-            {
+      {
         "volume": 7,
         "pages": [
           229
@@ -58288,6 +58253,20 @@
       }
     ]
   },
+  "POMA FILIPPINI, ANNA": {
+    "id": "poma-anna",
+    "descriptions": [
+      "madre del martire mantovano Carlo Poma, morto a Belfiore. Sui tentativi che ella, già settantenne, fece per salvare il figlio dal patibolo si vedano le commosse pagine di Luigi Martini"
+    ],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          60
+        ]
+      }
+    ]
+  },
   "POMA, CARLO": {
     "id": "poma-carlo",
     "descriptions": [
@@ -58306,20 +58285,6 @@
         "volume": 11,
         "pages": [
           276
-        ]
-      }
-    ]
-  },
-  "POMA FILIPPINI, ANNA": {
-    "id": "poma-anna",
-    "descriptions": [
-      "madre del martire mantovano Carlo Poma, morto a Belfiore. Sui tentativi che ella, già settantenne, fece per salvare il figlio dal patibolo si vedano le commosse pagine di Luigi Martini"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          60
         ]
       }
     ]
@@ -58509,18 +58474,6 @@
       }
     ]
   },
-  "PORRO SCHIAFFINATI, G.": {
-    "id": "porro-g",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          45
-        ]
-      }
-    ]
-  },
   "PORRO SCHIAFFINATI, ALFONSO": {
     "id": "porro-alfonso",
     "descriptions": [
@@ -58534,6 +58487,18 @@
           84
         ]
       },
+      {
+        "volume": 10,
+        "pages": [
+          45
+        ]
+      }
+    ]
+  },
+  "PORRO SCHIAFFINATI, G.": {
+    "id": "porro-g",
+    "descriptions": [],
+    "occurrences": [
       {
         "volume": 10,
         "pages": [
@@ -59389,6 +59354,41 @@
       }
     ]
   },
+  "PÉREZ, ANTONIO": {
+    "id": "pérez-antonio",
+    "descriptions": [
+      "guardiamarina e poi sottotenente nella E.N.",
+      "uruguaiano, in prigione per un delitto colposo, è richiesto al Governo dalla E N."
+    ],
+    "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          71
+        ]
+      },
+      {
+        "volume": 1,
+        "pages": [
+          253
+        ]
+      }
+    ]
+  },
+  "PÉREZ, JUAN MARIA": {
+    "id": "pérez-juan",
+    "descriptions": [
+      "al suo nome è dedicata una località fuori delle mura di Montevideo"
+    ],
+    "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          82
+        ]
+      }
+    ]
+  },
   "QUADRIO, MAURIZIO": {
     "id": "quadrio-maurizio",
     "descriptions": [
@@ -59517,7 +59517,7 @@
       "moglie di Edgar"
     ],
     "occurrences": [
-            {
+      {
         "volume": 7,
         "pages": [
           211
@@ -60962,6 +60962,71 @@
       }
     ]
   },
+  "RICCI DEL VASTO": {
+    "id": "ricci-anonimo-6",
+    "descriptions": [
+      "madre di Giuseppe e Luigi"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          15
+        ]
+      }
+    ]
+  },
+  "RICCI DEL VASTO, GIUSEPPE": {
+    "id": "ricci-giuseppe-2",
+    "descriptions": [
+      "caduto a Mentana"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          13
+        ]
+      }
+    ]
+  },
+  "RICCI DEL VASTO, LUIGI": {
+    "id": "ricci-luigi",
+    "descriptions": [
+      "fratello di Giuseppe"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          12,
+          15
+        ]
+      },
+      {
+        "volume": 14,
+        "pages": [
+          14,
+          123,
+          125
+        ]
+      }
+    ]
+  },
+  "RICCI GRAMITTO, ROCCO": {
+    "id": "ricci-rocco",
+    "descriptions": [
+      "(Agrigento, i febbraio 1834 - Roma, 8 febbraio 1908), esule col padre a Malta, rientrò in patria nel 1850, studiò legge a Palermo, ove nel 1860 fu tra i capi del movimento insurrezionale, e poi tra le file garibaldine, tornando alle armi nel 1862 in occasione di Aspromonte. Per questo fu privato dell'impiego di ispettore della G.N. della sua città"
+    ],
+    "occurrences": [
+      {
+        "volume": 8,
+        "pages": [
+          25
+        ]
+      }
+    ]
+  },
   "RICCI, ACHILE": {
     "id": "ricci-anonimo",
     "descriptions": [],
@@ -60970,6 +61035,21 @@
         "volume": 12,
         "pages": [
           158
+        ]
+      }
+    ]
+  },
+  "RICCI, AGOSTINO": {
+    "id": "ricci-agostino",
+    "descriptions": [
+      "(1832-1896), ufficiale dell'esercito"
+    ],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          97,
+          103
         ]
       }
     ]
@@ -61057,86 +61137,6 @@
         "volume": 7,
         "pages": [
           21
-        ]
-      }
-    ]
-  },
-  "RICCI DEL VASTO": {
-    "id": "ricci-anonimo-6",
-    "descriptions": [
-      "madre di Giuseppe e Luigi"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          15
-        ]
-      }
-    ]
-  },
-  "RICCI DEL VASTO, GIUSEPPE": {
-    "id": "ricci-giuseppe-2",
-    "descriptions": [
-      "caduto a Mentana"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          13
-        ]
-      }
-    ]
-  },
-  "RICCI DEL VASTO, LUIGI": {
-    "id": "ricci-luigi",
-    "descriptions": [
-      "fratello di Giuseppe"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          12,
-          15
-        ]
-      },
-      {
-        "volume": 14,
-        "pages": [
-          14,
-          123,
-          125
-        ]
-      }
-    ]
-  },
-  "RICCI GRAMITTO, ROCCO": {
-    "id": "ricci-rocco",
-    "descriptions": [
-      "(Agrigento, i febbraio 1834 - Roma, 8 febbraio 1908), esule col padre a Malta, rientrò in patria nel 1850, studiò legge a Palermo, ove nel 1860 fu tra i capi del movimento insurrezionale, e poi tra le file garibaldine, tornando alle armi nel 1862 in occasione di Aspromonte. Per questo fu privato dell'impiego di ispettore della G.N. della sua città"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          25
-        ]
-      }
-    ]
-  },
-  "RICCI, AGOSTINO": {
-    "id": "ricci-agostino",
-    "descriptions": [
-      "(1832-1896), ufficiale dell'esercito"
-    ],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          97,
-          103
         ]
       }
     ]
@@ -61459,18 +61459,6 @@
       }
     ]
   },
-  "RIGGIO, MARIA ASSUNTA": {
-    "id": "riggio-maria",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          61
-        ]
-      }
-    ]
-  },
   "RIGGIO, ANTONINO": {
     "id": "riggio-antonino",
     "descriptions": [
@@ -61523,6 +61511,18 @@
         "volume": 7,
         "pages": [
           295
+        ]
+      }
+    ]
+  },
+  "RIGGIO, MARIA ASSUNTA": {
+    "id": "riggio-maria",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 10,
+        "pages": [
+          61
         ]
       }
     ]
@@ -61792,6 +61792,20 @@
       }
     ]
   },
+  "RISSO": {
+    "id": "risso-membro",
+    "descriptions": [
+      "membro della collettività italiana di Montevideo non meglio identificato"
+    ],
+    "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          59
+        ]
+      }
+    ]
+  },
   "RISSO, TOMMASO": {
     "id": "risso-tommaso",
     "descriptions": [
@@ -61812,20 +61826,6 @@
           19,
           64,
           68
-        ]
-      }
-    ]
-  },
-  "RISSO": {
-    "id": "risso-membro",
-    "descriptions": [
-      "membro della collettività italiana di Montevideo non meglio identificato"
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          59
         ]
       }
     ]
@@ -62284,6 +62284,37 @@
       }
     ]
   },
+  "RODI, CARLO": {
+    "id": "roni-carlo",
+    "descriptions": [
+      "capitano della L.I.M. fento a Sant'Antomo, seguì Garibaldi in Italia e combattè a Roma nel 1849",
+      "(1799-1862) già combattente nella L. I.M., ufficiale 1a Leg. It.",
+      "(1799-1862) con Garibaldi da Montevideo al 1860 (vedi vol. II)"
+    ],
+    "occurrences": [
+      {
+        "volume": 1,
+        "pages": [
+          177,
+          182
+        ]
+      },
+      {
+        "volume": 2,
+        "pages": [
+          138
+        ]
+      },
+      {
+        "volume": 6,
+        "pages": [
+          275,
+          282,
+          290
+        ]
+      }
+    ]
+  },
   "RODRIGUEZ": {
     "id": "rodriguez-anonimo",
     "descriptions": [
@@ -62569,9 +62600,9 @@
       {
         "volume": 12,
         "pages": [
-          5, 
-          8, 
-          24, 
+          5,
+          8,
+          24,
           32,
           46,
           85,
@@ -62752,37 +62783,6 @@
       }
     ]
   },
-  "RODI, CARLO": {
-    "id": "roni-carlo",
-    "descriptions": [
-      "capitano della L.I.M. fento a Sant'Antomo, seguì Garibaldi in Italia e combattè a Roma nel 1849",
-      "(1799-1862) già combattente nella L. I.M., ufficiale 1a Leg. It.",
-      "(1799-1862) con Garibaldi da Montevideo al 1860 (vedi vol. II)"
-    ],
-    "occurrences": [
-      {
-        "volume": 1,
-        "pages": [
-          177,
-          182
-        ]
-      },
-      {
-        "volume": 2,
-        "pages": [
-          138
-        ]
-      },
-      {
-        "volume": 6,
-        "pages": [
-          275,
-          282,
-          290
-        ]
-      }
-    ]
-  },
   "ROSAGLIO": {
     "id": "rosaglio-anonimo",
     "descriptions": [
@@ -62819,7 +62819,6 @@
       }
     ]
   },
-
   "ROSAS, JUAN MANUEL DE": {
     "id": "rosas-juan",
     "descriptions": [
@@ -62842,30 +62841,6 @@
     ]
   },
   "ROSATI, DOMENICO": {
-    "id": "rosati-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          100
-        ]
-      }
-    ]
-  },
-  "ROSATI, GIOVANNI": {
-    "id": "rosati-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          100
-        ]
-      }
-    ]
-  },
-  "ROSATI, PIETRO": {
     "id": "rosati-anonimo",
     "descriptions": [],
     "occurrences": [
@@ -62905,6 +62880,30 @@
           123,
           124,
           133
+        ]
+      }
+    ]
+  },
+  "ROSATI, GIOVANNI": {
+    "id": "rosati-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          100
+        ]
+      }
+    ]
+  },
+  "ROSATI, PIETRO": {
+    "id": "rosati-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          100
         ]
       }
     ]
@@ -63129,31 +63128,6 @@
       }
     ]
   },
-  "ROSSI, EMILIO": {
-    "id": "rossi-emilio",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 12,
-        "pages": [
-          4
-        ]
-      }
-    ]
-  },
-  "ROSSI, DOMENICO": {
-    "id": "rossi-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          92,
-          143
-        ]
-      }
-    ]
-  },
   "ROSSI CAPOLLI, TERESA": {
     "id": "rossi-teresa",
     "descriptions": [],
@@ -63209,6 +63183,19 @@
       }
     ]
   },
+  "ROSSI, DOMENICO": {
+    "id": "rossi-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 14,
+        "pages": [
+          92,
+          143
+        ]
+      }
+    ]
+  },
   "ROSSI, EDOARDO": {
     "id": "rossi-edoardo",
     "descriptions": [
@@ -63233,6 +63220,18 @@
         "volume": 6,
         "pages": [
           115
+        ]
+      }
+    ]
+  },
+  "ROSSI, EMILIO": {
+    "id": "rossi-emilio",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 12,
+        "pages": [
+          4
         ]
       }
     ]
@@ -63361,18 +63360,6 @@
       }
     ]
   },
-  "ROVIGHI LEVI, ZEFFIRA": {
-    "id": "rovighi-levi",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          134
-        ]
-      }
-    ]
-  },
   "ROVIGHI (CESARE)": {
     "id": "rovighi-forse",
     "descriptions": [
@@ -63383,6 +63370,18 @@
         "volume": 10,
         "pages": [
           96
+        ]
+      }
+    ]
+  },
+  "ROVIGHI LEVI, ZEFFIRA": {
+    "id": "rovighi-levi",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          134
         ]
       }
     ]
@@ -63651,18 +63650,6 @@
       }
     ]
   },
-    "RUGGERI, MARIA": {
-    "id": "ruggeri-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          46
-        ]
-      }
-    ]
-  },
   "RUGGERI, EGIDIO": {
     "id": "ruggeri-egidio",
     "descriptions": [
@@ -63673,6 +63660,18 @@
         "volume": 2,
         "pages": [
           138
+        ]
+      }
+    ]
+  },
+  "RUGGERI, MARIA": {
+    "id": "ruggeri-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 14,
+        "pages": [
+          46
         ]
       }
     ]
@@ -63838,7 +63837,7 @@
       {
         "volume": 11,
         "pages": [
-          271, 
+          271,
           285
         ]
       }
@@ -63882,20 +63881,6 @@
       }
     ]
   },
-  "RUSTOW, WILLIAM": {
-    "id": "rustoio-william",
-    "descriptions": [
-      "(1821-1878), soldato e teorico della guerra, fu nello stato maggiore di Garibaldi nell'E.M. e lasciò importanti scritti sulle campagne del 1859-60 e 1866"
-    ],
-    "occurrences": [
-      {
-        "volume": 6,
-        "pages": [
-          171
-        ]
-      }
-    ]
-  },
   "RUSTOW, WILHELM": {
     "id": "rustow-wilhelm",
     "descriptions": [
@@ -63920,6 +63905,20 @@
         "volume": 13,
         "pages": [
           174
+        ]
+      }
+    ]
+  },
+  "RUSTOW, WILLIAM": {
+    "id": "rustoio-william",
+    "descriptions": [
+      "(1821-1878), soldato e teorico della guerra, fu nello stato maggiore di Garibaldi nell'E.M. e lasciò importanti scritti sulle campagne del 1859-60 e 1866"
+    ],
+    "occurrences": [
+      {
+        "volume": 6,
+        "pages": [
+          171
         ]
       }
     ]
@@ -64289,9 +64288,9 @@
       {
         "volume": 4,
         "pages": [
-          15, 
-          60, 
-          61, 
+          15,
+          60,
+          61,
           83,
           102,
           109,
@@ -64342,7 +64341,7 @@
           92
         ]
       },
-            {
+      {
         "volume": 14,
         "pages": [
           65
@@ -64497,7 +64496,7 @@
           89
         ]
       },
-            {
+      {
         "volume": 7,
         "pages": [
           165
@@ -64512,7 +64511,7 @@
           203
         ]
       },
-            {
+      {
         "volume": 11,
         "pages": [
           7
@@ -64695,7 +64694,6 @@
       }
     ]
   },
-
   "SALIS, FILIPPO": {
     "id": "salis-filippo",
     "descriptions": [
@@ -65072,18 +65070,6 @@
       }
     ]
   },
-  "SANNA, MARIA": {
-    "id": "sanna-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 3,
-        "pages": [
-          120
-        ]
-      }
-    ]
-  },
   "SANNA, GIOVANNI ANTONIO": {
     "id": "sanna-giovanni",
     "descriptions": [
@@ -65103,6 +65089,18 @@
           15,
           16,
           17
+        ]
+      }
+    ]
+  },
+  "SANNA, MARIA": {
+    "id": "sanna-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 3,
+        "pages": [
+          120
         ]
       }
     ]
@@ -65366,8 +65364,8 @@
       {
         "volume": 12,
         "pages": [
-          162, 
-          168, 
+          162,
+          168,
           170,
           172,
           242
@@ -65535,7 +65533,7 @@
       }
     ]
   },
-    "SAVI": {
+  "SAVI": {
     "id": "savi-personaggio",
     "descriptions": [
       "personaggio non identificato probabilmente un esponente minore della democrazia bolognese"
@@ -65776,7 +65774,7 @@
           32
         ]
       },
-            {
+      {
         "volume": 13,
         "pages": [
           257
@@ -66058,18 +66056,6 @@
       }
     ]
   },
-  "SCHIFANI, LUIGI": {
-    "id": "schifani-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          100
-        ]
-      }
-    ]
-  },
   "SCHIFANI, FRANCESCO": {
     "id": "schifani-francesco",
     "descriptions": [
@@ -66080,6 +66066,18 @@
         "volume": 9,
         "pages": [
           196
+        ]
+      }
+    ]
+  },
+  "SCHIFANI, LUIGI": {
+    "id": "schifani-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          100
         ]
       }
     ]
@@ -66210,21 +66208,21 @@
       {
         "volume": 9,
         "pages": [
-          27, 
-          47, 
-          63, 
-          70, 
-          71, 
-          74, 
-          136, 
-          137, 
-          177, 
-          178, 
+          27,
+          47,
+          63,
+          70,
+          71,
+          74,
+          136,
+          137,
+          177,
+          178,
           180,
           227
         ]
       },
-            {
+      {
         "volume": 8,
         "pages": [
           49,
@@ -66237,11 +66235,11 @@
       {
         "volume": 10,
         "pages": [
-          5, 
-          90, 
-          114, 
+          5,
+          90,
+          114,
           134,
-          172, 
+          172,
           180,
           189,
           190,
@@ -66267,7 +66265,7 @@
         "pages": [
           92
         ]
-      }, 
+      },
       {
         "volume": 14,
         "pages": [
@@ -66343,7 +66341,7 @@
           55
         ]
       },
-            {
+      {
         "volume": 6,
         "pages": [
           157,
@@ -66412,10 +66410,10 @@
       {
         "volume": 12,
         "pages": [
-          10, 
-          72, 
-          155, 
-          213, 
+          10,
+          72,
+          155,
+          213,
           214,
           222,
           230,
@@ -66731,7 +66729,7 @@
           167
         ]
       },
-            {
+      {
         "volume": 11,
         "pages": [
           260
@@ -66912,20 +66910,6 @@
       }
     ]
   },
-  "SELLE O SELLO, PERFUMO": {
-    "id": "selle-perfumo",
-    "descriptions": [
-      "barcaiolo genovese; a causa del suo inganno alla partenza da Quarto i Mille persero un carico di munizioni"
-    ],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          99
-        ]
-      }
-    ]
-  },
   "SELLE": {
     "id": "selle-capitano",
     "descriptions": [
@@ -66936,6 +66920,20 @@
         "volume": 1,
         "pages": [
           14
+        ]
+      }
+    ]
+  },
+  "SELLE O SELLO, PERFUMO": {
+    "id": "selle-perfumo",
+    "descriptions": [
+      "barcaiolo genovese; a causa del suo inganno alla partenza da Quarto i Mille persero un carico di munizioni"
+    ],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          99
         ]
       }
     ]
@@ -67032,18 +67030,6 @@
       }
     ]
   },
-  "SERAFINI, ENRICO": {
-    "id": "serafini-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          116
-        ]
-      }
-    ]
-  },
   "SERAFINI, CAMILLO": {
     "id": "serafini-camillo",
     "descriptions": [
@@ -67057,11 +67043,23 @@
           207
         ]
       },
-            {
+      {
         "volume": 5,
         "pages": [
           84,
           86
+        ]
+      }
+    ]
+  },
+  "SERAFINI, ENRICO": {
+    "id": "serafini-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          116
         ]
       }
     ]
@@ -67106,19 +67104,7 @@
       }
     ]
   },
-  "SERRA, GIACOMO": {
-    "id": "serra-giacomo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          41
-        ]
-      }
-    ]
-  },
-    "SERRA": {
+  "SERRA": {
     "id": "serra-anonimo",
     "descriptions": [
       "padre di Giacomo"
@@ -67142,6 +67128,18 @@
         "volume": 5,
         "pages": [
           156
+        ]
+      }
+    ]
+  },
+  "SERRA, GIACOMO": {
+    "id": "serra-giacomo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 14,
+        "pages": [
+          41
         ]
       }
     ]
@@ -67355,7 +67353,7 @@
           293
         ]
       },
-            {
+      {
         "volume": 14,
         "pages": [
           43,
@@ -67457,7 +67455,7 @@
           208
         ]
       },
-            {
+      {
         "volume": 6,
         "pages": [
           135
@@ -67711,6 +67709,20 @@
         "volume": 7,
         "pages": [
           172
+        ]
+      }
+    ]
+  },
+  "SILVA, ANTONIO": {
+    "id": "silva-antonio",
+    "descriptions": [
+      "milanese, membro di una numerosa famiglia di commercianti di cospicue condizioni e di spiriti patriottici"
+    ],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          50
         ]
       }
     ]
@@ -68034,32 +68046,32 @@
       {
         "volume": 5,
         "pages": [
-          68, 
-          87, 
-          112, 
-          133, 
-          144, 
-          150, 
-          161, 
-          169, 
-          172, 
-          173, 
-          174, 
-          175, 
-          176, 
-          177, 
-          184, 
-          185, 
-          201, 
-          202, 
-          203, 
-          207, 
-          209, 
-          212, 
-          213, 
-          214, 
-          215, 
-          216, 
+          68,
+          87,
+          112,
+          133,
+          144,
+          150,
+          161,
+          169,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          184,
+          185,
+          201,
+          202,
+          203,
+          207,
+          209,
+          212,
+          213,
+          214,
+          215,
+          216,
           217,
           223,
           224,
@@ -68358,7 +68370,7 @@
     "id": "solera-laura",
     "descriptions": [
       "(1813-1873), milanese, fondatrice di scuole ed istituti di assistenza, nel 1848 ospitò e curò alcuni militi garibaldini feriti a Morazzone",
-       "(Milano 1815-ivi 1873) profuse grande e costante impegno nelle iniziative a sostegno delle imprese di Garibaldi e in particolare a favore dell'associazionismo femminile (vedi vol. II)",
+      "(Milano 1815-ivi 1873) profuse grande e costante impegno nelle iniziative a sostegno delle imprese di Garibaldi e in particolare a favore dell'associazionismo femminile (vedi vol. II)",
       "(1813-1873), fu una delle figure femminili più note del XIX secolo. Particolarmente vicina a Garibaldi nei giorni della prigioma al Varignano, quando, col Castellini, fu l'animatrice del moto di solidarietà verso i prigionien e i feriti di Aspromonte. Non mancò poi il suo impegno nella causa di promozione dell'associazionismo femminile, vedi anche vol. VI",
       "(1813-1873), vedi voll. VI e VII",
       "(1813-1873), tra le più attive sostenitrici di Garibaldi a Milano (vedi anche i voll. VI-VIII)",
@@ -68485,18 +68497,6 @@
       }
     ]
   },
-  "SPADA, GIUSEPPE": {
-    "id": "spada-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 2,
-        "pages": [
-          62
-        ]
-      }
-    ]
-  },
   "SPADA LAVINI, ALESSANDRO": {
     "id": "spada-alessandro",
     "descriptions": [
@@ -68507,6 +68507,18 @@
         "volume": 2,
         "pages": [
           41
+        ]
+      }
+    ]
+  },
+  "SPADA, GIUSEPPE": {
+    "id": "spada-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 2,
+        "pages": [
+          62
         ]
       }
     ]
@@ -69375,7 +69387,7 @@
   "STERBINI, PIETRO": {
     "id": "sterbini-pietro",
     "descriptions": [
-    "(1793-1863) negli anni 1848-49 ricopri successivamente le cariche di deputato ali Assemblea Costituente Romana, mmistro dei Lavori Pubblici (fino al 7 marzo 1849), conservatore dei pubblici musei, commissario straordinario a Frosinone. Caduta Roma, esulò a Parigi",
+      "(1793-1863) negli anni 1848-49 ricopri successivamente le cariche di deputato ali Assemblea Costituente Romana, mmistro dei Lavori Pubblici (fino al 7 marzo 1849), conservatore dei pubblici musei, commissario straordinario a Frosinone. Caduta Roma, esulò a Parigi",
       "(Sgurgola, 1793 - Napoli, 1863), era stato cospiratore a Roma in gioventù e poi uomo di punta del movimento democratico e popolare fino alla caduta della Repubblica Romana. Sempre amico di Mazzini, era vissuto in esilio tra il 1849 e il 1860, quando si trasferì a Napoli, ove nel 1862 fondò uno dei giornali destinati a maggior fortuna, il Roma; poco dopo morì"
     ],
     "occurrences": [
@@ -69711,7 +69723,7 @@
       "(1781-1868) uomo politico uruguaiano (vedi anche i voll. I, III e V)"
     ],
     "occurrences": [
-    {
+      {
         "volume": 1,
         "pages": [
           147,
@@ -69776,30 +69788,6 @@
         "volume": 7,
         "pages": [
           290
-        ]
-      }
-    ]
-  },
-  "SUSINI, GIANDOMENICO": {
-    "id": "susini-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          101
-        ]
-      }
-    ]
-  },
-  "SUSINI, GIOVANNI": {
-    "id": "susini-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 14,
-        "pages": [
-          101
         ]
       }
     ]
@@ -69893,12 +69881,24 @@
         "pages": [
           271
         ]
-      }, 
+      },
       {
         "volume": 14,
         "pages": [
           44,
           81
+        ]
+      }
+    ]
+  },
+  "SUSINI, GIANDOMENICO": {
+    "id": "susini-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 14,
+        "pages": [
+          101
         ]
       }
     ]
@@ -69913,6 +69913,18 @@
         "volume": 6,
         "pages": [
           19
+        ]
+      }
+    ]
+  },
+  "SUSINI, GIOVANNI": {
+    "id": "susini-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 14,
+        "pages": [
+          101
         ]
       }
     ]
@@ -70204,20 +70216,6 @@
         "volume": 12,
         "pages": [
           154
-        ]
-      }
-    ]
-  },
-  "SILVA, ANTONIO": {
-    "id": "silva-antonio",
-    "descriptions": [
-      "milanese, membro di una numerosa famiglia di commercianti di cospicue condizioni e di spiriti patriottici"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          50
         ]
       }
     ]
@@ -71436,7 +71434,7 @@
           253,
           261
         ]
-      }, 
+      },
       {
         "volume": 8,
         "pages": [
@@ -71937,18 +71935,6 @@
       }
     ]
   },
-  "TREZZA, ALFREDO": {
-    "id": "trezza-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 13,
-        "pages": [
-          60
-        ]
-      }
-    ]
-  },
   "TREZZA, ALESSANDRO": {
     "id": "trezza-alessandro",
     "descriptions": [
@@ -71962,6 +71948,18 @@
           70,
           156,
           157
+        ]
+      }
+    ]
+  },
+  "TREZZA, ALFREDO": {
+    "id": "trezza-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 13,
+        "pages": [
+          60
         ]
       }
     ]
@@ -72290,22 +72288,6 @@
       }
     ]
   },
-  "TURR, STEFANO (scritti)": {
-    "id": "turr-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 5,
-        "pages": [
-          48,
-          147,
-          151,
-          162,
-          243
-        ]
-      }
-    ]
-  },
   "TURR, STEFANO (ISTVAN)": {
     "id": "turr-stefano",
     "descriptions": [
@@ -72403,6 +72385,22 @@
         "pages": [
           288,
           293
+        ]
+      }
+    ]
+  },
+  "TURR, STEFANO (scritti)": {
+    "id": "turr-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 5,
+        "pages": [
+          48,
+          147,
+          151,
+          162,
+          243
         ]
       }
     ]
@@ -72665,6 +72663,20 @@
       }
     ]
   },
+  "USBERTI": {
+    "id": "usberti-anonimo",
+    "descriptions": [
+      "caporale C.d.A."
+    ],
+    "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          61
+        ]
+      }
+    ]
+  },
   "USEDOM, contessa": {
     "id": "usedom-contessa",
     "descriptions": [
@@ -72703,20 +72715,6 @@
         "volume": 12,
         "pages": [
           266
-        ]
-      }
-    ]
-  },
-  "USBERTI": {
-    "id": "usberti-anonimo",
-    "descriptions": [
-      "caporale C.d.A."
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          61
         ]
       }
     ]
@@ -72788,18 +72786,6 @@
       }
     ]
   },
-  "VAI, UGO": {
-    "id": "vai-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          35
-        ]
-      }
-    ]
-  },
   "VAI, ANGELO ROMEO": {
     "id": "vai-angelo",
     "descriptions": [
@@ -72810,6 +72796,18 @@
         "volume": 8,
         "pages": [
           143
+        ]
+      }
+    ]
+  },
+  "VAI, UGO": {
+    "id": "vai-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          35
         ]
       }
     ]
@@ -73243,8 +73241,7 @@
   },
   "VECCHI, ANGELO": {
     "id": "vecchi-anonimo",
-    "descriptions": [
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -74675,19 +74672,7 @@
       }
     ]
   },
-  "VOLPI, ARACIBANO": {
-    "id": "volpi-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          101
-        ]
-      }
-    ]
-  },
-    "VOLPI": {
+  "VOLPI": {
     "id": "volpi-anonimo",
     "descriptions": [
       "capitano"
@@ -74697,6 +74682,18 @@
         "volume": 14,
         "pages": [
           54
+        ]
+      }
+    ]
+  },
+  "VOLPI, ARACIBANO": {
+    "id": "volpi-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          101
         ]
       }
     ]
@@ -74863,20 +74860,6 @@
       }
     ]
   },
-  "WEST, TERESA": {
-    "id": "west-teresa",
-    "descriptions": [
-      "signora inglese, amica di Garibaldi"
-    ],
-    "occurrences": [
-      {
-        "volume": 11,
-        "pages": [
-          283
-        ]
-      }
-    ]
-  },
   "WEST": {
     "id": "west-sono",
     "descriptions": [
@@ -74887,6 +74870,20 @@
         "volume": 8,
         "pages": [
           50
+        ]
+      }
+    ]
+  },
+  "WEST, TERESA": {
+    "id": "west-teresa",
+    "descriptions": [
+      "signora inglese, amica di Garibaldi"
+    ],
+    "occurrences": [
+      {
+        "volume": 11,
+        "pages": [
+          283
         ]
       }
     ]
@@ -74977,6 +74974,20 @@
       }
     ]
   },
+  "WIGGERS": {
+    "id": "wiggers-potrebbe",
+    "descriptions": [
+      "potrebbe trattarsi di JULES OTTO AUGUSTE nato a Rostock nel 1811, teologo e patriota, deputato alla Dieta di Francoforte e nel 1867 rappresentante al Reichstag della Germania del nord, ove aderì al gruppo liberale nazionale, ovvero del fratello MAURIZIO, nato a Rostock nel 1816 scrittore di economia e finanza e diffusore in Germania della lingua e della cultura italiana"
+    ],
+    "occurrences": [
+      {
+        "volume": 8,
+        "pages": [
+          158
+        ]
+      }
+    ]
+  },
   "WIGGERS DI MECKLENBURG, MAURICE": {
     "id": "wiggers-maurice",
     "descriptions": [
@@ -74989,20 +75000,6 @@
           31,
           78,
           211
-        ]
-      }
-    ]
-  },
-  "WIGGERS": {
-    "id": "wiggers-potrebbe",
-    "descriptions": [
-      "potrebbe trattarsi di JULES OTTO AUGUSTE nato a Rostock nel 1811, teologo e patriota, deputato alla Dieta di Francoforte e nel 1867 rappresentante al Reichstag della Germania del nord, ove aderì al gruppo liberale nazionale, ovvero del fratello MAURIZIO, nato a Rostock nel 1816 scrittore di economia e finanza e diffusore in Germania della lingua e della cultura italiana"
-    ],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          158
         ]
       }
     ]
@@ -75044,6 +75041,20 @@
         "volume": 14,
         "pages": [
           77
+        ]
+      }
+    ]
+  },
+  "WOLF, ADOLPH": {
+    "id": "agli-fu",
+    "descriptions": [
+      "bavarese, disertò l'esercito pontificio e aderi al movimento rivoluzionario. Nel 1860 fece parte della Leg10ne estera agli ordini di Garibaldi. Chiamato dal Bellazzi presso il generale il 12 maggio 1862, fu incancato di una missione di cui poco sappiamo. Continuò ad avere rapporti col movimento democratico fino a che caduto Napoleone III, Si ebbero le prove che da oltre, 20 anni era una spia stipendiata dalla Francia"
+    ],
+    "occurrences": [
+      {
+        "volume": 7,
+        "pages": [
+          98
         ]
       }
     ]
@@ -75141,8 +75152,8 @@
       {
         "volume": 3,
         "pages": [
-          25, 
-          37, 
+          25,
+          37,
           38,
           65,
           81,
@@ -75195,30 +75206,30 @@
       {
         "volume": 5,
         "pages": [
-          8, 
-          15, 
-          22, 
-          29, 
-          43, 
-          48, 
-          53, 
-          55, 
-          71, 
-          75, 
-          80, 
-          84, 
-          85, 
-          86, 
+          8,
+          15,
+          22,
+          29,
+          43,
+          48,
+          53,
+          55,
+          71,
+          75,
+          80,
+          84,
+          85,
+          86,
           89,
-          95, 
-          96, 
-          99, 
-          102, 
-          104, 
-          110, 
-          111, 
-          112, 
-          117, 
+          95,
+          96,
+          99,
+          102,
+          104,
+          110,
+          111,
+          112,
+          117,
           119,
           125,
           126,
@@ -75512,13 +75523,13 @@
       {
         "volume": 12,
         "pages": [
-          20, 
-          21, 
-          27, 
-          28, 
-          36, 
-          38, 
-          39, 
+          20,
+          21,
+          27,
+          28,
+          36,
+          38,
+          39,
           43,
           46,
           52,
@@ -75897,18 +75908,6 @@
       }
     ]
   },
-  "ZAMBRA, LUIGI": {
-    "id": "zambra-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 8,
-        "pages": [
-          46
-        ]
-      }
-    ]
-  },
   "ZAMBRA, JOSEPH WARREN": {
     "id": "zambra-joseph",
     "descriptions": [
@@ -75923,6 +75922,18 @@
       }
     ]
   },
+  "ZAMBRA, LUIGI": {
+    "id": "zambra-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 8,
+        "pages": [
+          46
+        ]
+      }
+    ]
+  },
   "ZAMPIERI, CRISTOFORO": {
     "id": "zampieri-cristoforo",
     "descriptions": [
@@ -75933,18 +75944,6 @@
         "volume": 2,
         "pages": [
           139
-        ]
-      }
-    ]
-  },
-  "ZANARDELLI, VITTORIO": {
-    "id": "zanardelli-anonimo",
-    "descriptions": [],
-    "occurrences": [
-      {
-        "volume": 10,
-        "pages": [
-          6
         ]
       }
     ]
@@ -75966,6 +75965,18 @@
         "volume": 11,
         "pages": [
           258
+        ]
+      }
+    ]
+  },
+  "ZANARDELLI, VITTORIO": {
+    "id": "zanardelli-anonimo",
+    "descriptions": [],
+    "occurrences": [
+      {
+        "volume": 10,
+        "pages": [
+          6
         ]
       }
     ]
@@ -76050,21 +76061,6 @@
       }
     ]
   },
-  "ZANETTI, LUIGI": {
-    "id": "zanetti-anonimo",
-    "descriptions": [
-      "capitano"
-    ],
-    "occurrences": [
-      {
-        "volume": 4,
-        "pages": [
-          120,
-          236
-        ]
-      }
-    ]
-  },
   "ZANETTI, FERDINANDO": {
     "id": "zanetti-ferdinando-3",
     "descriptions": [
@@ -76099,6 +76095,21 @@
         "volume": 8,
         "pages": [
           85
+        ]
+      }
+    ]
+  },
+  "ZANETTI, LUIGI": {
+    "id": "zanetti-anonimo",
+    "descriptions": [
+      "capitano"
+    ],
+    "occurrences": [
+      {
+        "volume": 4,
+        "pages": [
+          120,
+          236
         ]
       }
     ]
@@ -76204,9 +76215,11 @@
       }
     ]
   },
-  "ZANNINI, ANTONIO": {
+  "ZANNINI": {
     "id": "zannini-anonimo",
-    "descriptions": [],
+    "descriptions": [
+      "maestra"
+    ],
     "occurrences": [
       {
         "volume": 6,
@@ -76216,11 +76229,9 @@
       }
     ]
   },
-  "ZANNINI": {
+  "ZANNINI, ANTONIO": {
     "id": "zannini-anonimo",
-    "descriptions": [
-      "maestra"
-    ],
+    "descriptions": [],
     "occurrences": [
       {
         "volume": 6,
@@ -76569,35 +76580,6 @@
         "volume": 12,
         "pages": [
           48
-        ]
-      }
-    ]
-  },
-  "WOLF, ADOLPH": {
-    "id": "agli-fu",
-    "descriptions": [
-      "bavarese, disertò l'esercito pontificio e aderi al movimento rivoluzionario. Nel 1860 fece parte della Leg10ne estera agli ordini di Garibaldi. Chiamato dal Bellazzi presso il generale il 12 maggio 1862, fu incancato di una missione di cui poco sappiamo. Continuò ad avere rapporti col movimento democratico fino a che caduto Napoleone III, Si ebbero le prove che da oltre, 20 anni era una spia stipendiata dalla Francia"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          98
-        ]
-      }
-    ]
-  },
-  "DELLA VERDURA, CAMILLO BENSO": {
-    "id": "parte-da",
-    "descriptions": [
-      "duca (Palermo 1816-ivi 1904), discendente di una delle più illustri famighe palermitane, ebbe parte cospicua nella rivoluzione del 1860. Nel 1862, da Palermo operò in appoggio all'azione insurrezionale, incontrandosi con Garibaldi a Mezzoiuso il 5 agosto. Malgrado ciò nel novembre del 1862 fu nommato senatore del Regno. Molto legato a Crispi, ebbe un ruolo assai importante nella vicenda amministrativa del capoluogo siciliano, del quale fu più volte sindaco"
-    ],
-    "occurrences": [
-      {
-        "volume": 7,
-        "pages": [
-          175,
-          179
         ]
       }
     ]

@@ -601,10 +601,26 @@ function updateLetterView(index) {
 }
 
 function setupLetterNavigation() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const fileParam = urlParams.get('file');
+
   fetch('letters_order.json')
     .then(res => res.json())
     .then(data => {
       letters = data;
+
+      // Se houver um parâmetro ?file=..., procura o índice correspondente
+      if (fileParam) {
+        const index = letters.findIndex(l => l.file === fileParam);
+        if (index !== -1) {
+          updateLetterView(index); // Abre a carta especificada
+          return;
+        } else {
+          console.warn(`Arquivo '${fileParam}' não encontrado em letters_order.json`);
+        }
+      }
+
+      // Se não houver parâmetro ou não encontrar o arquivo, abre a primeira carta
       updateLetterView(0);
     });
 
